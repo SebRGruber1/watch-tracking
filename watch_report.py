@@ -160,6 +160,12 @@ html_output = f"""
 </head>
 <body>
     <h1>Watch Data Report - {today_str}</h1>
+    <div class="stats">
+        <h3>Summary Statistics</h3>
+        <p>Value of sold Watches: {formatted_sold_value}</p>
+        <p>Value of listed Watches: {formatted_listed_value}</p>
+        <p>Value of unsold Watches: {formatted_unsold_value}</p>
+    </div>
     <h2>Price Changes Today:</h2>
     {price_changes_df.to_html(escape=False, index=False, classes='table')}
 
@@ -168,13 +174,6 @@ html_output = f"""
 
     <h2>Watches Sold Today:</h2>
     {watches_sold_df.to_html(escape=False, index=False, classes='table')}
-
-    <div class="stats">
-        <h3>Summary Statistics</h3>
-        <p>Value of sold Watches: {formatted_sold_value}</p>
-        <p>Value of listed Watches: {formatted_listed_value}</p>
-        <p>Value of unsold Watches: {formatted_unsold_value}</p>
-    </div>
 </body>
 </html>
 """
