@@ -24,4 +24,4 @@ jobs:
         pip install -r requirements.txt
 
     - name: Execute Python script
-      run: python "Tropical Watch Tracking.py"
+      run: python "watch_tracking.py"
