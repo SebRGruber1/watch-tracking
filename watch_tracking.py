@@ -141,8 +141,7 @@ def main():
     # Save the data to a JSON file
     save_to_json(all_watch_details, JSON_FILE)
     print(f"Data saved to {JSON_FILE}")
-
-    subprocess.run(["python", "watch_report.py"], check=True)
+    os.system('python3 watch_report.py')
 
 if __name__ == "__main__":
     main()
