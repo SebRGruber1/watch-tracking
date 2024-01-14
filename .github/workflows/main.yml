@@ -1,4 +1,4 @@
-name: Run Python Script
+name: Run Python Script and Update Data
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  run-script:
+  run-script-and-update:
     runs-on: ubuntu-latest
 
     steps:
