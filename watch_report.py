@@ -145,7 +145,7 @@ plt.gca().yaxis.set_major_formatter(mticker.StrMethodFormatter('${x:,.0f}'))  # 
 
 # Save the figure
 plt.tight_layout()
-plt.savefig('portfolio_value.png', bbox_inches='tight', facecolor='#f4f4f4')
+plt.savefig('docs/portfolio_value.png', bbox_inches='tight', facecolor='#f4f4f4')
 plt.close()
 
 
