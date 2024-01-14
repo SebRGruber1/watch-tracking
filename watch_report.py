@@ -2,6 +2,8 @@ import json
 import os
 from datetime import datetime
 import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib.ticker as mticker
 
 def format_price(price):
     """Formats the price as a comma-separated string or returns 'sold'."""
@@ -105,6 +107,48 @@ daily_statistics = {
 # Update portfolio statistics JSON file
 update_portfolio_statistics("portfolio_statistics.json", today_str, daily_statistics)
 
+# Load the portfolio statistics JSON file
+statistics_file_path = 'portfolio_statistics.json'
+with open(statistics_file_path, 'r', encoding='utf-8') as file:
+    portfolio_statistics = json.load(file)
+
+# Extract dates and total values of watches for sale
+dates = []
+total_values_for_sale = []
+
+for date, stats in portfolio_statistics.items():
+    dates.append(date)
+    # Convert formatted string back to float
+    total_value = stats["Total Value of Watches For Sale"].replace('$', '').replace(',', '')
+    total_values_for_sale.append(float(total_value))
+
+# Sort data by date if needed
+dates, total_values_for_sale = zip(*sorted(zip(dates, total_values_for_sale)))
+
+# Plot the data
+plt.figure(figsize=(10, 5))
+plt.plot(dates, total_values_for_sale, marker='o', color='#009879')  # Use color that matches HTML
+
+# Styling to match your HTML
+plt.title('Total Value of Watches For Sale Over Time', fontsize=14, color='#333')
+plt.xlabel('Date', fontsize=12, color='#333')
+plt.ylabel('Total Value of Watches For Sale ($)', fontsize=12, color='#333')
+plt.xticks(rotation=45, color='#333')
+plt.yticks(color='#333')
+plt.grid(True, linestyle='--', alpha=0.7)
+plt.gca().set_facecolor('#f4f4f4')
+plt.gca().spines['top'].set_visible(False)
+plt.gca().spines['right'].set_visible(False)
+plt.gca().spines['bottom'].set_color('#333')
+plt.gca().spines['left'].set_color('#333')
+plt.gca().yaxis.set_major_formatter(mticker.StrMethodFormatter('${x:,.0f}'))  # Format y-axis labels
+
+# Save the figure
+plt.tight_layout()
+plt.savefig('portfolio_value.png', bbox_inches='tight', facecolor='#f4f4f4')
+plt.close()
+
+
 # Create the 'docs' directory if it does not exist
 os.makedirs('docs', exist_ok=True)
 
@@ -174,6 +218,9 @@ html_output = f"""
 
     <h2>Watches Sold Today:</h2>
     {watches_sold_df.to_html(escape=False, index=False, classes='table')}
+
+    <h2>Porfolio Value</h2>
+    <img src='portfolio_value.png alt='Brand Distribution'>
 </body>
 </html>
 """
