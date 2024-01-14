@@ -26,5 +26,5 @@ jobs:
 
     - name: Execute Jupyter notebook
       run: |
-        jupyter nbconvert --to notebook --execute "Tropical Watch Tracking.ipynb"
+        jupyter nbconvert --to notebook --execute "Tropical Watch Tracking.py"
 
