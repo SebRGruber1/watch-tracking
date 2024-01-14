@@ -28,8 +28,8 @@ jobs:
 
     - name: Commit and push changes
       run: |
-        git config --global user.name 'Your GitHub Username'
-        git config --global user.email 'Your GitHub Email'
+        git config --global user.name 'SebRGruber1'
+        git config --global user.email 'SebastianRGruber@gmail.com'
         git add watch_data.json
         git commit -m "Update watch data" || echo "No changes to commit"
         git push
