@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime as dt
 from concurrent.futures import ThreadPoolExecutor
 import os, json
+import subprocess
 
 BASE_URL = "https://tropicalwatch.com"
 JSON_FILE = "watch_data.json"
@@ -140,6 +141,8 @@ def main():
     # Save the data to a JSON file
     save_to_json(all_watch_details, JSON_FILE)
     print(f"Data saved to {JSON_FILE}")
+
+    subprocess.run(["python", "watch_report.py"], check=True)
 
 if __name__ == "__main__":
     main()
