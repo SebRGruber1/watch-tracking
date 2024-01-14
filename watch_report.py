@@ -127,7 +127,7 @@ html_output = f"""
         }}
         table {{
             border-collapse: collapse;
-            margin: 25px 0;
+            margin: 25px auto;
             font-size: 0.9em;
             min-width: 400px;
             border-radius: 5px 5px 0 0;
