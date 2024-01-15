@@ -220,7 +220,7 @@ html_output = f"""
     {watches_sold_df.to_html(escape=False, index=False, classes='table')}
 
     <h2>Porfolio Value</h2>
-    <img src='portfolio_value.png alt='Brand Distribution'>
+    <img src='portfolio_value.png' alt='Brand Distribution'>
 </body>
 </html>
 """
