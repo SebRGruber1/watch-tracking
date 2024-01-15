@@ -200,6 +200,12 @@ html_output = f"""
             text-align: center;
             margin: 20px;
         }}
+        img {{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%; /* You can adjust the width as needed */
+        }}
     </style>
 </head>
 <body>
