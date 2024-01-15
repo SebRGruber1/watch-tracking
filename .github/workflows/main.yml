@@ -25,3 +25,12 @@ jobs:
 
     - name: Execute Python script
       run: python "watch_tracking.py"
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name 'SebRGruber1'
+        git config --global user.email 'sebastianrgruber@gmail.com'
+        git add watch_data.json
+        git commit -m "Update watch_data.json"
+        git push
+
