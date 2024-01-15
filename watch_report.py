@@ -204,7 +204,7 @@ html_output = f"""
             display: block;
             margin-left: auto;
             margin-right: auto;
-            width: 50%; /* You can adjust the width as needed */
+            width: 75%; /* You can adjust the width as needed */
         }}
     </style>
 </head>
