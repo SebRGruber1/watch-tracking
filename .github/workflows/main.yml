@@ -37,8 +37,8 @@ jobs:
     - name: Execute watch_report.py script
       run: python watch_report.py
       
-    - name: Commit and Push docs/index.html changes
+    - name: Commit docs changes
       run: |
-        git add docs/index.html
-        git commit -m "Update docs/index.html" || echo "No changes in docs/index.html"
+        git add docs/index.html docs/portfolio_value.png  # Assuming the image is saved in the docs folder
+        git commit -m "Update docs and portfolio image" || echo "No changes in docs or image"
         git push
