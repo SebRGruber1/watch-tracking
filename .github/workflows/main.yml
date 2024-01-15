@@ -26,11 +26,19 @@ jobs:
     - name: Execute Python script
       run: python "watch_tracking.py"
 
-    - name: Commit and Push changes
+    - name: Commit and Push watch_data.json changes
       run: |
         git config --global user.name 'SebRGruber1'
         git config --global user.email 'sebastianrgruber@gmail.com'
         git add watch_data.json
-        git commit -m "Update watch_data.json"
+        git commit -m "Update watch_data.json" || echo "No changes in watch_data.json"
         git push
 
+    - name: Execute watch_report.py script
+      run: python watch_report.py
+      
+    - name: Commit and Push docs/index.html changes
+      run: |
+        git add docs/index.html
+        git commit -m "Update docs/index.html" || echo "No changes in docs/index.html"
+        git push
