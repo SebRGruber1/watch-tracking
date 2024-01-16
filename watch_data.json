@@ -503,6 +503,10 @@
             {
                 "Date": "2024-01-08T22:33:16.350545",
                 "Price": 14750.0
+            },
+            {
+                "Date": "2024-01-16T22:31:43.298975",
+                "Price": "sold"
             }
         ]
     },
@@ -1165,6 +1169,10 @@
             {
                 "Date": "2024-01-08T22:33:17.352954",
                 "Price": 8850.0
+            },
+            {
+                "Date": "2024-01-16T22:31:43.298975",
+                "Price": "sold"
             }
         ]
     },
@@ -1656,6 +1664,10 @@
             {
                 "Date": "2024-01-08T22:33:18.108397",
                 "Price": 16750.0
+            },
+            {
+                "Date": "2024-01-16T22:31:43.298975",
+                "Price": 15950.0
             }
         ]
     },
@@ -2164,6 +2176,10 @@
             {
                 "Date": "2024-01-08T22:33:19.260096",
                 "Price": 11850.0
+            },
+            {
+                "Date": "2024-01-16T22:31:43.298975",
+                "Price": 8950.0
             }
         ]
     },
@@ -2330,6 +2346,10 @@
             {
                 "Date": "2024-01-11T19:45:40.748480",
                 "Price": 15350.0
+            },
+            {
+                "Date": "2024-01-16T22:31:43.298975",
+                "Price": "sold"
             }
         ]
     },
@@ -2424,6 +2444,10 @@
             {
                 "Date": "2024-01-08T22:33:19.621297",
                 "Price": 5550.0
+            },
+            {
+                "Date": "2024-01-16T22:31:43.298975",
+                "Price": "sold"
             }
         ]
     },
@@ -2567,6 +2591,10 @@
             {
                 "Date": "2024-01-08T22:33:19.650649",
                 "Price": 15850.0
+            },
+            {
+                "Date": "2024-01-16T22:31:43.298975",
+                "Price": 15350.0
             }
         ]
     },
@@ -83149,6 +83177,10 @@
             {
                 "Date": "2024-01-09T19:44:05.834056",
                 "Price": 11950.0
+            },
+            {
+                "Date": "2024-01-16T22:31:43.298975",
+                "Price": "sold"
             }
         ]
     },
@@ -83534,6 +83566,10 @@
             {
                 "Date": "2024-01-12T18:04:02.005294",
                 "Price": 19850.0
+            },
+            {
+                "Date": "2024-01-16T22:31:43.298975",
+                "Price": "sold"
             }
         ]
     },
@@ -83549,6 +83585,81 @@
             {
                 "Date": "2024-01-12T18:04:02.051178",
                 "Price": 22950.0
+            }
+        ]
+    },
+    {
+        "Title": "1973 Rolex Gmt-Master 1675 Mk 2.5 Dial With Box And Papers",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "3387XXX",
+        "Inventory": "/watches/cxnu",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-16T22:28:45.619107",
+                "Price": 28350.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Omega Speedmaster 31030 With Box And Papers",
+        "Year": 2021,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "31030",
+        "Serial": "83475XXX",
+        "Inventory": "/watches/bkvh",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-16T22:28:46.815582",
+                "Price": 4650.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex Submariner 124060 With Box And Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "124060",
+        "Serial": "A825LXXX",
+        "Inventory": "/watches/iwin",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-16T22:28:46.723289",
+                "Price": 11850.0
+            }
+        ]
+    },
+    {
+        "Title": "Rolex Red Sea-Dweller 1665",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "1665",
+        "Serial": "4466XXX",
+        "Inventory": "/watches/oqfl",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-16T22:28:46.863188",
+                "Price": 12350.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Submariner 124060 With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1204060",
+        "Serial": "94LU6XXX",
+        "Inventory": "/watches/je3m",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-16T22:28:46.795317",
+                "Price": 11950.0
             }
         ]
     }
