@@ -3087,6 +3087,10 @@
             {
                 "Date": "2024-01-08T22:33:20.562508",
                 "Price": 21550.0
+            },
+            {
+                "Date": "2024-01-17T01:32:57.120973",
+                "Price": "sold"
             }
         ]
     },
@@ -83600,6 +83604,10 @@
             {
                 "Date": "2024-01-16T22:28:45.619107",
                 "Price": 28350.0
+            },
+            {
+                "Date": "2024-01-17T01:32:57.120973",
+                "Price": "sold"
             }
         ]
     },
@@ -83645,6 +83653,10 @@
             {
                 "Date": "2024-01-16T22:28:46.863188",
                 "Price": 12350.0
+            },
+            {
+                "Date": "2024-01-17T01:32:57.120973",
+                "Price": "sold"
             }
         ]
     },
@@ -83660,6 +83672,51 @@
             {
                 "Date": "2024-01-16T22:28:46.795317",
                 "Price": 11950.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Daytona 116500Ln White Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "2PD02XXX",
+        "Inventory": "/watches/xc2h",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-17T01:30:01.911683",
+                "Price": 30850.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Sky-Dweller 326934 Blue Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Sky-dweller",
+        "Reference": "326934",
+        "Serial": "E09K4XXX",
+        "Inventory": "/watches/cm6c",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-17T01:30:02.963309",
+                "Price": 23850.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex Datejust 126334 Blue Dial With Box And Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "126334",
+        "Serial": "M74U7XXX",
+        "Inventory": "/watches/iuwm",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-17T01:30:02.897989",
+                "Price": 11850.0
             }
         ]
     }
