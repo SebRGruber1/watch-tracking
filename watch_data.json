@@ -5913,6 +5913,10 @@
             {
                 "Date": "2024-01-17T23:48:59.942088",
                 "Price": 4950.0
+            },
+            {
+                "Date": "2024-01-17T20:10:47.300702",
+                "Price": "sold"
             }
         ]
     },
@@ -6622,6 +6626,10 @@
             {
                 "Date": "2024-01-17T23:48:59.942088",
                 "Price": 10850.0
+            },
+            {
+                "Date": "2024-01-17T20:10:47.300702",
+                "Price": "sold"
             }
         ]
     },
@@ -83833,6 +83841,111 @@
             {
                 "Date": "2024-01-17T23:45:48.183092",
                 "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "Rolex Explorer Ii 16570 White Dial 3186 Movement",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "5V488XXX",
+        "Inventory": "/watches/6kgh",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-17T20:07:05.933070",
+                "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "1968 Rolex Gmt-Master 1675 Mk 1 Dial With Box And Papers",
+        "Year": 1968,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "1796XXX",
+        "Inventory": "/watches/ielh",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-17T20:07:05.945901",
+                "Price": 22850.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Nos Rolex Gmt-Master Ii 16710",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "K484XXX",
+        "Inventory": "/watches/hgrz",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-17T20:07:05.989288",
+                "Price": 15850.0
+            }
+        ]
+    },
+    {
+        "Title": "2017 Tudor Titanium Pelagos 25610Tnl With Box And Papers",
+        "Year": 2017,
+        "Brand": "Tudor",
+        "Model": "Pelagos",
+        "Reference": "25610TNL",
+        "Serial": "I652XXX",
+        "Inventory": "/watches/nwfo",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-17T20:07:05.863157",
+                "Price": 2950.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Sea-Dweller 16600 With Papers And Service Papers",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16600",
+        "Serial": "X782XXX",
+        "Inventory": "/watches/pu4f",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-17T20:07:05.956530",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "T198XXX",
+        "Inventory": "/watches/3p75",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-17T20:07:13.302086",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Two-Tone Rose Gmt-Master Ii 126711 With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126711",
+        "Serial": "2J36NXXX",
+        "Inventory": "/watches/kchm",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-17T20:07:13.268273",
+                "Price": "sold"
             }
         ]
     }
