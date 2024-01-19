@@ -2181,6 +2181,10 @@
             {
                 "Date": "2024-01-08T22:33:18.931374",
                 "Price": 6350.0
+            },
+            {
+                "Date": "2024-01-18T21:03:52.892069",
+                "Price": "sold"
             }
         ]
     },
@@ -3521,6 +3525,10 @@
             {
                 "Date": "2024-01-08T22:33:21.274845",
                 "Price": 6450.0
+            },
+            {
+                "Date": "2024-01-18T21:03:52.892069",
+                "Price": "sold"
             }
         ]
     },
@@ -3750,6 +3758,10 @@
             {
                 "Date": "2024-01-08T22:33:21.707583",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-01-18T21:03:52.892069",
+                "Price": 3850.0
             }
         ]
     },
@@ -84004,6 +84016,96 @@
             {
                 "Date": "2024-01-18T23:45:42.547472",
                 "Price": 24550.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex Gmt-Master Ii 16760 Fat Lady",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16760",
+        "Serial": "R706XXX",
+        "Inventory": "/watches/bkop",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-18T21:00:13.655224",
+                "Price": 13850.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "P328XXX",
+        "Inventory": "/watches/vc0x",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-18T21:00:13.736836",
+                "Price": 12950.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "Y693XXX",
+        "Inventory": "/watches/6b4g",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-18T21:00:13.651178",
+                "Price": 12550.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master Ii 16710 With Box And Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "A805XXX",
+        "Inventory": "/watches/lsme",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-18T21:00:13.753940",
+                "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Gmt-Master 16700 Tritium Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "U394XXX",
+        "Inventory": "/watches/m9gm",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-18T21:00:13.717199",
+                "Price": 10850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Zenith Daytona 16520 Black Dial With Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "U926XXX",
+        "Inventory": "/watches/xg9l",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-18T21:00:13.591609",
+                "Price": 24950.0
             }
         ]
     }
