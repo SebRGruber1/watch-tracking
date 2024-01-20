@@ -23,6 +23,9 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
+    - name: Set Timezone to Eastern Time
+      run: sudo timedatectl set-timezone America/New_York
+      
     - name: Execute Python script
       run: python "watch_tracking.py"
 
@@ -42,3 +45,6 @@ jobs:
         git add docs/index.html docs/portfolio_value.png portfolio_statistics.json # Assuming the image is saved in the docs folder
         git commit -m "Update docs, portfolio image and portfolio statistics" || echo "No changes in docs or image or portfolio"
         git push
+
+    - name: Reset Timezone to UTC
+      run: sudo timedatectl set-timezone UTC
