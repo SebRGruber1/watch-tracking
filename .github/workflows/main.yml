@@ -2,7 +2,7 @@ name: Run Python Script and Update Data
 
 on:
   schedule:
-    - cron: '40 23 * * *'  # Scheduled to run daily at midnight
+    - cron: '45 21 * * *'  # Scheduled to run daily at midnight
   workflow_dispatch:
 
 jobs:
