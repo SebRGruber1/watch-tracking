@@ -84390,5 +84390,20 @@
                 "Price": 36350.0
             }
         ]
+    },
+    {
+        "Title": "Patek Philippe Nautilus 3800 Blue Dial With Papers",
+        "Year": null,
+        "Brand": "Patek philippe",
+        "Model": "Nautilus",
+        "Reference": "3800",
+        "Serial": "4267XXX",
+        "Inventory": "/watches/yhls",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-23T11:38:43.782808",
+                "Price": 35850.0
+            }
+        ]
     }
 ]
