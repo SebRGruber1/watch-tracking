@@ -84330,5 +84330,65 @@
                 "Price": "sold"
             }
         ]
+    },
+    {
+        "Title": "1968 Rolex Submariner 5513 With Tropical Meters First Dial",
+        "Year": 1968,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "2202XXX",
+        "Inventory": "/watches/16yp",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-22T23:30:48.939117",
+                "Price": 46550.0
+            }
+        ]
+    },
+    {
+        "Title": "1966 Rolex Submariner 5513 Gilt Dial",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "1356XXX",
+        "Inventory": "/watches/ec9c",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-22T23:30:49.935237",
+                "Price": 25350.0
+            }
+        ]
+    },
+    {
+        "Title": "1968 Rolex Gmt-Master 1675 Mk 1 Dial",
+        "Year": 1968,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "1972XXX",
+        "Inventory": "/watches/f6xi",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-22T23:30:50.076380",
+                "Price": 15650.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex 18K Yg Daytona 16528 Black Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16528",
+        "Serial": "W873XXX",
+        "Inventory": "/watches/yl7n",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-22T23:30:50.002206",
+                "Price": 36350.0
+            }
+        ]
     }
 ]
