@@ -84064,6 +84064,10 @@
             {
                 "Date": "2024-01-17T20:07:05.956530",
                 "Price": 9850.0
+            },
+            {
+                "Date": "2024-01-22T21:23:16.984627",
+                "Price": "sold"
             }
         ]
     },
@@ -84264,6 +84268,66 @@
             {
                 "Date": "2024-01-22T15:24:59.141297",
                 "Price": 15850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Submariner 14060 With Box And Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "U537XXX",
+        "Inventory": "/watches/jqv4",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-22T21:20:22.458807",
+                "Price": 10350.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Patek Philippe Aquanaut 5167A With Box And Papers",
+        "Year": 2021,
+        "Brand": "Patek philippe",
+        "Model": "Aquanaut",
+        "Reference": "5167",
+        "Serial": "7459XXX",
+        "Inventory": "/watches/zwvm",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-22T21:20:29.417599",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1987 Rolex 18K Yg Day-Date 18038 Tropical Dial With Service Papers",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "9864XXX",
+        "Inventory": "/watches/2u1b",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-22T21:20:33.918175",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "K886XXX",
+        "Inventory": "/watches/kjol",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-22T21:20:33.887820",
+                "Price": "sold"
             }
         ]
     }
