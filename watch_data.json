@@ -674,6 +674,10 @@
             {
                 "Date": "2024-01-08T22:33:16.409274",
                 "Price": 153550.0
+            },
+            {
+                "Date": "2024-01-24T03:34:04.721047",
+                "Price": 148550.0
             }
         ]
     },
@@ -84359,6 +84363,10 @@
             {
                 "Date": "2024-01-22T23:30:48.939117",
                 "Price": 46550.0
+            },
+            {
+                "Date": "2024-01-24T03:34:04.721047",
+                "Price": "sold"
             }
         ]
     },
@@ -84423,6 +84431,126 @@
             {
                 "Date": "2024-01-23T15:28:13.767341",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Submariner 5512 Serif Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5512",
+        "Serial": "2509XXX",
+        "Inventory": "/watches/y3pi",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-24T03:30:57.639384",
+                "Price": 17850.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Gmt-Master Ii 16710",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "Y257XXX",
+        "Inventory": "/watches/yhln",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-24T03:30:58.711189",
+                "Price": 11350.0
+            }
+        ]
+    },
+    {
+        "Title": "1989 Rolex Gmt-Master Ii 16700",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16700",
+        "Serial": "L363XXX",
+        "Inventory": "/watches/wf7k",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-24T03:30:58.760784",
+                "Price": 11550.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Explorer Ii 16570 White Dial With Box And Papers",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "N437XXX",
+        "Inventory": "/watches/qiq7",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-24T03:30:58.797106",
+                "Price": 8550.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex 18K Yg Submariner 16618 Champagne Serti Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16618",
+        "Serial": "X889XXX",
+        "Inventory": "/watches/mjon",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-24T03:30:58.728539",
+                "Price": 29350.0
+            }
+        ]
+    },
+    {
+        "Title": "2018 Rolex Sky-Dweller 326934 Black Dial With Box And Papers",
+        "Year": 2018,
+        "Brand": "Rolex",
+        "Model": "Sky-dweller",
+        "Reference": "326934",
+        "Serial": "5689VXXX",
+        "Inventory": "/watches/ginw",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-24T03:30:58.779715",
+                "Price": 18950.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex Daytona 116500Ln White Dial With Box And Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "8076EXXX",
+        "Inventory": "/watches/5jgb",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-24T03:30:58.814438",
+                "Price": 30550.0
+            }
+        ]
+    },
+    {
+        "Title": "2017 Rolex Sea-Dweller 116600 With Box And Papers",
+        "Year": 2017,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "116600",
+        "Serial": "W0220XXX",
+        "Inventory": "/watches/febi",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-24T03:30:57.769691",
+                "Price": 14850.0
             }
         ]
     }
