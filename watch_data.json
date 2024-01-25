@@ -83948,6 +83948,10 @@
             {
                 "Date": "2024-01-17T23:45:47.692374",
                 "Price": 14350.0
+            },
+            {
+                "Date": "2024-01-24T21:23:55.356196",
+                "Price": "sold"
             }
         ]
     },
@@ -84559,6 +84563,81 @@
             {
                 "Date": "2024-01-24T03:30:57.769691",
                 "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "1981 Rolex Sea-Dweller 16660 Matte Dial With Box And Papers",
+        "Year": 1981,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "16660",
+        "Serial": "6548XXX",
+        "Inventory": "/watches/riwy",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-24T21:20:58.436694",
+                "Price": 17850.0
+            }
+        ]
+    },
+    {
+        "Title": "1993 Rolex Platinum Day-Date 18346 Silver Diamond Dial With Papers Originally Sold In Karachi",
+        "Year": 1993,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18346",
+        "Serial": "S496XXX",
+        "Inventory": "/watches/lbh9",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-24T21:20:59.572250",
+                "Price": 26850.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex Daytona 116500Ln White Dial With Box And Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "H572CXXX",
+        "Inventory": "/watches/8pjw",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-24T21:20:59.653886",
+                "Price": 30850.0
+            }
+        ]
+    },
+    {
+        "Title": "Rolex Submariner 1680 With Service Dial/Case With Box",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "4477XXX",
+        "Inventory": "/watches/l4ia",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-24T21:20:59.707850",
+                "Price": 8650.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Explorer 14270",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "U531XXX",
+        "Inventory": "/watches/qw4k",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-24T21:20:59.649406",
+                "Price": 5650.0
             }
         ]
     }
