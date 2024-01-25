@@ -105,6 +105,10 @@
             {
                 "Date": "2024-01-08T22:33:15.614753",
                 "Price": 9850.0
+            },
+            {
+                "Date": "2024-01-25T15:25:18.872391",
+                "Price": "sold"
             }
         ]
     },
@@ -972,6 +976,10 @@
             {
                 "Date": "2024-01-22T15:28:46.182397",
                 "Price": 37850.0
+            },
+            {
+                "Date": "2024-01-25T15:25:18.872391",
+                "Price": "sold"
             }
         ]
     },
@@ -2449,6 +2457,10 @@
             {
                 "Date": "2024-01-08T22:33:19.224150",
                 "Price": 22850.0
+            },
+            {
+                "Date": "2024-01-25T15:25:18.872391",
+                "Price": "sold"
             }
         ]
     },
@@ -2917,6 +2929,10 @@
             {
                 "Date": "2024-01-08T22:33:20.065982",
                 "Price": 13850.0
+            },
+            {
+                "Date": "2024-01-25T15:25:18.872391",
+                "Price": 10750.0
             }
         ]
     },
@@ -3139,6 +3155,10 @@
             {
                 "Date": "2024-01-08T22:33:20.451155",
                 "Price": 16850.0
+            },
+            {
+                "Date": "2024-01-25T15:25:18.872391",
+                "Price": 15650.0
             }
         ]
     },
@@ -84548,6 +84568,10 @@
             {
                 "Date": "2024-01-24T03:30:58.814438",
                 "Price": 30550.0
+            },
+            {
+                "Date": "2024-01-25T15:25:18.872391",
+                "Price": "sold"
             }
         ]
     },
@@ -84638,6 +84662,156 @@
             {
                 "Date": "2024-01-24T21:20:59.649406",
                 "Price": 5650.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex Submariner 16600 With Papers",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16600",
+        "Serial": "D032XXX",
+        "Inventory": "/watches/2unz",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-25T15:22:21.504851",
+                "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Zenith Daytona 16520 White Dial",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "T840XXX",
+        "Inventory": "/watches/2eap",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-25T15:22:22.760760",
+                "Price": 23550.0
+            }
+        ]
+    },
+    {
+        "Title": "1963 Rolex Gmt-Master 1675 Gilt Chapter Ring Exclamation Dial With Box And Papers",
+        "Year": 1963,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "874XXX",
+        "Inventory": "/watches/y6qg",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-25T15:22:22.779177",
+                "Price": 43550.0
+            }
+        ]
+    },
+    {
+        "Title": "1967 Rolex Submariner 5512 Meters First \"Neat Font\" Dial With Service Card",
+        "Year": 1967,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5512",
+        "Serial": "1869XXX",
+        "Inventory": "/watches/5ki3",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-25T15:22:22.705055",
+                "Price": 17850.0
+            }
+        ]
+    },
+    {
+        "Title": "2013 Platinum Rolex Daytona 116506 Glacier Dial With Box And Papers",
+        "Year": 2013,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116506",
+        "Serial": "1J655XXX",
+        "Inventory": "/watches/gmng",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-25T15:22:22.748132",
+                "Price": 98550.0
+            }
+        ]
+    },
+    {
+        "Title": "Patek Phillip 18K Rg Annual Calendar Chronograph 5960R With Box And Papers From Phillips",
+        "Year": null,
+        "Brand": "Patek philippe",
+        "Model": "Annual calendar chronograph",
+        "Reference": "5960R",
+        "Serial": "4583XXX",
+        "Inventory": "/watches/giod",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-25T15:22:22.593550",
+                "Price": 47350.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master Ii 16710 Swiss Only Dial With Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "A497XXX",
+        "Inventory": "/watches/hfek",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-25T15:22:21.663957",
+                "Price": 11950.0
+            }
+        ]
+    },
+    {
+        "Title": "1983 Rolex Oysterquartz Datejust 17000 Lavender Dial",
+        "Year": 1983,
+        "Brand": "Rolex",
+        "Model": "Oysterquartzdatejust",
+        "Reference": "17000",
+        "Serial": "7470XXX",
+        "Inventory": "/watches/wwxw",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-25T15:22:21.775498",
+                "Price": 6850.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Submariner 14060 With Box And Papers",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "W195XXX",
+        "Inventory": "/watches/fmjj",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-25T15:22:21.853727",
+                "Price": 9650.0
+            }
+        ]
+    },
+    {
+        "Title": "1974 Rolex Air-King 5500 Silver Dial",
+        "Year": 1974,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "5500",
+        "Serial": "3722XXX",
+        "Inventory": "/watches/zde1",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-25T15:22:34.484254",
+                "Price": "sold"
             }
         ]
     }
