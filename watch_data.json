@@ -84681,6 +84681,10 @@
             {
                 "Date": "2024-01-25T15:22:21.504851",
                 "Price": 9350.0
+            },
+            {
+                "Date": "2024-01-26T03:31:40.342637",
+                "Price": "sold"
             }
         ]
     },
@@ -84865,6 +84869,81 @@
             {
                 "Date": "2024-01-25T21:01:27.008010",
                 "Price": 46550.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Datejust Oysterquartz 17000 Silver Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Datejust oysterquartz",
+        "Reference": "17000",
+        "Serial": "5487XXX",
+        "Inventory": "/watches/ooj9",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-26T03:26:44.762426",
+                "Price": 5350.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master Ii 16710",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "A944XXX",
+        "Inventory": "/watches/1c9c",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-26T03:26:45.761326",
+                "Price": 11350.0
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex 18K Yg Day-Date 18238 Champagne Dial",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "S630XXX",
+        "Inventory": "/watches/aedc",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-26T03:26:45.740563",
+                "Price": 15350.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex 18K Yg Day-Date 18238 Whit Roman Numeral Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "W185XXX",
+        "Inventory": "/watches/18ap",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-26T03:26:45.627593",
+                "Price": 16350.0
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex Tridor Day-Date 18239 Champagne Dial",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18239",
+        "Serial": "S562XXX",
+        "Inventory": "/watches/o032",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-26T03:26:45.696272",
+                "Price": 15650.0
             }
         ]
     }
