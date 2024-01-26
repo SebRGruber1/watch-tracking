@@ -1743,6 +1743,10 @@
             {
                 "Date": "2024-01-08T22:33:18.144238",
                 "Price": 20950.0
+            },
+            {
+                "Date": "2024-01-25T21:04:23.380019",
+                "Price": 19850.0
             }
         ]
     },
@@ -84782,6 +84786,10 @@
             {
                 "Date": "2024-01-25T15:22:21.775498",
                 "Price": 6850.0
+            },
+            {
+                "Date": "2024-01-25T21:04:23.380019",
+                "Price": "sold"
             }
         ]
     },
@@ -84812,6 +84820,51 @@
             {
                 "Date": "2024-01-25T15:22:34.484254",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2017 Rolex Daytona 116500Ln Black Dial With Box And Papers",
+        "Year": 2017,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "86Y34XXX",
+        "Inventory": "/watches/tz4e",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-25T21:01:25.868042",
+                "Price": 25550.0
+            }
+        ]
+    },
+    {
+        "Title": "2013 Rolex Daytona 116520 Black \"Aph\" Dial With Papers",
+        "Year": 2013,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116520",
+        "Serial": "4304WXXX",
+        "Inventory": "/watches/z8uz",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-25T21:01:27.107812",
+                "Price": 20350.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 18K Rg Daytona 116505 Black Dial With Box And Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116505",
+        "Serial": "461TKXXX",
+        "Inventory": "/watches/zzqb",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-25T21:01:27.008010",
+                "Price": 46550.0
             }
         ]
     }
