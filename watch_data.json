@@ -1331,6 +1331,10 @@
             {
                 "Date": "2024-01-22T15:28:46.182397",
                 "Price": 5450.0
+            },
+            {
+                "Date": "2024-01-26T21:01:58.928156",
+                "Price": "sold"
             }
         ]
     },
@@ -2205,6 +2209,10 @@
             {
                 "Date": "2024-01-26T15:23:35.495626",
                 "Price": 29850.0
+            },
+            {
+                "Date": "2024-01-26T21:01:58.928156",
+                "Price": "sold"
             }
         ]
     },
@@ -84333,6 +84341,10 @@
             {
                 "Date": "2024-01-23T21:23:50.373387",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-01-26T21:01:58.928156",
+                "Price": 26850.0
             }
         ]
     },
@@ -84676,6 +84688,10 @@
             {
                 "Date": "2024-01-24T21:20:59.653886",
                 "Price": 30850.0
+            },
+            {
+                "Date": "2024-01-26T21:01:58.928156",
+                "Price": "sold"
             }
         ]
     },
@@ -85015,6 +85031,51 @@
             {
                 "Date": "2024-01-26T15:20:41.562881",
                 "Price": 25650.0
+            }
+        ]
+    },
+    {
+        "Title": "2009 Rolex Daytona 116520 Black Dial With Papers And Hang Tag",
+        "Year": 2009,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116520",
+        "Serial": "V460XXX",
+        "Inventory": "/watches/p23c",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-26T20:56:33.778289",
+                "Price": 20550.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Explorer 14270 With Tropical Watch Service Card And Holes Case",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "N443XXX",
+        "Inventory": "/watches/pzbl",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-26T20:56:35.146760",
+                "Price": 5650.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Gmt-Master Ii 126720 With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126720",
+        "Serial": "MY088XXX",
+        "Inventory": "/watches/cmkr",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-26T20:56:48.253458",
+                "Price": "sold"
             }
         ]
     }
