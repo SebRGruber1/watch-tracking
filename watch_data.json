@@ -2203,6 +2203,10 @@
             {
                 "Date": "2024-01-08T22:33:18.824677",
                 "Price": 109550.0
+            },
+            {
+                "Date": "2024-01-29T23:28:28.804035",
+                "Price": 98550.0
             }
         ]
     },
@@ -85242,6 +85246,10 @@
             {
                 "Date": "2024-01-28T11:29:44.338782",
                 "Price": 5750.0
+            },
+            {
+                "Date": "2024-01-29T23:28:28.804035",
+                "Price": "sold"
             }
         ]
     },
@@ -85437,6 +85445,21 @@
             {
                 "Date": "2024-01-29T20:58:37.152241",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "Iwc Ingenieur Iw328901 Black Dial With Box And Papers",
+        "Year": null,
+        "Brand": "Iwc",
+        "Model": "Ingenieur",
+        "Reference": "IW328901",
+        "Serial": "7443XXX",
+        "Inventory": "/watches/ekcj",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-29T23:25:31.257675",
+                "Price": 11350.0
             }
         ]
     }
