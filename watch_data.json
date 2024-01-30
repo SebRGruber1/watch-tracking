@@ -143,6 +143,10 @@
             {
                 "Date": "2024-01-08T22:33:15.572234",
                 "Price": 73850.0
+            },
+            {
+                "Date": "2024-01-29T21:01:25.133009",
+                "Price": "sold"
             }
         ]
     },
@@ -343,6 +347,10 @@
             {
                 "Date": "2024-01-18T23:50:58.899930",
                 "Price": 41550.0
+            },
+            {
+                "Date": "2024-01-29T21:01:25.133009",
+                "Price": "sold"
             }
         ]
     },
@@ -969,6 +977,10 @@
             {
                 "Date": "2024-01-22T15:28:46.182397",
                 "Price": 41850.0
+            },
+            {
+                "Date": "2024-01-29T21:01:25.133009",
+                "Price": 38950.0
             }
         ]
     },
@@ -83934,6 +83946,10 @@
             {
                 "Date": "2024-01-16T22:28:46.723289",
                 "Price": 11850.0
+            },
+            {
+                "Date": "2024-01-29T21:01:25.133009",
+                "Price": 10850.0
             }
         ]
     },
@@ -84935,6 +84951,10 @@
             {
                 "Date": "2024-01-25T21:01:25.868042",
                 "Price": 25550.0
+            },
+            {
+                "Date": "2024-01-29T21:01:25.133009",
+                "Price": "sold"
             }
         ]
     },
@@ -85037,6 +85057,10 @@
             {
                 "Date": "2024-01-26T03:26:45.627593",
                 "Price": 16350.0
+            },
+            {
+                "Date": "2024-01-29T21:01:25.133009",
+                "Price": "sold"
             }
         ]
     },
@@ -85071,6 +85095,10 @@
             {
                 "Date": "2024-01-26T15:20:41.562881",
                 "Price": 25650.0
+            },
+            {
+                "Date": "2024-01-29T21:01:25.133009",
+                "Price": "sold"
             }
         ]
     },
@@ -85214,6 +85242,201 @@
             {
                 "Date": "2024-01-28T11:29:44.338782",
                 "Price": 5750.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Explorer 14270 Tritium Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "U171XXX",
+        "Inventory": "/watches/x7c0",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-29T20:58:23.218067",
+                "Price": 5650.0
+            }
+        ]
+    },
+    {
+        "Title": "1974 Rolex Red Submariner 1680 With Papers Sold In Singapore In 1976",
+        "Year": 1974,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "3843XXX",
+        "Inventory": "/watches/iinc",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-29T20:58:24.628360",
+                "Price": 26350.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master 16700 Swiss Only Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "A565XXX",
+        "Inventory": "/watches/9dee",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-29T20:58:24.463896",
+                "Price": 10950.0
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex Explorer Ii 16570 White Dial",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "S781XXX",
+        "Inventory": "/watches/bisd",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-29T20:58:24.626224",
+                "Price": 7850.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Explorer 14270",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "A886XXX",
+        "Inventory": "/watches/yaus",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-29T20:58:24.543561",
+                "Price": 5750.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Explorer 14270 Tritium Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "U229XXX",
+        "Inventory": "/watches/qkkl",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-29T20:58:24.624959",
+                "Price": 5750.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master 16700 With Box And Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "A291XXX",
+        "Inventory": "/watches/pzll",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-29T20:58:23.299000",
+                "Price": 12550.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Datejust 16200 Silver Dial",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16200",
+        "Serial": "T948XXX",
+        "Inventory": "/watches/p47y",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-29T20:58:23.388027",
+                "Price": 5850.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Datejust 16220 Warm Silver Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16220",
+        "Serial": "X793XXX",
+        "Inventory": "/watches/nzvg",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-29T20:58:23.474946",
+                "Price": 5850.0
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex Green Submariner 16610Lv With Lime \"Flat 4\" Bezel",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "F584XXX",
+        "Inventory": "/watches/kslh",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-29T20:58:23.591179",
+                "Price": 15350.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Gmt-Master 16700",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "X518XXX",
+        "Inventory": "/watches/env7",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-29T20:58:23.677939",
+                "Price": 10550.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Air-King 14000M Black Dial",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "14000M",
+        "Serial": "K767XXX",
+        "Inventory": "/watches/ddth",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-29T20:58:23.759831",
+                "Price": 3850.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex 18K Yg Day-Date 18238 Oxblood Vignette Diamond Dial Serviced At Rolex In Geneva",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "X551XXX",
+        "Inventory": "/watches/gw3p",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-29T20:58:37.152241",
+                "Price": "sold"
             }
         ]
     }
