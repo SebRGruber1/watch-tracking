@@ -85535,5 +85535,35 @@
                 "Price": 5250.0
             }
         ]
+    },
+    {
+        "Title": "Vacheron Constantin Overseas Chronograph 5500V/110A-B075 Silver Dial With Service Papers",
+        "Year": null,
+        "Brand": "Vacheron constantin",
+        "Model": "Overseas chronograph",
+        "Reference": "5500V",
+        "Serial": "110A-BXXX",
+        "Inventory": "/watches/llj9",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-30T23:27:30.009497",
+                "Price": 24350.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex Submariner 5513 Glossy Wgs Dial With Tropical Watch Service Card",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "R698XXX",
+        "Inventory": "/watches/sftm",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-30T23:27:30.212326",
+                "Price": 10350.0
+            }
+        ]
     }
 ]
