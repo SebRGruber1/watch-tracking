@@ -672,6 +672,10 @@
             {
                 "Date": "2024-01-08T22:33:16.397357",
                 "Price": 33850.0
+            },
+            {
+                "Date": "2024-01-30T21:01:46.107653",
+                "Price": 32950.0
             }
         ]
     },
@@ -85484,6 +85488,51 @@
             {
                 "Date": "2024-01-29T23:25:31.257675",
                 "Price": 11350.0
+            }
+        ]
+    },
+    {
+        "Title": "1969 Rolex Explorer 1016",
+        "Year": 1969,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "1016",
+        "Serial": "2126XXX",
+        "Inventory": "/watches/hqvw",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-30T20:58:47.655597",
+                "Price": 14950.0
+            }
+        ]
+    },
+    {
+        "Title": "Tudor Titanium Pelagos 25407N With Box And Papers",
+        "Year": null,
+        "Brand": "Tudor",
+        "Model": "Pelagos",
+        "Reference": "25407N",
+        "Serial": "7241XXX",
+        "Inventory": "/watches/1tlw",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-30T20:58:47.622069",
+                "Price": 2950.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Datejust 1601 Silver Dial With Papers",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1601",
+        "Serial": "2403XXX",
+        "Inventory": "/watches/gtha",
+        "PriceHistory": [
+            {
+                "Date": "2024-01-30T20:58:47.647674",
+                "Price": 5250.0
             }
         ]
     }
