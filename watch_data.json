@@ -385,6 +385,10 @@
             {
                 "Date": "2024-01-08T22:33:16.059176",
                 "Price": 38550.0
+            },
+            {
+                "Date": "2024-02-01T15:24:09.984242",
+                "Price": "sold"
             }
         ]
     },
@@ -661,6 +665,10 @@
             {
                 "Date": "2024-01-14T11:01:41.474895",
                 "Price": 77550.0
+            },
+            {
+                "Date": "2024-02-01T15:24:09.984242",
+                "Price": "sold"
             }
         ]
     },
@@ -84471,6 +84479,10 @@
             {
                 "Date": "2024-01-22T21:20:22.458807",
                 "Price": 10350.0
+            },
+            {
+                "Date": "2024-02-01T15:24:09.984242",
+                "Price": "sold"
             }
         ]
     },
@@ -84724,6 +84736,10 @@
             {
                 "Date": "2024-01-31T21:08:20.687009",
                 "Price": 30550.0
+            },
+            {
+                "Date": "2024-02-01T15:24:09.984242",
+                "Price": "sold"
             }
         ]
     },
@@ -84969,6 +84985,10 @@
             {
                 "Date": "2024-01-25T15:22:21.853727",
                 "Price": 9650.0
+            },
+            {
+                "Date": "2024-02-01T15:24:09.984242",
+                "Price": "sold"
             }
         ]
     },
@@ -85230,6 +85250,10 @@
             {
                 "Date": "2024-01-27T21:02:40.455235",
                 "Price": 27350.0
+            },
+            {
+                "Date": "2024-02-01T15:24:09.984242",
+                "Price": "sold"
             }
         ]
     },
@@ -85573,6 +85597,10 @@
             {
                 "Date": "2024-01-30T20:58:47.647674",
                 "Price": 5250.0
+            },
+            {
+                "Date": "2024-02-01T15:24:09.984242",
+                "Price": "sold"
             }
         ]
     },
@@ -85603,6 +85631,141 @@
             {
                 "Date": "2024-01-30T23:27:30.212326",
                 "Price": 10350.0
+            }
+        ]
+    },
+    {
+        "Title": "1979 Rolex Submariner 5513 Mk 3 Maxi Dial",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "6057XXX",
+        "Inventory": "/watches/9kci",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T15:20:59.186836",
+                "Price": 15850.0
+            }
+        ]
+    },
+    {
+        "Title": "1985 Rolex Submariner 5513 Spider Dial With Box, Papers And Service Papers",
+        "Year": 1985,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "8761XXX",
+        "Inventory": "/watches/q6e3",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T15:20:59.340119",
+                "Price": 13550.0
+            }
+        ]
+    },
+    {
+        "Title": "1971 Rolex Gmt-Master 1675 Mk 1 Dial With Box And Papers",
+        "Year": 1971,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "2448XXX",
+        "Inventory": "/watches/vpkd",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T15:20:59.390072",
+                "Price": 17950.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Explorer 14270 With Tropical Watch Service Card",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "X842XXX",
+        "Inventory": "/watches/3zj0",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T15:20:59.446787",
+                "Price": 5450.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Explorer 14270 Tritium Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "U229XXX",
+        "Inventory": "/watches/rmiu",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T15:20:59.425875",
+                "Price": 5650.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex Datejust 16030 Grey Tapestry Dial With Papers",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16030",
+        "Serial": "R224XXX",
+        "Inventory": "/watches/bzzk",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T15:20:59.429651",
+                "Price": 5950.0
+            }
+        ]
+    },
+    {
+        "Title": "1985 Rolex Submariner 16800 Wgs Dial With Box And Service Papers",
+        "Year": 1985,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "166800",
+        "Serial": "8680XXX",
+        "Inventory": "/watches/7oxs",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T15:20:59.465372",
+                "Price": 10950.0
+            }
+        ]
+    },
+    {
+        "Title": "1985 Rolex Datejust 16014 Silver Dial",
+        "Year": 1985,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16014",
+        "Serial": "8749XXX",
+        "Inventory": "/watches/pnca",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T15:20:59.490856",
+                "Price": 4950.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Submariner 14060 Tritium Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "U235XXX",
+        "Inventory": "/watches/rtrn",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T15:21:06.418133",
+                "Price": "sold"
             }
         ]
     }
