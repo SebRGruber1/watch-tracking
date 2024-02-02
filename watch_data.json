@@ -2675,6 +2675,10 @@
             {
                 "Date": "2024-01-31T21:08:20.687009",
                 "Price": 19850.0
+            },
+            {
+                "Date": "2024-02-01T21:03:32.206871",
+                "Price": "sold"
             }
         ]
     },
@@ -84740,6 +84744,10 @@
             {
                 "Date": "2024-02-01T15:24:09.984242",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-02-01T21:03:32.206871",
+                "Price": 30550.0
             }
         ]
     },
@@ -85765,6 +85773,66 @@
         "PriceHistory": [
             {
                 "Date": "2024-02-01T15:21:06.418133",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Daytona 126500Ln White Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "126500",
+        "Serial": "35928XXX",
+        "Inventory": "/watches/8saq",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T20:58:17.453360",
+                "Price": 36550.0
+            }
+        ]
+    },
+    {
+        "Title": "1989 Rolex 18K Yg Day-Date 18238 Champagne Dial",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "L917XXX",
+        "Inventory": "/watches/ax5t",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T20:58:17.725556",
+                "Price": 15650.0
+            }
+        ]
+    },
+    {
+        "Title": "1971 Rolex 18K Yg King Midas 9630 With Box",
+        "Year": 1971,
+        "Brand": "Rolex",
+        "Model": "King midas",
+        "Reference": "9630",
+        "Serial": "2766XXX",
+        "Inventory": "/watches/q2oa",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T20:58:17.664655",
+                "Price": 39850.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex Daytona 126500Ln Black Dial With Box And Papers",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "126500",
+        "Serial": "50G67XXX",
+        "Inventory": "/watches/qyzh",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T20:58:30.558027",
                 "Price": "sold"
             }
         ]
