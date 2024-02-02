@@ -85345,6 +85345,10 @@
             {
                 "Date": "2024-01-29T20:58:23.218067",
                 "Price": 5650.0
+            },
+            {
+                "Date": "2024-02-01T23:31:54.446929",
+                "Price": "sold"
             }
         ]
     },
@@ -85729,6 +85733,10 @@
             {
                 "Date": "2024-02-01T15:20:59.429651",
                 "Price": 5950.0
+            },
+            {
+                "Date": "2024-02-01T23:31:54.446929",
+                "Price": "sold"
             }
         ]
     },
@@ -85833,6 +85841,126 @@
         "PriceHistory": [
             {
                 "Date": "2024-02-01T20:58:30.558027",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex Gmt-Master Ii 16710T With Papers",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710T",
+        "Serial": "D164XXX",
+        "Inventory": "/watches/qbtj",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T23:28:44.963006",
+                "Price": 13350.0
+            }
+        ]
+    },
+    {
+        "Title": "1965 Rolex Submariner 5513 Tropical Gilt Dial",
+        "Year": 1965,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "1290XXX",
+        "Inventory": "/watches/zdun",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T23:28:44.867220",
+                "Price": 19850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Gmt-Master 16700 Swiss Only Dial With Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "U982XXX",
+        "Inventory": "/watches/tksd",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T23:28:44.917938",
+                "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "1969 Rolex Date 1500 Silver Dial",
+        "Year": 1969,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "1500",
+        "Serial": "2166XXX",
+        "Inventory": "/watches/rq1i",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T23:28:44.767681",
+                "Price": 1750.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Submariner 5513 Spider Dial",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "8467XXX",
+        "Inventory": "/watches/pge8",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T23:28:44.826429",
+                "Price": 10850.0
+            }
+        ]
+    },
+    {
+        "Title": "2018 Blancpain Bathyscaphe 5200-1110 Chronographe Flyback With Box And Papers",
+        "Year": 2018,
+        "Brand": "Blancpain",
+        "Model": "Bathyscaphe chronographe flyback",
+        "Reference": "5200-1110",
+        "Serial": "No XXX",
+        "Inventory": "/watches/nti3",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T23:28:44.906563",
+                "Price": 9950.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex Two-Tone Datejust 16233 Blue Dial With Box And Papers",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16233",
+        "Serial": "R667XXX",
+        "Inventory": "/watches/i5ax",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T23:28:44.845060",
+                "Price": 6350.0
+            }
+        ]
+    },
+    {
+        "Title": "Rolex Used Watch Parts",
+        "Year": 1965,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "1016",
+        "Serial": "1158XXX",
+        "Inventory": "/watches/xmlu",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-01T23:28:52.108880",
                 "Price": "sold"
             }
         ]
