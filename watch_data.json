@@ -529,6 +529,10 @@
             {
                 "Date": "2024-01-08T22:33:16.355247",
                 "Price": 22850.0
+            },
+            {
+                "Date": "2024-02-05T21:01:02.136309",
+                "Price": 21850.0
             }
         ]
     },
@@ -919,6 +923,10 @@
             {
                 "Date": "2024-01-08T22:33:16.729342",
                 "Price": 5550.0
+            },
+            {
+                "Date": "2024-02-05T21:01:02.136309",
+                "Price": "sold"
             }
         ]
     },
@@ -1393,6 +1401,10 @@
             {
                 "Date": "2024-02-04T11:29:47.817759",
                 "Price": 7850.0
+            },
+            {
+                "Date": "2024-02-05T21:01:02.136309",
+                "Price": "sold"
             }
         ]
     },
@@ -1408,6 +1420,10 @@
             {
                 "Date": "2024-01-08T22:33:17.703592",
                 "Price": 14350.0
+            },
+            {
+                "Date": "2024-02-05T21:01:02.136309",
+                "Price": 13850.0
             }
         ]
     },
@@ -1484,6 +1500,10 @@
             {
                 "Date": "2024-01-22T15:28:46.182397",
                 "Price": 11650.0
+            },
+            {
+                "Date": "2024-02-05T21:01:02.136309",
+                "Price": "sold"
             }
         ]
     },
@@ -3063,6 +3083,10 @@
             {
                 "Date": "2024-01-17T23:48:59.942088",
                 "Price": 27850.0
+            },
+            {
+                "Date": "2024-02-05T21:01:02.136309",
+                "Price": "sold"
             }
         ]
     },
@@ -85589,6 +85613,10 @@
             {
                 "Date": "2024-02-03T23:28:29.903830",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-02-05T21:01:02.136309",
+                "Price": 5850.0
             }
         ]
     },
@@ -85823,6 +85851,10 @@
             {
                 "Date": "2024-02-01T15:20:59.446787",
                 "Price": 5450.0
+            },
+            {
+                "Date": "2024-02-05T21:01:02.136309",
+                "Price": "sold"
             }
         ]
     },
@@ -85917,6 +85949,10 @@
             {
                 "Date": "2024-02-01T20:58:17.453360",
                 "Price": 36550.0
+            },
+            {
+                "Date": "2024-02-05T21:01:02.136309",
+                "Price": "sold"
             }
         ]
     },
@@ -85932,6 +85968,10 @@
             {
                 "Date": "2024-02-01T20:58:17.725556",
                 "Price": 15650.0
+            },
+            {
+                "Date": "2024-02-05T21:01:02.136309",
+                "Price": "sold"
             }
         ]
     },
@@ -85992,6 +86032,10 @@
             {
                 "Date": "2024-02-01T23:28:44.867220",
                 "Price": 19850.0
+            },
+            {
+                "Date": "2024-02-05T21:01:02.136309",
+                "Price": 18850.0
             }
         ]
     },
@@ -86124,6 +86168,111 @@
             {
                 "Date": "2024-02-02T20:55:11.824799",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1976 Rolex Gmt-Master 1675 Radial Dial With Tropical Watch Service Card",
+        "Year": 1976,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "4195XXX",
+        "Inventory": "/watches/3duv",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-05T20:57:57.778417",
+                "Price": 28350.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Sea-Dweller 16600 Swiss Only With Rolex Pouch",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "16600",
+        "Serial": "U822XXX",
+        "Inventory": "/watches/yxck",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-05T20:57:57.663116",
+                "Price": 8550.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Datejust 126234 Blue Fluted Motif Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "126234",
+        "Serial": "787U4XXX",
+        "Inventory": "/watches/vzyp",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-05T20:57:57.725593",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Submariner 1680",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "5093XXX",
+        "Inventory": "/watches/qo8p",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-05T20:57:57.579831",
+                "Price": 11950.0
+            }
+        ]
+    },
+    {
+        "Title": "2007 Rolex Sea-Dweller 16600 With Box And Papers",
+        "Year": 2007,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "16600",
+        "Serial": "M053XXX",
+        "Inventory": "/watches/gnl3",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-05T20:57:57.712176",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Zenith Daytona 16520 White Dial With Papers Sold In Hawaii",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "T731XXX",
+        "Inventory": "/watches/cn4w",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-05T20:57:57.822276",
+                "Price": 28350.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex 18K Yg Zenith Daytona 16528 Inverted \"6\" Black Diamond Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16528",
+        "Serial": "N231XXX",
+        "Inventory": "/watches/zou2",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-05T20:57:57.809013",
+                "Price": 35850.0
             }
         ]
     }
