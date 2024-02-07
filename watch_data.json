@@ -1128,6 +1128,10 @@
             {
                 "Date": "2024-01-28T15:24:38.430275",
                 "Price": 12350.0
+            },
+            {
+                "Date": "2024-02-06T21:02:09.950301",
+                "Price": "sold"
             }
         ]
     },
@@ -85189,6 +85193,10 @@
             {
                 "Date": "2024-01-31T21:08:20.687009",
                 "Price": 45550.0
+            },
+            {
+                "Date": "2024-02-06T21:02:09.950301",
+                "Price": "sold"
             }
         ]
     },
@@ -86293,6 +86301,156 @@
             {
                 "Date": "2024-02-05T20:57:57.809013",
                 "Price": 35850.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Patek Philippe Aquanuat Travel Time 5164A With Box And Papers",
+        "Year": 2019,
+        "Brand": "Patek philippe",
+        "Model": "Aquanaut travel time",
+        "Reference": "5164A",
+        "Serial": "7238XXX",
+        "Inventory": "/watches/ot27",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-06T20:56:54.593694",
+                "Price": 84550.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Patek Philippe Weekly Calendar 5212A Silver Dial With Box And Papers",
+        "Year": 2019,
+        "Brand": "Patek philippe",
+        "Model": "Weekly calendar",
+        "Reference": "5212A",
+        "Serial": "7159XXX",
+        "Inventory": "/watches/3d3i",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-06T20:56:54.364022",
+                "Price": 39550.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Daytona 116500Ln White Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "20391XXX",
+        "Inventory": "/watches/wbqp",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-06T20:56:54.524005",
+                "Price": 31550.0
+            }
+        ]
+    },
+    {
+        "Title": "1974 Rolex Datejust 1603 Matte Grey Sigma Dial",
+        "Year": 1974,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1603",
+        "Serial": "3736XXX",
+        "Inventory": "/watches/ndkv",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-06T20:56:54.674994",
+                "Price": 3850.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Air-King 5500 Silver Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "5500",
+        "Serial": "2766XXX",
+        "Inventory": "/watches/fhtl",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-06T20:56:54.606238",
+                "Price": 3150.0
+            }
+        ]
+    },
+    {
+        "Title": "2020 Rolex Datejust 126234 Blue Dial With Box And Papers",
+        "Year": 2020,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "126234",
+        "Serial": "806X3XXX",
+        "Inventory": "/watches/lh3f",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-06T20:56:54.475998",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Daytona 126500Ln With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "126500",
+        "Serial": "9359WXXX",
+        "Inventory": "/watches/hyoi",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-06T20:56:54.542482",
+                "Price": 31850.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Explorer 14270 Swiss Only Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "A255XXX",
+        "Inventory": "/watches/enne",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-06T20:56:54.458254",
+                "Price": 5350.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Datejust 126234 Palm Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "126234",
+        "Serial": "6861DXXX",
+        "Inventory": "/watches/ankc",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-06T20:56:54.658276",
+                "Price": 10850.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Submariner 1680 Mk 1 White Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "5645XXX",
+        "Inventory": "/watches/zcoe",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-06T20:57:19.425372",
+                "Price": "sold"
             }
         ]
     }
