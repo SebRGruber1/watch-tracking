@@ -1041,6 +1041,10 @@
             {
                 "Date": "2024-01-29T21:01:25.133009",
                 "Price": 38950.0
+            },
+            {
+                "Date": "2024-02-08T15:24:07.432661",
+                "Price": "sold"
             }
         ]
     },
@@ -84452,6 +84456,10 @@
             {
                 "Date": "2024-01-18T23:45:42.547472",
                 "Price": 24550.0
+            },
+            {
+                "Date": "2024-02-08T15:24:07.432661",
+                "Price": 23550.0
             }
         ]
     },
@@ -86269,6 +86277,10 @@
             {
                 "Date": "2024-02-05T20:57:57.725593",
                 "Price": 9850.0
+            },
+            {
+                "Date": "2024-02-08T15:24:07.432661",
+                "Price": "sold"
             }
         ]
     },
@@ -86573,6 +86585,36 @@
             {
                 "Date": "2024-02-07T20:57:20.630664",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex 18K Wg Daytona 126509 Black Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "126509",
+        "Serial": "69630XXX",
+        "Inventory": "/watches/7qvk",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-08T15:20:52.014713",
+                "Price": 48950.0
+            }
+        ]
+    },
+    {
+        "Title": "2020 Rolex Platinum Daytona 116506 Glacier Dial With Box And Papers",
+        "Year": 2020,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116506",
+        "Serial": "R401JXXX",
+        "Inventory": "/watches/zfqj",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-08T15:20:52.152124",
+                "Price": 95350.0
             }
         ]
     }
