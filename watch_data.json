@@ -526,6 +526,10 @@
             {
                 "Date": "2024-01-08T22:33:16.100092",
                 "Price": 4650.0
+            },
+            {
+                "Date": "2024-02-08T23:29:56.466625",
+                "Price": "sold"
             }
         ]
     },
@@ -2839,6 +2843,10 @@
             {
                 "Date": "2024-01-08T22:33:19.626204",
                 "Price": 4150.0
+            },
+            {
+                "Date": "2024-02-08T23:29:56.466625",
+                "Price": "sold"
             }
         ]
     },
@@ -85734,6 +85742,10 @@
             {
                 "Date": "2024-01-29T20:58:23.759831",
                 "Price": 3850.0
+            },
+            {
+                "Date": "2024-02-08T23:29:56.466625",
+                "Price": "sold"
             }
         ]
     },
@@ -86638,6 +86650,201 @@
             {
                 "Date": "2024-02-08T20:57:30.344148",
                 "Price": 24650.0
+            }
+        ]
+    },
+    {
+        "Title": "2008 Nos Rolex Submariner 16610V With Box And Papers",
+        "Year": 2008,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "M728XXX",
+        "Inventory": "/watches/243j",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-08T23:26:46.383674",
+                "Price": 17850.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Zenith Daytona 16520 White Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "W194XXX",
+        "Inventory": "/watches/pmn8",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-08T23:26:46.165003",
+                "Price": 22850.0
+            }
+        ]
+    },
+    {
+        "Title": "1968 Rolex Two-Tone Datejust 1601 Silver Wide Boy Dial",
+        "Year": 1968,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1601",
+        "Serial": "1856XXX",
+        "Inventory": "/watches/pev7",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-08T23:26:46.408309",
+                "Price": 4350.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex 18K Yg Gmt-Master Ii 16718",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16718",
+        "Serial": "A828XXX",
+        "Inventory": "/watches/uucp",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-08T23:26:46.455414",
+                "Price": 25850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Omega Speedmaster 3590.50",
+        "Year": 1998,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "3590.50",
+        "Serial": "48353XXX",
+        "Inventory": "/watches/ccjm",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-08T23:26:46.461387",
+                "Price": 4650.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Gmt-Master 1675 Mk 1 Dial With Cpo Box And Papers",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "2630XXX",
+        "Inventory": "/watches/8ps5",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-08T23:26:46.475370",
+                "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Datejust 69173 Tropical Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "69173",
+        "Serial": "X583XXX",
+        "Inventory": "/watches/oaqh",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-08T23:26:46.302099",
+                "Price": 3950.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex Explorer 114270",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "D874XXX",
+        "Inventory": "/watches/mbx1",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-08T23:26:46.332762",
+                "Price": 5250.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Datejust 16234 Grey Dial",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16234",
+        "Serial": "Y262XXX",
+        "Inventory": "/watches/jvoz",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-08T23:26:46.283511",
+                "Price": 5950.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "A805XXX",
+        "Inventory": "/watches/jnn1",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-08T23:26:46.447317",
+                "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "2004 Rolex Sea-Dweller 16600 With Papers",
+        "Year": 2004,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "16600",
+        "Serial": "F621XXX",
+        "Inventory": "/watches/ejrq",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-08T23:26:46.457525",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Two-Tone Datejust 16233 Champagne Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16233",
+        "Serial": "X302XXX",
+        "Inventory": "/watches/23vd",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-08T23:26:46.556946",
+                "Price": 6350.0
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex Explorer Ii 16570 Black Dial With Papers",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "Y542XXX",
+        "Inventory": "/watches/7u0q",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-08T23:26:46.503294",
+                "Price": 7550.0
             }
         ]
     }
