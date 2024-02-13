@@ -2548,6 +2548,10 @@
             {
                 "Date": "2024-02-11T21:03:02.772861",
                 "Price": 21950.0
+            },
+            {
+                "Date": "2024-02-12T21:01:41.407557",
+                "Price": "sold"
             }
         ]
     },
@@ -85517,6 +85521,10 @@
             {
                 "Date": "2024-01-27T21:02:40.450454",
                 "Price": 12350.0
+            },
+            {
+                "Date": "2024-02-12T21:01:41.407557",
+                "Price": 13850.0
             }
         ]
     },
@@ -86936,6 +86944,111 @@
             },
             {
                 "Date": "2024-02-10T15:22:25.448424",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Gmt-Master Ii 126720Vtnr With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126720",
+        "Serial": "Z80M7XXX",
+        "Inventory": "/watches/xw7o",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-12T20:58:41.635939",
+                "Price": 17550.0
+            }
+        ]
+    },
+    {
+        "Title": "2017 Rolex 18K Rg Yacht-Master 116655 Matte Black Dial With Box And Papers",
+        "Year": 2017,
+        "Brand": "Rolex",
+        "Model": "Red yacht-master",
+        "Reference": "116655",
+        "Serial": "4H178XXX",
+        "Inventory": "/watches/m765",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-12T20:58:41.975728",
+                "Price": 24850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Patek Philippe Aquanaut 5065 With Extract From The Archives",
+        "Year": 1998,
+        "Brand": "Patek philippe",
+        "Model": "Aquanaut",
+        "Reference": "5065",
+        "Serial": "4047XXX",
+        "Inventory": "/watches/t15e",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-12T20:58:42.022609",
+                "Price": 44850.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex Oyster Perpetual 124300 Turquoise Dial With Box And Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "124300",
+        "Serial": "6Y972XXX",
+        "Inventory": "/watches/bjlw",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-12T20:58:41.909077",
+                "Price": 24850.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Two-Tone Gmt-Master Ii 16713 Root Beer",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16713",
+        "Serial": "X683XXX",
+        "Inventory": "/watches/0qjb",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-12T20:58:41.960890",
+                "Price": 10750.0
+            }
+        ]
+    },
+    {
+        "Title": "1964 Rolex Air-King 5500 Silver \"Serpico Y Laino\" Dial With Service Papers",
+        "Year": 1964,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "5500",
+        "Serial": "1024XXX",
+        "Inventory": "/watches/7uz3",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-12T20:58:55.291688",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1969 Rolex Datejust 1601 Grey Dial",
+        "Year": 1969,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1601",
+        "Serial": "2122XXX",
+        "Inventory": "/watches/ulmu",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-12T20:58:55.491784",
                 "Price": "sold"
             }
         ]
