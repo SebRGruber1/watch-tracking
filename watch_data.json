@@ -84971,6 +84971,10 @@
             {
                 "Date": "2024-01-24T03:30:57.769691",
                 "Price": 14850.0
+            },
+            {
+                "Date": "2024-02-13T19:39:45.234702",
+                "Price": "sold"
             }
         ]
     },
@@ -85525,6 +85529,10 @@
             {
                 "Date": "2024-02-12T21:01:41.407557",
                 "Price": 13850.0
+            },
+            {
+                "Date": "2024-02-13T19:39:45.234702",
+                "Price": "sold"
             }
         ]
     },
@@ -86448,6 +86456,10 @@
             {
                 "Date": "2024-02-06T20:56:54.593694",
                 "Price": 84550.0
+            },
+            {
+                "Date": "2024-02-13T19:39:45.234702",
+                "Price": 79850.0
             }
         ]
     },
@@ -87058,6 +87070,36 @@
             {
                 "Date": "2024-02-12T20:58:55.491784",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1972 Rolex Submariner 5513 With Service Card",
+        "Year": 1972,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "3981XXX",
+        "Inventory": "/watches/zwfm",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-13T19:36:51.230670",
+                "Price": 14350.0
+            }
+        ]
+    },
+    {
+        "Title": "1976 Rolex 18K Yg King Midas 4344 Blue Dial",
+        "Year": 1976,
+        "Brand": "Rolex",
+        "Model": "King midas",
+        "Reference": "4344",
+        "Serial": "4288XXX",
+        "Inventory": "/watches/jph6",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-13T19:36:51.408594",
+                "Price": 23550.0
             }
         ]
     }
