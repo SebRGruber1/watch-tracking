@@ -1015,6 +1015,10 @@
             {
                 "Date": "2024-01-08T22:33:16.781324",
                 "Price": 18950.0
+            },
+            {
+                "Date": "2024-02-14T19:40:02.264103",
+                "Price": "sold"
             }
         ]
     },
@@ -84585,6 +84589,10 @@
             {
                 "Date": "2024-01-18T21:00:13.651178",
                 "Price": 12550.0
+            },
+            {
+                "Date": "2024-02-14T19:40:02.264103",
+                "Price": 13850.0
             }
         ]
     },
@@ -87152,6 +87160,51 @@
             {
                 "Date": "2024-02-14T15:11:44.068397",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Explorer Ii 16570 White Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "X868XXX",
+        "Inventory": "/watches/ma9g",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-14T19:36:51.783688",
+                "Price": 8650.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Explorer 14270",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "A748XXX",
+        "Inventory": "/watches/x0tj",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-14T19:36:51.833381",
+                "Price": 5350.0
+            }
+        ]
+    },
+    {
+        "Title": "2015 Rolex Gmt-Master Ii 116710Ln With Box And Papers",
+        "Year": 2015,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "116710",
+        "Serial": "S1851XXX",
+        "Inventory": "/watches/f6nb",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-14T19:36:51.875575",
+                "Price": 12850.0
             }
         ]
     }
