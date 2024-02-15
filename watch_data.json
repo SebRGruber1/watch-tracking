@@ -84593,6 +84593,10 @@
             {
                 "Date": "2024-02-14T19:40:02.264103",
                 "Price": 13850.0
+            },
+            {
+                "Date": "2024-02-15T03:15:55.876058",
+                "Price": "sold"
             }
         ]
     },
@@ -87205,6 +87209,111 @@
             {
                 "Date": "2024-02-14T19:36:51.875575",
                 "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "2007 Rolex Submariner 16610Lv With Papers",
+        "Year": 2007,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "Z750XXX",
+        "Inventory": "/watches/7t6b",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-15T03:10:37.129529",
+                "Price": 14350.0
+            }
+        ]
+    },
+    {
+        "Title": "1982 Rolex Submariner 16800 Matte Dial With Papers & Service Card",
+        "Year": 1982,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16800",
+        "Serial": "7122XXX",
+        "Inventory": "/watches/jyad",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-15T03:10:37.316900",
+                "Price": 11850.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Explorer 114270",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "P741XXX",
+        "Inventory": "/watches/xjku",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-15T03:10:37.289637",
+                "Price": 5550.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Explorer Ii 16570 White Dial",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "P799XXX",
+        "Inventory": "/watches/tmcn",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-15T03:10:37.371525",
+                "Price": 8350.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Explorer Ii 16570 White Swiss Only Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "A316XXX",
+        "Inventory": "/watches/0du6",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-15T03:10:37.345547",
+                "Price": 8350.0
+            }
+        ]
+    },
+    {
+        "Title": "Rolex Submariner 124060 With Box",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "124060",
+        "Serial": "12FF4XXX",
+        "Inventory": "/watches/s0nc",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-15T03:10:37.389255",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "2009 Rolex Daytona 116520 White \"Aph\" Dial",
+        "Year": 2009,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116520",
+        "Serial": "V889XXX",
+        "Inventory": "/watches/n3qx",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-15T03:10:37.250435",
+                "Price": 19350.0
             }
         ]
     }
