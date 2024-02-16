@@ -87299,6 +87299,10 @@
             {
                 "Date": "2024-02-15T03:10:37.316900",
                 "Price": 11850.0
+            },
+            {
+                "Date": "2024-02-15T23:12:58.030468",
+                "Price": "sold"
             }
         ]
     },
@@ -87374,6 +87378,111 @@
             {
                 "Date": "2024-02-15T03:10:37.250435",
                 "Price": 19350.0
+            }
+        ]
+    },
+    {
+        "Title": "1962 Rolex 14K Yg Chronograph 6234 Silver Underline Dial",
+        "Year": 1962,
+        "Brand": "Rolex",
+        "Model": "Chronograph",
+        "Reference": "6234",
+        "Serial": "768XXX",
+        "Inventory": "/watches/uak6",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-15T23:09:22.388785",
+                "Price": 93550.0
+            }
+        ]
+    },
+    {
+        "Title": "1981 Rolex Submariner 5513 Maxi Mk 2 Dial With Service Papers",
+        "Year": 1981,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "6638XXX",
+        "Inventory": "/watches/vlqy",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-15T23:09:22.559127",
+                "Price": 15850.0
+            }
+        ]
+    },
+    {
+        "Title": "1966 Rolex Datejust 1600 Gilt Dial",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1600",
+        "Serial": "1426XXX",
+        "Inventory": "/watches/qeov",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-15T23:09:22.659152",
+                "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Red Submariner 1680 Mk 4 Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "2500XXX",
+        "Inventory": "/watches/nche",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-15T23:09:22.655546",
+                "Price": 22550.0
+            }
+        ]
+    },
+    {
+        "Title": "1979 Rolex Datejust 16030 Silver Dial",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16030",
+        "Serial": "5883XXX",
+        "Inventory": "/watches/ef5a",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-15T23:09:22.616271",
+                "Price": 4950.0
+            }
+        ]
+    },
+    {
+        "Title": "1986 Rolex 18K Yg Day-Date 18038 Champagne Dial",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "9327XXX",
+        "Inventory": "/watches/dzgm",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-15T23:09:22.605786",
+                "Price": 15550.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex 18K Yg Day-Date 1803 Champagne Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "2525XXX",
+        "Inventory": "/watches/b2ok",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-15T23:09:22.614201",
+                "Price": 8850.0
             }
         ]
     }
