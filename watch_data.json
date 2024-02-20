@@ -1249,6 +1249,10 @@
             {
                 "Date": "2024-02-15T19:38:59.776497",
                 "Price": 66550.0
+            },
+            {
+                "Date": "2024-02-20T15:14:01.961236",
+                "Price": "sold"
             }
         ]
     },
@@ -1329,6 +1333,10 @@
             {
                 "Date": "2024-01-08T22:33:17.145408",
                 "Price": 5750.0
+            },
+            {
+                "Date": "2024-02-20T15:14:01.961236",
+                "Price": 5550.0
             }
         ]
     },
@@ -3045,6 +3053,10 @@
             {
                 "Date": "2024-01-08T22:33:19.677793",
                 "Price": 22350.0
+            },
+            {
+                "Date": "2024-02-20T15:14:01.961236",
+                "Price": 21850.0
             }
         ]
     },
@@ -84671,6 +84683,10 @@
             {
                 "Date": "2024-01-18T21:00:13.655224",
                 "Price": 13850.0
+            },
+            {
+                "Date": "2024-02-20T15:14:01.961236",
+                "Price": 13550.0
             }
         ]
     },
@@ -85157,6 +85173,10 @@
             {
                 "Date": "2024-01-24T21:20:59.572250",
                 "Price": 26850.0
+            },
+            {
+                "Date": "2024-02-20T15:14:01.961236",
+                "Price": 25850.0
             }
         ]
     },
@@ -85815,6 +85835,10 @@
             {
                 "Date": "2024-01-29T20:58:24.463896",
                 "Price": 10950.0
+            },
+            {
+                "Date": "2024-02-20T15:14:01.961236",
+                "Price": 10550.0
             }
         ]
     },
@@ -85872,6 +85896,10 @@
             {
                 "Date": "2024-01-29T20:58:24.624959",
                 "Price": 5750.0
+            },
+            {
+                "Date": "2024-02-20T15:14:01.961236",
+                "Price": "sold"
             }
         ]
     },
@@ -87190,6 +87218,10 @@
             {
                 "Date": "2024-02-08T23:26:46.556946",
                 "Price": 6350.0
+            },
+            {
+                "Date": "2024-02-20T15:14:01.961236",
+                "Price": 5950.0
             }
         ]
     },
@@ -87643,6 +87675,66 @@
             {
                 "Date": "2024-02-16T15:11:32.505408",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Two-Tone Daytona 116523 White Dial With Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116523",
+        "Serial": "P455XXX",
+        "Inventory": "/watches/fikn",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-20T15:09:31.808504",
+                "Price": 15850.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex 18K Rg Gmt-Master Ii 126715Chnr With Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126715CHNR",
+        "Serial": "UF812XXX",
+        "Inventory": "/watches/sdax",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-20T15:09:32.046121",
+                "Price": 38850.0
+            }
+        ]
+    },
+    {
+        "Title": "1979 Rolex Sea-Dweller 1665 Comex Mark 1 \"Pisani\" Dial",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "1665",
+        "Serial": "6176XXX",
+        "Inventory": "/watches/ot4m",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-20T15:09:32.023902",
+                "Price": 123550.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Patek Philippe Aquanaut 5065 With Box And Extract From The Archives",
+        "Year": 2000,
+        "Brand": "Patek philippe",
+        "Model": "Aquanaut",
+        "Reference": "5065",
+        "Serial": "4097XXX",
+        "Inventory": "/watches/clpr",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-20T15:09:31.941115",
+                "Price": 45350.0
             }
         ]
     }
