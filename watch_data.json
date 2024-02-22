@@ -262,6 +262,10 @@
             {
                 "Date": "2024-01-08T22:33:15.656253",
                 "Price": 53550.0
+            },
+            {
+                "Date": "2024-02-22T15:11:27.103664",
+                "Price": 48550.0
             }
         ]
     },
@@ -86963,6 +86967,10 @@
             {
                 "Date": "2024-02-21T19:41:48.968453",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-02-22T15:11:27.103664",
+                "Price": 27550.0
             }
         ]
     },
@@ -88161,6 +88169,36 @@
             {
                 "Date": "2024-02-21T19:36:40.179335",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex Explorer Ii 226570 White Dial With Box And Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "226570",
+        "Serial": "4E088XXX",
+        "Inventory": "/watches/ynne",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-22T15:08:19.091643",
+                "Price": 10350.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex Submariner 16610 With Rolex Pouch",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "D591XXX",
+        "Inventory": "/watches/9ocb",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-22T15:08:18.998103",
+                "Price": 15350.0
             }
         ]
     }
