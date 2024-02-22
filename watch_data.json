@@ -805,6 +805,10 @@
             {
                 "Date": "2024-02-19T15:13:41.039670",
                 "Price": 9850.0
+            },
+            {
+                "Date": "2024-02-21T19:41:48.968453",
+                "Price": "sold"
             }
         ]
     },
@@ -86939,6 +86943,10 @@
             {
                 "Date": "2024-02-07T20:57:14.530134",
                 "Price": 28550.0
+            },
+            {
+                "Date": "2024-02-21T19:41:48.968453",
+                "Price": "sold"
             }
         ]
     },
@@ -87007,6 +87015,10 @@
             {
                 "Date": "2024-02-14T15:11:44.068397",
                 "Price": 93850.0
+            },
+            {
+                "Date": "2024-02-21T19:41:48.968453",
+                "Price": "sold"
             }
         ]
     },
@@ -87959,6 +87971,171 @@
         "PriceHistory": [
             {
                 "Date": "2024-02-20T23:10:03.992842",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2010 Rolex Daytona 116520 White \"Aph\" Dial With Papers",
+        "Year": 2010,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116520",
+        "Serial": "V758XXX",
+        "Inventory": "/watches/sjux",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-21T19:36:28.830662",
+                "Price": 20950.0
+            }
+        ]
+    },
+    {
+        "Title": "Patek Philippe 18K Yg Calatrava 3796 White Roman Numeral Dial",
+        "Year": null,
+        "Brand": "Patek philippe",
+        "Model": "Calatrava",
+        "Reference": "3796",
+        "Serial": "N/A",
+        "Inventory": "/watches/rc9w",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-21T19:36:28.950784",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Omega Speedmaster 31130 Tin Tin With Box And Papers",
+        "Year": 2000,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "31130",
+        "Serial": "77797XXX",
+        "Inventory": "/watches/piex",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-21T19:36:28.913646",
+                "Price": 10350.0
+            }
+        ]
+    },
+    {
+        "Title": "2007 Rolex Explorer 114270",
+        "Year": 2007,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "M019XXX",
+        "Inventory": "/watches/na9f",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-21T19:36:28.960955",
+                "Price": 5550.0
+            }
+        ]
+    },
+    {
+        "Title": "Bulgari Diagono Scuba Chronograph Scb38S Black Dial With Box And Papers",
+        "Year": null,
+        "Brand": "Bulgari",
+        "Model": "Chrono",
+        "Reference": "SCB38S",
+        "Serial": "B034XXX",
+        "Inventory": "/watches/k8c0",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-21T19:36:28.817554",
+                "Price": 2350.0
+            }
+        ]
+    },
+    {
+        "Title": "1987 Rolex Ladies Two-Tone Datejust 69173 Champagne Dial With Hang Tag",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "69173",
+        "Serial": "L720XXX",
+        "Inventory": "/watches/e9jl",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-21T19:36:29.015350",
+                "Price": 3950.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Daytona 116500Ln Black Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "7K887XXX",
+        "Inventory": "/watches/emjy",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-21T19:36:28.978678",
+                "Price": 25550.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Explorer Ii 16570 Black \"Tritinova\" Dial With Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "U791XXX",
+        "Inventory": "/watches/84lj",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-21T19:36:28.997196",
+                "Price": 7850.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Gmt-Master Ii 126720Vtnr With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126720",
+        "Serial": "7250PXXX",
+        "Inventory": "/watches/r0xw",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-21T19:36:40.161297",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Submariner 14060 Tritium Dial With Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "U235XXX",
+        "Inventory": "/watches/o53l",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-21T19:36:40.285176",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2023 Oyster Perpetual 126000 Pink Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "126000",
+        "Serial": "AK106XXX",
+        "Inventory": "/watches/jkk2",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-21T19:36:40.179335",
                 "Price": "sold"
             }
         ]
