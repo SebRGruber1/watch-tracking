@@ -2029,6 +2029,10 @@
             {
                 "Date": "2024-01-11T19:45:40.748480",
                 "Price": 5950.0
+            },
+            {
+                "Date": "2024-02-22T19:38:58.821264",
+                "Price": "sold"
             }
         ]
     },
@@ -3517,6 +3521,10 @@
             {
                 "Date": "2024-02-14T03:13:47.385235",
                 "Price": 27850.0
+            },
+            {
+                "Date": "2024-02-22T19:38:58.821264",
+                "Price": "sold"
             }
         ]
     },
@@ -88184,6 +88192,10 @@
             {
                 "Date": "2024-02-22T15:08:19.091643",
                 "Price": 10350.0
+            },
+            {
+                "Date": "2024-02-22T19:38:58.821264",
+                "Price": "sold"
             }
         ]
     },
@@ -88199,6 +88211,141 @@
             {
                 "Date": "2024-02-22T15:08:18.998103",
                 "Price": 15350.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Explorer Ii 1655 Mk 2 Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "1655",
+        "Serial": "5372XXX",
+        "Inventory": "/watches/kday",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-22T19:36:01.218482",
+                "Price": 26350.0
+            }
+        ]
+    },
+    {
+        "Title": "1986 Rolex Tridor Day-Date 18039B Salmon Dial",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18039",
+        "Serial": "9001XXX",
+        "Inventory": "/watches/zlb1",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-22T19:36:01.188853",
+                "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "1971 Rolex Submariner 5512 Meters First Dial",
+        "Year": 1971,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5512",
+        "Serial": "2791XXX",
+        "Inventory": "/watches/ubqt",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-22T19:36:01.132869",
+                "Price": 15950.0
+            }
+        ]
+    },
+    {
+        "Title": "1973 Rolex 18K Yg Day-Date 1803",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "3282XXX",
+        "Inventory": "/watches/ph3a",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-22T19:36:01.247462",
+                "Price": 9650.0
+            }
+        ]
+    },
+    {
+        "Title": "1967 Rolex Gmt-Master 1675 Mk 1 Dial",
+        "Year": 1967,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "1637XXX",
+        "Inventory": "/watches/p1u3",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-22T19:36:01.152803",
+                "Price": 17350.0
+            }
+        ]
+    },
+    {
+        "Title": "2006 Rolex Two-Tone Submariner 16613 Blue Dial",
+        "Year": 2006,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16613",
+        "Serial": "Z172XXX",
+        "Inventory": "/watches/kpgt",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-22T19:36:01.352001",
+                "Price": 7350.0
+            }
+        ]
+    },
+    {
+        "Title": "1992 Omega Speedmaster 3590.50 With Papers",
+        "Year": 1992,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "3590.50",
+        "Serial": "48278XXX",
+        "Inventory": "/watches/okl8",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-22T19:36:01.008884",
+                "Price": 4850.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex Explorer 214270 With Box And Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "214270",
+        "Serial": "022F6XXX",
+        "Inventory": "/watches/kgpe",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-22T19:36:01.069402",
+                "Price": 7350.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Two-Tone Submariner 126613Ln With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "126613",
+        "Serial": "83073XXX",
+        "Inventory": "/watches/dbwj",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-22T19:36:01.180741",
+                "Price": 15650.0
             }
         ]
     }
