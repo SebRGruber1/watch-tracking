@@ -87960,6 +87960,10 @@
             {
                 "Date": "2024-02-20T19:36:48.107556",
                 "Price": 14350.0
+            },
+            {
+                "Date": "2024-02-27T03:15:54.687748",
+                "Price": "sold"
             }
         ]
     },
@@ -88571,6 +88575,21 @@
             {
                 "Date": "2024-02-26T19:36:24.571609",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1977 Patek Phillipe Nautilus 3700 Blue Tropical Dial With Extract From The Archives And Service Card",
+        "Year": 1977,
+        "Brand": "Patek philippe",
+        "Model": "Nautilus",
+        "Reference": "3700",
+        "Serial": "536XXX",
+        "Inventory": "/watches/rgjv",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-27T03:10:29.304842",
+                "Price": 103550.0
             }
         ]
     }
