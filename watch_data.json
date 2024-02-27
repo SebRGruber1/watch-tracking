@@ -3053,6 +3053,10 @@
             {
                 "Date": "2024-02-26T15:12:03.621825",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-02-26T19:39:44.962927",
+                "Price": 13750.0
             }
         ]
     },
@@ -3531,6 +3535,10 @@
             {
                 "Date": "2024-01-08T22:33:20.452644",
                 "Price": 14950.0
+            },
+            {
+                "Date": "2024-02-26T19:39:44.962927",
+                "Price": 13950.0
             }
         ]
     },
@@ -88409,6 +88417,10 @@
             {
                 "Date": "2024-02-22T19:36:01.352001",
                 "Price": 7350.0
+            },
+            {
+                "Date": "2024-02-26T19:39:44.962927",
+                "Price": "sold"
             }
         ]
     },
@@ -88454,6 +88466,111 @@
             {
                 "Date": "2024-02-22T19:36:01.180741",
                 "Price": 15650.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Datejust 16220 Black Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16220",
+        "Serial": "U123XXX",
+        "Inventory": "/watches/zluk",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-26T19:36:17.966823",
+                "Price": 5350.0
+            }
+        ]
+    },
+    {
+        "Title": "1969 Rolex Red Submariner 1680 Meters First Mark 2 Tropical Dial",
+        "Year": 1969,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "2253XXX",
+        "Inventory": "/watches/nmif",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-26T19:36:18.354757",
+                "Price": 36550.0
+            }
+        ]
+    },
+    {
+        "Title": "2004 Rolex Explorer Ii 16570 Black Dial With Papers And Hang Tag",
+        "Year": 2004,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "F128XXX",
+        "Inventory": "/watches/qgdh",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-26T19:36:18.128238",
+                "Price": 7950.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex Oyster Perpetual 126000 Green Dial With Box And Papers",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "126000",
+        "Serial": "24GL7XXX",
+        "Inventory": "/watches/ijta",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-26T19:36:18.262225",
+                "Price": 8950.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Explorer Ii 16570 White Dial With Box And Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "P791XXX",
+        "Inventory": "/watches/vqdr",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-26T19:36:24.522320",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2010 Rolex Explorer Ii 16570 White Dial 3186 Movement With Box And Papers",
+        "Year": 2010,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "V991XXX",
+        "Inventory": "/watches/pdxj",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-26T19:36:24.518639",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Explorer Ii 16570 White Dial With Box And Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "P487XXX",
+        "Inventory": "/watches/2gxs",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-26T19:36:24.571609",
+                "Price": "sold"
             }
         ]
     }
