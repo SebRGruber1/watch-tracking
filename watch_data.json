@@ -410,6 +410,10 @@
             {
                 "Date": "2024-01-08T22:33:16.054640",
                 "Price": 27550.0
+            },
+            {
+                "Date": "2024-02-27T15:11:42.920991",
+                "Price": 26550.0
             }
         ]
     },
@@ -87729,6 +87733,10 @@
             {
                 "Date": "2024-02-21T11:14:25.376229",
                 "Price": 88350.0
+            },
+            {
+                "Date": "2024-02-27T15:11:42.920991",
+                "Price": 86350.0
             }
         ]
     },
@@ -88590,6 +88598,21 @@
             {
                 "Date": "2024-02-27T03:10:29.304842",
                 "Price": 103550.0
+            }
+        ]
+    },
+    {
+        "Title": "1962 Rolex Explorer 1016 Gilt Exclamation Dial With Service Papers",
+        "Year": 1962,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "1016",
+        "Serial": "745XXX",
+        "Inventory": "/watches/afyi",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-27T15:09:03.953418",
+                "Price": "sold"
             }
         ]
     }
