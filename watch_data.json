@@ -88615,5 +88615,80 @@
                 "Price": "sold"
             }
         ]
+    },
+    {
+        "Title": "1987 Rolex 18K Yg Day-Date 18038 With Service Card",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "9769XXX",
+        "Inventory": "/watches/zqpo",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-27T19:35:49.802307",
+                "Price": 15850.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Vacheron Constantin Historiques 5000H/000A-B582 Silver Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Vacheron constantin",
+        "Reference": "5000H/000A-B582",
+        "Serial": "2065XXX",
+        "Inventory": "/watches/0qe3",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-27T19:35:49.997882",
+                "Price": 33550.0
+            }
+        ]
+    },
+    {
+        "Title": "Tag Heuer Carrera Re-Edition Cs3110 Chrono Silver Dial With Box",
+        "Year": null,
+        "Brand": "Heuer",
+        "Model": "Carrera",
+        "Reference": "CS3110",
+        "Serial": "No 00XXX",
+        "Inventory": "/watches/18yd",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-27T19:35:50.001307",
+                "Price": 3150.0
+            }
+        ]
+    },
+    {
+        "Title": "2014 Omega Speedmaster 31132 First In Space With Box And Papers",
+        "Year": 2014,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "31132",
+        "Serial": "77774XXX",
+        "Inventory": "/watches/9xyh",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-27T19:35:50.064151",
+                "Price": 5150.0
+            }
+        ]
+    },
+    {
+        "Title": "1981 Rolex Sea-Dweller 1665 With Service Card",
+        "Year": 1981,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "1665",
+        "Serial": "6675XXX",
+        "Inventory": "/watches/fmrh",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-27T19:35:50.040480",
+                "Price": 16850.0
+            }
+        ]
     }
 ]
