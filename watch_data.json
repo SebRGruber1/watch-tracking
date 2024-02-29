@@ -86980,6 +86980,10 @@
             {
                 "Date": "2024-02-06T20:56:54.658276",
                 "Price": 10850.0
+            },
+            {
+                "Date": "2024-02-29T15:12:43.052237",
+                "Price": "sold"
             }
         ]
     },
@@ -87795,6 +87799,10 @@
             {
                 "Date": "2024-02-15T23:09:22.659152",
                 "Price": 9350.0
+            },
+            {
+                "Date": "2024-02-29T15:12:43.052237",
+                "Price": 8350.0
             }
         ]
     },
@@ -88503,6 +88511,10 @@
             {
                 "Date": "2024-02-22T19:36:01.069402",
                 "Price": 7350.0
+            },
+            {
+                "Date": "2024-02-29T15:12:43.052237",
+                "Price": "sold"
             }
         ]
     },
@@ -88845,6 +88857,36 @@
             {
                 "Date": "2024-02-29T11:09:33.236734",
                 "Price": 11350.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Air-King 14000 Black Dial With Hang Tag",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "14000",
+        "Serial": "X762XXX",
+        "Inventory": "/watches/6tg2",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-29T15:09:51.180684",
+                "Price": 3950.0
+            }
+        ]
+    },
+    {
+        "Title": "1972 Rolex Gmt-Master 1675 Mk 2.5 Dial",
+        "Year": 1972,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "3298XXX",
+        "Inventory": "/watches/2j7s",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-29T15:09:51.375182",
+                "Price": 17950.0
             }
         ]
     }
