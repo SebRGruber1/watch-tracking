@@ -87753,6 +87753,10 @@
             {
                 "Date": "2024-02-27T15:11:42.920991",
                 "Price": 86350.0
+            },
+            {
+                "Date": "2024-02-28T19:39:36.200954",
+                "Price": 79550.0
             }
         ]
     },
@@ -88728,6 +88732,36 @@
             {
                 "Date": "2024-02-27T19:35:50.040480",
                 "Price": 16850.0
+            }
+        ]
+    },
+    {
+        "Title": "Rolex 18K Yg Daytona 116518 Pearlescent White Arabic Dial",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116518",
+        "Serial": "8021RXXX",
+        "Inventory": "/watches/bxpf",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-28T19:36:36.318715",
+                "Price": 27850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Submariner 16610 Tritium Dial With Box",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "U391XXX",
+        "Inventory": "/watches/a4km",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-28T19:36:36.527984",
+                "Price": 8850.0
             }
         ]
     }
