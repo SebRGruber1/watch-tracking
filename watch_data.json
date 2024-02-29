@@ -2795,6 +2795,10 @@
             {
                 "Date": "2024-01-08T22:33:19.230177",
                 "Price": 22850.0
+            },
+            {
+                "Date": "2024-02-29T11:12:32.635664",
+                "Price": "sold"
             }
         ]
     },
@@ -87730,6 +87734,10 @@
             {
                 "Date": "2024-02-26T15:12:03.621825",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-02-29T11:12:32.635664",
+                "Price": 19350.0
             }
         ]
     },
@@ -88777,6 +88785,66 @@
             {
                 "Date": "2024-02-29T03:10:23.241299",
                 "Price": 9550.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Datejust 16220 White Dial",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16220",
+        "Serial": "P275XXX",
+        "Inventory": "/watches/qvar",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-29T11:09:33.274858",
+                "Price": 5850.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Gmt-Master Ii 16710 With Box And Papers",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "K609XXX",
+        "Inventory": "/watches/pghl",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-29T11:09:33.195304",
+                "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "1966 Rolex Submariner 5513 Gilt Dial With Service Card",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "1409XXX",
+        "Inventory": "/watches/kxkv",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-29T11:09:33.244870",
+                "Price": 29850.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Gmt-Master 16700",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "X966XXX",
+        "Inventory": "/watches/kech",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-29T11:09:33.236734",
+                "Price": 11350.0
             }
         ]
     }
