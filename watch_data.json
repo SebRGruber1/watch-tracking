@@ -88764,5 +88764,20 @@
                 "Price": 8850.0
             }
         ]
+    },
+    {
+        "Title": "1963 Rolex Day-Date 1803 Champagne Dial",
+        "Year": 1963,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "948XXX",
+        "Inventory": "/watches/sfbz",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-29T03:10:23.241299",
+                "Price": 9550.0
+            }
+        ]
     }
 ]
