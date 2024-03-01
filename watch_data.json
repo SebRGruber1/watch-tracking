@@ -2799,6 +2799,10 @@
             {
                 "Date": "2024-02-29T11:12:32.635664",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-02-29T19:44:11.444349",
+                "Price": 22850.0
             }
         ]
     },
@@ -3768,6 +3772,10 @@
             {
                 "Date": "2024-02-17T19:42:23.567827",
                 "Price": 5250.0
+            },
+            {
+                "Date": "2024-02-29T19:44:11.444349",
+                "Price": "sold"
             }
         ]
     },
@@ -88545,6 +88553,10 @@
             {
                 "Date": "2024-02-26T19:36:17.966823",
                 "Price": 5350.0
+            },
+            {
+                "Date": "2024-02-29T19:44:11.444349",
+                "Price": "sold"
             }
         ]
     },
@@ -88797,6 +88809,10 @@
             {
                 "Date": "2024-02-29T03:10:23.241299",
                 "Price": 9550.0
+            },
+            {
+                "Date": "2024-02-29T19:44:11.444349",
+                "Price": "sold"
             }
         ]
     },
@@ -88887,6 +88903,66 @@
             {
                 "Date": "2024-02-29T15:09:51.375182",
                 "Price": 17950.0
+            }
+        ]
+    },
+    {
+        "Title": "1989 Rolex 18K Yg Zenith Daytona 16528 Black Dial",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16528",
+        "Serial": "N195XXX",
+        "Inventory": "/watches/1ggq",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-29T19:40:57.223643",
+                "Price": 36850.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Explorer Ii 16570 White Dial",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "Y278XXX",
+        "Inventory": "/watches/st0u",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-29T19:41:03.002955",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1966 Rolex 18K Yg Day-Date 1803 Champagne Dial",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "1309XXX",
+        "Inventory": "/watches/mx3u",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-29T19:41:03.010173",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Zenith Daytona 16520 White Dial",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "T128XXX",
+        "Inventory": "/watches/enuv",
+        "PriceHistory": [
+            {
+                "Date": "2024-02-29T19:41:03.012748",
+                "Price": "sold"
             }
         ]
     }
