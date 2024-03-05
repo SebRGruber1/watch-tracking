@@ -4042,6 +4042,10 @@
             {
                 "Date": "2024-01-08T22:33:20.942186",
                 "Price": 14750.0
+            },
+            {
+                "Date": "2024-03-04T23:16:05.848350",
+                "Price": 13950.0
             }
         ]
     },
@@ -88085,6 +88089,10 @@
             {
                 "Date": "2024-02-23T03:13:52.445291",
                 "Price": 11850.0
+            },
+            {
+                "Date": "2024-03-04T23:16:05.848350",
+                "Price": "sold"
             }
         ]
     },
@@ -89067,6 +89075,156 @@
             {
                 "Date": "2024-02-29T19:41:03.012748",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex 18K Yg Daytona 126518Ln Black Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "126518LN",
+        "Serial": "948C2XXX",
+        "Inventory": "/watches/cqhz",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-04T23:10:40.078088",
+                "Price": 43550.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex 18K Wg Daytona 116509 Blue Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116509",
+        "Serial": "813L8XXX",
+        "Inventory": "/watches/pmdi",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-04T23:10:40.294266",
+                "Price": 45850.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Daytona 116500Ln White Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "G77X5XXX",
+        "Inventory": "/watches/wvem",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-04T23:10:40.342046",
+                "Price": 30550.0
+            }
+        ]
+    },
+    {
+        "Title": "1987 Patek Philippe Two-Tone Nautilus 3700/11 Gold Dial With Box And Papers",
+        "Year": 1987,
+        "Brand": "Patek philippe",
+        "Model": "Nautilus",
+        "Reference": "3700",
+        "Serial": "1310XXX",
+        "Inventory": "/watches/skh4",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-04T23:10:40.303533",
+                "Price": 49850.0
+            }
+        ]
+    },
+    {
+        "Title": "1987 Rolex Submariner 168000",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "168000",
+        "Serial": "9636XXX",
+        "Inventory": "/watches/jlmt",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-04T23:10:40.360922",
+                "Price": 8950.0
+            }
+        ]
+    },
+    {
+        "Title": "2010'S Oris Divers Sixty-Five Hodinkee Limited Edition",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Divers sixty-five",
+        "Reference": "001/250",
+        "Serial": "7XXX",
+        "Inventory": "/watches/wnsg",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-04T23:10:40.324115",
+                "Price": 1750.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Gmt-Master Ii 16710 Tritium Dial With Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16710",
+        "Serial": "U188XXX",
+        "Inventory": "/watches/i7rs",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-04T23:10:40.397283",
+                "Price": 13350.0
+            }
+        ]
+    },
+    {
+        "Title": "2010 Rolex Daytona 116520 Black Dial",
+        "Year": 2010,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116520",
+        "Serial": "G812XXX",
+        "Inventory": "/watches/fqi1",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-04T23:10:40.380297",
+                "Price": 19850.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master Ii 16710 With Papers & Hang Tag",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "A695XXX",
+        "Inventory": "/watches/clrk",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-04T23:10:40.552605",
+                "Price": 13650.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex Daytona 126500Ln Black Dial With Box And Papers",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "126500",
+        "Serial": "N3V25XXX",
+        "Inventory": "/watches/6ypp",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-04T23:10:40.526849",
+                "Price": 31850.0
             }
         ]
     }
