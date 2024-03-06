@@ -1187,6 +1187,10 @@
             {
                 "Date": "2024-01-08T22:33:17.251874",
                 "Price": 13850.0
+            },
+            {
+                "Date": "2024-03-05T19:39:52.355435",
+                "Price": "sold"
             }
         ]
     },
@@ -87524,6 +87528,10 @@
             {
                 "Date": "2024-02-12T20:58:41.635939",
                 "Price": 17550.0
+            },
+            {
+                "Date": "2024-03-05T19:39:52.355435",
+                "Price": "sold"
             }
         ]
     },
@@ -89137,6 +89145,10 @@
             {
                 "Date": "2024-03-04T23:10:40.294266",
                 "Price": 45850.0
+            },
+            {
+                "Date": "2024-03-05T19:39:52.355435",
+                "Price": "sold"
             }
         ]
     },
@@ -89167,6 +89179,10 @@
             {
                 "Date": "2024-03-04T23:10:40.303533",
                 "Price": 49850.0
+            },
+            {
+                "Date": "2024-03-05T19:39:52.355435",
+                "Price": "sold"
             }
         ]
     },
@@ -89216,6 +89232,10 @@
             {
                 "Date": "2024-03-04T23:10:40.397283",
                 "Price": 13350.0
+            },
+            {
+                "Date": "2024-03-05T19:39:52.355435",
+                "Price": "sold"
             }
         ]
     },
@@ -89261,6 +89281,141 @@
             {
                 "Date": "2024-03-04T23:10:40.526849",
                 "Price": 31850.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Submariner 14060",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "N111XXX",
+        "Inventory": "/watches/jgjo",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-05T19:36:54.276695",
+                "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Ladies Two-Tone Datejust 69173 Champagne Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Ladies datejust",
+        "Reference": "69173",
+        "Serial": "U215XXX",
+        "Inventory": "/watches/q0dt",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-05T19:36:54.084078",
+                "Price": 3950.0
+            }
+        ]
+    },
+    {
+        "Title": "1966 Rolex Oysterdate 6694 Silver Dial",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Oysterdate",
+        "Reference": "6694",
+        "Serial": "1387XXX",
+        "Inventory": "/watches/nxam",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-05T19:36:54.481404",
+                "Price": 2250.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Explorer Ii 16570 Black Dial",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "Y193XXX",
+        "Inventory": "/watches/jcgl",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-05T19:36:54.414319",
+                "Price": 7750.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Daytona 116500Ln White Dial With Papers & Hang Tag",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "TM658XXX",
+        "Inventory": "/watches/dz12",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-05T19:36:54.349560",
+                "Price": 30950.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Explorer Ii 16570 Black Dial With Papers & Hang Tag",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "Y441XXX",
+        "Inventory": "/watches/6ziz",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-05T19:36:54.508316",
+                "Price": 7850.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex Daytona 116500Ln White Dial With Box And Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "N0N87XXX",
+        "Inventory": "/watches/j0mw",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-05T19:36:54.311397",
+                "Price": 32550.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Iwc Pilot'S Watch Iw388111 Chrono Black Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Iwc",
+        "Model": "Pilot's watch",
+        "Reference": "IW388111",
+        "Serial": "7373XXX",
+        "Inventory": "/watches/kxi4",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-05T19:36:54.477629",
+                "Price": 5350.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Omega Speedmaster 31030 With Box And Papers",
+        "Year": 2022,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "31030",
+        "Serial": "83486XXX",
+        "Inventory": "/watches/fjuz",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-05T19:36:54.191116",
+                "Price": 4750.0
             }
         ]
     }
