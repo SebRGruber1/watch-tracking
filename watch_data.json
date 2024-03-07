@@ -89638,6 +89638,40 @@
             {
                 "Date": "2024-03-06T23:09:39.894222",
                 "Price": 9850.0
+            },
+            {
+                "Date": "2024-03-07T15:13:52.153162",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1986 Rolex Explorer Ii 16550 Black Spider Rail Dial",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16550",
+        "Serial": "9069XXX",
+        "Inventory": "/watches/3kgi",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-07T15:08:17.028680",
+                "Price": 12950.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Zenith Daytona 16520 White Dial With Service Card",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "A829XXX",
+        "Inventory": "/watches/gseo",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-07T15:08:17.253120",
+                "Price": 22350.0
             }
         ]
     }
