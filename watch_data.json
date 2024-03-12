@@ -1184,6 +1184,10 @@
             {
                 "Date": "2024-01-26T15:23:35.495626",
                 "Price": 37850.0
+            },
+            {
+                "Date": "2024-03-11T20:39:12.296474",
+                "Price": "sold"
             }
         ]
     },
@@ -89940,6 +89944,96 @@
             {
                 "Date": "2024-03-08T03:13:29.580591",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Ladies Date 79160 Black Dial With Hang Tag",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "79160",
+        "Serial": "A860XXX",
+        "Inventory": "/watches/1sy4",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-11T20:36:06.774803",
+                "Price": 3650.0
+            }
+        ]
+    },
+    {
+        "Title": "1985 Rolex Tridor Day-Date 18039 Salmon Diamond Dial With Papers",
+        "Year": 1985,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18039",
+        "Serial": "8799XXX",
+        "Inventory": "/watches/rj04",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-11T20:36:06.697775",
+                "Price": 16850.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex Explorer 114270",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "D044XXX",
+        "Inventory": "/watches/ivlz",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-11T20:36:06.744419",
+                "Price": 5750.0
+            }
+        ]
+    },
+    {
+        "Title": "1987 Rolex Submariner 5513 Wgs Spider Dial",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "9745XXX",
+        "Inventory": "/watches/dcvb",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-11T20:36:06.810175",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "1973 Rolex Red Submariner 1680 Mk 5 Dial",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "3225XXX",
+        "Inventory": "/watches/mzxv",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-11T20:36:06.633255",
+                "Price": 21850.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Explorer Ii 16570 Black Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "N289XXX",
+        "Inventory": "/watches/okx4",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-11T20:36:06.726156",
+                "Price": 6350.0
             }
         ]
     }
