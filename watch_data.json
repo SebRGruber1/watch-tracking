@@ -90036,5 +90036,20 @@
                 "Price": 6350.0
             }
         ]
+    },
+    {
+        "Title": "1998 Rolex Submariner 14060 Tritinova Dial With Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "U695XXX",
+        "Inventory": "/watches/ltkd",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-12T00:11:35.878060",
+                "Price": 9650.0
+            }
+        ]
     }
 ]
