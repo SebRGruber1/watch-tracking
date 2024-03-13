@@ -87292,6 +87292,10 @@
             {
                 "Date": "2024-02-19T15:13:41.039670",
                 "Price": 47950.0
+            },
+            {
+                "Date": "2024-03-12T20:40:07.286589",
+                "Price": 46950.0
             }
         ]
     },
@@ -90053,6 +90057,96 @@
             {
                 "Date": "2024-03-12T00:11:35.878060",
                 "Price": 9650.0
+            }
+        ]
+    },
+    {
+        "Title": "1987 Rolex Explorer Ii 16570 White Dial",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "R707XXX",
+        "Inventory": "/watches/s3xc",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-12T20:36:57.079270",
+                "Price": 8250.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex Gmt-Master Ii 16760 Fat Lady",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16760",
+        "Serial": "R262XXX",
+        "Inventory": "/watches/qj6q",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-12T20:36:57.240516",
+                "Price": 13850.0
+            }
+        ]
+    },
+    {
+        "Title": "2009 Rolex Explorer 114270",
+        "Year": 2009,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "V794XXX",
+        "Inventory": "/watches/jju0",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-12T20:36:57.225507",
+                "Price": 5950.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Explorer 14270 Swiss Only Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "A421XXX",
+        "Inventory": "/watches/wpap",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-12T20:36:57.264021",
+                "Price": 5650.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Explorer 14270 Tritinova Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "U546XXX",
+        "Inventory": "/watches/xwsh",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-12T20:36:57.335949",
+                "Price": 5950.0
+            }
+        ]
+    },
+    {
+        "Title": "1986 Rolex 18K Yg Datejust 16018 Champagne Diamond Dial With Box",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16018",
+        "Serial": "9187XXX",
+        "Inventory": "/watches/gg1e",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-12T20:36:57.288411",
+                "Price": 7850.0
             }
         ]
     }
