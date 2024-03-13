@@ -89484,6 +89484,10 @@
             {
                 "Date": "2024-03-05T19:36:54.349560",
                 "Price": 30950.0
+            },
+            {
+                "Date": "2024-03-13T00:13:03.797205",
+                "Price": "sold"
             }
         ]
     },
@@ -90072,6 +90076,10 @@
             {
                 "Date": "2024-03-12T20:36:57.079270",
                 "Price": 8250.0
+            },
+            {
+                "Date": "2024-03-13T00:13:03.797205",
+                "Price": "sold"
             }
         ]
     },
@@ -90147,6 +90155,51 @@
             {
                 "Date": "2024-03-12T20:36:57.288411",
                 "Price": 7850.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Patek Philippe Calatrava 18K Yg Pilot Travel Time 7234G-001 Brown Dial With Box And Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Travel time pilot",
+        "Reference": "7234R",
+        "Serial": "7249XXX",
+        "Inventory": "/watches/wh4x",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-13T00:09:44.788173",
+                "Price": 32850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Explorer 14270 With Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "U232XXX",
+        "Inventory": "/watches/yppz",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-13T00:09:44.997755",
+                "Price": 5950.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Explorer 114270 With Papers",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "K811XXX",
+        "Inventory": "/watches/oowa",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-13T00:09:44.976494",
+                "Price": 5950.0
             }
         ]
     }
