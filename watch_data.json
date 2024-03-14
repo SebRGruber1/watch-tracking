@@ -2452,6 +2452,10 @@
             {
                 "Date": "2024-02-15T19:38:59.776497",
                 "Price": 4850.0
+            },
+            {
+                "Date": "2024-03-13T20:41:36.781647",
+                "Price": "sold"
             }
         ]
     },
@@ -90227,6 +90231,21 @@
             {
                 "Date": "2024-03-13T16:08:15.676325",
                 "Price": 6850.0
+            }
+        ]
+    },
+    {
+        "Title": "2017 Rolex Daytona 116500Ln White Dial With Box, Papers & Hang Tag",
+        "Year": 2017,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "5U005XXX",
+        "Inventory": "/watches/dj7l",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-13T20:36:05.417341",
+                "Price": 28950.0
             }
         ]
     }
