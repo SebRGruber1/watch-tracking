@@ -85097,6 +85097,10 @@
             {
                 "Date": "2024-03-14T20:39:52.974004",
                 "Price": 26850.0
+            },
+            {
+                "Date": "2024-03-15T16:14:06.260440",
+                "Price": "sold"
             }
         ]
     },
@@ -90442,6 +90446,21 @@
             {
                 "Date": "2024-03-14T20:36:55.347653",
                 "Price": 7950.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Explorer Ii 1655 Mk 2 Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "1655",
+        "Serial": "5459XXX",
+        "Inventory": "/watches/yxjv",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-15T16:10:55.273179",
+                "Price": 26550.0
             }
         ]
     }
