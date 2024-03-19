@@ -3463,6 +3463,10 @@
             {
                 "Date": "2024-02-06T15:24:47.128092",
                 "Price": 27850.0
+            },
+            {
+                "Date": "2024-03-18T20:39:59.989590",
+                "Price": 26850.0
             }
         ]
     },
@@ -89837,6 +89841,10 @@
             {
                 "Date": "2024-03-07T15:08:17.028680",
                 "Price": 12950.0
+            },
+            {
+                "Date": "2024-03-18T20:39:59.989590",
+                "Price": "sold"
             }
         ]
     },
@@ -90497,6 +90505,10 @@
             {
                 "Date": "2024-03-15T16:10:55.273179",
                 "Price": 26550.0
+            },
+            {
+                "Date": "2024-03-18T20:39:59.989590",
+                "Price": "sold"
             }
         ]
     },
@@ -90512,6 +90524,171 @@
             {
                 "Date": "2024-03-15T20:35:27.993060",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex 18K Wg Daytona 116509 Blue Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116509",
+        "Serial": "70W44XXX",
+        "Inventory": "/watches/ytwa",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-18T20:36:47.662613",
+                "Price": 46550.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Daytona 116500Ln White Dial With Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "01N50XXX",
+        "Inventory": "/watches/9xw5",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-18T20:36:47.922439",
+                "Price": 30850.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Explorer 124270 With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "124270",
+        "Serial": "08Q45XXX",
+        "Inventory": "/watches/wpav",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-18T20:36:47.880090",
+                "Price": 7850.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex 18K Yg Daytona 16528 Champagne Inverted \"6\" Diamond Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16528",
+        "Serial": "N445XXX",
+        "Inventory": "/watches/hien",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-18T20:36:47.770689",
+                "Price": 34650.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Explorer Ii 16570 White Swiss Only Dial With Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "A270XXX",
+        "Inventory": "/watches/gd3c",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-18T20:36:47.812953",
+                "Price": 8450.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex 18K Wg Day-Date 18239 Silver Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18239",
+        "Serial": "N126XXX",
+        "Inventory": "/watches/ffbg",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-18T20:36:47.774196",
+                "Price": 16350.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Daytona 116500Ln White Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "437W9XXX",
+        "Inventory": "/watches/e5ol",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-18T20:36:47.816521",
+                "Price": 31550.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 18K Wg Daytona 116509 Silver Dial With Box And Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116509",
+        "Serial": "3KV43XXX",
+        "Inventory": "/watches/awrz",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-18T20:36:47.736137",
+                "Price": 42850.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Daytona 116500Ln White Dial With Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "92519XXX",
+        "Inventory": "/watches/av73",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-18T20:36:47.906082",
+                "Price": 31550.0
+            }
+        ]
+    },
+    {
+        "Title": "1989 Rolex Two-Tone Datejust 16233 Champagne Dial With Box And Service Card",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16233",
+        "Serial": "L984XXX",
+        "Inventory": "/watches/aqlo",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-18T20:36:47.968254",
+                "Price": 5850.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Omega Speedmaster 3592.50",
+        "Year": 1996,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "3592.50",
+        "Serial": "48272XXX",
+        "Inventory": "/watches/4cjd",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-18T20:36:47.947323",
+                "Price": 4650.0
             }
         ]
     }
