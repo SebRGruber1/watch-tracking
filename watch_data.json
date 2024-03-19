@@ -90691,5 +90691,35 @@
                 "Price": 4650.0
             }
         ]
+    },
+    {
+        "Title": "Patek Phillipe 18K Yg Ellipse 3548 Tropical Dial",
+        "Year": null,
+        "Brand": "Patek philippe",
+        "Model": "Ellipse",
+        "Reference": "3548",
+        "Serial": "2734XXX",
+        "Inventory": "/watches/1dnf",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-19T04:10:41.196093",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "1990 Rolex 18K Yg Submariner 16618 Blue Dial",
+        "Year": 1990,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16618",
+        "Serial": "E556XXX",
+        "Inventory": "/watches/lgxd",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-19T04:10:41.067510",
+                "Price": 29550.0
+            }
+        ]
     }
 ]
