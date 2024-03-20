@@ -2126,6 +2126,10 @@
             {
                 "Date": "2024-01-08T22:33:18.415683",
                 "Price": 25350.0
+            },
+            {
+                "Date": "2024-03-20T16:14:46.823665",
+                "Price": 22550.0
             }
         ]
     },
@@ -90491,6 +90495,10 @@
             {
                 "Date": "2024-03-14T20:36:55.277138",
                 "Price": 11250.0
+            },
+            {
+                "Date": "2024-03-20T16:14:46.823665",
+                "Price": "sold"
             }
         ]
     },
@@ -90920,6 +90928,36 @@
             {
                 "Date": "2024-03-19T20:36:36.818152",
                 "Price": 18950.0
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex Submariner 16610Lv Lime Flat \"4\" Mk 1 Maxi Dial",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "F045XXX",
+        "Inventory": "/watches/cat0",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-20T16:09:21.563326",
+                "Price": 15350.0
+            }
+        ]
+    },
+    {
+        "Title": "1990 Rolex 18K Yg Datejust 16238 Birch Burlwood Dial With Hang Tag",
+        "Year": 1990,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16238",
+        "Serial": "E675XXX",
+        "Inventory": "/watches/vz4g",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-20T16:09:21.157524",
+                "Price": 21550.0
             }
         ]
     }
