@@ -90679,6 +90679,10 @@
             {
                 "Date": "2024-03-18T20:36:47.906082",
                 "Price": 31550.0
+            },
+            {
+                "Date": "2024-03-19T20:39:37.723487",
+                "Price": "sold"
             }
         ]
     },
@@ -90739,6 +90743,171 @@
             {
                 "Date": "2024-03-19T04:10:41.067510",
                 "Price": 29550.0
+            }
+        ]
+    },
+    {
+        "Title": "1971 Patek Philippe Wg Square Watch 3404 Tropical Dial",
+        "Year": 1971,
+        "Brand": "Patek philippe",
+        "Model": "Square watch",
+        "Reference": "3404",
+        "Serial": "2624XXX",
+        "Inventory": "/watches/hicj",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-19T20:36:36.519428",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex 18K Yg Day-Date 18238 Silver Dial With Hang Tag",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "X805XXX",
+        "Inventory": "/watches/eqyo",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-19T20:36:36.747674",
+                "Price": 17850.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Platinum Diamond Day-Date 18296 Diamond Arabic Diamond Rope Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18296",
+        "Serial": "W006XXX",
+        "Inventory": "/watches/gexl",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-19T20:36:36.844189",
+                "Price": 30950.0
+            }
+        ]
+    },
+    {
+        "Title": "Patek Philippe 18K Yg Calatrava 570J Tropical Dial",
+        "Year": null,
+        "Brand": "Patek philippe",
+        "Model": "Calatrava",
+        "Reference": "570",
+        "Serial": "310XXX",
+        "Inventory": "/watches/ni0k",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-19T20:36:36.896908",
+                "Price": 17350.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Nos Rolex Daytona 116520 White Dial With Box And Papers",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116520",
+        "Serial": "F882XXX",
+        "Inventory": "/watches/hlxw",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-19T20:36:36.717002",
+                "Price": 25650.0
+            }
+        ]
+    },
+    {
+        "Title": "Cartier 18K Wg Tank Americaine 1741 White Dial",
+        "Year": null,
+        "Brand": "Cartier",
+        "Model": "Tank americaine",
+        "Reference": "1741",
+        "Serial": "11943XXX",
+        "Inventory": "/watches/703a",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-19T20:36:36.771638",
+                "Price": 6350.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Submariner 16610 With Hang Tag",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "N427XXX",
+        "Inventory": "/watches/z8rw",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-19T20:36:36.681864",
+                "Price": 8250.0
+            }
+        ]
+    },
+    {
+        "Title": "2006 Rolex Explorer Ii 16570 White Dial",
+        "Year": 2006,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "Z667XXX",
+        "Inventory": "/watches/zby9",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-19T20:36:36.636042",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Zenith Daytona 16520 Black Dial With Papers",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "T457XXX",
+        "Inventory": "/watches/vfig",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-19T20:36:36.805075",
+                "Price": 27850.0
+            }
+        ]
+    },
+    {
+        "Title": "1966 Rolex Two-Tone Datejust 1601 Champagne Roman Numeral Dial",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1601",
+        "Serial": "1429XXX",
+        "Inventory": "/watches/tqd4",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-19T20:36:36.841478",
+                "Price": 3950.0
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex 18K Yg Day-Date 18238 Champagne Dial",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "S156XXX",
+        "Inventory": "/watches/o4ku",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-19T20:36:36.818152",
+                "Price": 18950.0
             }
         ]
     }
