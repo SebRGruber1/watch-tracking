@@ -937,6 +937,10 @@
             {
                 "Date": "2024-02-22T11:14:36.972745",
                 "Price": 12850.0
+            },
+            {
+                "Date": "2024-03-21T16:12:12.103424",
+                "Price": "sold"
             }
         ]
     },
@@ -90827,6 +90831,10 @@
             {
                 "Date": "2024-03-19T20:36:36.896908",
                 "Price": 17350.0
+            },
+            {
+                "Date": "2024-03-21T16:12:12.103424",
+                "Price": "sold"
             }
         ]
     },
@@ -91094,6 +91102,51 @@
             {
                 "Date": "2024-03-20T20:38:49.124914",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2018 Rolex 18K Yg Submariner 116618Ln With Box And Papers",
+        "Year": 2018,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "116618",
+        "Serial": "11D9DXXX",
+        "Inventory": "/watches/q3lu",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-21T16:09:17.541265",
+                "Price": 29850.0
+            }
+        ]
+    },
+    {
+        "Title": "1972 Rolex Oyster Perpetual 1003 Silver Dial",
+        "Year": 1972,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "1003",
+        "Serial": "3011XXX",
+        "Inventory": "/watches/0guh",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-21T16:09:17.901976",
+                "Price": 3150.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Datejust 16234 Silver Tropical Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16234",
+        "Serial": "X367XXX",
+        "Inventory": "/watches/czqc",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-21T16:09:17.880891",
+                "Price": 5350.0
             }
         ]
     }
