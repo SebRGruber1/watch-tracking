@@ -89505,6 +89505,10 @@
             {
                 "Date": "2024-03-04T23:10:40.526849",
                 "Price": 31850.0
+            },
+            {
+                "Date": "2024-03-20T20:42:42.020580",
+                "Price": 30550.0
             }
         ]
     },
@@ -90314,6 +90318,10 @@
             {
                 "Date": "2024-03-13T00:09:44.788173",
                 "Price": 32850.0
+            },
+            {
+                "Date": "2024-03-20T20:42:42.020580",
+                "Price": 29850.0
             }
         ]
     },
@@ -90958,6 +90966,126 @@
             {
                 "Date": "2024-03-20T16:09:21.157524",
                 "Price": 21550.0
+            }
+        ]
+    },
+    {
+        "Title": "1973 Rolex 18K Yg Day-Date 1807 Silver \"Qaboos\" Dial",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1807",
+        "Serial": "3351XXX",
+        "Inventory": "/watches/20qa",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-20T20:38:07.147857",
+                "Price": 26850.0
+            }
+        ]
+    },
+    {
+        "Title": "1979 Rolex Submariner 5513 Tiffany & Co. Dial",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "5898XXX",
+        "Inventory": "/watches/useh",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-20T20:38:07.465058",
+                "Price": 37550.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Gmt-Master Ii 16710 Tritinova Dial With Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "U633XXX",
+        "Inventory": "/watches/fm5m",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-20T20:38:07.327372",
+                "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "Cartier 18K Yg Santos Dumont 78097 With White Paris Dial",
+        "Year": null,
+        "Brand": "Cartier",
+        "Model": "Santos",
+        "Reference": "78097",
+        "Serial": "780970XXX",
+        "Inventory": "/watches/onhk",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-20T20:38:07.398345",
+                "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "1989 Rolex 18K Yg Day-Date 18238 Champagne Dial",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "L463XXX",
+        "Inventory": "/watches/lddg",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-20T20:38:07.394354",
+                "Price": 15350.0
+            }
+        ]
+    },
+    {
+        "Title": "1982 Rolex 18K Yg Day-Date 18038 Champagne Dial",
+        "Year": 1982,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "7369XXX",
+        "Inventory": "/watches/dea7",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-20T20:38:07.261017",
+                "Price": 19550.0
+            }
+        ]
+    },
+    {
+        "Title": "1967 Rolex Daytona 6240 Silver Dial With Service Card",
+        "Year": 1967,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "6240",
+        "Serial": "1659XXX",
+        "Inventory": "/watches/fk4n",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-20T20:38:07.530355",
+                "Price": 67550.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Gmt-Master 16700",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "U677XXX",
+        "Inventory": "/watches/tlwk",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-20T20:38:49.124914",
+                "Price": "sold"
             }
         ]
     }
