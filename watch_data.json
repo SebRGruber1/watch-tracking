@@ -89748,6 +89748,10 @@
             {
                 "Date": "2024-03-06T19:30:00.758520",
                 "Price": 10550.0
+            },
+            {
+                "Date": "2024-03-21T20:40:58.491884",
+                "Price": "sold"
             }
         ]
     },
@@ -91057,6 +91061,10 @@
             {
                 "Date": "2024-03-20T20:38:07.394354",
                 "Price": 15350.0
+            },
+            {
+                "Date": "2024-03-21T20:40:58.491884",
+                "Price": "sold"
             }
         ]
     },
@@ -91147,6 +91155,171 @@
             {
                 "Date": "2024-03-21T16:09:17.880891",
                 "Price": 5350.0
+            }
+        ]
+    },
+    {
+        "Title": "1969 Rolex Gmt-Master 1675 Mk 1 Dial",
+        "Year": 1969,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "1902XXX",
+        "Inventory": "/watches/rukh",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-21T20:36:27.270632",
+                "Price": 17350.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master 16700 Swiss Only Dial With Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "A565XXX",
+        "Inventory": "/watches/jvmk",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-21T20:36:27.480066",
+                "Price": 12650.0
+            }
+        ]
+    },
+    {
+        "Title": "1979 Rolex Oysterquartz Datejust 17000 Silver Dial",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Oysterquartz datejust",
+        "Reference": "17000",
+        "Serial": "6010XXX",
+        "Inventory": "/watches/igta",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-21T20:36:27.434105",
+                "Price": 4850.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "P703XXX",
+        "Inventory": "/watches/u2h5",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-21T20:36:27.557902",
+                "Price": 12950.0
+            }
+        ]
+    },
+    {
+        "Title": "1974 Rolex Red Submariner 1680 Mk 5 Dial With Box And Papers From Sao Paulo",
+        "Year": 1974,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "3816XXX",
+        "Inventory": "/watches/35un",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-21T20:36:27.633211",
+                "Price": 29850.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master 16700 Swiss Only Dial With Box, Papers & Hang Tag",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "A263XXX",
+        "Inventory": "/watches/omdd",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-21T20:36:27.662055",
+                "Price": 12950.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Explorer Ii 226570 Black Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "226570",
+        "Serial": "90L76XXX",
+        "Inventory": "/watches/qf1e",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-21T20:36:27.743507",
+                "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Gmt-Master 16700 With Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "U453XXX",
+        "Inventory": "/watches/pkek",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-21T20:36:27.779292",
+                "Price": 12250.0
+            }
+        ]
+    },
+    {
+        "Title": "2017 Rolex Sea-Dweller 116600 With Box And Papers",
+        "Year": 2017,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "116600",
+        "Serial": "2317VXXX",
+        "Inventory": "/watches/tzm9",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-21T20:36:27.796919",
+                "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "1987 Rolex Datejust 16234 Silver Dial",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16234",
+        "Serial": "R168XXX",
+        "Inventory": "/watches/txut",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-21T20:36:27.804056",
+                "Price": 5350.0
+            }
+        ]
+    },
+    {
+        "Title": "1989 Rolex 18K Yg Day-Date 18238 Champagne Dial",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "L394XXX",
+        "Inventory": "/watches/oaek",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-21T20:36:28.410243",
+                "Price": 15850.0
             }
         ]
     }
