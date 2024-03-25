@@ -1303,6 +1303,10 @@
             {
                 "Date": "2024-03-19T16:11:49.425459",
                 "Price": 10850.0
+            },
+            {
+                "Date": "2024-03-25T16:13:41.003077",
+                "Price": "sold"
             }
         ]
     },
@@ -84446,6 +84450,10 @@
             {
                 "Date": "2024-03-14T12:16:02.722966",
                 "Price": 21550.0
+            },
+            {
+                "Date": "2024-03-25T16:13:41.003077",
+                "Price": "sold"
             }
         ]
     },
@@ -85736,6 +85744,10 @@
             {
                 "Date": "2024-01-25T15:22:22.593550",
                 "Price": 47350.0
+            },
+            {
+                "Date": "2024-03-25T16:13:41.003077",
+                "Price": "sold"
             }
         ]
     },
@@ -86380,6 +86392,10 @@
             {
                 "Date": "2024-01-31T15:24:40.958657",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-03-25T16:13:41.003077",
+                "Price": 15950.0
             }
         ]
     },
@@ -87458,6 +87474,10 @@
             {
                 "Date": "2024-02-08T20:57:30.344148",
                 "Price": 24650.0
+            },
+            {
+                "Date": "2024-03-25T16:13:41.003077",
+                "Price": "sold"
             }
         ]
     },
@@ -90620,6 +90640,10 @@
             {
                 "Date": "2024-03-15T20:35:27.993060",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-03-25T16:13:41.003077",
+                "Price": 17950.0
             }
         ]
     },
@@ -90665,6 +90689,10 @@
             {
                 "Date": "2024-03-18T20:36:47.880090",
                 "Price": 7850.0
+            },
+            {
+                "Date": "2024-03-25T16:13:41.003077",
+                "Price": "sold"
             }
         ]
     },
@@ -91392,6 +91420,81 @@
             {
                 "Date": "2024-03-21T20:36:28.410243",
                 "Price": 15850.0
+            }
+        ]
+    },
+    {
+        "Title": "1963 Rolex Pcg Gmt-Master 1675 Gilt Underline Dial With Box And Service Papers",
+        "Year": 1963,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "874XXX",
+        "Inventory": "/watches/h5h4",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-25T16:09:07.145174",
+                "Price": 25850.0
+            }
+        ]
+    },
+    {
+        "Title": "1990 Rolex Submariner 14060",
+        "Year": 1990,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "E363XXX",
+        "Inventory": "/watches/zrnn",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-25T16:09:07.306447",
+                "Price": 8850.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex 18K Wg Day-Date 118239 Silver Roman Numeral Dial",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "118239",
+        "Serial": "P957XXX",
+        "Inventory": "/watches/4wd9",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-25T16:09:07.354025",
+                "Price": 16950.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Ladies Datejust 68240 Black Dial With Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "68240",
+        "Serial": "U929XXX",
+        "Inventory": "/watches/2xc9",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-25T16:09:07.357377",
+                "Price": 4550.0
+            }
+        ]
+    },
+    {
+        "Title": "1967 Rolex 18K Yg Day-Date 1803 Silver Tiffany & Co. Dial With Papers",
+        "Year": 1967,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "1707XXX",
+        "Inventory": "/watches/hfp0",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-25T16:09:07.076869",
+                "Price": 16850.0
             }
         ]
     }
