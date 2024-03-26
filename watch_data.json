@@ -2024,6 +2024,10 @@
             {
                 "Date": "2024-01-08T22:33:18.047381",
                 "Price": 4850.0
+            },
+            {
+                "Date": "2024-03-25T20:42:19.309127",
+                "Price": "sold"
             }
         ]
     },
@@ -3731,6 +3735,10 @@
             {
                 "Date": "2024-02-26T19:39:44.962927",
                 "Price": 13950.0
+            },
+            {
+                "Date": "2024-03-25T20:42:19.309127",
+                "Price": 12950.0
             }
         ]
     },
@@ -91390,6 +91398,10 @@
             {
                 "Date": "2024-03-21T20:36:27.796919",
                 "Price": 14850.0
+            },
+            {
+                "Date": "2024-03-25T20:42:19.309127",
+                "Price": "sold"
             }
         ]
     },
@@ -91495,6 +91507,36 @@
             {
                 "Date": "2024-03-25T16:09:07.076869",
                 "Price": 16850.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex 18K Yg Diamond Bark Day-Date 18308 White Roman Numeral Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18308",
+        "Serial": "W676XXX",
+        "Inventory": "/watches/p2lr",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-25T20:36:49.213468",
+                "Price": 16850.0
+            }
+        ]
+    },
+    {
+        "Title": "1969 Rolex 18K Yg Day-Date 1803 Silver Dial With Box And Papers",
+        "Year": 1969,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "2238XXX",
+        "Inventory": "/watches/kqi5",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-25T20:36:49.399181",
+                "Price": 10550.0
             }
         ]
     }
