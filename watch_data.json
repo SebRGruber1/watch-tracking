@@ -91687,5 +91687,20 @@
                 "Price": 12850.0
             }
         ]
+    },
+    {
+        "Title": "1986 Rolex Tridor Day-Date 18039B Salmon Dial",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18039",
+        "Serial": "9001XXX",
+        "Inventory": "/watches/cnx9",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-27T16:09:08.343555",
+                "Price": 10550.0
+            }
+        ]
     }
 ]
