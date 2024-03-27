@@ -354,6 +354,10 @@
             {
                 "Date": "2024-01-08T22:33:16.007174",
                 "Price": 23850.0
+            },
+            {
+                "Date": "2024-03-26T20:40:16.254265",
+                "Price": "sold"
             }
         ]
     },
@@ -88826,6 +88830,10 @@
             {
                 "Date": "2024-02-22T19:36:01.218482",
                 "Price": 26350.0
+            },
+            {
+                "Date": "2024-03-26T20:40:16.254265",
+                "Price": 25350.0
             }
         ]
     },
@@ -89023,6 +89031,10 @@
             {
                 "Date": "2024-03-14T12:16:02.722966",
                 "Price": 7650.0
+            },
+            {
+                "Date": "2024-03-26T20:40:16.254265",
+                "Price": "sold"
             }
         ]
     },
@@ -90579,6 +90591,10 @@
             {
                 "Date": "2024-03-26T16:11:49.473394",
                 "Price": 10950.0
+            },
+            {
+                "Date": "2024-03-26T20:40:16.254265",
+                "Price": "sold"
             }
         ]
     },
@@ -91488,6 +91504,10 @@
             {
                 "Date": "2024-03-21T20:36:28.410243",
                 "Price": 15850.0
+            },
+            {
+                "Date": "2024-03-26T20:40:16.254265",
+                "Price": "sold"
             }
         ]
     },
@@ -91593,6 +91613,66 @@
             {
                 "Date": "2024-03-25T20:36:49.399181",
                 "Price": 10550.0
+            }
+        ]
+    },
+    {
+        "Title": "2014 Rolex Daytona 116520 White \"Aph\" Dial With Box And Papers",
+        "Year": 2014,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116520",
+        "Serial": "H20Z9XXX",
+        "Inventory": "/watches/y5ft",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-26T20:36:41.388136",
+                "Price": 19850.0
+            }
+        ]
+    },
+    {
+        "Title": "1976 Rolex 18K Yg Day-Date 1803 Champagne Dial",
+        "Year": 1976,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "4123XXX",
+        "Inventory": "/watches/dkyw",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-26T20:36:41.242529",
+                "Price": 7850.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Daytona 16520 White Dial",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "T220XXX",
+        "Inventory": "/watches/cmpz",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-26T20:36:41.500695",
+                "Price": 21850.0
+            }
+        ]
+    },
+    {
+        "Title": "Cartier 18K Yg Tank Louis Crwgta0091 Black Dial With Box",
+        "Year": null,
+        "Brand": "Cartier",
+        "Model": "Tank louis",
+        "Reference": "CRWGTA0091",
+        "Serial": "436910977XXX",
+        "Inventory": "/watches/x0bf",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-26T20:36:41.472740",
+                "Price": 12850.0
             }
         ]
     }
