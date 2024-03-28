@@ -91361,6 +91361,10 @@
             {
                 "Date": "2024-03-21T20:36:27.480066",
                 "Price": 12650.0
+            },
+            {
+                "Date": "2024-03-28T04:14:59.751636",
+                "Price": "sold"
             }
         ]
     },
@@ -91561,6 +91565,10 @@
             {
                 "Date": "2024-03-25T16:09:07.354025",
                 "Price": 16950.0
+            },
+            {
+                "Date": "2024-03-28T04:14:59.751636",
+                "Price": "sold"
             }
         ]
     },
@@ -91749,6 +91757,81 @@
             {
                 "Date": "2024-03-27T20:37:16.045401",
                 "Price": 31550.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Gmt-Master 16700",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "N436XXX",
+        "Inventory": "/watches/dgre",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-28T04:10:22.001600",
+                "Price": 10850.0
+            }
+        ]
+    },
+    {
+        "Title": "1972 Rolex Explorer Ii 1655 Mk 2 Dial",
+        "Year": 1972,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "1655",
+        "Serial": "XXX",
+        "Inventory": "/watches/mgvp",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-28T04:10:22.257489",
+                "Price": 19550.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex Gmt-Master Ii 126720Vtnr With Box And Papers",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126720",
+        "Serial": "932N2XXX",
+        "Inventory": "/watches/u2to",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-28T04:10:22.181584",
+                "Price": 17350.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex 18K Yg Daytona 16528 Black Dial",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16528",
+        "Serial": "T368XXX",
+        "Inventory": "/watches/bii1",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-28T04:10:22.219755",
+                "Price": 34350.0
+            }
+        ]
+    },
+    {
+        "Title": "1986 Rolex 18K Yg Day-Date 18038 Champagne Dial",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "9357XXX",
+        "Inventory": "/watches/fb6h",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-28T04:10:22.247759",
+                "Price": 12350.0
             }
         ]
     }
