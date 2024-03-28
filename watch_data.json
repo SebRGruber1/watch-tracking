@@ -91700,6 +91700,55 @@
             {
                 "Date": "2024-03-27T16:09:08.343555",
                 "Price": 10550.0
+            },
+            {
+                "Date": "2024-03-27T20:40:22.536291",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master Ii 16710 With Papers & Hang Tag",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "A760XXX",
+        "Inventory": "/watches/qxpr",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-27T20:37:16.134340",
+                "Price": 13950.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Date 15210 Blue Tritium Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "15210",
+        "Serial": "U633XXX",
+        "Inventory": "/watches/5rar",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-27T20:37:16.109328",
+                "Price": 3750.0
+            }
+        ]
+    },
+    {
+        "Title": "1966 Rolex Gmt-Master 1675 Gilt Dial",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "1308XXX",
+        "Inventory": "/watches/neds",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-27T20:37:16.045401",
+                "Price": 31550.0
             }
         ]
     }
