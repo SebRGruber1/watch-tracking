@@ -869,6 +869,10 @@
             {
                 "Date": "2024-02-21T19:41:48.968453",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-03-28T20:41:29.468259",
+                "Price": 9850.0
             }
         ]
     },
@@ -91781,6 +91785,10 @@
             {
                 "Date": "2024-03-27T20:37:16.045401",
                 "Price": 31550.0
+            },
+            {
+                "Date": "2024-03-28T20:41:29.468259",
+                "Price": "sold"
             }
         ]
     },
@@ -91868,6 +91876,81 @@
             {
                 "Date": "2024-03-28T16:14:29.953574",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex 18K Yg Zenith Daytona 16528 Inverted \"6\" Champagne Dial",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16528",
+        "Serial": "S569XXX",
+        "Inventory": "/watches/om3d",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-28T20:36:49.616318",
+                "Price": 35350.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex Gmt-Master Ii 126710 With Box And Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126710",
+        "Serial": "574ATXXX",
+        "Inventory": "/watches/dadi",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-28T20:36:49.665390",
+                "Price": 21550.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex Explorer 114270",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "D0748XXX",
+        "Inventory": "/watches/ij35",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-28T20:36:49.710452",
+                "Price": 5350.0
+            }
+        ]
+    },
+    {
+        "Title": "2008 Rolex Daytona 116520 White Dial With Papers",
+        "Year": 2008,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116520",
+        "Serial": "V762XXX",
+        "Inventory": "/watches/vtkp",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-28T20:36:49.672117",
+                "Price": 20850.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex Daytona 116520 White Dial",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116520",
+        "Serial": "F971XXX",
+        "Inventory": "/watches/h24b",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-28T20:36:49.798669",
+                "Price": 18950.0
             }
         ]
     }
