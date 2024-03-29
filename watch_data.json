@@ -89399,6 +89399,10 @@
             {
                 "Date": "2024-03-26T16:11:49.473394",
                 "Price": 13950.0
+            },
+            {
+                "Date": "2024-03-29T04:15:08.145998",
+                "Price": "sold"
             }
         ]
     },
@@ -91951,6 +91955,51 @@
             {
                 "Date": "2024-03-28T20:36:49.798669",
                 "Price": 18950.0
+            }
+        ]
+    },
+    {
+        "Title": "1969 Rolex 18K Yg Day-Date 1803 Champagne Doorstop Dial",
+        "Year": 1969,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "1921XXX",
+        "Inventory": "/watches/v39j",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-29T04:10:30.309520",
+                "Price": 8950.0
+            }
+        ]
+    },
+    {
+        "Title": "Patek Philippe 18K Yg Square Watch 2496 Silver Hobnail Dial",
+        "Year": null,
+        "Brand": "Patek philippe",
+        "Model": "Square watch",
+        "Reference": "2496",
+        "Serial": "XXX",
+        "Inventory": "/watches/mikw",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-29T04:10:30.615620",
+                "Price": 8550.0
+            }
+        ]
+    },
+    {
+        "Title": "2013 Omega Speedmaster 3570.50 With Papers",
+        "Year": 2013,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "3570.50",
+        "Serial": "77124XXX",
+        "Inventory": "/watches/smxg",
+        "PriceHistory": [
+            {
+                "Date": "2024-03-29T04:10:30.546638",
+                "Price": 4350.0
             }
         ]
     }
