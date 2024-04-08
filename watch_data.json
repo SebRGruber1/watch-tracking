@@ -88269,6 +88269,10 @@
             {
                 "Date": "2024-03-29T16:13:44.042848",
                 "Price": 78550.0
+            },
+            {
+                "Date": "2024-04-08T16:13:27.485740",
+                "Price": 76850.0
             }
         ]
     },
@@ -88935,6 +88939,10 @@
             {
                 "Date": "2024-02-22T15:08:18.998103",
                 "Price": 15350.0
+            },
+            {
+                "Date": "2024-04-08T16:13:27.485740",
+                "Price": 14950.0
             }
         ]
     },
@@ -89607,6 +89615,10 @@
             {
                 "Date": "2024-04-07T20:42:00.024621",
                 "Price": 21850.0
+            },
+            {
+                "Date": "2024-04-08T16:13:27.485740",
+                "Price": "sold"
             }
         ]
     },
@@ -89630,6 +89642,10 @@
             {
                 "Date": "2024-04-04T20:40:47.912911",
                 "Price": 41850.0
+            },
+            {
+                "Date": "2024-04-08T16:13:27.485740",
+                "Price": "sold"
             }
         ]
     },
@@ -90530,6 +90546,10 @@
             {
                 "Date": "2024-04-05T16:12:40.466577",
                 "Price": 6250.0
+            },
+            {
+                "Date": "2024-04-08T16:13:27.485740",
+                "Price": "sold"
             }
         ]
     },
@@ -92297,6 +92317,10 @@
             {
                 "Date": "2024-04-05T16:12:40.466577",
                 "Price": 7950.0
+            },
+            {
+                "Date": "2024-04-08T16:13:27.485740",
+                "Price": "sold"
             }
         ]
     },
@@ -92376,6 +92400,66 @@
             {
                 "Date": "2024-04-08T12:11:11.357385",
                 "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "2020 Rolex Submariner 126610 With Box And Papers",
+        "Year": 2020,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "126610",
+        "Serial": "88D63XXX",
+        "Inventory": "/watches/pmmy",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-08T16:10:07.210953",
+                "Price": 10750.0
+            }
+        ]
+    },
+    {
+        "Title": "1980 Rolex Oysterquartz Datejust 17000 Black Dial",
+        "Year": 1980,
+        "Brand": "Rolex",
+        "Model": "Oysterquartz datejust",
+        "Reference": "17000",
+        "Serial": "6469XXX",
+        "Inventory": "/watches/dwfz",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-08T16:10:07.427755",
+                "Price": 6950.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex Explorer 1016",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "1016",
+        "Serial": "R889XXX",
+        "Inventory": "/watches/m141",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-08T16:10:07.123825",
+                "Price": 15850.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex 18K Yg Bark Day-Date 18248 Black Dial With Box And Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18248",
+        "Serial": "N/A",
+        "Inventory": "/watches/a1de",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-08T16:10:07.350334",
+                "Price": 16850.0
             }
         ]
     }
