@@ -89459,6 +89459,10 @@
             {
                 "Date": "2024-02-29T11:09:33.195304",
                 "Price": 12850.0
+            },
+            {
+                "Date": "2024-04-08T20:40:49.395324",
+                "Price": 13250.0
             }
         ]
     },
@@ -91408,6 +91412,10 @@
             {
                 "Date": "2024-04-04T12:15:05.916835",
                 "Price": 17950.0
+            },
+            {
+                "Date": "2024-04-08T20:40:49.395324",
+                "Price": "sold"
             }
         ]
     },
@@ -92415,6 +92423,10 @@
             {
                 "Date": "2024-04-08T16:10:07.210953",
                 "Price": 10750.0
+            },
+            {
+                "Date": "2024-04-08T20:40:49.395324",
+                "Price": "sold"
             }
         ]
     },
@@ -92445,6 +92457,10 @@
             {
                 "Date": "2024-04-08T16:10:07.123825",
                 "Price": 15850.0
+            },
+            {
+                "Date": "2024-04-08T20:40:49.395324",
+                "Price": "sold"
             }
         ]
     },
@@ -92460,6 +92476,126 @@
             {
                 "Date": "2024-04-08T16:10:07.350334",
                 "Price": 16850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Explorer Ii 16570 White Tritium Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "U564XXX",
+        "Inventory": "/watches/pzlo",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-08T20:37:35.801176",
+                "Price": 7850.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Gmt-Master Ii 16710",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "W790XXX",
+        "Inventory": "/watches/ud4w",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-08T20:37:35.693642",
+                "Price": 11350.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Submariner 16800 Wgs Tropical Dial",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16800",
+        "Serial": "8438XXX",
+        "Inventory": "/watches/nxp2",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-08T20:37:35.834195",
+                "Price": 9650.0
+            }
+        ]
+    },
+    {
+        "Title": "1989 Rolex Submariner 5513 Wgs Dial",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "L239XXX",
+        "Inventory": "/watches/v2gi",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-08T20:37:35.711599",
+                "Price": 10350.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Datejust 16014 Silver Dial",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16014",
+        "Serial": "8195XXX",
+        "Inventory": "/watches/g7c4",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-08T20:37:35.869781",
+                "Price": 4850.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master 16700 Swiss Only Dial With Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "A565XXX",
+        "Inventory": "/watches/jtb6",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-08T20:37:35.839010",
+                "Price": 13350.0
+            }
+        ]
+    },
+    {
+        "Title": "2017 Rolex Sea-Dweller 116600 With Box And Papers",
+        "Year": 2017,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "116600",
+        "Serial": "8X04PXXX",
+        "Inventory": "/watches/nsbu",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-08T20:37:35.772238",
+                "Price": 13950.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Explorer Ii 16570 White Dial With Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "P249XXX",
+        "Inventory": "/watches/6ytt",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-08T20:37:35.852118",
+                "Price": 8950.0
             }
         ]
     }
