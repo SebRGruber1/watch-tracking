@@ -92688,6 +92688,10 @@
             {
                 "Date": "2024-04-09T20:36:59.533031",
                 "Price": 18950.0
+            },
+            {
+                "Date": "2024-04-10T00:13:55.500726",
+                "Price": "sold"
             }
         ]
     },
@@ -92823,6 +92827,21 @@
             {
                 "Date": "2024-04-09T20:36:59.695758",
                 "Price": 27550.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master 16700 Swiss Only Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "A417XXX",
+        "Inventory": "/watches/lutx",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-10T00:09:59.749267",
+                "Price": 10950.0
             }
         ]
     }
