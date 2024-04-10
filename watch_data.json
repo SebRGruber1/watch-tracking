@@ -92617,6 +92617,10 @@
             {
                 "Date": "2024-04-08T20:37:35.772238",
                 "Price": 13950.0
+            },
+            {
+                "Date": "2024-04-10T16:14:41.028428",
+                "Price": "sold"
             }
         ]
     },
@@ -92846,6 +92850,96 @@
             {
                 "Date": "2024-04-10T00:09:59.749267",
                 "Price": 10950.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Gmt-Master 16750",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16750",
+        "Serial": "8187XXX",
+        "Inventory": "/watches/n5pl",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-10T16:09:00.351272",
+                "Price": 16850.0
+            }
+        ]
+    },
+    {
+        "Title": "1962 Rolex 18K Yg Florentine Day-Date 1806 Champagne Dial With Service Card",
+        "Year": 1962,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1806",
+        "Serial": "785XXX",
+        "Inventory": "/watches/tkow",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-10T16:09:00.421800",
+                "Price": 9250.0
+            }
+        ]
+    },
+    {
+        "Title": "1970'S Patek Philippe 18K Yg Gondolo 3528/3 Gold Dial With Service Card",
+        "Year": null,
+        "Brand": "Patek philippe",
+        "Model": "Gondolo",
+        "Reference": "3528",
+        "Serial": "2764XXX",
+        "Inventory": "/watches/sqlk",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-10T16:09:00.490230",
+                "Price": 6950.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Explorer 1016 Mk 1 Dial With Service Card",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "1016",
+        "Serial": "2564XXX",
+        "Inventory": "/watches/omow",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-10T16:09:00.303311",
+                "Price": 17850.0
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex Tridor Day-Date 18239 Fossil Diamond Dial With Box, Papers, Hang Tag & Service Card",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18239",
+        "Serial": "S378XXX",
+        "Inventory": "/watches/ay4w",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-10T16:09:00.527556",
+                "Price": 39850.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Explorer Ii 16570 Black Dial With Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "P527XXX",
+        "Inventory": "/watches/ydxw",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-10T16:09:00.461406",
+                "Price": 7950.0
             }
         ]
     }
