@@ -621,6 +621,10 @@
             {
                 "Date": "2024-02-23T19:37:39.666764",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-04-10T20:41:43.719522",
+                "Price": 21850.0
             }
         ]
     },
@@ -3297,6 +3301,10 @@
             {
                 "Date": "2024-02-26T19:39:44.962927",
                 "Price": 13750.0
+            },
+            {
+                "Date": "2024-04-10T20:41:43.719522",
+                "Price": "sold"
             }
         ]
     },
@@ -86946,6 +86954,10 @@
             {
                 "Date": "2024-04-06T00:16:30.947732",
                 "Price": 31650.0
+            },
+            {
+                "Date": "2024-04-10T20:41:43.719522",
+                "Price": "sold"
             }
         ]
     },
@@ -89380,6 +89392,10 @@
             {
                 "Date": "2024-04-09T16:11:30.477919",
                 "Price": 16350.0
+            },
+            {
+                "Date": "2024-04-10T20:41:43.719522",
+                "Price": "sold"
             }
         ]
     },
@@ -90232,6 +90248,10 @@
             {
                 "Date": "2024-03-13T16:13:43.171751",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-04-10T20:41:43.719522",
+                "Price": 21750.0
             }
         ]
     },
@@ -91158,6 +91178,10 @@
             {
                 "Date": "2024-04-03T16:12:54.902059",
                 "Price": 5650.0
+            },
+            {
+                "Date": "2024-04-10T20:41:43.719522",
+                "Price": "sold"
             }
         ]
     },
@@ -91367,6 +91391,10 @@
             {
                 "Date": "2024-04-05T16:12:40.466577",
                 "Price": 9350.0
+            },
+            {
+                "Date": "2024-04-10T20:41:43.719522",
+                "Price": 8950.0
             }
         ]
     },
@@ -92538,6 +92566,10 @@
             {
                 "Date": "2024-04-08T20:37:35.693642",
                 "Price": 11350.0
+            },
+            {
+                "Date": "2024-04-10T20:41:43.719522",
+                "Price": "sold"
             }
         ]
     },
@@ -92553,6 +92585,10 @@
             {
                 "Date": "2024-04-08T20:37:35.834195",
                 "Price": 9650.0
+            },
+            {
+                "Date": "2024-04-10T20:41:43.719522",
+                "Price": "sold"
             }
         ]
     },
@@ -92745,6 +92781,10 @@
             {
                 "Date": "2024-04-09T20:36:59.561856",
                 "Price": 5650.0
+            },
+            {
+                "Date": "2024-04-10T20:41:43.719522",
+                "Price": "sold"
             }
         ]
     },
@@ -92940,6 +92980,96 @@
             {
                 "Date": "2024-04-10T16:09:00.461406",
                 "Price": 7950.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Gmt-Master 16700 With Papers",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "T951XXX",
+        "Inventory": "/watches/pedp",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-10T20:37:54.441631",
+                "Price": 12750.0
+            }
+        ]
+    },
+    {
+        "Title": "1974 Rolex Explorer Ii 1655 Mk 2 Dial",
+        "Year": 1974,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "1655",
+        "Serial": "3742XXX",
+        "Inventory": "/watches/wyp6",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-10T20:37:54.421367",
+                "Price": 22350.0
+            }
+        ]
+    },
+    {
+        "Title": "1983 Rolex 18K Wg Day-Date 18039 Brown Roman Numeral Dial",
+        "Year": 1983,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18039",
+        "Serial": "7527XXX",
+        "Inventory": "/watches/ydya",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-10T20:37:54.439552",
+                "Price": 16850.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Gmt-Master Ii 16710",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "P886XXX",
+        "Inventory": "/watches/wzpm",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-10T20:37:54.454956",
+                "Price": 11850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Gmt-Master 16700 Tritium Dial With Papers & Hang Tag",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "U438XXX",
+        "Inventory": "/watches/g9yw",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-10T20:37:54.490214",
+                "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Gmt-Master Ii 16710 With Box And Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "P148XXX",
+        "Inventory": "/watches/5qvr",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-10T20:37:54.566885",
+                "Price": 12950.0
             }
         ]
     }
