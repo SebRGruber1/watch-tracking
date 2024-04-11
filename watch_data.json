@@ -87863,6 +87863,10 @@
             {
                 "Date": "2024-02-08T23:26:46.457525",
                 "Price": 9850.0
+            },
+            {
+                "Date": "2024-04-11T16:11:36.525793",
+                "Price": "sold"
             }
         ]
     },
@@ -89495,6 +89499,10 @@
             {
                 "Date": "2024-04-08T20:40:49.395324",
                 "Price": 13250.0
+            },
+            {
+                "Date": "2024-04-11T16:11:36.525793",
+                "Price": "sold"
             }
         ]
     },
@@ -90757,6 +90765,10 @@
             {
                 "Date": "2024-04-05T16:12:40.466577",
                 "Price": 5650.0
+            },
+            {
+                "Date": "2024-04-11T16:11:36.525793",
+                "Price": "sold"
             }
         ]
     },
@@ -92460,6 +92472,10 @@
             {
                 "Date": "2024-04-08T12:11:11.357385",
                 "Price": 9850.0
+            },
+            {
+                "Date": "2024-04-11T16:11:36.525793",
+                "Price": "sold"
             }
         ]
     },
@@ -92536,6 +92552,10 @@
             {
                 "Date": "2024-04-08T16:10:07.350334",
                 "Price": 16850.0
+            },
+            {
+                "Date": "2024-04-11T16:11:36.525793",
+                "Price": "sold"
             }
         ]
     },
@@ -92905,6 +92925,10 @@
             {
                 "Date": "2024-04-10T16:09:00.351272",
                 "Price": 16850.0
+            },
+            {
+                "Date": "2024-04-11T16:11:36.525793",
+                "Price": "sold"
             }
         ]
     },
@@ -93074,6 +93098,66 @@
             {
                 "Date": "2024-04-10T20:37:54.566885",
                 "Price": 12950.0
+            }
+        ]
+    },
+    {
+        "Title": "1976 Rolex 18K Wg King Midas 4315 Silver Dial",
+        "Year": 1976,
+        "Brand": "Rolex",
+        "Model": "King midas",
+        "Reference": "4315",
+        "Serial": "4248XXX",
+        "Inventory": "/watches/gfxt",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-11T16:08:32.715969",
+                "Price": 35350.0
+            }
+        ]
+    },
+    {
+        "Title": "1981 Tudor Submariner 94110 Black Dial",
+        "Year": 1981,
+        "Brand": "Tudor",
+        "Model": "Submariner",
+        "Reference": "94110",
+        "Serial": "953XXX",
+        "Inventory": "/watches/unzp",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-11T16:08:33.000565",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "Cartier 18K Yg Baignoire 78094 White Dial",
+        "Year": null,
+        "Brand": "Cartier",
+        "Model": "Baignoire",
+        "Reference": "78094",
+        "Serial": "T60941XXX",
+        "Inventory": "/watches/h3ql",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-11T16:08:32.948215",
+                "Price": 7550.0
+            }
+        ]
+    },
+    {
+        "Title": "Audemars Piguet Royal Oak 4100 Grey Tropical Dial",
+        "Year": null,
+        "Brand": "Audemars piguet",
+        "Model": "Royal oak",
+        "Reference": "4100",
+        "Serial": "No1XXX",
+        "Inventory": "/watches/gys1",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-11T16:08:32.958627",
+                "Price": 22850.0
             }
         ]
     }
