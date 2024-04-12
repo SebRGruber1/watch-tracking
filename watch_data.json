@@ -93164,5 +93164,95 @@
                 "Price": 22850.0
             }
         ]
+    },
+    {
+        "Title": "1979 Rolex 18K Yg Submariner 1680 Matte Black Nipple Dial",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "5835XXX",
+        "Inventory": "/watches/fyc6",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-12T00:09:56.470284",
+                "Price": 39850.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Submariner 16800 Wgs With Box And Papers",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16800",
+        "Serial": "8453XXX",
+        "Inventory": "/watches/xajy",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-12T00:09:56.794919",
+                "Price": 11550.0
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex 18K Yg Daytona 16528G White Inverted \"6\" Diamond Dial",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Daytobna",
+        "Reference": "16528",
+        "Serial": "S994XXX",
+        "Inventory": "/watches/rwlo",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-12T00:09:56.761489",
+                "Price": 36550.0
+            }
+        ]
+    },
+    {
+        "Title": "1982 Rolex Submariner 16800 Matte Dial",
+        "Year": 1982,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16800",
+        "Serial": "7298XXX",
+        "Inventory": "/watches/8yug",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-12T00:09:56.769348",
+                "Price": 11350.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Air-King 126900 With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "126900",
+        "Serial": "M5355XXX",
+        "Inventory": "/watches/sclu",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-12T00:09:56.676978",
+                "Price": 8250.0
+            }
+        ]
+    },
+    {
+        "Title": "1967 Rolex Gmt-Master 1675 Mk 1 Dial",
+        "Year": 1967,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "1743XXX",
+        "Inventory": "/watches/bgx3",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-12T00:10:02.461924",
+                "Price": "sold"
+            }
+        ]
     }
 ]
