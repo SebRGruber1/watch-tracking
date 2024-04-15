@@ -92946,6 +92946,10 @@
             {
                 "Date": "2024-04-10T00:09:59.749267",
                 "Price": 10950.0
+            },
+            {
+                "Date": "2024-04-15T16:11:44.858312",
+                "Price": "sold"
             }
         ]
     },
@@ -93202,6 +93206,10 @@
             {
                 "Date": "2024-04-11T16:08:32.958627",
                 "Price": 22850.0
+            },
+            {
+                "Date": "2024-04-15T16:11:44.858312",
+                "Price": "sold"
             }
         ]
     },
@@ -93308,6 +93316,21 @@
             {
                 "Date": "2024-04-12T00:10:02.461924",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "Rolex Gmt-Master Ii 116710Ln With Service Card",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "116710",
+        "Serial": "3619EXXX",
+        "Inventory": "/watches/1g7e",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-15T16:08:29.746787",
+                "Price": 11350.0
             }
         ]
     }
