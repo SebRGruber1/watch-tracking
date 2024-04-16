@@ -90306,6 +90306,10 @@
             {
                 "Date": "2024-03-26T16:11:49.473394",
                 "Price": 33850.0
+            },
+            {
+                "Date": "2024-04-16T16:14:46.412401",
+                "Price": 32850.0
             }
         ]
     },
@@ -93203,6 +93207,10 @@
             {
                 "Date": "2024-04-11T16:08:32.948215",
                 "Price": 7550.0
+            },
+            {
+                "Date": "2024-04-16T16:14:46.412401",
+                "Price": "sold"
             }
         ]
     },
@@ -93467,6 +93475,81 @@
             {
                 "Date": "2024-04-16T04:11:06.396541",
                 "Price": 6550.0
+            }
+        ]
+    },
+    {
+        "Title": "1976 Tudor Submariner 9411/0",
+        "Year": 1976,
+        "Brand": "Tudor",
+        "Model": "Submariner",
+        "Reference": "9411/0",
+        "Serial": "845XXX",
+        "Inventory": "/watches/w7to",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-16T16:08:56.818857",
+                "Price": 6550.0
+            }
+        ]
+    },
+    {
+        "Title": "1966 Rolex Submariner 5512 Gilt Dial With Service Card",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5512",
+        "Serial": "1475XXX",
+        "Inventory": "/watches/gcti",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-16T16:08:56.672035",
+                "Price": 36850.0
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex Explorer 114270",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "F578XXX",
+        "Inventory": "/watches/xq7g",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-16T16:08:56.726054",
+                "Price": 4950.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Explorer 14270",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "P269XXX",
+        "Inventory": "/watches/tuqe",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-16T16:08:56.838646",
+                "Price": 5250.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Submariner 16610 Tiffany & Co. Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "X457XXX",
+        "Inventory": "/watches/rntw",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-16T16:08:56.765479",
+                "Price": 16850.0
             }
         ]
     }
