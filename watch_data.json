@@ -92527,6 +92527,10 @@
             {
                 "Date": "2024-04-15T20:40:34.001522",
                 "Price": 9850.0
+            },
+            {
+                "Date": "2024-04-16T04:15:52.638690",
+                "Price": "sold"
             }
         ]
     },
@@ -93429,6 +93433,36 @@
             {
                 "Date": "2024-04-15T20:37:09.736613",
                 "Price": 5250.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex 18K Yg Day-Date 18238 Champagne Dial",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "R791XXX",
+        "Inventory": "/watches/ycbi",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-16T04:11:06.171220",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "2006 Rolex Explorer 114270",
+        "Year": 2006,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "Z051XXX",
+        "Inventory": "/watches/q95s",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-16T04:11:06.396541",
+                "Price": 6550.0
             }
         ]
     }
