@@ -92523,6 +92523,10 @@
             {
                 "Date": "2024-04-08T20:40:49.395324",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-04-15T20:40:34.001522",
+                "Price": 9850.0
             }
         ]
     },
@@ -93331,6 +93335,100 @@
             {
                 "Date": "2024-04-15T16:08:29.746787",
                 "Price": 11350.0
+            },
+            {
+                "Date": "2024-04-15T20:40:34.001522",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2004 Rolex Submariner 16610 With Papers",
+        "Year": 2004,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "F025XXX",
+        "Inventory": "/watches/liz3",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-15T20:37:09.637957",
+                "Price": 8950.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Explorer 124270 With Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "124270",
+        "Serial": "708S7XXX",
+        "Inventory": "/watches/sfmj",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-15T20:37:09.725412",
+                "Price": 7850.0
+            }
+        ]
+    },
+    {
+        "Title": "1973 Rolex Datejust 1601 Silver Linen Dial With Box And Papers",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1601",
+        "Serial": "3352XXX",
+        "Inventory": "/watches/qb1v",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-15T20:37:09.596000",
+                "Price": 5550.0
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex Explorer 114270 With Papers & Hang Tag",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "Y919XXX",
+        "Inventory": "/watches/q5rj",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-15T20:37:09.682451",
+                "Price": 5350.0
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex Explorer 114270 With Papers",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "Y933XXX",
+        "Inventory": "/watches/absd",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-15T20:37:09.781291",
+                "Price": 5250.0
+            }
+        ]
+    },
+    {
+        "Title": "2004 Rolex Explorer 114270 With Papers & Hang Tag",
+        "Year": 2004,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "F259XXX",
+        "Inventory": "/watches/8ou3",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-15T20:37:09.736613",
+                "Price": 5250.0
             }
         ]
     }
