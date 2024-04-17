@@ -93689,5 +93689,20 @@
                 "Price": 9350.0
             }
         ]
+    },
+    {
+        "Title": "1968 Rolex Submariner 5513 With Tropical Meters First Dial",
+        "Year": 1968,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "2202XXX",
+        "Inventory": "/watches/8pzt",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-17T00:11:31.519237",
+                "Price": 48950.0
+            }
+        ]
     }
 ]
