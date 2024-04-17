@@ -824,6 +824,10 @@
             {
                 "Date": "2024-03-14T12:16:02.722966",
                 "Price": 29650.0
+            },
+            {
+                "Date": "2024-04-16T20:43:48.267820",
+                "Price": 28950.0
             }
         ]
     },
@@ -90386,6 +90390,10 @@
             {
                 "Date": "2024-03-30T16:11:08.923323",
                 "Price": 8750.0
+            },
+            {
+                "Date": "2024-04-16T20:43:48.267820",
+                "Price": "sold"
             }
         ]
     },
@@ -92883,6 +92891,10 @@
             {
                 "Date": "2024-04-09T20:36:59.474712",
                 "Price": 8650.0
+            },
+            {
+                "Date": "2024-04-16T20:43:48.267820",
+                "Price": "sold"
             }
         ]
     },
@@ -93192,6 +93204,10 @@
             {
                 "Date": "2024-04-11T16:08:33.000565",
                 "Price": 9850.0
+            },
+            {
+                "Date": "2024-04-16T20:43:48.267820",
+                "Price": "sold"
             }
         ]
     },
@@ -93400,6 +93416,10 @@
             {
                 "Date": "2024-04-15T20:37:09.596000",
                 "Price": 5550.0
+            },
+            {
+                "Date": "2024-04-16T20:43:48.267820",
+                "Price": "sold"
             }
         ]
     },
@@ -93415,6 +93435,10 @@
             {
                 "Date": "2024-04-15T20:37:09.682451",
                 "Price": 5350.0
+            },
+            {
+                "Date": "2024-04-16T20:43:48.267820",
+                "Price": "sold"
             }
         ]
     },
@@ -93460,6 +93484,10 @@
             {
                 "Date": "2024-04-16T04:11:06.171220",
                 "Price": 9850.0
+            },
+            {
+                "Date": "2024-04-16T20:43:48.267820",
+                "Price": "sold"
             }
         ]
     },
@@ -93490,6 +93518,10 @@
             {
                 "Date": "2024-04-16T16:08:56.818857",
                 "Price": 6550.0
+            },
+            {
+                "Date": "2024-04-16T20:43:48.267820",
+                "Price": "sold"
             }
         ]
     },
@@ -93550,6 +93582,111 @@
             {
                 "Date": "2024-04-16T16:08:56.765479",
                 "Price": 16850.0
+            }
+        ]
+    },
+    {
+        "Title": "2018 Rolex Daytona 116500Ln White Dial With Box And Papers",
+        "Year": 2018,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "CZ242XXX",
+        "Inventory": "/watches/su5m",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-16T20:37:58.378853",
+                "Price": 29850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Gmt-Master 16710 Tritium Dial With Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16710",
+        "Serial": "U633XXX",
+        "Inventory": "/watches/bq3n",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-16T20:37:58.671494",
+                "Price": 12750.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Explorer 14270 With Tritium Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "N420XXX",
+        "Inventory": "/watches/aiov",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-16T20:37:58.552181",
+                "Price": 7550.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master 16700 Swiss Only Dial With Service Card",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "A521XXX",
+        "Inventory": "/watches/s97i",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-16T20:37:58.600418",
+                "Price": 10950.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Submariner 126610Lv With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "126610",
+        "Serial": "0G177XXX",
+        "Inventory": "/watches/s6lk",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-16T20:37:58.652670",
+                "Price": 14950.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Omega Speedmaster 3570.50.00 With Papers And Service Papers",
+        "Year": 2005,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "3570.50.00",
+        "Serial": "77152XXX",
+        "Inventory": "/watches/lkrd",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-16T20:37:58.673984",
+                "Price": 4850.0
+            }
+        ]
+    },
+    {
+        "Title": "1969 Rolex 18K Yg Day-Date 1803 Champagne Doorstop Dial",
+        "Year": 1969,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "1921XXX",
+        "Inventory": "/watches/qg82",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-16T20:37:58.730441",
+                "Price": 9350.0
             }
         ]
     }
