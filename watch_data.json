@@ -87517,6 +87517,10 @@
             {
                 "Date": "2024-03-06T15:10:27.591253",
                 "Price": 27850.0
+            },
+            {
+                "Date": "2024-04-17T20:42:05.833928",
+                "Price": 27550.0
             }
         ]
     },
@@ -92471,6 +92475,10 @@
             {
                 "Date": "2024-04-12T12:13:01.081057",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-04-17T20:42:05.833928",
+                "Price": 12550.0
             }
         ]
     },
@@ -93620,6 +93628,10 @@
             {
                 "Date": "2024-04-16T20:37:58.671494",
                 "Price": 12750.0
+            },
+            {
+                "Date": "2024-04-17T20:42:05.833928",
+                "Price": "sold"
             }
         ]
     },
@@ -93722,6 +93734,96 @@
             {
                 "Date": "2024-04-17T16:11:49.329183",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1972 Rolex 18K Yg Day-Date 1803 Champagne Dial",
+        "Year": 1972,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "3060XXX",
+        "Inventory": "/watches/lie8",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-17T20:37:10.725739",
+                "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Datejust 16220 Silver Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16220",
+        "Serial": "P387XXX",
+        "Inventory": "/watches/h3jq",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-17T20:37:12.029680",
+                "Price": 5250.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Submariner 16800 Matte Dial",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16800",
+        "Serial": "8107XXX",
+        "Inventory": "/watches/2kpc",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-17T20:37:10.953384",
+                "Price": 10950.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "U155XXX",
+        "Inventory": "/watches/pgwe",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-17T20:37:10.843103",
+                "Price": 13350.0
+            }
+        ]
+    },
+    {
+        "Title": "2004 Rolex Submariner 14060 With Papers & Service Card",
+        "Year": 2004,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "F515XXX",
+        "Inventory": "/watches/yjs8",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-17T20:37:10.882418",
+                "Price": 8850.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master 16700 Tritinova Dial With Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "A565XXX",
+        "Inventory": "/watches/s38n",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-17T20:37:10.923182",
+                "Price": 12950.0
             }
         ]
     }
