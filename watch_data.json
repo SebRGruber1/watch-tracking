@@ -89847,6 +89847,10 @@
             {
                 "Date": "2024-03-29T20:40:31.628777",
                 "Price": 19650.0
+            },
+            {
+                "Date": "2024-04-18T00:13:37.540838",
+                "Price": 19350.0
             }
         ]
     },
@@ -92031,6 +92035,10 @@
             {
                 "Date": "2024-03-25T16:09:07.076869",
                 "Price": 16850.0
+            },
+            {
+                "Date": "2024-04-18T00:13:37.540838",
+                "Price": 15350.0
             }
         ]
     },
@@ -93824,6 +93832,96 @@
             {
                 "Date": "2024-04-17T20:37:10.923182",
                 "Price": 12950.0
+            }
+        ]
+    },
+    {
+        "Title": "1972 Rolex Submariner 5512 4 Line Serif Dial",
+        "Year": 1972,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5512",
+        "Serial": "3332XXX",
+        "Inventory": "/watches/qlbk",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-18T00:10:29.287838",
+                "Price": 18350.0
+            }
+        ]
+    },
+    {
+        "Title": "1975 Rolex Date 1501 Matte Black Sigma Dial",
+        "Year": 1975,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "1501",
+        "Serial": "3866XXX",
+        "Inventory": "/watches/tjk8",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-18T00:10:29.356857",
+                "Price": 3950.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Gmt-Master 16700",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "T655XXX",
+        "Inventory": "/watches/gis1",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-18T00:10:29.394292",
+                "Price": 10550.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Gmt-Master Ii 16710 Swiss Only Dial With Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "U814XXX",
+        "Inventory": "/watches/eff4",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-18T00:10:29.273566",
+                "Price": 13250.0
+            }
+        ]
+    },
+    {
+        "Title": "1968 Rolex Submariner 5513 Serif Dial",
+        "Year": 1968,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "2294XXX",
+        "Inventory": "/watches/bqiw",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-18T00:10:29.384484",
+                "Price": 15650.0
+            }
+        ]
+    },
+    {
+        "Title": "1983 Rolex Submariner 5513 Mk 5 Maxi Dial",
+        "Year": 1983,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "7588XXX",
+        "Inventory": "/watches/bfav",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-18T00:10:29.025394",
+                "Price": 14850.0
             }
         ]
     }
