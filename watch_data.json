@@ -3291,6 +3291,10 @@
             {
                 "Date": "2024-04-23T23:18:47.819708",
                 "Price": 26850.0
+            },
+            {
+                "Date": "2024-04-24T17:15:15.185526",
+                "Price": "sold"
             }
         ]
     },
@@ -84233,6 +84237,10 @@
             {
                 "Date": "2024-04-23T23:18:47.819708",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-04-24T17:15:15.185526",
+                "Price": 31550.0
             }
         ]
     },
@@ -86552,6 +86560,10 @@
             {
                 "Date": "2024-02-05T21:01:02.136309",
                 "Price": 18850.0
+            },
+            {
+                "Date": "2024-04-24T17:15:15.185526",
+                "Price": 17850.0
             }
         ]
     },
@@ -92726,6 +92738,10 @@
             {
                 "Date": "2024-04-10T20:37:54.421367",
                 "Price": 22350.0
+            },
+            {
+                "Date": "2024-04-24T17:15:15.185526",
+                "Price": 21650.0
             }
         ]
     },
@@ -93857,6 +93873,66 @@
             {
                 "Date": "2024-04-24T14:14:47.324286",
                 "Price": 42850.0
+            }
+        ]
+    },
+    {
+        "Title": "1976 Rolex Date 1500 Blue Dial",
+        "Year": 1976,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "1500",
+        "Serial": "4144XXX",
+        "Inventory": "/watches/wnso",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-24T17:11:47.632525",
+                "Price": 3350.0
+            }
+        ]
+    },
+    {
+        "Title": "1962 Rolex Datejust 1601 Tropical Spear Tip Swiss Only Dial",
+        "Year": 1962,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1601",
+        "Serial": "778XXX",
+        "Inventory": "/watches/kanr",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-24T17:11:47.764647",
+                "Price": 3550.0
+            }
+        ]
+    },
+    {
+        "Title": "1967 Rolex Milgauss 1019 Silver Dial",
+        "Year": 1967,
+        "Brand": "Rolex",
+        "Model": "Milgauss",
+        "Reference": "1019",
+        "Serial": "1620XXX",
+        "Inventory": "/watches/1jzp",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-24T17:11:47.972732",
+                "Price": 23850.0
+            }
+        ]
+    },
+    {
+        "Title": "1964 Rolex 18K Wg Day-Date 1803 Silver Swiss Only Dial",
+        "Year": 1964,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "995XXX",
+        "Inventory": "/watches/jun6",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-24T17:11:47.802726",
+                "Price": 9750.0
             }
         ]
     }
