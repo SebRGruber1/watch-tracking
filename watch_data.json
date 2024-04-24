@@ -91675,6 +91675,10 @@
             {
                 "Date": "2024-03-20T20:38:07.327372",
                 "Price": 12850.0
+            },
+            {
+                "Date": "2024-04-23T20:40:54.794901",
+                "Price": 13250.0
             }
         ]
     },
@@ -94108,6 +94112,96 @@
             {
                 "Date": "2024-04-22T16:09:55.678657",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2020 Patek Philippe 18K Wg Flyback Chronograph Annual Calendar 5960/01 Tiffany & Co. Dial With Box And Papers",
+        "Year": 2020,
+        "Brand": "Patek philippe",
+        "Model": "Flyback chronograph annual calendar",
+        "Reference": "5960/01",
+        "Serial": "7253XXX",
+        "Inventory": "/watches/uxxo",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-23T20:37:42.165338",
+                "Price": 68550.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Zenith Daytona 16520 White Dial With Papers",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "W899XXX",
+        "Inventory": "/watches/fe9i",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-23T20:37:41.980809",
+                "Price": 25850.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Sea-Dweller 16600 With Papers",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "16600",
+        "Serial": "K974XXX",
+        "Inventory": "/watches/2cxe",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-23T20:37:42.122751",
+                "Price": 8950.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex 18K Yg Day-Date 18038A Champagne Dial",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "R507XXX",
+        "Inventory": "/watches/myfg",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-23T20:37:42.217667",
+                "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Gmt-Master Ii 126710Blnr With Papers & Hang Tag",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126710",
+        "Serial": "F90L2XXX",
+        "Inventory": "/watches/drcw",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-23T20:37:42.168134",
+                "Price": 16350.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Ladies Two-Tone Datejust 79173 Champagne Dial",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "79173",
+        "Serial": "P667XXX",
+        "Inventory": "/watches/m5eq",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-23T20:37:42.238534",
+                "Price": 3950.0
             }
         ]
     }
