@@ -2158,6 +2158,10 @@
             {
                 "Date": "2024-01-08T22:33:18.383548",
                 "Price": 6750.0
+            },
+            {
+                "Date": "2024-04-25T14:20:11.734595",
+                "Price": "sold"
             }
         ]
     },
@@ -90457,6 +90461,10 @@
             {
                 "Date": "2024-03-14T12:10:35.069426",
                 "Price": 24850.0
+            },
+            {
+                "Date": "2024-04-25T14:20:11.734595",
+                "Price": 23850.0
             }
         ]
     },
@@ -94097,6 +94105,36 @@
             {
                 "Date": "2024-04-24T20:56:05.799888",
                 "Price": 13250.0
+            }
+        ]
+    },
+    {
+        "Title": "1972 Rolex Explorer Ii 1655 Albino Dial",
+        "Year": 1972,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "1655",
+        "Serial": "3284XXX",
+        "Inventory": "/watches/mjr5",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-25T14:15:18.496971",
+                "Price": 25650.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Ladies Datejust 79174 White Roman Numeral Dial",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Ladies datejust",
+        "Reference": "79174",
+        "Serial": "K974XXX",
+        "Inventory": "/watches/xzk9",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-25T14:15:28.684900",
+                "Price": "sold"
             }
         ]
     }
