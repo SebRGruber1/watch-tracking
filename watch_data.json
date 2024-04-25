@@ -92577,6 +92577,10 @@
             {
                 "Date": "2024-04-14T18:26:47.667498",
                 "Price": 13850.0
+            },
+            {
+                "Date": "2024-04-25T17:16:49.051363",
+                "Price": "sold"
             }
         ]
     },
@@ -94135,6 +94139,66 @@
             {
                 "Date": "2024-04-25T14:15:28.684900",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex 18K Yg Day-Date 18238 Fossil Diamond Dial",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "S692XXX",
+        "Inventory": "/watches/avgb",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-25T17:13:28.614151",
+                "Price": 33850.0
+            }
+        ]
+    },
+    {
+        "Title": "1987 Rolex 18K Yg Day-Date 18038 Onyx Diamond Dial With Papers",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "9752XXX",
+        "Inventory": "/watches/xwct",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-25T17:13:28.349486",
+                "Price": 37850.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "K810XXX",
+        "Inventory": "/watches/vgvu",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-25T17:13:28.574660",
+                "Price": 13350.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Submariner 14060 Spider Dial With Papers",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "T576XXX",
+        "Inventory": "/watches/umgx",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-25T17:13:28.652626",
+                "Price": 9350.0
             }
         ]
     }
