@@ -94280,5 +94280,65 @@
                 "Price": 9350.0
             }
         ]
+    },
+    {
+        "Title": "1987 Rolex 18K Yg Day-Date 18038 With Service Card",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "9769XXX",
+        "Inventory": "/watches/gbdb",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-25T23:13:59.128848",
+                "Price": 15950.0
+            }
+        ]
+    },
+    {
+        "Title": "1962 Rolex Air-King 5500 Silver Dial With Service Papers",
+        "Year": 1962,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "5500",
+        "Serial": "773XXX",
+        "Inventory": "/watches/dq5x",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-25T23:13:59.291750",
+                "Price": 4350.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex 18K Yg Day-Date 18238 Champagne Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "W112XXX",
+        "Inventory": "/watches/cjpd",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-25T23:13:59.399543",
+                "Price": 15950.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Datejust 1601 Silver Dial With Service Papers",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1601",
+        "Serial": "5056XXX",
+        "Inventory": "/watches/ctp0",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-25T23:13:59.241231",
+                "Price": 3950.0
+            }
+        ]
     }
 ]
