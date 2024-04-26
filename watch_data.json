@@ -93751,6 +93751,10 @@
             {
                 "Date": "2024-04-23T20:37:42.168134",
                 "Price": 16350.0
+            },
+            {
+                "Date": "2024-04-25T20:58:56.341986",
+                "Price": "sold"
             }
         ]
     },
@@ -94198,6 +94202,81 @@
         "PriceHistory": [
             {
                 "Date": "2024-04-25T17:13:28.652626",
+                "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "1980 Rolex 18K Yg Day-Date 18038 Satin Champagne Baguette Ruby String Dial With Service Papers",
+        "Year": 1980,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "6473XXX",
+        "Inventory": "/watches/124q",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-25T20:54:00.645346",
+                "Price": 21550.0
+            }
+        ]
+    },
+    {
+        "Title": "1981 Audemars Piguet 18K Yg Royal Oak 5402Ba Grey Dial With Box And Service Papers",
+        "Year": 1981,
+        "Brand": "Audemars piguet",
+        "Model": "Royal oak",
+        "Reference": "5402",
+        "Serial": "B57XXX",
+        "Inventory": "/watches/kosl",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-25T20:54:00.703904",
+                "Price": 99850.0
+            }
+        ]
+    },
+    {
+        "Title": "1987 Rolex 18K Yg Day-Date 18038A Champagne Computer Dial",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "9432XXX",
+        "Inventory": "/watches/tm19",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-25T20:54:00.690180",
+                "Price": 16850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Gmt-Master Ii 16710 Swiss Only Dial With Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "U941XXX",
+        "Inventory": "/watches/drvs",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-25T20:54:00.620402",
+                "Price": 13250.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Submariner 14060 With Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "A836XXX",
+        "Inventory": "/watches/abd3",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-25T20:54:00.665805",
                 "Price": 9350.0
             }
         ]
