@@ -94224,6 +94224,10 @@
             {
                 "Date": "2024-04-25T17:13:28.574660",
                 "Price": 13350.0
+            },
+            {
+                "Date": "2024-04-26T20:57:21.199955",
+                "Price": "sold"
             }
         ]
     },
@@ -94359,6 +94363,10 @@
             {
                 "Date": "2024-04-25T23:13:59.399543",
                 "Price": 15950.0
+            },
+            {
+                "Date": "2024-04-26T20:57:21.199955",
+                "Price": "sold"
             }
         ]
     },
@@ -94374,6 +94382,96 @@
             {
                 "Date": "2024-04-25T23:13:59.241231",
                 "Price": 3950.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Red Submariner 1680 Mk 4 Dial With Box And Receipt From The Navy Exchange",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "2873XXX",
+        "Inventory": "/watches/mfr6",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-26T20:53:18.083266",
+                "Price": 24850.0
+            }
+        ]
+    },
+    {
+        "Title": "Tudor Heritage Chrono 70330N Black Dial",
+        "Year": null,
+        "Brand": "Tudor",
+        "Model": "Heritage chrono",
+        "Reference": "70330N",
+        "Serial": "J334XXX",
+        "Inventory": "/watches/ky3o",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-26T20:53:18.136655",
+                "Price": 3650.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Submariner 5513 Serif Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "2981XXX",
+        "Inventory": "/watches/fskl",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-26T20:53:18.314754",
+                "Price": 15850.0
+            }
+        ]
+    },
+    {
+        "Title": "2009 Rolex 18K Wg Daytona 116509 Matte Black Racing Dial With Papers",
+        "Year": 2009,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116509",
+        "Serial": "V584XXX",
+        "Inventory": "/watches/xn6k",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-26T20:53:18.173137",
+                "Price": 31850.0
+            }
+        ]
+    },
+    {
+        "Title": "1982 Rolex Submariner 5513 Mk 4 Maxi Dial",
+        "Year": 1982,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "7316XXX",
+        "Inventory": "/watches/7yix",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-26T20:53:18.307337",
+                "Price": 14750.0
+            }
+        ]
+    },
+    {
+        "Title": "1967 Rolex Submariner 5513",
+        "Year": 1967,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "2580XXX",
+        "Inventory": "/watches/4lqo",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-26T20:53:18.252682",
+                "Price": 13850.0
             }
         ]
     }
