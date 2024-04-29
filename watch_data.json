@@ -94392,6 +94392,10 @@
             {
                 "Date": "2024-04-25T23:13:59.291750",
                 "Price": 4350.0
+            },
+            {
+                "Date": "2024-04-29T17:14:40.934509",
+                "Price": "sold"
             }
         ]
     },
@@ -94543,6 +94547,81 @@
             {
                 "Date": "2024-04-29T14:15:30.131243",
                 "Price": 25650.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Date 15200 Silver Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "15200",
+        "Serial": "W812XXX",
+        "Inventory": "/watches/uv0z",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-29T17:11:13.172536",
+                "Price": 3950.0
+            }
+        ]
+    },
+    {
+        "Title": "2020 Rolex Mid Sized Yacht-Master 268622 Slate Dial With Box And Papers",
+        "Year": 2020,
+        "Brand": "Rolex",
+        "Model": "Yacht-master",
+        "Reference": "268622",
+        "Serial": "171ZQXXX",
+        "Inventory": "/watches/rtan",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-29T17:11:12.853042",
+                "Price": 10850.0
+            }
+        ]
+    },
+    {
+        "Title": "1974 Rolex Datejust 1603 Silver \"Sigma\" Dial With Box, Hang Tag & Service Papers",
+        "Year": 1974,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1603",
+        "Serial": "3664XXX",
+        "Inventory": "/watches/i6zy",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-29T17:11:13.108171",
+                "Price": 4650.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex 18K Wg Diamond Bezel Day-Date 18049 Silver Diamond Dial",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18049",
+        "Serial": "8358XXX",
+        "Inventory": "/watches/kf7o",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-29T17:11:13.218649",
+                "Price": 17350.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Explorer Ii 16570 White Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "W899XXX",
+        "Inventory": "/watches/2px3",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-29T17:11:13.223794",
+                "Price": 8650.0
             }
         ]
     }
