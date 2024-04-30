@@ -88776,6 +88776,10 @@
             {
                 "Date": "2024-02-26T19:36:18.354757",
                 "Price": 36550.0
+            },
+            {
+                "Date": "2024-04-29T20:58:47.563355",
+                "Price": 33550.0
             }
         ]
     },
@@ -92059,6 +92063,10 @@
             {
                 "Date": "2024-03-28T20:36:49.798669",
                 "Price": 18950.0
+            },
+            {
+                "Date": "2024-04-29T20:58:47.563355",
+                "Price": 18550.0
             }
         ]
     },
@@ -94622,6 +94630,51 @@
             {
                 "Date": "2024-04-29T17:11:13.223794",
                 "Price": 8650.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Gmt-Master 1675 Mk 4 Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "5581XXX",
+        "Inventory": "/watches/5dko",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-29T20:53:59.604589",
+                "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex Submariner 14060 With Papers",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "S564XXX",
+        "Inventory": "/watches/ngnn",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-29T20:53:59.710119",
+                "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "1987 Rolex 18K Yg Day-Date 18078 Champagne Dial",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18078",
+        "Serial": "9839XXX",
+        "Inventory": "/watches/7zr4",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-29T20:53:59.566870",
+                "Price": 14850.0
             }
         ]
     }
