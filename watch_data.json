@@ -85441,6 +85441,10 @@
             {
                 "Date": "2024-03-06T15:10:27.591253",
                 "Price": 87550.0
+            },
+            {
+                "Date": "2024-04-30T21:01:27.106854",
+                "Price": "sold"
             }
         ]
     },
@@ -92323,6 +92327,10 @@
             {
                 "Date": "2024-04-08T20:37:35.801176",
                 "Price": 7850.0
+            },
+            {
+                "Date": "2024-04-30T21:01:27.106854",
+                "Price": 7750.0
             }
         ]
     },
@@ -94699,6 +94707,126 @@
             {
                 "Date": "2024-04-29T20:53:59.566870",
                 "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "1973 Rolex 18K Yg Day-Date 1803 Champagne Dial With Service Papers",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "3462XXX",
+        "Inventory": "/watches/tvvh",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-30T20:58:06.400688",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "1973 Rolex Submariner 5512 Serif Dial With Box And Papers",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5512",
+        "Serial": "3332XXX",
+        "Inventory": "/watches/reey",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-30T20:58:06.603544",
+                "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Air-King 14000 Domino'S Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "14000",
+        "Serial": "A128XXX",
+        "Inventory": "/watches/qyv3",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-30T20:58:06.653007",
+                "Price": 9750.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Daytona 116500Ln Black Dial With Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "T9334XXX",
+        "Inventory": "/watches/ko5a",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-30T20:58:06.675970",
+                "Price": 24550.0
+            }
+        ]
+    },
+    {
+        "Title": "1967 Rolex Submariner 5513 Meters First Dial",
+        "Year": 1967,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "1668XXX",
+        "Inventory": "/watches/qmhx",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-30T20:58:06.584048",
+                "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Explorer 124270 With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "124270",
+        "Serial": "M0S23XXX",
+        "Inventory": "/watches/ljug",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-30T20:58:06.740648",
+                "Price": 7750.0
+            }
+        ]
+    },
+    {
+        "Title": "2017 Rolex Sea-Dweller 116600 With Papers",
+        "Year": 2017,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "116600",
+        "Serial": "V886QXXX",
+        "Inventory": "/watches/ezzt",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-30T20:58:06.506091",
+                "Price": 14350.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Ladies Oyster Perpetual 76030 Black Dial",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Ladies oyster perpetual",
+        "Reference": "76030",
+        "Serial": "Y742XXX",
+        "Inventory": "/watches/628p",
+        "PriceHistory": [
+            {
+                "Date": "2024-04-30T20:58:06.716624",
+                "Price": 1950.0
             }
         ]
     }
