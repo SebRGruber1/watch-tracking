@@ -1827,6 +1827,10 @@
             {
                 "Date": "2024-01-08T22:33:18.051300",
                 "Price": 4250.0
+            },
+            {
+                "Date": "2024-05-01T20:59:48.828916",
+                "Price": "sold"
             }
         ]
     },
@@ -2223,6 +2227,10 @@
             {
                 "Date": "2024-01-08T22:33:18.439027",
                 "Price": 6550.0
+            },
+            {
+                "Date": "2024-05-01T20:59:48.828916",
+                "Price": "sold"
             }
         ]
     },
@@ -88583,6 +88591,10 @@
             {
                 "Date": "2024-04-08T16:13:27.485740",
                 "Price": 14950.0
+            },
+            {
+                "Date": "2024-05-01T20:59:48.828916",
+                "Price": "sold"
             }
         ]
     },
@@ -88792,6 +88804,10 @@
             {
                 "Date": "2024-04-29T20:58:47.563355",
                 "Price": 33550.0
+            },
+            {
+                "Date": "2024-05-01T20:59:48.828916",
+                "Price": "sold"
             }
         ]
     },
@@ -91168,6 +91184,10 @@
             {
                 "Date": "2024-04-16T12:14:05.876854",
                 "Price": 17950.0
+            },
+            {
+                "Date": "2024-05-01T20:59:48.828916",
+                "Price": 19850.0
             }
         ]
     },
@@ -94760,6 +94780,10 @@
             {
                 "Date": "2024-04-30T20:58:06.653007",
                 "Price": 9750.0
+            },
+            {
+                "Date": "2024-05-01T20:59:48.828916",
+                "Price": "sold"
             }
         ]
     },
@@ -94858,6 +94882,126 @@
             {
                 "Date": "2024-05-01T02:17:22.111489",
                 "Price": 4250.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Submariner 16610 Swiss Only Dial With Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "U965XXX",
+        "Inventory": "/watches/jh4k",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-01T20:53:52.132035",
+                "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master Ii 16710 Swiss Only Dial With Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "A352XXX",
+        "Inventory": "/watches/g1my",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-01T20:53:52.302709",
+                "Price": 13250.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex Daytona 126500Lv Black Dial With Box And Papers",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "126500",
+        "Serial": "F6728XXX",
+        "Inventory": "/watches/fxdb",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-01T20:53:52.245274",
+                "Price": 29850.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Submariner 16610 With Papers",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "X469XXX",
+        "Inventory": "/watches/1bbc",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-01T20:53:52.311442",
+                "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Chopard Alpine Eagle 41 Xps Monte Rosa Pink Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Chopard",
+        "Model": "Alpine eagle",
+        "Reference": "",
+        "Serial": "4316XXX",
+        "Inventory": "/watches/2ps5",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-01T20:53:52.394369",
+                "Price": 27350.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex Submariner 16610",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "R719XXX",
+        "Inventory": "/watches/fsgl",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-01T20:53:52.436016",
+                "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "1971 Rolex Gmt-Master 1675 With Box And Pamphlets",
+        "Year": 1971,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "2985XXX",
+        "Inventory": "/watches/s3mm",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-01T20:53:52.462539",
+                "Price": 15350.0
+            }
+        ]
+    },
+    {
+        "Title": "Monochrome X Habring Mono Pusher Chrono Salmon Sector Dial With Box And Pamphlet",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Monocrhome",
+        "Reference": "31/33",
+        "Serial": "XXX",
+        "Inventory": "/watches/af35",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-01T20:53:52.330646",
+                "Price": 9850.0
             }
         ]
     }
