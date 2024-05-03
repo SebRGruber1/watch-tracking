@@ -1356,6 +1356,10 @@
             {
                 "Date": "2024-04-23T23:18:47.819708",
                 "Price": 38850.0
+            },
+            {
+                "Date": "2024-05-03T02:20:20.450410",
+                "Price": "sold"
             }
         ]
     },
@@ -86873,6 +86877,10 @@
             {
                 "Date": "2024-02-05T20:57:57.809013",
                 "Price": 35850.0
+            },
+            {
+                "Date": "2024-05-03T02:20:20.450410",
+                "Price": "sold"
             }
         ]
     },
@@ -89828,6 +89836,10 @@
             {
                 "Date": "2024-03-06T19:30:00.800869",
                 "Price": 3650.0
+            },
+            {
+                "Date": "2024-05-03T02:20:20.450410",
+                "Price": "sold"
             }
         ]
     },
@@ -94498,6 +94510,10 @@
             {
                 "Date": "2024-04-25T23:13:59.241231",
                 "Price": 3950.0
+            },
+            {
+                "Date": "2024-05-03T02:20:20.450410",
+                "Price": "sold"
             }
         ]
     },
@@ -95052,6 +95068,10 @@
             {
                 "Date": "2024-05-02T20:56:52.929079",
                 "Price": 34550.0
+            },
+            {
+                "Date": "2024-05-03T02:20:20.450410",
+                "Price": "sold"
             }
         ]
     },
@@ -95202,6 +95222,51 @@
             {
                 "Date": "2024-05-02T23:13:59.923152",
                 "Price": 7850.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex 18K Yg Daytona 16528 Black Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16528",
+        "Serial": "W550XXX",
+        "Inventory": "/watches/x4d2",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-03T02:16:12.762749",
+                "Price": 31550.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex 18K Yg Daytona 16528 White Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16528",
+        "Serial": "A378XXX",
+        "Inventory": "/watches/boar",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-03T02:16:12.703763",
+                "Price": 31850.0
+            }
+        ]
+    },
+    {
+        "Title": "1990 Rolex 18K Yg Day-Date 18238 Champagne Dial With Papers",
+        "Year": 1990,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "E279XXX",
+        "Inventory": "/watches/7ptl",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-03T02:16:12.724737",
+                "Price": 16850.0
             }
         ]
     }
