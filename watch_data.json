@@ -95159,5 +95159,50 @@
                 "Price": 13350.0
             }
         ]
+    },
+    {
+        "Title": "1995 Rolex 18K Yg Submariner 16618 Blue Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16618",
+        "Serial": "W510XXX",
+        "Inventory": "/watches/lmsa",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-02T23:13:59.892471",
+                "Price": 26550.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Explorer Ii 16570 White Tritinova Dial With Papers Originally Sold In Kuala Lumpur",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "U791XXX",
+        "Inventory": "/watches/l2um",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-02T23:14:00.069961",
+                "Price": 8950.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Explorer Ii 16570 White Swiss Only Dial Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "A345XXX",
+        "Inventory": "/watches/eaax",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-02T23:13:59.923152",
+                "Price": 7850.0
+            }
+        ]
     }
 ]
