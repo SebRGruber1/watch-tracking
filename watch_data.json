@@ -4082,6 +4082,10 @@
             {
                 "Date": "2024-04-23T23:18:47.819708",
                 "Price": 17350.0
+            },
+            {
+                "Date": "2024-05-06T17:15:51.903254",
+                "Price": 16850.0
             }
         ]
     },
@@ -85755,6 +85759,10 @@
             {
                 "Date": "2024-02-05T15:27:48.176342",
                 "Price": 25650.0
+            },
+            {
+                "Date": "2024-05-06T17:15:51.903254",
+                "Price": "sold"
             }
         ]
     },
@@ -92843,6 +92851,10 @@
             {
                 "Date": "2024-04-22T20:42:33.527530",
                 "Price": 5950.0
+            },
+            {
+                "Date": "2024-05-06T17:15:51.903254",
+                "Price": "sold"
             }
         ]
     },
@@ -93469,6 +93481,10 @@
             {
                 "Date": "2024-05-06T14:22:45.469145",
                 "Price": 28950.0
+            },
+            {
+                "Date": "2024-05-06T17:15:51.903254",
+                "Price": "sold"
             }
         ]
     },
@@ -94158,6 +94174,10 @@
             {
                 "Date": "2024-04-24T17:11:47.972732",
                 "Price": 23850.0
+            },
+            {
+                "Date": "2024-05-06T17:15:51.903254",
+                "Price": 22850.0
             }
         ]
     },
@@ -95117,6 +95137,10 @@
             {
                 "Date": "2024-05-02T20:56:52.823714",
                 "Price": 29550.0
+            },
+            {
+                "Date": "2024-05-06T17:15:51.903254",
+                "Price": 28650.0
             }
         ]
     },
@@ -95181,6 +95205,10 @@
             {
                 "Date": "2024-05-02T20:56:52.997237",
                 "Price": 18350.0
+            },
+            {
+                "Date": "2024-05-06T17:15:51.903254",
+                "Price": "sold"
             }
         ]
     },
@@ -95339,6 +95367,81 @@
             {
                 "Date": "2024-05-03T02:16:12.724737",
                 "Price": 16850.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex 18K Rg Daytona 116505 Black Dial With Box And Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116505",
+        "Serial": "K664XXXX",
+        "Inventory": "/watches/xx37",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-06T17:12:03.978806",
+                "Price": 41550.0
+            }
+        ]
+    },
+    {
+        "Title": "1983 Rolex Gmt-Master 16750",
+        "Year": 1983,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16750",
+        "Serial": "8068XXX",
+        "Inventory": "/watches/mpti",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-06T17:12:03.981049",
+                "Price": 16850.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Red Submariner 1680 Mk 5 Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "2505XXX",
+        "Inventory": "/watches/mpre",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-06T17:12:03.983932",
+                "Price": 21350.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex 18K Yg Gmt-Master Ii 126718Grnr With Box And Papers",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126718",
+        "Serial": "50V21XXX",
+        "Inventory": "/watches/iedw",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-06T17:12:04.003398",
+                "Price": 41850.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Submariner 126610Lv With Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "126610",
+        "Serial": "05B8EXXX",
+        "Inventory": "/watches/4yht",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-06T17:12:04.029765",
+                "Price": 14850.0
             }
         ]
     }
