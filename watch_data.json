@@ -95460,5 +95460,65 @@
                 "Price": 14850.0
             }
         ]
+    },
+    {
+        "Title": "1999 Rolex Daytona 16520 Black Dial With Papers & Hang Tag",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "A986XXX",
+        "Inventory": "/watches/pf5k",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-07T02:16:51.846637",
+                "Price": 24850.0
+            }
+        ]
+    },
+    {
+        "Title": "2004 Rolex Explorer 114270",
+        "Year": 2004,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "F580XXX",
+        "Inventory": "/watches/cqew",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-07T02:16:52.164420",
+                "Price": 4950.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Submariner 5513 With Box And Papers From Milano",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "2618XXX",
+        "Inventory": "/watches/cgf5",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-07T02:16:52.157155",
+                "Price": 16750.0
+            }
+        ]
+    },
+    {
+        "Title": "2009 Rolex Sea-Dweller 16600 With Box And Papers",
+        "Year": 2009,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "16600",
+        "Serial": "M687XXX",
+        "Inventory": "/watches/2bce",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-07T02:16:52.224118",
+                "Price": 9650.0
+            }
+        ]
     }
 ]
