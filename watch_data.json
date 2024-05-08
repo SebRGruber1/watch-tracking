@@ -94984,6 +94984,10 @@
             {
                 "Date": "2024-04-30T20:58:06.506091",
                 "Price": 14350.0
+            },
+            {
+                "Date": "2024-05-08T14:19:43.080208",
+                "Price": "sold"
             }
         ]
     },
@@ -95644,6 +95648,85 @@
             {
                 "Date": "2024-05-07T20:44:53.936498",
                 "Price": 28550.0
+            },
+            {
+                "Date": "2024-05-08T14:19:43.080208",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1985 Rolex Gmt-Master 16750 No \"Date\" Dial With Box, Papers & Service Papers",
+        "Year": 1985,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16750",
+        "Serial": "8659XXX",
+        "Inventory": "/watches/wuer",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-08T14:16:09.780290",
+                "Price": 12950.0
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex Two-Tone Daytona 16523 Inverted \"6\" Champagne Dial",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16523",
+        "Serial": "S865XXX",
+        "Inventory": "/watches/n2jh",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-08T14:16:10.125077",
+                "Price": 13950.0
+            }
+        ]
+    },
+    {
+        "Title": "1979 Rolex Two-Tone Oysterquartz Datejust 17013 Champagne Dial",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Oysterquartz datejust",
+        "Reference": "17013",
+        "Serial": "6404XXX",
+        "Inventory": "/watches/efvt",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-08T14:16:10.036642",
+                "Price": 5250.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Zenith Daytona 16520 Black Dial",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "T220XXX",
+        "Inventory": "/watches/hyah",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-08T14:16:10.160669",
+                "Price": 21850.0
+            }
+        ]
+    },
+    {
+        "Title": "1969 Grand Seiko Hi-Beat 4520-8000",
+        "Year": 1969,
+        "Brand": "Seiko",
+        "Model": "Hi-beat",
+        "Reference": "4520-8000",
+        "Serial": "961XXX",
+        "Inventory": "/watches/nz1z",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-08T14:16:10.033898",
+                "Price": 1350.0
             }
         ]
     }
