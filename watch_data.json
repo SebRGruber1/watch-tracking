@@ -87953,6 +87953,10 @@
             {
                 "Date": "2024-04-08T16:13:27.485740",
                 "Price": 76850.0
+            },
+            {
+                "Date": "2024-05-07T20:48:25.538080",
+                "Price": 73850.0
             }
         ]
     },
@@ -95625,6 +95629,21 @@
             {
                 "Date": "2024-05-07T17:11:26.780590",
                 "Price": 5150.0
+            }
+        ]
+    },
+    {
+        "Title": "1971 Rolex Explorer Ii 1655 Mk 1 Dial With Papers",
+        "Year": 1971,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "1655",
+        "Serial": "2770XXX",
+        "Inventory": "/watches/szqr",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-07T20:44:53.936498",
+                "Price": 28550.0
             }
         ]
     }
