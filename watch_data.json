@@ -85309,6 +85309,10 @@
             {
                 "Date": "2024-02-20T15:14:01.961236",
                 "Price": 25850.0
+            },
+            {
+                "Date": "2024-05-08T20:59:02.678909",
+                "Price": "sold"
             }
         ]
     },
@@ -94334,6 +94338,10 @@
             {
                 "Date": "2024-04-24T20:56:05.813590",
                 "Price": 15350.0
+            },
+            {
+                "Date": "2024-05-08T20:59:02.678909",
+                "Price": "sold"
             }
         ]
     },
@@ -95543,6 +95551,10 @@
             {
                 "Date": "2024-05-07T02:16:52.157155",
                 "Price": 16750.0
+            },
+            {
+                "Date": "2024-05-08T20:59:02.678909",
+                "Price": "sold"
             }
         ]
     },
@@ -95735,6 +95747,66 @@
             {
                 "Date": "2024-05-08T17:17:28.615007",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex 18K Yg Day-Date 118208 Silver Dial With Box And Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "118208",
+        "Serial": "P437XXX",
+        "Inventory": "/watches/ghxx",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-08T20:54:58.668840",
+                "Price": 21850.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex Daytona 116500Ln White Dial With Box And Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "0209KXXX",
+        "Inventory": "/watches/45uw",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-08T20:54:58.512972",
+                "Price": 28550.0
+            }
+        ]
+    },
+    {
+        "Title": "1990 Rolex Two-Tone Datejust 16233 Tropical Dial With Box And Papers",
+        "Year": 1990,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16233",
+        "Serial": "E374XXX",
+        "Inventory": "/watches/8dhk",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-08T20:54:58.724152",
+                "Price": 6450.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Explorer 14270 Swiss Only Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "U954XXX",
+        "Inventory": "/watches/2jrs",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-08T20:54:58.634041",
+                "Price": 5150.0
             }
         ]
     }
