@@ -89164,6 +89164,10 @@
             {
                 "Date": "2024-04-04T20:40:47.912911",
                 "Price": 5350.0
+            },
+            {
+                "Date": "2024-05-09T02:20:48.103383",
+                "Price": "sold"
             }
         ]
     },
@@ -95807,6 +95811,66 @@
             {
                 "Date": "2024-05-08T20:54:58.634041",
                 "Price": 5150.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Explorer Ii 16550 Black Spider Rail Dial",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16550",
+        "Serial": "8399XXX",
+        "Inventory": "/watches/vtif",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T02:16:33.739791",
+                "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Explorer 14270 Frost Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "X499XXX",
+        "Inventory": "/watches/oj7l",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T02:16:33.510709",
+                "Price": 7350.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Submariner 14060 With Box And Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "K848XXX",
+        "Inventory": "/watches/lbuk",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T02:16:33.792365",
+                "Price": 9650.0
+            }
+        ]
+    },
+    {
+        "Title": "2009 Rolex 18K Rg Daytona 116505 Black Dial With Box And Papers",
+        "Year": 2009,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116505",
+        "Serial": "V931XXX",
+        "Inventory": "/watches/kpgs",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T02:16:33.732421",
+                "Price": 40850.0
             }
         ]
     }
