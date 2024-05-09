@@ -86183,6 +86183,10 @@
             {
                 "Date": "2024-04-01T12:15:24.429048",
                 "Price": 10250.0
+            },
+            {
+                "Date": "2024-05-09T17:18:03.087280",
+                "Price": "sold"
             }
         ]
     },
@@ -89168,6 +89172,10 @@
             {
                 "Date": "2024-05-09T02:20:48.103383",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-05-09T17:18:03.087280",
+                "Price": 5250.0
             }
         ]
     },
@@ -89633,6 +89641,10 @@
             {
                 "Date": "2024-04-01T12:15:24.429048",
                 "Price": 7350.0
+            },
+            {
+                "Date": "2024-05-09T17:18:03.087280",
+                "Price": 6950.0
             }
         ]
     },
@@ -91053,6 +91065,10 @@
             {
                 "Date": "2024-05-04T21:01:29.404712",
                 "Price": 16850.0
+            },
+            {
+                "Date": "2024-05-09T17:18:03.087280",
+                "Price": 16550.0
             }
         ]
     },
@@ -94248,6 +94264,10 @@
             {
                 "Date": "2024-04-24T20:56:05.909850",
                 "Price": 17350.0
+            },
+            {
+                "Date": "2024-05-09T17:18:03.087280",
+                "Price": "sold"
             }
         ]
     },
@@ -95620,6 +95640,10 @@
             {
                 "Date": "2024-05-07T14:16:03.051904",
                 "Price": 32850.0
+            },
+            {
+                "Date": "2024-05-09T17:18:03.087280",
+                "Price": "sold"
             }
         ]
     },
@@ -95797,6 +95821,10 @@
             {
                 "Date": "2024-05-08T20:54:58.512972",
                 "Price": 28550.0
+            },
+            {
+                "Date": "2024-05-09T17:18:03.087280",
+                "Price": "sold"
             }
         ]
     },
@@ -95902,6 +95930,51 @@
             {
                 "Date": "2024-05-09T14:15:51.623790",
                 "Price": 15500.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Gmt-Master 1675 Black Nipple Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "5454XXX",
+        "Inventory": "/watches/qqlm",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T17:13:02.562233",
+                "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "1966 Rolex Datejust 1603 Gilt Dial",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1603",
+        "Serial": "1452XXX",
+        "Inventory": "/watches/jryu",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T17:13:02.642527",
+                "Price": 7950.0
+            }
+        ]
+    },
+    {
+        "Title": "Cartier 18K Yg Tank Louis With Box And Garantie",
+        "Year": null,
+        "Brand": "Cartier",
+        "Model": "Tank louis",
+        "Reference": "",
+        "Serial": "7808710XXX",
+        "Inventory": "/watches/2ddd",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T17:13:02.591759",
+                "Price": 7850.0
             }
         ]
     }
