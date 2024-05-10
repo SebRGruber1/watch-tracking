@@ -91451,6 +91451,10 @@
             {
                 "Date": "2024-05-09T14:21:55.228479",
                 "Price": 67550.0
+            },
+            {
+                "Date": "2024-05-09T20:58:19.942708",
+                "Price": "sold"
             }
         ]
     },
@@ -95723,6 +95727,10 @@
             {
                 "Date": "2024-05-08T14:16:09.780290",
                 "Price": 12950.0
+            },
+            {
+                "Date": "2024-05-09T20:58:19.942708",
+                "Price": "sold"
             }
         ]
     },
@@ -95855,6 +95863,10 @@
             {
                 "Date": "2024-05-08T20:54:58.634041",
                 "Price": 5150.0
+            },
+            {
+                "Date": "2024-05-09T20:58:19.942708",
+                "Price": "sold"
             }
         ]
     },
@@ -95885,6 +95897,10 @@
             {
                 "Date": "2024-05-09T02:16:33.510709",
                 "Price": 7350.0
+            },
+            {
+                "Date": "2024-05-09T20:58:19.942708",
+                "Price": "sold"
             }
         ]
     },
@@ -95945,6 +95961,10 @@
             {
                 "Date": "2024-05-09T17:13:02.562233",
                 "Price": 9350.0
+            },
+            {
+                "Date": "2024-05-09T20:58:19.942708",
+                "Price": "sold"
             }
         ]
     },
@@ -95960,6 +95980,10 @@
             {
                 "Date": "2024-05-09T17:13:02.642527",
                 "Price": 7950.0
+            },
+            {
+                "Date": "2024-05-09T20:58:19.942708",
+                "Price": "sold"
             }
         ]
     },
@@ -95975,6 +95999,231 @@
             {
                 "Date": "2024-05-09T17:13:02.591759",
                 "Price": 7850.0
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex Explorer Ii 16570 White Luminova Dial",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "S563XXX",
+        "Inventory": "/watches/smmv",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T20:54:52.596307",
+                "Price": 6950.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Explorer Ii 16570 White Tritium Dial With Box And Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "U583XXX",
+        "Inventory": "/watches/z0ne",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T20:54:52.434700",
+                "Price": 8850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Explorer Ii 16570 White Swiss Only Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "U853XXX",
+        "Inventory": "/watches/y8dm",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T20:54:52.533349",
+                "Price": 6950.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Explorer Ii 16570 White Dial",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "K922XXX",
+        "Inventory": "/watches/xlcs",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T20:54:52.663499",
+                "Price": 7850.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Explorer Ii 16570 White Dial With Papers & Hang Tag",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "P650XXX",
+        "Inventory": "/watches/szkv",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T20:54:52.635143",
+                "Price": 8350.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Explorer Ii 16570 White Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "W665XXX",
+        "Inventory": "/watches/rjf2",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T20:54:52.682272",
+                "Price": 8350.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Explorer Ii 16570 White Swiss Only Dial With Papers & Hang Tag",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "A219XXX",
+        "Inventory": "/watches/lzhe",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T20:54:52.569932",
+                "Price": 8350.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Explorer 14270 Swiss Only Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "A422XXX",
+        "Inventory": "/watches/qs9l",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T20:54:52.685515",
+                "Price": 5250.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Explorer Ii 16570 White Dial",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "Y291XXX",
+        "Inventory": "/watches/rqkq",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T20:54:52.515311",
+                "Price": 7650.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "P212XXX",
+        "Inventory": "/watches/ipfr",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T20:54:52.643042",
+                "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex 18K Yg Submariner 16618 Blue Dial",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16618",
+        "Serial": "S428XXX",
+        "Inventory": "/watches/z57q",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T20:54:52.656552",
+                "Price": 24350.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Explorer 14270",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "A800XXX",
+        "Inventory": "/watches/l5b5",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T20:54:52.736281",
+                "Price": 5250.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex Daytona 116500 White Dial With Box And Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "20C26XXX",
+        "Inventory": "/watches/rypt",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T20:54:53.148996",
+                "Price": 28550.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex Daytona 116500 Black Dial With Box And Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "2G627XXX",
+        "Inventory": "/watches/4n76",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T20:54:53.138596",
+                "Price": 24850.0
+            }
+        ]
+    },
+    {
+        "Title": "1983 Rolex Sea-Dweller 1665",
+        "Year": 1983,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "1665",
+        "Serial": "8063XXX",
+        "Inventory": "/watches/jdbm",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-09T20:54:53.194586",
+                "Price": 14950.0
             }
         ]
     }
