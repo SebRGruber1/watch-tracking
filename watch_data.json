@@ -2783,6 +2783,10 @@
             {
                 "Date": "2024-01-08T22:33:19.230177",
                 "Price": 22850.0
+            },
+            {
+                "Date": "2024-05-13T14:17:55.420657",
+                "Price": "sold"
             }
         ]
     },
@@ -96312,6 +96316,21 @@
             {
                 "Date": "2024-05-09T20:54:53.194586",
                 "Price": 14950.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Gmt-Master Ii 16710 Tritinova Dial With Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "U745XXX",
+        "Inventory": "/watches/3vil",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-13T14:14:27.888231",
+                "Price": 13250.0
             }
         ]
     }
