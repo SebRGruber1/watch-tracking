@@ -96390,5 +96390,35 @@
                 "Price": 10350.0
             }
         ]
+    },
+    {
+        "Title": "2004 Rolex Sea-Dweller 16600 With Papers & Hang Tag",
+        "Year": 2004,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "16600",
+        "Serial": "F591XXX",
+        "Inventory": "/watches/wdmw",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-13T23:14:49.093422",
+                "Price": 9650.0
+            }
+        ]
+    },
+    {
+        "Title": "1963 Rolex Explorer 1016 Gilt Chapter Ring Spider Dial",
+        "Year": 1963,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "1016",
+        "Serial": "901XXX",
+        "Inventory": "/watches/sbbw",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-13T23:14:48.901654",
+                "Price": 22550.0
+            }
+        ]
     }
 ]
