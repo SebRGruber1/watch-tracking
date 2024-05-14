@@ -94561,6 +94561,10 @@
             {
                 "Date": "2024-04-25T20:54:00.703904",
                 "Price": 99850.0
+            },
+            {
+                "Date": "2024-05-13T20:59:08.287659",
+                "Price": 89550.0
             }
         ]
     },
@@ -95617,6 +95621,10 @@
             {
                 "Date": "2024-05-07T02:16:51.846637",
                 "Price": 24850.0
+            },
+            {
+                "Date": "2024-05-13T20:59:08.287659",
+                "Price": "sold"
             }
         ]
     },
@@ -95882,6 +95890,10 @@
             {
                 "Date": "2024-05-08T20:54:58.668840",
                 "Price": 21850.0
+            },
+            {
+                "Date": "2024-05-13T20:59:08.287659",
+                "Price": "sold"
             }
         ]
     },
@@ -96331,6 +96343,51 @@
             {
                 "Date": "2024-05-13T14:14:27.888231",
                 "Price": 13250.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Gmt-Master 16700 Tritium Dial With Papers & Hang Tag",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "U608XXX",
+        "Inventory": "/watches/wxjy",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-13T20:55:43.030000",
+                "Price": 12950.0
+            }
+        ]
+    },
+    {
+        "Title": "1968 Rolex Submariner 5513 With Meters First Dial With Box And Story Letter",
+        "Year": 1968,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "2002XXX",
+        "Inventory": "/watches/qvg0",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-13T20:55:43.298016",
+                "Price": 28950.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Submariner 16600 Swiss Only Dial Full Set",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16600",
+        "Serial": "A387XXX",
+        "Inventory": "/watches/ri66",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-13T20:55:43.305687",
+                "Price": 10350.0
             }
         ]
     }
