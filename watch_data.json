@@ -94223,6 +94223,10 @@
             {
                 "Date": "2024-05-10T20:57:40.079628",
                 "Price": 69550.0
+            },
+            {
+                "Date": "2024-05-14T21:00:49.875834",
+                "Price": 67550.0
             }
         ]
     },
@@ -96474,6 +96478,66 @@
             {
                 "Date": "2024-05-13T23:14:48.901654",
                 "Price": 22550.0
+            }
+        ]
+    },
+    {
+        "Title": "1967 Rolex Gmt-Master 1675 Mk 1 Dial With Fuchsia Bezel",
+        "Year": 1967,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "1712XXX",
+        "Inventory": "/watches/mxwp",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-14T20:55:41.153256",
+                "Price": 22350.0
+            }
+        ]
+    },
+    {
+        "Title": "2007 Rolex 18K Wg Daytona 116519 Meteorite Dial With Box And Papers",
+        "Year": 2007,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116519",
+        "Serial": "M296XXX",
+        "Inventory": "/watches/72pn",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-14T20:55:40.926254",
+                "Price": 45350.0
+            }
+        ]
+    },
+    {
+        "Title": "Lang & Heyne Hektor Green Dial With Box And Pamphlet",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Dresden",
+        "Reference": "1 of 99",
+        "Serial": "1 of XXX",
+        "Inventory": "/watches/dbrd",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-14T20:55:41.034746",
+                "Price": 21550.0
+            }
+        ]
+    },
+    {
+        "Title": "1965 Omega Speedmaster Professional 105.012 With Case And Hat",
+        "Year": 1965,
+        "Brand": "Omega",
+        "Model": "Speedmaster professional",
+        "Reference": "105.012",
+        "Serial": "24003XXX",
+        "Inventory": "/watches/2npf",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-14T20:55:40.987464",
+                "Price": 9350.0
             }
         ]
     }
