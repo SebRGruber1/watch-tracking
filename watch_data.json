@@ -96572,5 +96572,125 @@
                 "Price": 9350.0
             }
         ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master 16700 Swiss Only Dial With Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "A196XXX",
+        "Inventory": "/watches/eixf",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-15T20:55:53.713910",
+                "Price": 12950.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master Ii 16710",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "A869XXX",
+        "Inventory": "/watches/yrri",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-15T20:55:54.106416",
+                "Price": 10950.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master Ii 16710",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "A719XXX",
+        "Inventory": "/watches/8aue",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-15T20:55:54.053920",
+                "Price": 10950.0
+            }
+        ]
+    },
+    {
+        "Title": "2004 Rolex Submariner 14060M With Papers",
+        "Year": 2004,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "D066XXX",
+        "Inventory": "/watches/lddr",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-15T20:55:54.002769",
+                "Price": 9550.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Submariner 14060 With Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "P753XXX",
+        "Inventory": "/watches/prli",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-15T20:55:54.061550",
+                "Price": 9750.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "K897XXX",
+        "Inventory": "/watches/jcte",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-15T20:55:54.125262",
+                "Price": 12950.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Two-Tone Submariner 16613 With Box And Papers",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16613",
+        "Serial": "Y381XXX",
+        "Inventory": "/watches/rwff",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-15T20:55:53.943028",
+                "Price": 10750.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Datejust 16233 Pearlescent Jubilee Saudi Dial With Saudi Box And Pamphlets",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16233",
+        "Serial": "T792XXX",
+        "Inventory": "/watches/9oec",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-15T20:55:54.040424",
+                "Price": 8850.0
+            }
+        ]
     }
 ]
