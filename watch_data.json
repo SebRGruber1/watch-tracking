@@ -53,6 +53,10 @@
             {
                 "Date": "2024-04-23T23:18:47.819708",
                 "Price": 25350.0
+            },
+            {
+                "Date": "2024-05-16T20:59:14.804061",
+                "Price": "sold"
             }
         ]
     },
@@ -94908,6 +94912,10 @@
             {
                 "Date": "2024-05-16T17:15:47.293872",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-05-16T20:59:14.804061",
+                "Price": 13650.0
             }
         ]
     },
@@ -96085,6 +96093,10 @@
             {
                 "Date": "2024-05-14T17:14:49.992083",
                 "Price": 7350.0
+            },
+            {
+                "Date": "2024-05-16T20:59:14.804061",
+                "Price": "sold"
             }
         ]
     },
@@ -96733,6 +96745,81 @@
             {
                 "Date": "2024-05-16T14:15:51.082542",
                 "Price": 10650.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Oyster Perpetual Green 124300 Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "124300",
+        "Serial": "8Z925XXX",
+        "Inventory": "/watches/j3xh",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-16T20:55:45.992006",
+                "Price": 11850.0
+            }
+        ]
+    },
+    {
+        "Title": "1972 Rolex Oyster Perpetual 1005 Silver Dial",
+        "Year": 1972,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "1005",
+        "Serial": "3020XXX",
+        "Inventory": "/watches/mogd",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-16T20:55:46.273218",
+                "Price": 2850.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex 18K Rg Daytona 126655 Yacht-Master With Box And Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Yacht-master",
+        "Reference": "126655",
+        "Serial": "T5C21XXX",
+        "Inventory": "/watches/kigx",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-16T20:55:46.193758",
+                "Price": 26950.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex 18K Wg Daytona 116519Ln Silver Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116519",
+        "Serial": "84D9GXXX",
+        "Inventory": "/watches/grg6",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-16T20:55:52.518681",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Gmt-Master Ii 126720Vtnr With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126720",
+        "Serial": "47JA3XXX",
+        "Inventory": "/watches/lldk",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-16T20:55:52.568907",
+                "Price": "sold"
             }
         ]
     }
