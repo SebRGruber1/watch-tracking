@@ -87304,6 +87304,10 @@
             {
                 "Date": "2024-03-31T20:46:04.388160",
                 "Price": 44950.0
+            },
+            {
+                "Date": "2024-05-17T02:21:02.545073",
+                "Price": "sold"
             }
         ]
     },
@@ -91694,6 +91698,10 @@
             {
                 "Date": "2024-03-21T20:36:27.633211",
                 "Price": 29850.0
+            },
+            {
+                "Date": "2024-05-17T02:21:02.545073",
+                "Price": "sold"
             }
         ]
     },
@@ -92779,6 +92787,10 @@
             {
                 "Date": "2024-04-09T20:36:59.542915",
                 "Price": 9750.0
+            },
+            {
+                "Date": "2024-05-17T02:21:02.545073",
+                "Price": "sold"
             }
         ]
     },
@@ -96820,6 +96832,81 @@
             {
                 "Date": "2024-05-16T20:55:52.568907",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2003 Patek Philippe 18K Yg Aquanaut 5065J With Box And Papers",
+        "Year": 2003,
+        "Brand": "Patek philippe",
+        "Model": "Aquanaut",
+        "Reference": "5065",
+        "Serial": "3251XXX",
+        "Inventory": "/watches/l3ge",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-17T02:16:58.447081",
+                "Price": 65350.0
+            }
+        ]
+    },
+    {
+        "Title": "1993 Rolex Explorer Ii 16570 White Dial With Box, Papers & Hang Tag",
+        "Year": 1993,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "S406XXX",
+        "Inventory": "/watches/7rew",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-17T02:16:58.258527",
+                "Price": 8850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Gmt-Master 16700 Tritium Dial With Box And Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "U164XXX",
+        "Inventory": "/watches/smwa",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-17T02:16:58.492212",
+                "Price": 12950.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Two-Tone Oysterquartz Datejust 17013 Champagne Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Oysterquartz datejust",
+        "Reference": "17013",
+        "Serial": "N244XXX",
+        "Inventory": "/watches/a2f3",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-17T02:16:58.621511",
+                "Price": 4950.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Submariner 1680 White Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "5398XXX",
+        "Inventory": "/watches/gv8g",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-17T02:16:58.496682",
+                "Price": 15750.0
             }
         ]
     }
