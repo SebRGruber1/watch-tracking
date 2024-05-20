@@ -88040,6 +88040,10 @@
             {
                 "Date": "2024-02-15T23:09:22.559127",
                 "Price": 15850.0
+            },
+            {
+                "Date": "2024-05-20T14:19:34.154920",
+                "Price": 15350.0
             }
         ]
     },
@@ -88730,6 +88734,10 @@
             {
                 "Date": "2024-03-26T20:40:16.254265",
                 "Price": 25350.0
+            },
+            {
+                "Date": "2024-05-20T14:19:34.154920",
+                "Price": 24850.0
             }
         ]
     },
@@ -91310,6 +91318,10 @@
             {
                 "Date": "2024-05-12T17:16:14.663814",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-05-20T14:19:34.154920",
+                "Price": 24850.0
             }
         ]
     },
@@ -96787,6 +96799,10 @@
             {
                 "Date": "2024-05-15T20:55:53.943028",
                 "Price": 10750.0
+            },
+            {
+                "Date": "2024-05-20T14:19:34.154920",
+                "Price": "sold"
             }
         ]
     },
@@ -96987,6 +97003,36 @@
             {
                 "Date": "2024-05-17T02:16:58.496682",
                 "Price": 15750.0
+            }
+        ]
+    },
+    {
+        "Title": "1964 Rolex Explorer 1016 Service Dial",
+        "Year": 1964,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "1016",
+        "Serial": "1041XXX",
+        "Inventory": "/watches/gcwd",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-20T14:16:05.967033",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Submariner 5513 Mk 5 Maxi Dial With Box And Hang Tag",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "N/A",
+        "Inventory": "/watches/q2u4",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-20T14:16:06.016116",
+                "Price": 14950.0
             }
         ]
     }
