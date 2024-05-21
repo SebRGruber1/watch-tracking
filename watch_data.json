@@ -89851,6 +89851,10 @@
             {
                 "Date": "2024-05-19T21:00:47.070577",
                 "Price": 11950.0
+            },
+            {
+                "Date": "2024-05-20T21:02:12.500732",
+                "Price": "sold"
             }
         ]
     },
@@ -94176,6 +94180,10 @@
             {
                 "Date": "2024-04-23T20:37:42.217667",
                 "Price": 14850.0
+            },
+            {
+                "Date": "2024-05-20T21:02:12.500732",
+                "Price": "sold"
             }
         ]
     },
@@ -94782,6 +94790,10 @@
             {
                 "Date": "2024-04-25T20:54:00.665805",
                 "Price": 9350.0
+            },
+            {
+                "Date": "2024-05-20T21:02:12.500732",
+                "Price": "sold"
             }
         ]
     },
@@ -95336,6 +95348,10 @@
             {
                 "Date": "2024-05-01T20:53:52.302709",
                 "Price": 13250.0
+            },
+            {
+                "Date": "2024-05-20T21:02:12.500732",
+                "Price": "sold"
             }
         ]
     },
@@ -97053,6 +97069,96 @@
             {
                 "Date": "2024-05-20T14:16:06.016116",
                 "Price": 14950.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Platinum Day-Date 18206 Silver Diamond Dial",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18206",
+        "Serial": "T351XXX",
+        "Inventory": "/watches/lkaq",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-20T20:56:00.697928",
+                "Price": 24550.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Submariner 16610 Tritium Dial With Papers & Hang Tag",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "U534XXX",
+        "Inventory": "/watches/y2wr",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-20T20:56:00.664137",
+                "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex Explorer Ii 16570 White Dial",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "F484XXX",
+        "Inventory": "/watches/aoy2",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-20T20:56:00.659231",
+                "Price": 7950.0
+            }
+        ]
+    },
+    {
+        "Title": "1962 Rolex Submariner Pcg 5512 Gilt 4 Line Chapter Ring Exclamation Dial",
+        "Year": 1962,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5512",
+        "Serial": "818XXX",
+        "Inventory": "/watches/vhgv",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-20T20:56:00.499150",
+                "Price": 38550.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Gmt-Master Ii 16710 With Box And Papers",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "Y430XXX",
+        "Inventory": "/watches/db31",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-20T20:56:00.657895",
+                "Price": 13250.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Moritz Grossmann Tremblage Mg-003367 With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Tremblage",
+        "Reference": "MG-003367",
+        "Serial": "12XXX",
+        "Inventory": "/watches/4aej",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-20T20:56:00.731220",
+                "Price": 28950.0
             }
         ]
     }
