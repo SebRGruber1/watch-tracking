@@ -97054,6 +97054,10 @@
             {
                 "Date": "2024-05-20T14:16:05.967033",
                 "Price": 9850.0
+            },
+            {
+                "Date": "2024-05-21T02:21:19.153440",
+                "Price": "sold"
             }
         ]
     },
@@ -97069,6 +97073,10 @@
             {
                 "Date": "2024-05-20T14:16:06.016116",
                 "Price": 14950.0
+            },
+            {
+                "Date": "2024-05-21T02:21:19.153440",
+                "Price": "sold"
             }
         ]
     },
@@ -97159,6 +97167,21 @@
             {
                 "Date": "2024-05-20T20:56:00.731220",
                 "Price": 28950.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Daytona 16520 White Dial With Service Card",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "U329XXX",
+        "Inventory": "/watches/u9ex",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-21T02:17:43.415531",
+                "Price": 21850.0
             }
         ]
     }
