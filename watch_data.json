@@ -97276,5 +97276,35 @@
                 "Price": 5350.0
             }
         ]
+    },
+    {
+        "Title": "2004 Patek Philippe Platinum Annual Calendar Power Reserve 5056P Grey Dial With Box And Papers",
+        "Year": 2004,
+        "Brand": "Patek philippe",
+        "Model": "Annual calendar",
+        "Reference": "5056P",
+        "Serial": "3288XXX",
+        "Inventory": "/watches/pevw",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-21T23:15:24.728432",
+                "Price": 32850.0
+            }
+        ]
+    },
+    {
+        "Title": "1972 Rolex Explorer Ii 1655 Mk 1 Straight Hand",
+        "Year": 1972,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "1655",
+        "Serial": "3284XXX",
+        "Inventory": "/watches/fedc",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-21T23:15:24.776811",
+                "Price": 27550.0
+            }
+        ]
     }
 ]
