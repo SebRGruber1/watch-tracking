@@ -96216,6 +96216,10 @@
             {
                 "Date": "2024-05-09T02:16:33.792365",
                 "Price": 9650.0
+            },
+            {
+                "Date": "2024-05-21T21:00:23.722046",
+                "Price": "sold"
             }
         ]
     },
@@ -96394,6 +96398,10 @@
             {
                 "Date": "2024-05-09T20:54:52.635143",
                 "Price": 8350.0
+            },
+            {
+                "Date": "2024-05-21T21:00:23.722046",
+                "Price": "sold"
             }
         ]
     },
@@ -96684,6 +96692,10 @@
             {
                 "Date": "2024-05-14T20:55:40.926254",
                 "Price": 45350.0
+            },
+            {
+                "Date": "2024-05-21T21:00:23.722046",
+                "Price": "sold"
             }
         ]
     },
@@ -97111,6 +97123,10 @@
             {
                 "Date": "2024-05-20T20:56:00.664137",
                 "Price": 9350.0
+            },
+            {
+                "Date": "2024-05-21T21:00:23.722046",
+                "Price": "sold"
             }
         ]
     },
@@ -97126,6 +97142,10 @@
             {
                 "Date": "2024-05-20T20:56:00.659231",
                 "Price": 7950.0
+            },
+            {
+                "Date": "2024-05-21T21:00:23.722046",
+                "Price": "sold"
             }
         ]
     },
@@ -97160,6 +97180,10 @@
             {
                 "Date": "2024-05-20T20:56:00.657895",
                 "Price": 13250.0
+            },
+            {
+                "Date": "2024-05-21T21:00:23.722046",
+                "Price": "sold"
             }
         ]
     },
@@ -97205,6 +97229,51 @@
             {
                 "Date": "2024-05-21T14:16:04.434521",
                 "Price": 8250.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Sea-Dweller 16600 Comex Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "16600",
+        "Serial": "N445XXX",
+        "Inventory": "/watches/k6e0",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-21T20:56:20.426720",
+                "Price": 55350.0
+            }
+        ]
+    },
+    {
+        "Title": "1974 Rolex 14K Yg Date 1500 Blue Mosaic Dial",
+        "Year": 1974,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "1500",
+        "Serial": "3734XXX",
+        "Inventory": "/watches/wr0z",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-21T20:56:20.521216",
+                "Price": 6850.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Explorer 14270 With Hang Tag",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "P134XXX",
+        "Inventory": "/watches/usd7",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-21T20:56:20.571906",
+                "Price": 5350.0
             }
         ]
     }
