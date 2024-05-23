@@ -97076,6 +97076,10 @@
             {
                 "Date": "2024-05-17T02:16:58.621511",
                 "Price": 4950.0
+            },
+            {
+                "Date": "2024-05-22T20:59:04.894314",
+                "Price": "sold"
             }
         ]
     },
@@ -97340,6 +97344,66 @@
             {
                 "Date": "2024-05-21T23:15:24.776811",
                 "Price": 27550.0
+            }
+        ]
+    },
+    {
+        "Title": "1987 Rolex 18K Yg Day-Date 18038 Champagne Dial",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "9486XXX",
+        "Inventory": "/watches/mdsn",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-22T20:55:42.001813",
+                "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "2007 Rolex Submariner 16610Lv With Papers & Hang Tag",
+        "Year": 2007,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "Z512XXX",
+        "Inventory": "/watches/vl1i",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-22T20:55:42.251872",
+                "Price": 13850.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Omega Speedmaster 145.022",
+        "Year": 1970,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "145.022",
+        "Serial": "32192XXX",
+        "Inventory": "/watches/sepw",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-22T20:55:42.048708",
+                "Price": 4850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Explorer Ii 16570 Black Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "U294XXX",
+        "Inventory": "/watches/cdwu",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-22T20:55:42.052321",
+                "Price": 6650.0
             }
         ]
     }
