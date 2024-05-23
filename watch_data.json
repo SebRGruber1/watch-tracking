@@ -97382,6 +97382,10 @@
             {
                 "Date": "2024-05-22T20:55:42.251872",
                 "Price": 13850.0
+            },
+            {
+                "Date": "2024-05-23T17:17:34.417866",
+                "Price": "sold"
             }
         ]
     },
@@ -97416,6 +97420,51 @@
             {
                 "Date": "2024-05-23T02:21:31.120442",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex 18K Yg Yacht-Master 16628 White Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Yacht-master",
+        "Reference": "16628",
+        "Serial": "W527XXX",
+        "Inventory": "/watches/uafn",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-23T17:11:35.233185",
+                "Price": 21550.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Submariner 1680 Mk 1 White Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "5613XXX",
+        "Inventory": "/watches/kpfr",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-23T17:11:35.349646",
+                "Price": 12350.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex 18K Yg Yacht-Master 16628 Blue Dial",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Yacht-master",
+        "Reference": "16628",
+        "Serial": "T101XXX",
+        "Inventory": "/watches/bk6w",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-23T17:11:35.327095",
+                "Price": 21850.0
             }
         ]
     }
