@@ -95531,6 +95531,10 @@
             {
                 "Date": "2024-05-02T20:56:52.942174",
                 "Price": 58550.0
+            },
+            {
+                "Date": "2024-05-23T20:59:42.522382",
+                "Price": 53550.0
             }
         ]
     },
@@ -95743,6 +95747,10 @@
             {
                 "Date": "2024-05-03T02:16:12.724737",
                 "Price": 16850.0
+            },
+            {
+                "Date": "2024-05-23T20:59:42.522382",
+                "Price": "sold"
             }
         ]
     },
@@ -97307,6 +97315,10 @@
             {
                 "Date": "2024-05-21T20:56:20.521216",
                 "Price": 6850.0
+            },
+            {
+                "Date": "2024-05-23T20:59:42.522382",
+                "Price": "sold"
             }
         ]
     },
@@ -97367,6 +97379,10 @@
             {
                 "Date": "2024-05-22T20:55:42.001813",
                 "Price": 14850.0
+            },
+            {
+                "Date": "2024-05-23T20:59:42.522382",
+                "Price": "sold"
             }
         ]
     },
@@ -97435,6 +97451,10 @@
             {
                 "Date": "2024-05-23T17:11:35.233185",
                 "Price": 21550.0
+            },
+            {
+                "Date": "2024-05-23T20:59:42.522382",
+                "Price": "sold"
             }
         ]
     },
@@ -97465,6 +97485,66 @@
             {
                 "Date": "2024-05-23T17:11:35.327095",
                 "Price": 21850.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Daytona 116520 Black Dial With Service Papers",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116520",
+        "Serial": "Y999XXX",
+        "Inventory": "/watches/yvdi",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-23T20:56:14.554260",
+                "Price": 16950.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Submariner 16610",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "N296XXX",
+        "Inventory": "/watches/wyk1",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-23T20:56:14.696158",
+                "Price": 8650.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Tudor Titanium Pelagos Fxd 25707 Marine National Blue Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Tudor",
+        "Model": "Pelagos fxd",
+        "Reference": "25707",
+        "Serial": "AC39XXX",
+        "Inventory": "/watches/lzml",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-23T20:56:14.771449",
+                "Price": 3350.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Submariner 5513 Serif Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "2592XXX",
+        "Inventory": "/watches/5q4w",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-23T20:56:14.794990",
+                "Price": 9850.0
             }
         ]
     }
