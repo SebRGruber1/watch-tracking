@@ -93553,6 +93553,10 @@
             {
                 "Date": "2024-04-21T00:14:27.609569",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-05-29T14:21:01.914184",
+                "Price": 7850.0
             }
         ]
     },
@@ -95523,6 +95527,10 @@
             {
                 "Date": "2024-05-01T20:53:52.462539",
                 "Price": 15350.0
+            },
+            {
+                "Date": "2024-05-29T14:21:01.914184",
+                "Price": "sold"
             }
         ]
     },
@@ -97709,6 +97717,10 @@
             {
                 "Date": "2024-05-28T17:12:32.304147",
                 "Price": 3950.0
+            },
+            {
+                "Date": "2024-05-29T14:21:01.914184",
+                "Price": "sold"
             }
         ]
     },
@@ -97769,6 +97781,10 @@
             {
                 "Date": "2024-05-28T20:59:45.628112",
                 "Price": 8950.0
+            },
+            {
+                "Date": "2024-05-29T14:21:01.914184",
+                "Price": "sold"
             }
         ]
     },
@@ -97799,6 +97815,36 @@
             {
                 "Date": "2024-05-28T20:59:45.511137",
                 "Price": 41350.0
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex Submariner 16610 \"Flat 4\" With Box And Papers",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "F084XXX",
+        "Inventory": "/watches/g6ls",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-29T14:15:57.953274",
+                "Price": 17350.0
+            }
+        ]
+    },
+    {
+        "Title": "2006 Rolex Explorer 114270",
+        "Year": 2006,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "Z591XXX",
+        "Inventory": "/watches/7g56",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-29T14:15:58.035270",
+                "Price": 5350.0
             }
         ]
     }
