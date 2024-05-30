@@ -91478,6 +91478,10 @@
             {
                 "Date": "2024-05-14T14:21:38.379056",
                 "Price": 20850.0
+            },
+            {
+                "Date": "2024-05-29T21:00:07.393663",
+                "Price": 17850.0
             }
         ]
     },
@@ -97369,6 +97373,10 @@
             {
                 "Date": "2024-05-21T14:16:04.434521",
                 "Price": 8250.0
+            },
+            {
+                "Date": "2024-05-29T21:00:07.393663",
+                "Price": "sold"
             }
         ]
     },
@@ -97566,6 +97574,10 @@
             {
                 "Date": "2024-05-23T17:11:35.349646",
                 "Price": 12350.0
+            },
+            {
+                "Date": "2024-05-29T21:00:07.393663",
+                "Price": "sold"
             }
         ]
     },
@@ -97845,6 +97857,51 @@
             {
                 "Date": "2024-05-29T14:15:58.035270",
                 "Price": 5350.0
+            }
+        ]
+    },
+    {
+        "Title": "1985 Omega Speedmaster 3592.50",
+        "Year": 1985,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "3592.50",
+        "Serial": "48334XXX",
+        "Inventory": "/watches/dblg",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-29T20:56:40.738713",
+                "Price": 4550.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Patek Philippe Aquanaut 5066A With Papers",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Aquanaut",
+        "Reference": "5066",
+        "Serial": "3028XXX",
+        "Inventory": "/watches/zibw",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-29T20:56:40.909339",
+                "Price": 32850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Zenith Daytona 16520 White Tritium Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "U451XXX",
+        "Inventory": "/watches/xvfc",
+        "PriceHistory": [
+            {
+                "Date": "2024-05-29T20:56:41.025516",
+                "Price": 21650.0
             }
         ]
     }
