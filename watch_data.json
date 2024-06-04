@@ -98311,5 +98311,50 @@
                 "Price": "sold"
             }
         ]
+    },
+    {
+        "Title": "1989 Rolex Explorer Ii 16570 White Porcelain Dial",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "L279XXX",
+        "Inventory": "/watches/7txa",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-04T17:11:59.563145",
+                "Price": 8850.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Gmt-Master Ii 126720Vtnr Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126720",
+        "Serial": "V1932XXX",
+        "Inventory": "/watches/nhcc",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-04T17:11:59.700817",
+                "Price": 17550.0
+            }
+        ]
+    },
+    {
+        "Title": "Patek Philippe 18K Rg  Scroll Lug Calatrava 1491 With Box",
+        "Year": null,
+        "Brand": "Patek philippe",
+        "Model": "Patek philippe 18k rg  scroll lug calatrava 1491 with box and service papers",
+        "Reference": "1491",
+        "Serial": "968XXX",
+        "Inventory": "/watches/bjtv",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-04T17:11:59.616502",
+                "Price": 10550.0
+            }
+        ]
     }
 ]
