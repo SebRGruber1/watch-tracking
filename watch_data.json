@@ -86895,6 +86895,10 @@
             {
                 "Date": "2024-05-31T02:20:59.278167",
                 "Price": 27350.0
+            },
+            {
+                "Date": "2024-06-03T21:01:42.620428",
+                "Price": "sold"
             }
         ]
     },
@@ -89823,6 +89827,10 @@
             {
                 "Date": "2024-03-05T19:36:54.508316",
                 "Price": 7850.0
+            },
+            {
+                "Date": "2024-06-03T21:01:42.620428",
+                "Price": "sold"
             }
         ]
     },
@@ -92799,6 +92807,10 @@
             {
                 "Date": "2024-04-08T20:37:35.869781",
                 "Price": 4850.0
+            },
+            {
+                "Date": "2024-06-03T21:01:42.620428",
+                "Price": "sold"
             }
         ]
     },
@@ -93236,6 +93248,10 @@
             {
                 "Date": "2024-04-10T16:09:00.461406",
                 "Price": 7950.0
+            },
+            {
+                "Date": "2024-06-03T21:01:42.620428",
+                "Price": "sold"
             }
         ]
     },
@@ -96763,6 +96779,10 @@
             {
                 "Date": "2024-05-13T14:14:27.888231",
                 "Price": 13250.0
+            },
+            {
+                "Date": "2024-06-03T21:01:42.620428",
+                "Price": "sold"
             }
         ]
     },
@@ -97005,6 +97025,10 @@
             {
                 "Date": "2024-05-15T20:55:54.061550",
                 "Price": 9750.0
+            },
+            {
+                "Date": "2024-06-03T21:01:42.620428",
+                "Price": "sold"
             }
         ]
     },
@@ -98206,6 +98230,81 @@
             {
                 "Date": "2024-06-03T14:17:45.209831",
                 "Price": 8250.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex Gmt-Master 16750 With Box And Pamphlets",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16750",
+        "Serial": "R427XXX",
+        "Inventory": "/watches/aqdj",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-03T20:57:44.018383",
+                "Price": 11350.0
+            }
+        ]
+    },
+    {
+        "Title": "Longines Heritage Chronometer L2.828.4.72.2 Hodinkee Limited Edition With Box And Papers",
+        "Year": null,
+        "Brand": "Longines",
+        "Model": "Chronometer",
+        "Reference": "L2.828.4.72.2",
+        "Serial": "52431XXX",
+        "Inventory": "/watches/2rpp",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-03T20:57:44.189701",
+                "Price": 3250.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Zenith El Primero Chronomaster 03.3201.3600 Hodinkee Limited Edition",
+        "Year": 2022,
+        "Brand": "Zenith",
+        "Model": "Chronomaster",
+        "Reference": "03.3201.3600/18.M3200",
+        "Serial": "613XXX",
+        "Inventory": "/watches/pxql",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-03T20:57:44.210141",
+                "Price": 8550.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Iwc Ceratanium Pilot Chronograph Iw388106 Matte Black Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Iwc",
+        "Model": "Pilot chronograph",
+        "Reference": "IW388106",
+        "Serial": "6382XXX",
+        "Inventory": "/watches/kvto",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-03T20:57:44.218898",
+                "Price": 13650.0
+            }
+        ]
+    },
+    {
+        "Title": "2008 Rolex Submariner 16610Lv With Box, Papers & Hang Tag",
+        "Year": 2008,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "V554XXX",
+        "Inventory": "/watches/aytr",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-03T20:57:50.802397",
+                "Price": "sold"
             }
         ]
     }
