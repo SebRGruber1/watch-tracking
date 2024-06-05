@@ -98356,5 +98356,65 @@
                 "Price": 10550.0
             }
         ]
+    },
+    {
+        "Title": "1988 Rolex 18K Yg Day-Date 18038 Champagne Dial",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "R719XXX",
+        "Inventory": "/watches/1mgp",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-05T14:16:17.694807",
+                "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Explorer Ii 16570 White Dial",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "K148XXX",
+        "Inventory": "/watches/rluj",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-05T14:16:17.713079",
+                "Price": 8950.0
+            }
+        ]
+    },
+    {
+        "Title": "2007 Rolex Submariner 16610Lv With Box And Papers",
+        "Year": 2007,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610LV",
+        "Serial": "Z715XXX",
+        "Inventory": "/watches/htpi",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-05T14:16:17.686541",
+                "Price": 14350.0
+            }
+        ]
+    },
+    {
+        "Title": "2014 Rolex Sea-Dweller 116600 With Box And Papers",
+        "Year": 2014,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "116600",
+        "Serial": "3721CXXX",
+        "Inventory": "/watches/60vg",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-05T14:16:17.720012",
+                "Price": 13850.0
+            }
+        ]
     }
 ]
