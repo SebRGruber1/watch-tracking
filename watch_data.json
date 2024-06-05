@@ -98416,5 +98416,35 @@
                 "Price": 13850.0
             }
         ]
+    },
+    {
+        "Title": "1974 Rolex Red Submariner 1680 Mk 6 Dial Service Papers",
+        "Year": 1974,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "3846XXX",
+        "Inventory": "/watches/bxak",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-05T17:13:44.395227",
+                "Price": 23550.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Zenith Daytona 16520 White Dial With Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "4473XXX",
+        "Inventory": "/watches/85nk",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-05T17:13:44.531769",
+                "Price": 21550.0
+            }
+        ]
     }
 ]
