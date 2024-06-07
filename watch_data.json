@@ -97822,6 +97822,10 @@
             {
                 "Date": "2024-05-28T17:12:32.321816",
                 "Price": 43850.0
+            },
+            {
+                "Date": "2024-06-06T21:05:33.655078",
+                "Price": 42850.0
             }
         ]
     },
@@ -98505,6 +98509,111 @@
             {
                 "Date": "2024-06-06T02:20:58.211371",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex Daytona 126500Ln White Dial With Box And Papers",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "126500",
+        "Serial": "7F02ZXXX",
+        "Inventory": "/watches/pwwd",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-06T20:59:24.725804",
+                "Price": 34850.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Explorer Ii 16570 White Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "N259XXX",
+        "Inventory": "/watches/wola",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-06T20:59:24.615010",
+                "Price": 9250.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Gmt-Master Ii 16710",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "N276XXX",
+        "Inventory": "/watches/pvzr",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-06T20:59:24.752874",
+                "Price": 11550.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Explorer Ii 16570 White Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "W665XXX",
+        "Inventory": "/watches/l9j3",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-06T20:59:24.730029",
+                "Price": 8950.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Explorer Ii 16570 White Swiss Only Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "A523XXX",
+        "Inventory": "/watches/jqxr",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-06T20:59:24.755310",
+                "Price": 7950.0
+            }
+        ]
+    },
+    {
+        "Title": "2004 Rolex Explorer 114270",
+        "Year": 2004,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "F743XXX",
+        "Inventory": "/watches/ir0b",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-06T20:59:24.663094",
+                "Price": 5350.0
+            }
+        ]
+    },
+    {
+        "Title": "2004 Rolex Explorer 114270",
+        "Year": 2004,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "F199XXX",
+        "Inventory": "/watches/amhg",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-06T20:59:24.697324",
+                "Price": 5350.0
             }
         ]
     }
