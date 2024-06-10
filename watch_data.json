@@ -93326,6 +93326,10 @@
             {
                 "Date": "2024-05-23T14:22:07.584619",
                 "Price": 21350.0
+            },
+            {
+                "Date": "2024-06-10T17:19:21.423584",
+                "Price": "sold"
             }
         ]
     },
@@ -93653,6 +93657,10 @@
             {
                 "Date": "2024-06-03T02:22:50.773685",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-06-10T17:19:21.423584",
+                "Price": 7850.0
             }
         ]
     },
@@ -98709,6 +98717,81 @@
             {
                 "Date": "2024-06-07T02:19:00.440496",
                 "Price": 12750.0
+            }
+        ]
+    },
+    {
+        "Title": "1989 Rolex Explorer Ii 16570 White Dial With Service Papers",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "L752XXX",
+        "Inventory": "/watches/83xc",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-10T17:13:04.160693",
+                "Price": 8550.0
+            }
+        ]
+    },
+    {
+        "Title": "1977 Patek Philippe Nautilus 3700 Tropical Double Signed G\u00fcbelin Dial With Extract From The Archives",
+        "Year": 1977,
+        "Brand": "Rolex",
+        "Model": "Nautilus",
+        "Reference": "3700",
+        "Serial": "534XXX",
+        "Inventory": "/watches/pqp8",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-10T17:13:04.098168",
+                "Price": 112850.0
+            }
+        ]
+    },
+    {
+        "Title": "Vintage Audemars Piguet Automatic Silver Dial",
+        "Year": null,
+        "Brand": "Audemars piguet",
+        "Model": "Automatic",
+        "Reference": "",
+        "Serial": "77XXX",
+        "Inventory": "/watches/jvql",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-10T17:13:04.243984",
+                "Price": 5350.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Daytona 16520 Black Dial With Box And Papers",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "T631XXX",
+        "Inventory": "/watches/zuov",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-10T17:13:04.286089",
+                "Price": 24350.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Daytona 126519Ln Black Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "126519",
+        "Serial": "KP169XXX",
+        "Inventory": "/watches/yjr9",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-10T17:13:04.189262",
+                "Price": 39850.0
             }
         ]
     }
