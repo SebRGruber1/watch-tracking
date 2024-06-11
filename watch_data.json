@@ -95788,6 +95788,10 @@
             {
                 "Date": "2024-05-02T20:56:53.029969",
                 "Price": 27850.0
+            },
+            {
+                "Date": "2024-06-10T21:02:23.295570",
+                "Price": "sold"
             }
         ]
     },
@@ -98540,6 +98544,10 @@
             {
                 "Date": "2024-06-05T17:13:44.531769",
                 "Price": 21550.0
+            },
+            {
+                "Date": "2024-06-10T21:02:23.295570",
+                "Price": "sold"
             }
         ]
     },
@@ -98792,6 +98800,96 @@
             {
                 "Date": "2024-06-10T17:13:04.189262",
                 "Price": 39850.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex Gmt-Master Ii 126710Blro With Box And Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126710",
+        "Serial": "U18H9XXX",
+        "Inventory": "/watches/ohgc",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-10T20:58:25.157009",
+                "Price": 19550.0
+            }
+        ]
+    },
+    {
+        "Title": "2015 Rolex Submariner 116610Lv Green Dial With Box And Papers",
+        "Year": 2015,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "116610",
+        "Serial": "702UHXXX",
+        "Inventory": "/watches/gz9p",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-10T20:58:25.268751",
+                "Price": 19350.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex 18K Rg Daytona 116505 Black Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116505",
+        "Serial": "915DAXXX",
+        "Inventory": "/watches/edg3",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-10T20:58:25.084641",
+                "Price": 45850.0
+            }
+        ]
+    },
+    {
+        "Title": "Patek Philippe Two-Tone Nautilus 3800/1Aj",
+        "Year": null,
+        "Brand": "Patek philippe",
+        "Model": "Nautilus",
+        "Reference": "3800",
+        "Serial": "2804XXX",
+        "Inventory": "/watches/h4rh",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-10T20:58:25.018866",
+                "Price": 31850.0
+            }
+        ]
+    },
+    {
+        "Title": "1946 Rolex Oyster Chronographe 4500 Silver Tropical Dial",
+        "Year": 1946,
+        "Brand": "Rolex",
+        "Model": "Oyster chronographe",
+        "Reference": "4500",
+        "Serial": "497XXX",
+        "Inventory": "/watches/sthw",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-10T20:58:25.105702",
+                "Price": 28950.0
+            }
+        ]
+    },
+    {
+        "Title": "1986 Rolex Explorer Ii 16550 White Porcelain Dial",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16550",
+        "Serial": "8957XXX",
+        "Inventory": "/watches/uwfv",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-10T20:58:25.134128",
+                "Price": 9850.0
             }
         ]
     }
