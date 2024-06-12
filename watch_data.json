@@ -87018,6 +87018,10 @@
             {
                 "Date": "2024-03-26T16:11:49.473394",
                 "Price": 27350.0
+            },
+            {
+                "Date": "2024-06-11T21:02:21.032183",
+                "Price": "sold"
             }
         ]
     },
@@ -92126,6 +92130,10 @@
             {
                 "Date": "2024-06-11T14:23:19.956379",
                 "Price": 15850.0
+            },
+            {
+                "Date": "2024-06-11T21:02:21.032183",
+                "Price": "sold"
             }
         ]
     },
@@ -98942,6 +98950,126 @@
             {
                 "Date": "2024-06-10T20:58:25.134128",
                 "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Zenith Daytona 16520 White Dial With Box And Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "A569XXX",
+        "Inventory": "/watches/g8wd",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-11T20:58:28.359298",
+                "Price": 23950.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex Green Submariner 16610Lv",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "D514XXX",
+        "Inventory": "/watches/qkpe",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-11T20:58:28.429724",
+                "Price": 12350.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex Explorer 114270",
+        "Year": 20058,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "D719XXX",
+        "Inventory": "/watches/hs7w",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-11T20:58:28.519576",
+                "Price": 5350.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Submariner 126610Ln With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "126610",
+        "Serial": "T0G33XXX",
+        "Inventory": "/watches/7coc",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-11T20:58:28.392164",
+                "Price": 11950.0
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex Explorer 14270 With Box And Papers",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "S379XXX",
+        "Inventory": "/watches/myp7",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-11T20:58:28.426031",
+                "Price": 7150.0
+            }
+        ]
+    },
+    {
+        "Title": "2007 Rolex Submariner 16610Lv With Lime Green Bezel",
+        "Year": 2007,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "Z952XXX",
+        "Inventory": "/watches/6jzm",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-11T20:58:28.612734",
+                "Price": 13850.0
+            }
+        ]
+    },
+    {
+        "Title": "1969 Rolex Oyster Perpetual 1007 Silver Tropical Dial",
+        "Year": 1969,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "1007",
+        "Serial": "2173XXX",
+        "Inventory": "/watches/mhax",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-11T20:58:28.481296",
+                "Price": 3350.0
+            }
+        ]
+    },
+    {
+        "Title": "1965 Tudor Oyster Prince Submariner 7928 Gilt Rose Dial",
+        "Year": 1965,
+        "Brand": "Tudor",
+        "Model": "Submariner",
+        "Reference": "7928",
+        "Serial": "506XXX",
+        "Inventory": "/watches/uh5d",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-11T20:58:35.062588",
+                "Price": "sold"
             }
         ]
     }
