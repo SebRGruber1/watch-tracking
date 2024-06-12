@@ -99010,6 +99010,10 @@
             {
                 "Date": "2024-06-11T20:58:28.392164",
                 "Price": 11950.0
+            },
+            {
+                "Date": "2024-06-11T23:18:01.013957",
+                "Price": "sold"
             }
         ]
     },
@@ -99070,6 +99074,66 @@
             {
                 "Date": "2024-06-11T20:58:35.062588",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2011 Rolex 18K Rg Daytona 116505 Black Dial With Box And Papers",
+        "Year": 2011,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116505",
+        "Serial": "1N112XXX",
+        "Inventory": "/watches/vq51",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-11T23:14:28.110109",
+                "Price": 40850.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Submariner 126610Lv With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "126610",
+        "Serial": "8PQ24XXX",
+        "Inventory": "/watches/vg9m",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-11T23:14:28.249737",
+                "Price": 14650.0
+            }
+        ]
+    },
+    {
+        "Title": "2017 Rolex 18K Rg Red Yacht-Master 116655 Matte Black Dial With Box And Papers",
+        "Year": 2017,
+        "Brand": "Rolex",
+        "Model": "Red yacht-master",
+        "Reference": "116655",
+        "Serial": "1P581XXX",
+        "Inventory": "/watches/md52",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-11T23:14:28.257834",
+                "Price": 24850.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex Daytona 116500Ln Black Dial With Box And Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "3J779XXX",
+        "Inventory": "/watches/k6ml",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-11T23:14:28.333621",
+                "Price": 24550.0
             }
         ]
     }
