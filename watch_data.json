@@ -95410,6 +95410,10 @@
             {
                 "Date": "2024-05-01T02:20:44.830052",
                 "Price": 10350.0
+            },
+            {
+                "Date": "2024-06-12T21:03:09.701865",
+                "Price": "sold"
             }
         ]
     },
@@ -96165,6 +96169,10 @@
             {
                 "Date": "2024-05-07T14:16:03.062712",
                 "Price": 4850.0
+            },
+            {
+                "Date": "2024-06-12T21:03:09.701865",
+                "Price": "sold"
             }
         ]
     },
@@ -96913,6 +96921,10 @@
             {
                 "Date": "2024-05-13T20:55:43.298016",
                 "Price": 28950.0
+            },
+            {
+                "Date": "2024-06-12T21:03:09.701865",
+                "Price": 27950.0
             }
         ]
     },
@@ -99158,6 +99170,156 @@
             {
                 "Date": "2024-06-11T23:14:28.333621",
                 "Price": 24550.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Gmt-Master 1675 Mk 5 Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "5223XXX",
+        "Inventory": "/watches/tq7q",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-12T20:57:50.646573",
+                "Price": 13950.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex 18K Yg Daytona 16528 Black Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16528",
+        "Serial": "W550XXX",
+        "Inventory": "/watches/favi",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-12T20:57:50.556506",
+                "Price": 32550.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Oysterdate 6694 Silver Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Oysterdate",
+        "Reference": "6694",
+        "Serial": "5101XXX",
+        "Inventory": "/watches/xqar",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-12T20:57:50.584811",
+                "Price": 2950.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Air-King 14000 Blue Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "14000",
+        "Serial": "U644XXX",
+        "Inventory": "/watches/hcqo",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-12T20:57:50.597836",
+                "Price": 4250.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Zenith Daytona 16520 White Dial",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "T952XXX",
+        "Inventory": "/watches/grnc",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-12T20:57:50.821781",
+                "Price": 21350.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Submariner 14060",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "N112XXX",
+        "Inventory": "/watches/xkgg",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-12T20:58:00.473838",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1989 Rolex Datejust 16234 White Dial",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16234",
+        "Serial": "L404XXX",
+        "Inventory": "/watches/mztc",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-12T20:58:00.438200",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex Datejust 16234 Black Dial",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16234",
+        "Serial": "R627XXX",
+        "Inventory": "/watches/3ldz",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-12T20:58:00.606299",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1971 Rolex 18K Yg Day-Date 1803 No Lume Satin Champagne Dial",
+        "Year": 1971,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "2888XXX",
+        "Inventory": "/watches/1g5i",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-12T20:58:00.523423",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2009 Rolex Sea-Dweller 16600 With Box And Papers",
+        "Year": 2009,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "16600",
+        "Serial": "M687XXX",
+        "Inventory": "/watches/chx3",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-12T20:58:00.616484",
+                "Price": "sold"
             }
         ]
     }
