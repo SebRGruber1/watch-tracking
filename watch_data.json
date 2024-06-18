@@ -3745,6 +3745,10 @@
             {
                 "Date": "2024-04-24T14:19:04.389611",
                 "Price": 5950.0
+            },
+            {
+                "Date": "2024-06-17T21:02:12.866585",
+                "Price": "sold"
             }
         ]
     },
@@ -98902,6 +98906,10 @@
             {
                 "Date": "2024-06-10T17:13:04.243984",
                 "Price": 5350.0
+            },
+            {
+                "Date": "2024-06-17T21:02:12.866585",
+                "Price": 4950.0
             }
         ]
     },
@@ -99148,6 +99156,10 @@
             {
                 "Date": "2024-06-11T20:58:28.612734",
                 "Price": 13850.0
+            },
+            {
+                "Date": "2024-06-17T21:02:12.866585",
+                "Price": "sold"
             }
         ]
     },
@@ -99333,6 +99345,10 @@
             {
                 "Date": "2024-06-12T20:57:50.821781",
                 "Price": 21350.0
+            },
+            {
+                "Date": "2024-06-17T21:02:12.866585",
+                "Price": "sold"
             }
         ]
     },
@@ -99442,6 +99458,10 @@
             {
                 "Date": "2024-06-14T20:57:58.059103",
                 "Price": 21550.0
+            },
+            {
+                "Date": "2024-06-17T21:02:12.866585",
+                "Price": "sold"
             }
         ]
     },
@@ -99529,6 +99549,145 @@
             {
                 "Date": "2024-06-15T02:20:02.014643",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-06-17T21:02:12.866585",
+                "Price": 31850.0
+            }
+        ]
+    },
+    {
+        "Title": "1986 Rolex Explorer Ii 16550 White Dial",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16550",
+        "Serial": "9308XXX",
+        "Inventory": "/watches/bc7p",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-17T20:58:37.501539",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "1972 Rolex Explorer Ii 1655 Mk 1 Straight Hand With Papers And Service Papers",
+        "Year": 1972,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "1655",
+        "Serial": "3284XXX",
+        "Inventory": "/watches/dwok",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-17T20:58:37.685888",
+                "Price": 26550.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Zenith Daytona 16520 White Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "W941XXX",
+        "Inventory": "/watches/z6dg",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-17T20:58:37.701636",
+                "Price": 21350.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex Green Submariner 16610Lv With Papers & Hang Tag",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "D497XXX",
+        "Inventory": "/watches/yksx",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-17T20:58:37.674775",
+                "Price": 13850.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex Date 115200 White Dial With Box And Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "115200",
+        "Serial": "4M70GXXX",
+        "Inventory": "/watches/fpdo",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-17T20:58:37.553415",
+                "Price": 5550.0
+            }
+        ]
+    },
+    {
+        "Title": "Nos 2011 Patek Philippe 18K Rg Annual Calendar 5396R White Dial With Box And Papers",
+        "Year": 2011,
+        "Brand": "Patek philippe",
+        "Model": "Annual calendar",
+        "Reference": "5396R",
+        "Serial": "5602XXX",
+        "Inventory": "/watches/5uuf",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-17T20:58:37.582498",
+                "Price": 46850.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex 18K Yg Day-Date 18238 Champagne Roman Numeral Dial",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "R746XXX",
+        "Inventory": "/watches/t0ji",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-17T20:58:37.736267",
+                "Price": 16750.0
+            }
+        ]
+    },
+    {
+        "Title": "1968 Rolex 18K Yg Date 1503 Champagne Dial",
+        "Year": 1968,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "1503",
+        "Serial": "1765XXX",
+        "Inventory": "/watches/wg2a",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-17T20:58:37.688363",
+                "Price": 11550.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex 18K Wg Daytona 116509 Silver Arabic Racing Dial With Box And Service Card",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116509",
+        "Serial": "D224XXX",
+        "Inventory": "/watches/cy7t",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-17T20:58:37.726529",
+                "Price": 29850.0
             }
         ]
     }
