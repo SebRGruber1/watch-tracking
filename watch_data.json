@@ -99745,5 +99745,50 @@
                 "Price": 53650.0
             }
         ]
+    },
+    {
+        "Title": "1990'S Audemars Piguet 18K Wg Cobra Blue Diamond Dial",
+        "Year": null,
+        "Brand": "Audemars piguet",
+        "Model": "Cobra",
+        "Reference": "",
+        "Serial": "D37XXX",
+        "Inventory": "/watches/bkev",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-18T17:11:54.048922",
+                "Price": 8850.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Patek Philippe Nautilus 3700 Blue Dial With Boxes And Extract From The Archives",
+        "Year": 1984,
+        "Brand": "Patek philippe",
+        "Model": "Nautilus",
+        "Reference": "3700",
+        "Serial": "538XXX",
+        "Inventory": "/watches/5ovb",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-18T17:11:54.107608",
+                "Price": 97850.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Submariner 14060 Swiss Only Dial With Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "A405XXX",
+        "Inventory": "/watches/jllf",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-18T17:11:54.305818",
+                "Price": 8950.0
+            }
+        ]
     }
 ]
