@@ -93410,6 +93410,10 @@
             {
                 "Date": "2024-06-10T17:19:21.423584",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-06-19T17:19:30.156075",
+                "Price": 21350.0
             }
         ]
     },
@@ -98743,6 +98747,10 @@
             {
                 "Date": "2024-06-12T17:18:34.753288",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-06-19T17:19:30.156075",
+                "Price": 35350.0
             }
         ]
     },
@@ -99891,6 +99899,51 @@
             {
                 "Date": "2024-06-19T14:16:17.356508",
                 "Price": 43850.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Oyster Perpetual Date 1530 Silver Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "1530",
+        "Serial": "5171XXX",
+        "Inventory": "/watches/h4o1",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-19T17:13:32.326217",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "2020 Rolex Daytona 116500Ln White Dial With Box And Papers",
+        "Year": 2020,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "LZ923XXX",
+        "Inventory": "/watches/8h6s",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-19T17:13:32.455279",
+                "Price": 29850.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex 18K Yg Day-Date 18238 Silver Dial With Papers And Service Pouch",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "R668XXX",
+        "Inventory": "/watches/cu46",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-19T17:13:43.906600",
+                "Price": "sold"
             }
         ]
     }
