@@ -99790,5 +99790,65 @@
                 "Price": 8950.0
             }
         ]
+    },
+    {
+        "Title": "1978 Rolex Double Red Sea-Dweller 1665 Mark Iv Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Double red sea-dweller",
+        "Reference": "1665",
+        "Serial": "5286XXX",
+        "Inventory": "/watches/wznw",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-18T20:58:39.758166",
+                "Price": 41550.0
+            }
+        ]
+    },
+    {
+        "Title": "2004 Rolex Submariner 14060M With Papers & Service Card",
+        "Year": 2004,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060M",
+        "Serial": "F089XXX",
+        "Inventory": "/watches/vfdb",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-18T20:58:39.799962",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex 18K Yg Day-Date 18038 Black Dial",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "8338XXX",
+        "Inventory": "/watches/mtye",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-18T20:58:39.835648",
+                "Price": 15350.0
+            }
+        ]
+    },
+    {
+        "Title": "Iwc Pilot'S Watch Chronograph Edition \"Tribute To 3705\" Iw387905",
+        "Year": null,
+        "Brand": "Iwc",
+        "Model": "Pilot's watch",
+        "Reference": "IW387905",
+        "Serial": "6336XXX",
+        "Inventory": "/watches/lhhl",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-18T20:58:39.721636",
+                "Price": 8350.0
+            }
+        ]
     }
 ]
