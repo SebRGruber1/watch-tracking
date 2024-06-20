@@ -100034,5 +100034,50 @@
                 "Price": 8350.0
             }
         ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master 16700 Swiss Only Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "A417XXX",
+        "Inventory": "/watches/pkab",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-20T17:13:23.526703",
+                "Price": 11350.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Iwc Ingenieur Iw328903 Teal Chess Board Dial With Box And Papers",
+        "Year": 2024,
+        "Brand": "Iwc",
+        "Model": "Ingenieur",
+        "Reference": "IW328903",
+        "Serial": "6496XXX",
+        "Inventory": "/watches/ibhw",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-20T17:13:23.372416",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex 18K Wg Daytona 116519Ln Black Diamond Dial With Box And Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116519",
+        "Serial": "24U30XXX",
+        "Inventory": "/watches/jqta",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-20T17:13:23.509701",
+                "Price": 35850.0
+            }
+        ]
     }
 ]
