@@ -99765,6 +99765,10 @@
             {
                 "Date": "2024-06-17T20:58:37.688363",
                 "Price": 11550.0
+            },
+            {
+                "Date": "2024-06-20T14:23:14.693708",
+                "Price": "sold"
             }
         ]
     },
@@ -99930,6 +99934,10 @@
             {
                 "Date": "2024-06-19T17:13:32.326217",
                 "Price": 9850.0
+            },
+            {
+                "Date": "2024-06-20T14:23:14.693708",
+                "Price": "sold"
             }
         ]
     },
@@ -99979,6 +99987,51 @@
             {
                 "Date": "2024-06-20T11:18:15.423659",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1989 Rolex 18K Yg Day-Date 18238 Champagne Diamond Dial",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "L743XXX",
+        "Inventory": "/watches/h1b6",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-20T14:17:59.123275",
+                "Price": 15350.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex 18K Yg Daytona 16528 Black Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16528",
+        "Serial": "W873XXX",
+        "Inventory": "/watches/ph7e",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-20T14:17:59.165154",
+                "Price": 32750.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Air-King 126900 With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "126900",
+        "Serial": "M5355XXX",
+        "Inventory": "/watches/ggnv",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-20T14:17:59.235361",
+                "Price": 8350.0
             }
         ]
     }
