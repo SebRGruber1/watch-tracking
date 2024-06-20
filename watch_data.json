@@ -94855,6 +94855,10 @@
             {
                 "Date": "2024-04-24T20:56:05.843869",
                 "Price": 5350.0
+            },
+            {
+                "Date": "2024-06-19T21:03:05.043956",
+                "Price": "sold"
             }
         ]
     },
@@ -98282,6 +98286,10 @@
             {
                 "Date": "2024-05-29T20:56:41.025516",
                 "Price": 21650.0
+            },
+            {
+                "Date": "2024-06-19T21:03:05.043956",
+                "Price": "sold"
             }
         ]
     },
@@ -99944,6 +99952,21 @@
             {
                 "Date": "2024-06-19T17:13:43.906600",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1964 Rolex Explorer 1016 Service Dial",
+        "Year": 1964,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "1016",
+        "Serial": "1041XXX",
+        "Inventory": "/watches/hstd",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-19T20:56:59.748327",
+                "Price": 10350.0
             }
         ]
     }
