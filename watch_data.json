@@ -90968,6 +90968,10 @@
             {
                 "Date": "2024-04-14T18:26:47.667498",
                 "Price": 10950.0
+            },
+            {
+                "Date": "2024-06-24T21:04:28.839499",
+                "Price": "sold"
             }
         ]
     },
@@ -95070,6 +95074,10 @@
             {
                 "Date": "2024-06-22T17:15:54.734925",
                 "Price": 19850.0
+            },
+            {
+                "Date": "2024-06-24T21:04:28.839499",
+                "Price": "sold"
             }
         ]
     },
@@ -95722,6 +95730,10 @@
             {
                 "Date": "2024-06-22T17:15:54.734925",
                 "Price": 3950.0
+            },
+            {
+                "Date": "2024-06-24T21:04:28.839499",
+                "Price": "sold"
             }
         ]
     },
@@ -100295,6 +100307,81 @@
             {
                 "Date": "2024-06-22T17:15:54.734925",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Sea-Dweller 1665 With Box And Papers",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "1665",
+        "Serial": "8063XXX",
+        "Inventory": "/watches/dnyt",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-24T20:58:21.748863",
+                "Price": 13550.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Zenith El Primero Chronomaster Revival Shadow 97.T384.4061 Black Dial With Box And Papers",
+        "Year": 2021,
+        "Brand": "Zenith",
+        "Model": "Chronomaster revival",
+        "Reference": "21.C822",
+        "Serial": "556XXX",
+        "Inventory": "/watches/ycob",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-24T20:58:21.888335",
+                "Price": 5250.0
+            }
+        ]
+    },
+    {
+        "Title": "1976 Rolex 18K Yg Day-Date 1803 Champagne Dial",
+        "Year": 1976,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "4123XXX",
+        "Inventory": "/watches/le2c",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-24T20:58:21.845547",
+                "Price": 8850.0
+            }
+        ]
+    },
+    {
+        "Title": "1975 Rolex Submariner 5512 With Service Papers",
+        "Year": 1975,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5512",
+        "Serial": "3443XXX",
+        "Inventory": "/watches/ezs1",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-24T20:58:21.809767",
+                "Price": 19650.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Air-King 14010 Blue Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "14010",
+        "Serial": "U250XXX",
+        "Inventory": "/watches/4i8k",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-24T20:58:21.713509",
+                "Price": 4250.0
             }
         ]
     }
