@@ -100549,5 +100549,20 @@
                 "Price": 63550.0
             }
         ]
+    },
+    {
+        "Title": "1971 Rolex 18K Yg Day-Date 1803 Grey Rose Dial",
+        "Year": 1971,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "2733XXX",
+        "Inventory": "/watches/esv7",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-26T14:16:38.562389",
+                "Price": 10800.0
+            }
+        ]
     }
 ]
