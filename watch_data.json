@@ -100442,6 +100442,10 @@
             {
                 "Date": "2024-06-24T20:58:21.713509",
                 "Price": 4250.0
+            },
+            {
+                "Date": "2024-06-26T17:17:27.055345",
+                "Price": "sold"
             }
         ]
     },
@@ -100472,6 +100476,10 @@
             {
                 "Date": "2024-06-25T17:12:32.665724",
                 "Price": 17350.0
+            },
+            {
+                "Date": "2024-06-26T17:17:27.055345",
+                "Price": 16850.0
             }
         ]
     },
@@ -100517,6 +100525,10 @@
             {
                 "Date": "2024-06-26T02:19:06.214417",
                 "Price": 25850.0
+            },
+            {
+                "Date": "2024-06-26T17:17:27.055345",
+                "Price": "sold"
             }
         ]
     },
@@ -100562,6 +100574,40 @@
             {
                 "Date": "2024-06-26T14:16:38.562389",
                 "Price": 10800.0
+            },
+            {
+                "Date": "2024-06-26T17:17:27.055345",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex Daytona 16520 Black Dial With Box And Papers",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "S250XXX",
+        "Inventory": "/watches/bkmk",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-26T17:13:45.386070",
+                "Price": 23650.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex Submariner 14060M With Box And Papers",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "D113XXX",
+        "Inventory": "/watches/kvg9",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-26T17:13:45.366687",
+                "Price": 9650.0
             }
         ]
     }
