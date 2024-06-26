@@ -100504,5 +100504,50 @@
                 "Price": 34550.0
             }
         ]
+    },
+    {
+        "Title": "1967 Rolex Gmt-Master 1675 Mk 1 Small Hand With Box And Papers",
+        "Year": 1967,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "1705XXX",
+        "Inventory": "/watches/uqdi",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-26T02:19:06.214417",
+                "Price": 25850.0
+            }
+        ]
+    },
+    {
+        "Title": "Patek Philippe 18K Wg Calatrava 3606 Blue Dial",
+        "Year": null,
+        "Brand": "Patek philippe",
+        "Model": null,
+        "Reference": "3606",
+        "Serial": "527XXX",
+        "Inventory": "/watches/jjtw",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-26T02:19:06.521280",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "1973 Rolex Daytona 6265 Silver Flat Subdial Dial With Box And Papers",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "6265",
+        "Serial": "3032XXX",
+        "Inventory": "/watches/fbra",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-26T02:19:06.479836",
+                "Price": 63550.0
+            }
+        ]
     }
 ]
