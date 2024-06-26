@@ -99864,6 +99864,10 @@
             {
                 "Date": "2024-06-17T20:58:37.553415",
                 "Price": 5550.0
+            },
+            {
+                "Date": "2024-06-25T21:02:28.205711",
+                "Price": "sold"
             }
         ]
     },
@@ -100302,6 +100306,10 @@
             {
                 "Date": "2024-06-20T20:57:45.274921",
                 "Price": 34850.0
+            },
+            {
+                "Date": "2024-06-25T21:02:28.205711",
+                "Price": "sold"
             }
         ]
     },
@@ -100479,6 +100487,21 @@
             {
                 "Date": "2024-06-25T17:12:32.790716",
                 "Price": 10550.0
+            }
+        ]
+    },
+    {
+        "Title": "1972 Rolex Double Red Sea-Dweller 1665 Mark Iii Dial",
+        "Year": 1972,
+        "Brand": "Rolex",
+        "Model": "Double red sea-dweller",
+        "Reference": "1665",
+        "Serial": "3078XXX",
+        "Inventory": "/watches/qlcj",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-25T20:58:23.569356",
+                "Price": 34550.0
             }
         ]
     }
