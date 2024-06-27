@@ -98683,6 +98683,10 @@
             {
                 "Date": "2024-06-03T20:57:44.210141",
                 "Price": 8550.0
+            },
+            {
+                "Date": "2024-06-26T21:03:48.719662",
+                "Price": 6950.0
             }
         ]
     },
@@ -100608,6 +100612,81 @@
             {
                 "Date": "2024-06-26T17:13:45.366687",
                 "Price": 9650.0
+            }
+        ]
+    },
+    {
+        "Title": "1964 Rolex Two-Tone Rg Datejust 1601 Silver Dial",
+        "Year": 1964,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1601",
+        "Serial": "1003XXX",
+        "Inventory": "/watches/yq5f",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-26T20:58:30.351973",
+                "Price": 6650.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex Daytona 126500Ln White Dial With Box And Papers",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "126500",
+        "Serial": "559PXXX",
+        "Inventory": "/watches/sqrw",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-26T20:58:30.474818",
+                "Price": 34550.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Submariner 16800 Glossy Dial",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16800",
+        "Serial": "8453XXX",
+        "Inventory": "/watches/yfa1",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-26T20:58:30.510006",
+                "Price": 9250.0
+            }
+        ]
+    },
+    {
+        "Title": "1986 Rolex Submariner 16800 Wgs Tropical Dial",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16800",
+        "Serial": "9316XXX",
+        "Inventory": "/watches/qqdq",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-26T20:58:30.512594",
+                "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "2017 Rolex Explorer 214270 With Box And Papers",
+        "Year": 2017,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "214270",
+        "Serial": "2878LXXX",
+        "Inventory": "/watches/h1g4",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-26T20:58:30.502576",
+                "Price": 6850.0
             }
         ]
     }
