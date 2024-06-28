@@ -99823,6 +99823,10 @@
             {
                 "Date": "2024-06-17T20:58:37.685888",
                 "Price": 26550.0
+            },
+            {
+                "Date": "2024-06-27T21:03:55.977336",
+                "Price": "sold"
             }
         ]
     },
@@ -100627,6 +100631,10 @@
             {
                 "Date": "2024-06-26T20:58:30.351973",
                 "Price": 6650.0
+            },
+            {
+                "Date": "2024-06-27T21:03:55.977336",
+                "Price": "sold"
             }
         ]
     },
@@ -100691,6 +100699,96 @@
             {
                 "Date": "2024-06-27T14:21:12.453947",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1978 Cartier 18K Yg Tank White Paris Dial",
+        "Year": 1978,
+        "Brand": "Cartier",
+        "Model": "Tank must",
+        "Reference": "",
+        "Serial": "7808712XXX",
+        "Inventory": "/watches/6k6o",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-27T20:58:35.678515",
+                "Price": 7350.0
+            }
+        ]
+    },
+    {
+        "Title": "Rolex Gmt-Master Ii 116710",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "116710",
+        "Serial": "3R7K9XXX",
+        "Inventory": "/watches/wd97",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-27T20:58:35.947388",
+                "Price": 13950.0
+            }
+        ]
+    },
+    {
+        "Title": "1975 Rolex Two-Tone Datejust 1601 Black Dial",
+        "Year": 1975,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1601",
+        "Serial": "3903XXX",
+        "Inventory": "/watches/t3qd",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-27T20:58:35.890823",
+                "Price": 3950.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Explorer 14270",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "X617XXX",
+        "Inventory": "/watches/3giy",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-27T20:58:35.815470",
+                "Price": 6350.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Gmt-Master 16700 With Box And Papers",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "T576XXX",
+        "Inventory": "/watches/hehn",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-27T20:58:35.899056",
+                "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "1979 Rolex Submariner 5513 Mk 3 Maxi Dial With Service Papers",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "6224XXX",
+        "Inventory": "/watches/ap73",
+        "PriceHistory": [
+            {
+                "Date": "2024-06-27T20:58:35.836210",
+                "Price": 18650.0
             }
         ]
     }
