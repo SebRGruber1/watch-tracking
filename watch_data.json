@@ -100942,5 +100942,35 @@
                 "Price": 19850.0
             }
         ]
+    },
+    {
+        "Title": "1999 Rolex 18K Wg Day-Date 18239 Silver Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18239",
+        "Serial": "A592XXX",
+        "Inventory": "/watches/lfcc",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-01T17:12:42.080569",
+                "Price": 17350.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex 18K Wg Day-Date 228239 Olive Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "228239",
+        "Serial": "43468XXX",
+        "Inventory": "/watches/cpmd",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-01T17:12:42.251288",
+                "Price": 41850.0
+            }
+        ]
     }
 ]
