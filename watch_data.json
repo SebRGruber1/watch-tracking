@@ -100200,6 +100200,10 @@
             {
                 "Date": "2024-06-25T17:16:20.994009",
                 "Price": 7950.0
+            },
+            {
+                "Date": "2024-07-02T17:18:37.621067",
+                "Price": "sold"
             }
         ]
     },
@@ -100865,6 +100869,10 @@
             {
                 "Date": "2024-06-27T20:58:35.947388",
                 "Price": 13950.0
+            },
+            {
+                "Date": "2024-07-02T17:18:37.621067",
+                "Price": 12950.0
             }
         ]
     },
@@ -101136,6 +101144,36 @@
             {
                 "Date": "2024-07-01T23:14:16.658187",
                 "Price": 13350.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Air-King 14010 Silver Dial",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "14010",
+        "Serial": "T206XXX",
+        "Inventory": "/watches/iimg",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-02T17:12:29.756922",
+                "Price": 3950.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Omega Seamaster 21032 White Dial With Box And Papers",
+        "Year": 2021,
+        "Brand": "Omega",
+        "Model": "Seamaster",
+        "Reference": "21032",
+        "Serial": "83113XXX",
+        "Inventory": "/watches/chqu",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-02T17:12:29.669419",
+                "Price": 3950.0
             }
         ]
     }
