@@ -100725,6 +100725,10 @@
             {
                 "Date": "2024-06-26T17:13:45.386070",
                 "Price": 23650.0
+            },
+            {
+                "Date": "2024-07-01T21:03:22.444479",
+                "Price": 24350.0
             }
         ]
     },
@@ -100842,6 +100846,10 @@
             {
                 "Date": "2024-06-27T20:58:35.678515",
                 "Price": 7350.0
+            },
+            {
+                "Date": "2024-07-01T21:03:22.444479",
+                "Price": 6750.0
             }
         ]
     },
@@ -100876,6 +100884,10 @@
             {
                 "Date": "2024-07-01T14:23:27.228158",
                 "Price": 3750.0
+            },
+            {
+                "Date": "2024-07-01T21:03:22.444479",
+                "Price": "sold"
             }
         ]
     },
@@ -100970,6 +100982,111 @@
             {
                 "Date": "2024-07-01T17:12:42.251288",
                 "Price": 41850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Zenith Daytona 16520 Black Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "U758XXX",
+        "Inventory": "/watches/daii",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-01T20:59:00.719067",
+                "Price": 21350.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex 18K Yg Day-Date 18038 Champagne Dial",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "R283XXX",
+        "Inventory": "/watches/x4yy",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-01T20:59:00.710019",
+                "Price": 14950.0
+            }
+        ]
+    },
+    {
+        "Title": "2006 Rolex Submariner 11610Lv With Box And Papers",
+        "Year": 2006,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "Z246XXX",
+        "Inventory": "/watches/jba8",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-01T20:59:00.683254",
+                "Price": 14350.0
+            }
+        ]
+    },
+    {
+        "Title": "Nos 2019 Rolex 18K Rg Daytona 116505 Black Dial With Box And Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116505",
+        "Serial": "83F14XXX",
+        "Inventory": "/watches/d6kd",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-01T20:59:00.618133",
+                "Price": 43650.0
+            }
+        ]
+    },
+    {
+        "Title": "2017 Rolex Gmt-Master Ii 116710Blnr With Box And Papers",
+        "Year": 2017,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "116710",
+        "Serial": "XW716XXX",
+        "Inventory": "/watches/gqgt",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-01T20:59:00.680564",
+                "Price": 14750.0
+            }
+        ]
+    },
+    {
+        "Title": "2016 Rolex Submariner 116610Lv Green Dial \"Hulk\" With Box And Papers",
+        "Year": 2016,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "116610",
+        "Serial": "832KDXXX",
+        "Inventory": "/watches/sque",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-01T20:59:00.576175",
+                "Price": 19350.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex Gmt-Master Ii 126710Blro With Box And Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126710",
+        "Serial": "2ST09XXX",
+        "Inventory": "/watches/cctc",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-01T20:59:00.742064",
+                "Price": 19850.0
             }
         ]
     }
