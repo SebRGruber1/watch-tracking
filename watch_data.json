@@ -101089,5 +101089,50 @@
                 "Price": 19850.0
             }
         ]
+    },
+    {
+        "Title": "1975 Rolex Red Submariner 1680 Service Dial",
+        "Year": 1975,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "3934XXX",
+        "Inventory": "/watches/kioh",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-01T23:14:16.519159",
+                "Price": 14350.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Zenith Daytona 16520 Black Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "A569XXX",
+        "Inventory": "/watches/nj9n",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-01T23:14:16.707111",
+                "Price": 21550.0
+            }
+        ]
+    },
+    {
+        "Title": "2016 Rolex Sea-Dweller 116600 With Box And Papers",
+        "Year": 2016,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "116600",
+        "Serial": "12A73XXX",
+        "Inventory": "/watches/nfhq",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-01T23:14:16.658187",
+                "Price": 13350.0
+            }
+        ]
     }
 ]
