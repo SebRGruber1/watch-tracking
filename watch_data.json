@@ -100798,6 +100798,10 @@
             {
                 "Date": "2024-06-26T20:58:30.474818",
                 "Price": 34550.0
+            },
+            {
+                "Date": "2024-07-03T17:16:59.354714",
+                "Price": "sold"
             }
         ]
     },
@@ -101228,6 +101232,21 @@
             {
                 "Date": "2024-07-02T20:58:47.871391",
                 "Price": 5150.0
+            }
+        ]
+    },
+    {
+        "Title": "1971 Tudor Monte Carlo 7032/0 Dark Side Home Plate",
+        "Year": 1971,
+        "Brand": "Tudor",
+        "Model": "Monte carlo",
+        "Reference": "7032/0",
+        "Serial": "760XXX",
+        "Inventory": "/watches/xhmf",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-03T17:13:16.664104",
+                "Price": 53550.0
             }
         ]
     }
