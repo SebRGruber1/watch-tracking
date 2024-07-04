@@ -87361,6 +87361,10 @@
             {
                 "Date": "2024-04-17T20:42:05.833928",
                 "Price": 27550.0
+            },
+            {
+                "Date": "2024-07-03T21:02:46.309425",
+                "Price": 26850.0
             }
         ]
     },
@@ -89375,6 +89379,10 @@
             {
                 "Date": "2024-06-07T17:17:20.167662",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-07-03T21:02:46.309425",
+                "Price": 25850.0
             }
         ]
     },
@@ -98878,6 +98886,10 @@
             {
                 "Date": "2024-07-03T14:20:31.814685",
                 "Price": 10550.0
+            },
+            {
+                "Date": "2024-07-03T21:02:46.309425",
+                "Price": "sold"
             }
         ]
     },
@@ -101078,6 +101090,10 @@
             {
                 "Date": "2024-07-02T21:03:08.536757",
                 "Price": 42850.0
+            },
+            {
+                "Date": "2024-07-03T21:02:46.309425",
+                "Price": "sold"
             }
         ]
     },
@@ -101127,6 +101143,10 @@
             {
                 "Date": "2024-07-02T14:22:30.681762",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-07-03T21:02:46.309425",
+                "Price": 19850.0
             }
         ]
     },
@@ -101232,6 +101252,10 @@
             {
                 "Date": "2024-07-02T20:58:47.871391",
                 "Price": 5150.0
+            },
+            {
+                "Date": "2024-07-03T21:02:46.309425",
+                "Price": "sold"
             }
         ]
     },
@@ -101247,6 +101271,51 @@
             {
                 "Date": "2024-07-03T17:13:16.664104",
                 "Price": 53550.0
+            }
+        ]
+    },
+    {
+        "Title": "1967 Rolex Daytona 6239 Silver \"Cherry\" Dial",
+        "Year": 1967,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "6239",
+        "Serial": "1695XXX",
+        "Inventory": "/watches/7y0h",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-03T20:58:55.912503",
+                "Price": 52550.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Submariner 14060",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "N259XXX",
+        "Inventory": "/watches/6vfy",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-03T20:58:55.869655",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex Explorer Ii 16570 With Service Papers",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "F262XXX",
+        "Inventory": "/watches/jki3",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-03T20:58:55.991400",
+                "Price": 7850.0
             }
         ]
     }
