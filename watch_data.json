@@ -91694,6 +91694,10 @@
             {
                 "Date": "2024-06-13T21:01:28.401909",
                 "Price": 17750.0
+            },
+            {
+                "Date": "2024-07-04T14:20:36.364320",
+                "Price": 17350.0
             }
         ]
     },
@@ -98632,6 +98636,10 @@
             {
                 "Date": "2024-06-29T14:19:13.742441",
                 "Price": 35650.0
+            },
+            {
+                "Date": "2024-07-04T14:20:36.364320",
+                "Price": "sold"
             }
         ]
     },
@@ -100103,6 +100111,10 @@
             {
                 "Date": "2024-06-18T14:17:41.509052",
                 "Price": 53650.0
+            },
+            {
+                "Date": "2024-07-04T14:20:36.364320",
+                "Price": 52650.0
             }
         ]
     },
@@ -100481,6 +100493,10 @@
             {
                 "Date": "2024-06-20T20:57:45.281599",
                 "Price": 21550.0
+            },
+            {
+                "Date": "2024-07-04T14:20:36.364320",
+                "Price": 20850.0
             }
         ]
     },
@@ -101316,6 +101332,51 @@
             {
                 "Date": "2024-07-03T20:58:55.991400",
                 "Price": 7850.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex 18K Rg Yacht-Master 126655 With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Yacht-master",
+        "Reference": "126655",
+        "Serial": "V6D16XXX",
+        "Inventory": "/watches/rxow",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-04T14:16:55.619229",
+                "Price": 28550.0
+            }
+        ]
+    },
+    {
+        "Title": "1987 Rolex Submariner 16800 With Papers",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16800",
+        "Serial": "9446XXX",
+        "Inventory": "/watches/e0h7",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-04T14:16:55.525970",
+                "Price": 9550.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex 18K Yg Day-Date 18238 Champagne Dial",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "R948XXX",
+        "Inventory": "/watches/wbwy",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-04T14:16:55.491708",
+                "Price": 15850.0
             }
         ]
     }
