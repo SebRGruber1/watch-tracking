@@ -95201,6 +95201,10 @@
             {
                 "Date": "2024-06-01T14:21:39.406646",
                 "Price": 78550.0
+            },
+            {
+                "Date": "2024-07-08T14:21:09.504303",
+                "Price": "sold"
             }
         ]
     },
@@ -101465,6 +101469,36 @@
             {
                 "Date": "2024-07-06T21:07:43.007468",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1998 Patek Philippe Aquanaut 5065 With Extract From The Archives",
+        "Year": 1998,
+        "Brand": "Patek philippe",
+        "Model": "Aquanaut",
+        "Reference": "5065",
+        "Serial": "4047XXX",
+        "Inventory": "/watches/ilvw",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-08T14:17:25.940456",
+                "Price": 43550.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Daytona 116500Ln Black Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "14D29XXX",
+        "Inventory": "/watches/bxa9",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-08T14:17:25.735183",
+                "Price": 24850.0
             }
         ]
     }
