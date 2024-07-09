@@ -100057,6 +100057,10 @@
             {
                 "Date": "2024-06-17T20:58:37.674775",
                 "Price": 13850.0
+            },
+            {
+                "Date": "2024-07-08T21:03:43.260995",
+                "Price": "sold"
             }
         ]
     },
@@ -101054,6 +101058,10 @@
             {
                 "Date": "2024-06-27T20:58:35.899056",
                 "Price": 12850.0
+            },
+            {
+                "Date": "2024-07-08T21:03:43.260995",
+                "Price": "sold"
             }
         ]
     },
@@ -101099,6 +101107,10 @@
             {
                 "Date": "2024-07-01T17:12:42.080569",
                 "Price": 17350.0
+            },
+            {
+                "Date": "2024-07-08T21:03:43.260995",
+                "Price": "sold"
             }
         ]
     },
@@ -101515,6 +101527,81 @@
             {
                 "Date": "2024-07-08T14:17:25.735183",
                 "Price": 24850.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Gmt 126710Blnr With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Gmt",
+        "Reference": "126710",
+        "Serial": "W9794XXX",
+        "Inventory": "/watches/zqh9",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-08T20:59:52.131807",
+                "Price": 14950.0
+            }
+        ]
+    },
+    {
+        "Title": "1969 Rolex Date 1500 Blue Dial",
+        "Year": 1969,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "1500",
+        "Serial": "1936XXX",
+        "Inventory": "/watches/ydk0",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-08T20:59:52.274833",
+                "Price": 3850.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Submariner 14060 With Box And Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "A142XXX",
+        "Inventory": "/watches/rmip",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-08T20:59:52.270523",
+                "Price": 8750.0
+            }
+        ]
+    },
+    {
+        "Title": "1981 Rolex Gmt-Master 16750",
+        "Year": 1981,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16750",
+        "Serial": "6727XXX",
+        "Inventory": "/watches/bqwm",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-08T20:59:52.083897",
+                "Price": 15850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Explorer Ii 16570 With Papers & Hang Tag",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "U293XXX",
+        "Inventory": "/watches/44yy",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-08T20:59:52.080384",
+                "Price": 8350.0
             }
         ]
     }
