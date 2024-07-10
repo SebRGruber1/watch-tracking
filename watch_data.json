@@ -101723,5 +101723,50 @@
                 "Price": 15650.0
             }
         ]
+    },
+    {
+        "Title": "1965 Rolex Gmt-Master 1675 Mk 2 Dial",
+        "Year": 1965,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "1279XXX",
+        "Inventory": "/watches/rsxn",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-10T14:19:10.866978",
+                "Price": 13850.0
+            }
+        ]
+    },
+    {
+        "Title": "Cartier Two-Tone Santos Galbee Ac23.80 Automatic With Service Papers",
+        "Year": null,
+        "Brand": "Cartier",
+        "Model": "Santos galbee",
+        "Reference": "AC23.80",
+        "Serial": "296129XXX",
+        "Inventory": "/watches/k1jl",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-10T14:19:10.596245",
+                "Price": 4950.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Gmt-Master Ii 126710Blnr With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126710",
+        "Serial": "D293YXXX",
+        "Inventory": "/watches/iwhr",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-10T14:19:16.507234",
+                "Price": "sold"
+            }
+        ]
     }
 ]
