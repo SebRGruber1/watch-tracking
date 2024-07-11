@@ -101629,6 +101629,10 @@
             {
                 "Date": "2024-07-08T20:59:52.274833",
                 "Price": 3850.0
+            },
+            {
+                "Date": "2024-07-11T05:17:57.632109",
+                "Price": "sold"
             }
         ]
     },
@@ -101794,6 +101798,51 @@
             {
                 "Date": "2024-07-10T14:19:16.507234",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1976 Rolex 18K Yg Day-Date 1803 Champagne Dial",
+        "Year": 1976,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "4148XXX",
+        "Inventory": "/watches/miwv",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-11T05:14:29.671450",
+                "Price": 8950.0
+            }
+        ]
+    },
+    {
+        "Title": "1969 Rolex Datejust 1601 Grey Dial",
+        "Year": 1969,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1601",
+        "Serial": "1947XXX",
+        "Inventory": "/watches/ixva",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-11T05:14:29.701607",
+                "Price": 4350.0
+            }
+        ]
+    },
+    {
+        "Title": "1968 Rolex Gmt-Master 1675 Service Dial With Service Papers",
+        "Year": 1968,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "1808XXX",
+        "Inventory": "/watches/9brp",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-11T05:14:29.734728",
+                "Price": 9850.0
             }
         ]
     }
