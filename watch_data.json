@@ -101941,5 +101941,65 @@
                 "Price": 23850.0
             }
         ]
+    },
+    {
+        "Title": "1966 Rolex Submariner 5513 Bart Simpson Gilt Tropical Dial",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "1311XXX",
+        "Inventory": "/watches/om9j",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-12T02:18:17.574643",
+                "Price": 15850.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "P762XXX",
+        "Inventory": "/watches/gu2s",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-12T02:18:17.663989",
+                "Price": 12650.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Explorer 14270",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "A159XXX",
+        "Inventory": "/watches/r4p9",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-12T02:18:17.737052",
+                "Price": 4950.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Submariner 16610 With Papers",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "T244XXX",
+        "Inventory": "/watches/ie3l",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-12T02:18:17.819213",
+                "Price": 9650.0
+            }
+        ]
     }
 ]
