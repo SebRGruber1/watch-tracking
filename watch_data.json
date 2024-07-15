@@ -98783,6 +98783,10 @@
             {
                 "Date": "2024-05-30T20:57:35.199785",
                 "Price": 21650.0
+            },
+            {
+                "Date": "2024-07-15T17:16:39.892835",
+                "Price": "sold"
             }
         ]
     },
@@ -102078,6 +102082,96 @@
             {
                 "Date": "2024-07-15T14:17:36.142797",
                 "Price": 29550.0
+            }
+        ]
+    },
+    {
+        "Title": "2011 Rolex Submariner 14060M With 4 Line Dial And Box And Papers",
+        "Year": 2011,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060M",
+        "Serial": "887A9XXX",
+        "Inventory": "/watches/htph",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-15T17:13:03.239280",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "1976 Rolex Submariner 5513 Serif Dial With Service Papers",
+        "Year": 1976,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "4226XXX",
+        "Inventory": "/watches/vtbu",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-15T17:13:03.393433",
+                "Price": 15850.0
+            }
+        ]
+    },
+    {
+        "Title": "Breguet 18K Rg Tradition 7027",
+        "Year": null,
+        "Brand": "Breguet",
+        "Model": "Tradition",
+        "Reference": "7027",
+        "Serial": "607XXX",
+        "Inventory": "/watches/norg",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-15T17:13:03.230418",
+                "Price": 14950.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Two-Tone Gmt-Master Ii 16713",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16713",
+        "Serial": "N223XXX",
+        "Inventory": "/watches/tnsd",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-15T17:13:03.279191",
+                "Price": 10850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Explorer Ii 16570 White Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "U468XXX",
+        "Inventory": "/watches/dbzg",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-15T17:13:03.154669",
+                "Price": 7850.0
+            }
+        ]
+    },
+    {
+        "Title": "2007 Rolex Explorer Ii 16570 With 3186 Movement",
+        "Year": 2007,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "M9911XXX",
+        "Inventory": "/watches/8x1x",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-15T17:13:03.287028",
+                "Price": 9550.0
             }
         ]
     }
