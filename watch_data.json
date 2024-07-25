@@ -102762,6 +102762,10 @@
             {
                 "Date": "2024-07-24T21:00:35.298109",
                 "Price": 26850.0
+            },
+            {
+                "Date": "2024-07-24T23:18:26.601948",
+                "Price": "sold"
             }
         ]
     },
@@ -102792,6 +102796,36 @@
             {
                 "Date": "2024-07-24T21:00:35.080517",
                 "Price": 10750.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Gmt-Master Ii 16710",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "P213XXX",
+        "Inventory": "/watches/fffe",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-24T23:14:46.774487",
+                "Price": 10850.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Air-King 126900 With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "126900",
+        "Serial": "G30N2XXX",
+        "Inventory": "/watches/1uie",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-24T23:14:46.780215",
+                "Price": 8350.0
             }
         ]
     }
