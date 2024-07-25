@@ -100188,6 +100188,10 @@
             {
                 "Date": "2024-06-28T17:17:37.373776",
                 "Price": 35350.0
+            },
+            {
+                "Date": "2024-07-24T21:03:58.504560",
+                "Price": "sold"
             }
         ]
     },
@@ -102316,6 +102320,10 @@
             {
                 "Date": "2024-07-12T02:18:17.737052",
                 "Price": 4950.0
+            },
+            {
+                "Date": "2024-07-24T21:03:58.504560",
+                "Price": "sold"
             }
         ]
     },
@@ -102517,6 +102525,10 @@
             {
                 "Date": "2024-07-23T23:15:09.706504",
                 "Price": 24850.0
+            },
+            {
+                "Date": "2024-07-24T21:03:58.504560",
+                "Price": "sold"
             }
         ]
     },
@@ -102645,6 +102657,141 @@
             {
                 "Date": "2024-07-23T23:15:09.801475",
                 "Price": 28950.0
+            }
+        ]
+    },
+    {
+        "Title": "2006 F.P. Journe Platinum Octa Lune L-Pt-38 Grey Dial With Box, Papers & Service Papers",
+        "Year": 2006,
+        "Brand": "F.p. journe",
+        "Model": "Platinum octa lune",
+        "Reference": "L PT 38",
+        "Serial": "20XXX",
+        "Inventory": "/watches/mrxt",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-24T21:00:35.005472",
+                "Price": 135350.0
+            }
+        ]
+    },
+    {
+        "Title": "2020 Rolex Oyster Perpetual 124300 Yellow Dial With Box And Papers",
+        "Year": 2020,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "124300",
+        "Serial": "V5949XXX",
+        "Inventory": "/watches/k4dv",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-24T21:00:35.067790",
+                "Price": 13950.0
+            }
+        ]
+    },
+    {
+        "Title": "2007 Rolex Daytona 116520 White Dial With Box And Papers",
+        "Year": 2007,
+        "Brand": "Rolex",
+        "Model": "Daytonba",
+        "Reference": "116520",
+        "Serial": "Z871XXX",
+        "Inventory": "/watches/bsaj",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-24T21:00:35.256551",
+                "Price": 19350.0
+            }
+        ]
+    },
+    {
+        "Title": "1981 Rolex Gmt-Master 16750",
+        "Year": 1981,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16750",
+        "Serial": "6727XXX",
+        "Inventory": "/watches/xunp",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-24T21:00:35.244395",
+                "Price": 14650.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex 18K Wg Day-Date 118239A Silver Diamond Dial",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "118239",
+        "Serial": "P662XXX",
+        "Inventory": "/watches/tdsg",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-24T21:00:35.194993",
+                "Price": 18950.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex 18K Yg Day-Date 18238 Champagne Dial With Box And Papers",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "W903XXX",
+        "Inventory": "/watches/lp74",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-24T21:00:35.120209",
+                "Price": 16650.0
+            }
+        ]
+    },
+    {
+        "Title": "1981 Rolex 18K Yg Submariner 16808 Matte Black Dial",
+        "Year": 1981,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16808",
+        "Serial": "7066XXX",
+        "Inventory": "/watches/acdo",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-24T21:00:35.298109",
+                "Price": 26850.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex 18K Wg Gmt-Master Ii 126719Blro Blue Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126719",
+        "Serial": "15Q86XXX",
+        "Inventory": "/watches/6vmq",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-24T21:00:35.166048",
+                "Price": 31850.0
+            }
+        ]
+    },
+    {
+        "Title": "2016 Rolex 114060 Submariner With Box And Papers",
+        "Year": 2016,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "114060",
+        "Serial": "G852XXX",
+        "Inventory": "/watches/uqvr",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-24T21:00:35.080517",
+                "Price": 10750.0
             }
         ]
     }
