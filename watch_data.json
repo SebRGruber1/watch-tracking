@@ -102848,5 +102848,155 @@
                 "Price": 8350.0
             }
         ]
+    },
+    {
+        "Title": "1963 Rolex Pcg Gmt-Master 1675 Gilt \"Serpico Y Laino\" Double Swiss Underline Dial",
+        "Year": 1963,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "875XXX",
+        "Inventory": "/watches/aqxn",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-27T02:16:32.888928",
+                "Price": 96550.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex Ladies Two-Tone Datejust 69173 Champagne Dial",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Ladies datejust",
+        "Reference": "69173",
+        "Serial": "R507XXX",
+        "Inventory": "/watches/zqgz",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-27T02:16:32.784396",
+                "Price": 3950.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex Explorer 124270 With Box And Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "124270",
+        "Serial": "E9337XXX",
+        "Inventory": "/watches/ur1f",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-27T02:16:32.798305",
+                "Price": 7750.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Explorer Ii 1655 Mk 2 Dial With Papers",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "1655",
+        "Serial": "5365XXX",
+        "Inventory": "/watches/hg1v",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-27T02:16:32.716879",
+                "Price": 27850.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Oyster Perpetual 124300 Green Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "124300",
+        "Serial": "37FW0XXX",
+        "Inventory": "/watches/ru6r",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-27T02:16:32.863299",
+                "Price": 10750.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Zenith Daytona 16520 White Dial With Hang Tag And Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "A226XXX",
+        "Inventory": "/watches/ozra",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-27T02:16:32.752285",
+                "Price": 24850.0
+            }
+        ]
+    },
+    {
+        "Title": "Cartier Platinum Cpcp Tank Americaine 1734 With Box And Blank Papers",
+        "Year": null,
+        "Brand": "Cartier",
+        "Model": "Tank americaine",
+        "Reference": "1734",
+        "Serial": "GC16XXX",
+        "Inventory": "/watches/p5ud",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-27T02:16:32.770152",
+                "Price": 27850.0
+            }
+        ]
+    },
+    {
+        "Title": "1967 Rolex Oyster Speedking Tropical Gilt Dial",
+        "Year": 1967,
+        "Brand": "Rolex",
+        "Model": "Speedking",
+        "Reference": "6430",
+        "Serial": "1750XXX",
+        "Inventory": "/watches/8pms",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-27T02:16:32.821307",
+                "Price": 4250.0
+            }
+        ]
+    },
+    {
+        "Title": "1976 Omega Speedmaster 3590.50 With Papers",
+        "Year": 1976,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "3590.50",
+        "Serial": "34500XXX",
+        "Inventory": "/watches/5hnu",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-27T02:16:32.929094",
+                "Price": 4850.0
+            }
+        ]
+    },
+    {
+        "Title": "1983 Rolex 18K Yg Day-Date 18038 Champagne Dial",
+        "Year": 1983,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "7582XXX",
+        "Inventory": "/watches/gyce",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-27T02:16:32.838184",
+                "Price": 15350.0
+            }
+        ]
     }
 ]
