@@ -568,6 +568,10 @@
             {
                 "Date": "2024-07-19T23:19:51.995387",
                 "Price": 8650.0
+            },
+            {
+                "Date": "2024-07-29T21:04:51.561665",
+                "Price": "sold"
             }
         ]
     },
@@ -84822,6 +84826,10 @@
             {
                 "Date": "2024-07-22T21:05:59.740443",
                 "Price": 24850.0
+            },
+            {
+                "Date": "2024-07-29T21:04:51.561665",
+                "Price": "sold"
             }
         ]
     },
@@ -85020,6 +85028,10 @@
             {
                 "Date": "2024-05-17T20:58:28.546156",
                 "Price": 22850.0
+            },
+            {
+                "Date": "2024-07-29T21:04:51.561665",
+                "Price": "sold"
             }
         ]
     },
@@ -97360,6 +97372,10 @@
             {
                 "Date": "2024-07-02T21:03:08.536757",
                 "Price": 23850.0
+            },
+            {
+                "Date": "2024-07-29T21:04:51.561665",
+                "Price": "sold"
             }
         ]
     },
@@ -99780,6 +99796,10 @@
             {
                 "Date": "2024-06-11T20:58:28.429724",
                 "Price": 12350.0
+            },
+            {
+                "Date": "2024-07-29T21:04:51.561665",
+                "Price": "sold"
             }
         ]
     },
@@ -101011,6 +101031,10 @@
             {
                 "Date": "2024-06-24T20:58:21.809767",
                 "Price": 19650.0
+            },
+            {
+                "Date": "2024-07-29T21:04:51.561665",
+                "Price": 17950.0
             }
         ]
     },
@@ -102129,6 +102153,10 @@
             {
                 "Date": "2024-07-29T14:21:21.084118",
                 "Price": 14950.0
+            },
+            {
+                "Date": "2024-07-29T21:04:51.561665",
+                "Price": "sold"
             }
         ]
     },
@@ -103051,6 +103079,96 @@
             {
                 "Date": "2024-07-29T17:13:45.046165",
                 "Price": 16850.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Red Submariner 1680 Service Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "2371XXX",
+        "Inventory": "/watches/82th",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-29T21:00:38.821672",
+                "Price": 13850.0
+            }
+        ]
+    },
+    {
+        "Title": "1982 Rolex Date 15000 Silver Dial",
+        "Year": 1982,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "15000",
+        "Serial": "7158XXX",
+        "Inventory": "/watches/ruxk",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-29T21:00:38.931558",
+                "Price": 3850.0
+            }
+        ]
+    },
+    {
+        "Title": "2013 Omega Speedmaster 3570.50 With Box And Papers",
+        "Year": 2013,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "3570.50",
+        "Serial": "77774XXX",
+        "Inventory": "/watches/qxgu",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-29T21:00:38.890880",
+                "Price": 4650.0
+            }
+        ]
+    },
+    {
+        "Title": "1992 Tudor Submariner 79090",
+        "Year": 1992,
+        "Brand": "Tudor",
+        "Model": "Submariner",
+        "Reference": "79090",
+        "Serial": "B406XXX",
+        "Inventory": "/watches/mxlq",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-29T21:00:38.903285",
+                "Price": 6850.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Air-King 14010 Black Spider Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "14010",
+        "Serial": "W652XXX",
+        "Inventory": "/watches/8ugb",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-29T21:00:38.965431",
+                "Price": 3850.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Gmt-Master Ii 16710 With Service Card & Hang Tag",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "P613XXX",
+        "Inventory": "/watches/3uta",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-29T21:00:38.856494",
+                "Price": 10550.0
             }
         ]
     }
