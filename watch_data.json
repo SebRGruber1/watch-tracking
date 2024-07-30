@@ -103209,5 +103209,20 @@
                 "Price": 12650.0
             }
         ]
+    },
+    {
+        "Title": "1998 Rolex Air-King 14000 Blue Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "14000",
+        "Serial": "U644XXX",
+        "Inventory": "/watches/9cch",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-30T17:13:32.310681",
+                "Price": 4750.0
+            }
+        ]
     }
 ]
