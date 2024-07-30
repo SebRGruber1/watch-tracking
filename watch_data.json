@@ -100499,6 +100499,10 @@
             {
                 "Date": "2024-07-04T14:20:36.364320",
                 "Price": 52650.0
+            },
+            {
+                "Date": "2024-07-29T23:20:53.901317",
+                "Price": 51650.0
             }
         ]
     },
@@ -102721,6 +102725,10 @@
             {
                 "Date": "2024-07-23T23:15:09.801475",
                 "Price": 28950.0
+            },
+            {
+                "Date": "2024-07-29T23:20:53.901317",
+                "Price": "sold"
             }
         ]
     },
@@ -103169,6 +103177,36 @@
             {
                 "Date": "2024-07-29T21:00:38.856494",
                 "Price": 10550.0
+            }
+        ]
+    },
+    {
+        "Title": "1973 Rolex Red Submariner Mark 5 Dial",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "3225XXX",
+        "Inventory": "/watches/ri8s",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-29T23:17:08.316917",
+                "Price": 20750.0
+            }
+        ]
+    },
+    {
+        "Title": "1985 Rolex Gmt-Master 16750 \"No Date\" Spider Dial With Box And Papers",
+        "Year": 1985,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16750",
+        "Serial": "8654XXX",
+        "Inventory": "/watches/qw5u",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-29T23:17:08.376349",
+                "Price": 12650.0
             }
         ]
     }
