@@ -97665,6 +97665,10 @@
             {
                 "Date": "2024-07-13T21:08:24.145714",
                 "Price": 11950.0
+            },
+            {
+                "Date": "2024-07-30T20:54:08.714843",
+                "Price": "sold"
             }
         ]
     },
@@ -102657,6 +102661,10 @@
             {
                 "Date": "2024-07-23T23:15:09.681963",
                 "Price": 83950.0
+            },
+            {
+                "Date": "2024-07-30T20:54:08.714843",
+                "Price": "sold"
             }
         ]
     },
@@ -103207,6 +103215,10 @@
             {
                 "Date": "2024-07-29T23:17:08.376349",
                 "Price": 12650.0
+            },
+            {
+                "Date": "2024-07-30T20:54:08.714843",
+                "Price": "sold"
             }
         ]
     },
@@ -103222,6 +103234,111 @@
             {
                 "Date": "2024-07-30T17:13:32.310681",
                 "Price": 4750.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex 18K Wg Daytona 116509 Silver Dial With Box And Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116509",
+        "Serial": "66H71XXX",
+        "Inventory": "/watches/g5mb",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-30T20:50:45.440849",
+                "Price": 41550.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex 18K Yg Zenith Daytona 16528 White Tritium Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16528",
+        "Serial": "U304XXX",
+        "Inventory": "/watches/ulpv",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-30T20:50:45.531872",
+                "Price": 33850.0
+            }
+        ]
+    },
+    {
+        "Title": "Rolex Daytona 116520 White \"Aph\" Dial",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116520",
+        "Serial": "35ZS5XXX",
+        "Inventory": "/watches/sh0q",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-30T20:50:45.458595",
+                "Price": 18750.0
+            }
+        ]
+    },
+    {
+        "Title": "2006 Rolex Gmt-Master Ii 16710 Pro-Hunter Special Edition With Papers",
+        "Year": 2006,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "Z661XXX",
+        "Inventory": "/watches/miss",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-30T20:50:45.344205",
+                "Price": 24550.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master Ii 16710 Swiss Only Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "A368XXX",
+        "Inventory": "/watches/31qu",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-30T20:50:45.535659",
+                "Price": 10850.0
+            }
+        ]
+    },
+    {
+        "Title": "2018 Rolex Datejust 116200 Blue Roman Numeral Dial With Box And Papers",
+        "Year": 2018,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "116200",
+        "Serial": "Y91U5XXX",
+        "Inventory": "/watches/zvlr",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-30T20:50:45.410486",
+                "Price": 6350.0
+            }
+        ]
+    },
+    {
+        "Title": "1993 Rolex Gmt-Master Ii With Box And Papers",
+        "Year": 1993,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "N438XXX",
+        "Inventory": "/watches/w1fl",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-30T20:50:45.438421",
+                "Price": 13350.0
             }
         ]
     }
