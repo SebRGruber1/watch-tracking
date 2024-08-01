@@ -4406,6 +4406,10 @@
             {
                 "Date": "2024-01-08T22:33:21.345464",
                 "Price": 17550.0
+            },
+            {
+                "Date": "2024-08-01T17:18:06.809064",
+                "Price": 16850.0
             }
         ]
     },
@@ -102170,6 +102174,10 @@
             {
                 "Date": "2024-07-17T11:22:04.766137",
                 "Price": 20950.0
+            },
+            {
+                "Date": "2024-08-01T17:18:06.809064",
+                "Price": "sold"
             }
         ]
     },
@@ -103377,6 +103385,10 @@
             {
                 "Date": "2024-07-30T20:50:45.535659",
                 "Price": 10850.0
+            },
+            {
+                "Date": "2024-08-01T17:18:06.809064",
+                "Price": "sold"
             }
         ]
     },
@@ -103441,6 +103453,51 @@
             {
                 "Date": "2024-07-31T21:06:00.817875",
                 "Price": 41350.0
+            }
+        ]
+    },
+    {
+        "Title": "1963 Rolex Pcg Gmt-Master 1675 Gilt Swiss Only Dial And Pointy Crown Guard Case",
+        "Year": 1963,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "1018XXX",
+        "Inventory": "/watches/q9hu",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-01T17:14:40.566428",
+                "Price": 28550.0
+            }
+        ]
+    },
+    {
+        "Title": "1981 Rolex 18K Yg Day-Date 18048A Champagne Diamond Dial",
+        "Year": 1981,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18048",
+        "Serial": "6769XXX",
+        "Inventory": "/watches/ni3e",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-01T17:14:40.638741",
+                "Price": 17350.0
+            }
+        ]
+    },
+    {
+        "Title": "1964 Rolex Gmt-Master 1675 Gilt Dial",
+        "Year": 1964,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "1290XXX",
+        "Inventory": "/watches/hmkk",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-01T17:14:40.746934",
+                "Price": 28550.0
             }
         ]
     }
