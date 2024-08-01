@@ -89530,6 +89530,10 @@
             {
                 "Date": "2024-06-29T14:19:13.742441",
                 "Price": 7650.0
+            },
+            {
+                "Date": "2024-07-31T21:11:13.551239",
+                "Price": "sold"
             }
         ]
     },
@@ -102245,6 +102249,10 @@
             {
                 "Date": "2024-07-17T11:22:04.766137",
                 "Price": 8950.0
+            },
+            {
+                "Date": "2024-07-31T21:11:13.551239",
+                "Price": "sold"
             }
         ]
     },
@@ -102654,6 +102662,10 @@
             {
                 "Date": "2024-07-23T23:15:09.663618",
                 "Price": 15950.0
+            },
+            {
+                "Date": "2024-07-31T21:11:13.551239",
+                "Price": "sold"
             }
         ]
     },
@@ -102760,6 +102772,10 @@
             {
                 "Date": "2024-07-24T21:00:35.005472",
                 "Price": 135350.0
+            },
+            {
+                "Date": "2024-07-31T21:11:13.551239",
+                "Price": 129550.0
             }
         ]
     },
@@ -103299,6 +103315,10 @@
             {
                 "Date": "2024-07-30T20:50:45.458595",
                 "Price": 18750.0
+            },
+            {
+                "Date": "2024-07-31T21:11:13.551239",
+                "Price": "sold"
             }
         ]
     },
@@ -103363,6 +103383,36 @@
             {
                 "Date": "2024-07-30T20:50:45.438421",
                 "Price": 13350.0
+            }
+        ]
+    },
+    {
+        "Title": "1973 Rolex Explorer Ii 1655 Mk 1 Straight Hand",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "1655",
+        "Serial": "3505XXX",
+        "Inventory": "/watches/rjj8",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-31T21:06:00.631821",
+                "Price": 25650.0
+            }
+        ]
+    },
+    {
+        "Title": "1979 Rolex 18K Yg Submariner 1680 Matte Black Nipple Dial With Box",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "5835XXX",
+        "Inventory": "/watches/qex4",
+        "PriceHistory": [
+            {
+                "Date": "2024-07-31T21:06:00.817875",
+                "Price": 41350.0
             }
         ]
     }
