@@ -88130,6 +88130,10 @@
             {
                 "Date": "2024-06-08T02:19:51.169898",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-08-02T02:26:13.460762",
+                "Price": 4950.0
             }
         ]
     },
@@ -91719,6 +91723,10 @@
             {
                 "Date": "2024-06-17T14:20:47.988145",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-08-02T02:26:13.460762",
+                "Price": 8950.0
             }
         ]
     },
@@ -103517,6 +103525,36 @@
             {
                 "Date": "2024-08-01T21:00:28.530985",
                 "Price": 17850.0
+            }
+        ]
+    },
+    {
+        "Title": "2020 Rolex 18K Everose Daytona 116505 Chocolate Dial With Box And Papers",
+        "Year": 2020,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116505",
+        "Serial": "1140WXXX",
+        "Inventory": "/watches/jeji",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-02T02:20:06.708270",
+                "Price": 45350.0
+            }
+        ]
+    },
+    {
+        "Title": "Audemars Piguet Royal Oak 25920St Quantieme Annual With Service Papers",
+        "Year": null,
+        "Brand": "Audemars piguet",
+        "Model": "Royal oak",
+        "Reference": "25920ST",
+        "Serial": "E-20XXX",
+        "Inventory": "/watches/rtdv",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-02T02:20:06.684784",
+                "Price": 25850.0
             }
         ]
     }
