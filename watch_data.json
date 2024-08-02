@@ -87336,6 +87336,10 @@
             {
                 "Date": "2024-08-01T14:22:25.458034",
                 "Price": 2950.0
+            },
+            {
+                "Date": "2024-08-01T21:04:20.378836",
+                "Price": "sold"
             }
         ]
     },
@@ -103498,6 +103502,21 @@
             {
                 "Date": "2024-08-01T17:14:40.746934",
                 "Price": 28550.0
+            }
+        ]
+    },
+    {
+        "Title": "1990 Rolex 18K Yg Day-Date 18238 Champagne Ruby String Dial",
+        "Year": 1990,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "E451XXX",
+        "Inventory": "/watches/zgxa",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-01T21:00:28.530985",
+                "Price": 17850.0
             }
         ]
     }
