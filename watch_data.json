@@ -98936,6 +98936,10 @@
             {
                 "Date": "2024-07-22T21:05:59.740443",
                 "Price": 4950.0
+            },
+            {
+                "Date": "2024-08-05T17:20:09.894621",
+                "Price": "sold"
             }
         ]
     },
@@ -103662,6 +103666,111 @@
             {
                 "Date": "2024-08-05T14:18:33.425405",
                 "Price": 9650.0
+            }
+        ]
+    },
+    {
+        "Title": "2020 Patek Philippe 18K Wg Chronograph 5172G Blue Dial With Box And Papers",
+        "Year": 2020,
+        "Brand": "Patek philippe",
+        "Model": "Chronograph",
+        "Reference": "5172G",
+        "Serial": "7272XXX",
+        "Inventory": "/watches/pzhq",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-05T17:14:55.493045",
+                "Price": 56550.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Tudor Pelagos 25407N With Box And Papers",
+        "Year": 2022,
+        "Brand": "Tudor",
+        "Model": "Pelagos",
+        "Reference": "25407N",
+        "Serial": "1447XXX",
+        "Inventory": "/watches/rne2",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-05T17:14:55.790572",
+                "Price": 3850.0
+            }
+        ]
+    },
+    {
+        "Title": "2016 Rolex 18K Rg Daytona 116505 Chocolate Dial With Papers And Hang Tag",
+        "Year": 2016,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116505",
+        "Serial": "8S563XXX",
+        "Inventory": "/watches/xn60",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-05T17:14:55.864580",
+                "Price": 42350.0
+            }
+        ]
+    },
+    {
+        "Title": "2007 Rolex Submariner 16610Lv With Papers & Rolex Service Card",
+        "Year": 2007,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "M059XXX",
+        "Inventory": "/watches/sm60",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-05T17:14:55.846657",
+                "Price": 14350.0
+            }
+        ]
+    },
+    {
+        "Title": "2018 Rolex Daytona 116500Ln White Dial With Box And Papers",
+        "Year": 2018,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "26106XXX",
+        "Inventory": "/watches/w6gv",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-05T17:14:55.652360",
+                "Price": 28350.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex 18K Rg Daytona 116515Ln Chocolate Dial With Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116515",
+        "Serial": "7831VXXX",
+        "Inventory": "/watches/ah5d",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-05T17:14:55.919872",
+                "Price": 36550.0
+            }
+        ]
+    },
+    {
+        "Title": "1987 Rolex 18K Yg Day-Date 18038 Tropical Jubilee Dial",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "9588XXX",
+        "Inventory": "/watches/14pd",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-05T17:14:55.772328",
+                "Price": 16950.0
             }
         ]
     }
