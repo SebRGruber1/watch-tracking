@@ -94436,6 +94436,10 @@
             {
                 "Date": "2024-05-09T14:21:55.228479",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-08-06T17:17:52.180297",
+                "Price": 4650.0
             }
         ]
     },
@@ -103828,6 +103832,10 @@
             {
                 "Date": "2024-08-05T21:00:58.262450",
                 "Price": 13850.0
+            },
+            {
+                "Date": "2024-08-06T17:17:52.180297",
+                "Price": "sold"
             }
         ]
     },
@@ -103888,6 +103896,36 @@
             {
                 "Date": "2024-08-06T14:18:50.659217",
                 "Price": 14350.0
+            }
+        ]
+    },
+    {
+        "Title": "2020 Tudor Titanium Pelagos 25600Tb Blue Dial With Box And Papers",
+        "Year": 2020,
+        "Brand": "Tudor",
+        "Model": "Pelagos",
+        "Reference": "25600TB",
+        "Serial": "Q233XXX",
+        "Inventory": "/watches/ngtd",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-06T17:12:39.674880",
+                "Price": 3250.0
+            }
+        ]
+    },
+    {
+        "Title": "New 2024 Iwc Ingenieur Iw328903 Teal Chess Board Dial With Box And Papers",
+        "Year": 2024,
+        "Brand": "Iwc",
+        "Model": "Ingeniuer",
+        "Reference": "IW 328903",
+        "Serial": "6497XXX",
+        "Inventory": "/watches/qsaw",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-06T17:12:39.682991",
+                "Price": 9850.0
             }
         ]
     }
