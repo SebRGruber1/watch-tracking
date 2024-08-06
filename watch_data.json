@@ -102513,6 +102513,10 @@
             {
                 "Date": "2024-07-12T02:18:17.663989",
                 "Price": 12650.0
+            },
+            {
+                "Date": "2024-08-05T21:04:21.855283",
+                "Price": "sold"
             }
         ]
     },
@@ -102953,6 +102957,10 @@
             {
                 "Date": "2024-07-24T21:00:35.244395",
                 "Price": 14650.0
+            },
+            {
+                "Date": "2024-08-05T21:04:21.855283",
+                "Price": "sold"
             }
         ]
     },
@@ -103771,6 +103779,51 @@
             {
                 "Date": "2024-08-05T17:14:55.772328",
                 "Price": 16950.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex 18K Rose Gold Day-Date 118205A Pink Diamond Dial",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "118205A",
+        "Serial": "P296XXX",
+        "Inventory": "/watches/lgyv",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-05T21:00:58.124093",
+                "Price": 21550.0
+            }
+        ]
+    },
+    {
+        "Title": "1982 Rolex 18K Yg Day-Date 18038 With Box And Papers",
+        "Year": 1982,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "7246XXX",
+        "Inventory": "/watches/k74q",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-05T21:00:58.391383",
+                "Price": 16850.0
+            }
+        ]
+    },
+    {
+        "Title": "1983 Rolex Sea-Dweller 1665",
+        "Year": 1983,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "1665",
+        "Serial": "8063XXX",
+        "Inventory": "/watches/wjpn",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-05T21:00:58.262450",
+                "Price": 13850.0
             }
         ]
     }
