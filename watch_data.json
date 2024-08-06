@@ -103826,5 +103826,50 @@
                 "Price": 13850.0
             }
         ]
+    },
+    {
+        "Title": "2023 Tudor Black Bay Fifty-Eight 79030N Black Dial  With Box And Papers",
+        "Year": 2023,
+        "Brand": "Tudor",
+        "Model": "Black bay fifty-eight",
+        "Reference": "79030N",
+        "Serial": "K78FXXX",
+        "Inventory": "/watches/qfmr",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-05T23:15:06.271626",
+                "Price": 3650.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Daytona 116500Ln White Dial With Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "8395EXXX",
+        "Inventory": "/watches/c1qk",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-05T23:15:06.222644",
+                "Price": 29350.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex Air-King 116900 With Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "116900",
+        "Serial": "888V5XXX",
+        "Inventory": "/watches/6fkf",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-05T23:15:06.235969",
+                "Price": 7950.0
+            }
+        ]
     }
 ]
