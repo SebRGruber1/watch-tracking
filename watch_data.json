@@ -103875,5 +103875,20 @@
                 "Price": 7950.0
             }
         ]
+    },
+    {
+        "Title": "2005 Rolex Submariner 16610Lv With Papers & Service Card",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "D161XXX",
+        "Inventory": "/watches/x1aj",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-06T14:18:50.659217",
+                "Price": 14350.0
+            }
+        ]
     }
 ]
