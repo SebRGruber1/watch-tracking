@@ -94581,6 +94581,10 @@
             {
                 "Date": "2024-06-09T02:20:25.825019",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-08-06T21:06:55.710783",
+                "Price": 8350.0
             }
         ]
     },
@@ -96530,6 +96534,10 @@
             {
                 "Date": "2024-05-02T23:13:59.923152",
                 "Price": 7850.0
+            },
+            {
+                "Date": "2024-08-06T21:06:55.710783",
+                "Price": 7650.0
             }
         ]
     },
@@ -101239,6 +101247,10 @@
             {
                 "Date": "2024-06-25T17:12:32.790716",
                 "Price": 10550.0
+            },
+            {
+                "Date": "2024-08-06T21:06:55.710783",
+                "Price": 9850.0
             }
         ]
     },
@@ -102392,6 +102404,10 @@
             {
                 "Date": "2024-07-12T17:19:43.177031",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-08-06T21:06:55.710783",
+                "Price": 4350.0
             }
         ]
     },
@@ -102768,6 +102784,10 @@
             {
                 "Date": "2024-08-02T14:21:43.085949",
                 "Price": 18950.0
+            },
+            {
+                "Date": "2024-08-06T21:06:55.710783",
+                "Price": "sold"
             }
         ]
     },
@@ -103881,6 +103901,10 @@
             {
                 "Date": "2024-08-05T23:15:06.235969",
                 "Price": 7950.0
+            },
+            {
+                "Date": "2024-08-06T21:06:55.710783",
+                "Price": "sold"
             }
         ]
     },
@@ -103926,6 +103950,141 @@
             {
                 "Date": "2024-08-06T17:12:39.682991",
                 "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "1960 Rolex Pcg Submariner 5512 Gilt Chapter Ring Tropical Spider 4 Line Dial With Service Papers",
+        "Year": 1960,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5512",
+        "Serial": "554XXX",
+        "Inventory": "/watches/uoev",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-06T21:01:41.531436",
+                "Price": 36550.0
+            }
+        ]
+    },
+    {
+        "Title": "1976 Rolex Double Red Sea-Dweller 1665 Mark Iv Dial",
+        "Year": 1976,
+        "Brand": "Rolex",
+        "Model": "Double red sea-dweller",
+        "Reference": "1665",
+        "Serial": "4187XXX",
+        "Inventory": "/watches/wfwg",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-06T21:01:41.635711",
+                "Price": 35850.0
+            }
+        ]
+    },
+    {
+        "Title": "1967 Rolex 18K Wg Day-Date 1803 Silver Doorstop Dial",
+        "Year": 1967,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "1651XXX",
+        "Inventory": "/watches/lrpf",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-06T21:01:41.580857",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "1979 Rolex Submariner 5512 Mark  1 Maxi Dial",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5512",
+        "Serial": "6257XXX",
+        "Inventory": "/watches/yckk",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-06T21:01:41.644524",
+                "Price": 21850.0
+            }
+        ]
+    },
+    {
+        "Title": "2016 Rolex 18K White Gold Gmt-Master Ii 116719Blro With Box And Papers",
+        "Year": 2016,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "116719",
+        "Serial": "2172TXXX",
+        "Inventory": "/watches/rbih",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-06T21:01:41.544955",
+                "Price": 29850.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Oris Divers Sixty-Five Hodinkee Limited Edition With Box And Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Divers sixty-five",
+        "Reference": "01 730 7757 4083",
+        "Serial": "3856XXX",
+        "Inventory": "/watches/gqx6",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-06T21:01:41.628345",
+                "Price": 2350.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Explorer 114270",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "P816XXX",
+        "Inventory": "/watches/r36s",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-06T21:01:41.776697",
+                "Price": 5250.0
+            }
+        ]
+    },
+    {
+        "Title": "2018 Rolex Gmt-Master Ii 116710Blnr With Box And Papers",
+        "Year": 2018,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "116710",
+        "Serial": "813T4XXX",
+        "Inventory": "/watches/2mwu",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-06T21:01:41.695839",
+                "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Explorer Ii 16570 Black Dial",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "Y204XXX",
+        "Inventory": "/watches/k30d",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-06T21:01:41.878010",
+                "Price": 6950.0
             }
         ]
     }
