@@ -92144,6 +92144,10 @@
             {
                 "Date": "2024-08-07T14:23:03.835860",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-08-07T21:05:00.117467",
+                "Price": 2750.0
             }
         ]
     },
@@ -100689,6 +100693,10 @@
             {
                 "Date": "2024-08-01T02:22:24.063255",
                 "Price": 94850.0
+            },
+            {
+                "Date": "2024-08-07T21:05:00.117467",
+                "Price": "sold"
             }
         ]
     },
@@ -103748,6 +103756,10 @@
             {
                 "Date": "2024-08-05T17:14:55.790572",
                 "Price": 3850.0
+            },
+            {
+                "Date": "2024-08-07T21:05:00.117467",
+                "Price": "sold"
             }
         ]
     },
@@ -104113,6 +104125,145 @@
             {
                 "Date": "2024-08-06T21:01:41.878010",
                 "Price": 6950.0
+            },
+            {
+                "Date": "2024-08-07T21:05:00.117467",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1955 Patek Philippe 18K Yg Chronograph 1579 With Extract From The Archives",
+        "Year": 1955,
+        "Brand": "Patek philippe",
+        "Model": "Chronograph",
+        "Reference": "1579",
+        "Serial": "693XXX",
+        "Inventory": "/watches/6npy",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-07T21:01:31.621849",
+                "Price": 129850.0
+            }
+        ]
+    },
+    {
+        "Title": "1941 Patek Philippe 18K Yg Chronograph 591 With Extract From The Archives",
+        "Year": 1941,
+        "Brand": "Patek philippe",
+        "Model": "Chronograph",
+        "Reference": "591",
+        "Serial": "622XXX",
+        "Inventory": "/watches/b2se",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-07T21:01:31.625314",
+                "Price": 127550.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Gmt-Master 1675 Mark 5 Dial With Rsc Card",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "5498XXX",
+        "Inventory": "/watches/fllw",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-07T21:01:31.681361",
+                "Price": 15850.0
+            }
+        ]
+    },
+    {
+        "Title": "1972 Rolex Submariner 5513 Serif Dial",
+        "Year": 1972,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "3890XXX",
+        "Inventory": "/watches/q56e",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-07T21:01:31.790755",
+                "Price": 16850.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Datejust 16220 Warm Silver Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16220",
+        "Serial": "X829XXX",
+        "Inventory": "/watches/afl4",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-07T21:01:31.825431",
+                "Price": 5750.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Datejust 16234 Silver Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16234",
+        "Serial": "X961XXX",
+        "Inventory": "/watches/wbjl",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-07T21:01:31.834130",
+                "Price": 5950.0
+            }
+        ]
+    },
+    {
+        "Title": "1979 Rolex Gmt-Master 16750 Matte Dial",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16750",
+        "Serial": "6274XXX",
+        "Inventory": "/watches/clfc",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-07T21:01:31.659672",
+                "Price": 16950.0
+            }
+        ]
+    },
+    {
+        "Title": "2009 Rolex Explorer 114270",
+        "Year": 2009,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "V794XXX",
+        "Inventory": "/watches/04bm",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-07T21:01:31.872568",
+                "Price": 5350.0
+            }
+        ]
+    },
+    {
+        "Title": "Breguet 18K Rg Tradition 7027",
+        "Year": null,
+        "Brand": "Breguet",
+        "Model": "Tradition",
+        "Reference": "7027",
+        "Serial": "607XXX",
+        "Inventory": "/watches/czpu",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-07T21:01:31.739342",
+                "Price": 14850.0
             }
         ]
     }
