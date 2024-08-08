@@ -98139,6 +98139,10 @@
             {
                 "Date": "2024-06-25T17:16:20.994009",
                 "Price": 14950.0
+            },
+            {
+                "Date": "2024-08-08T02:23:09.866940",
+                "Price": 13250.0
             }
         ]
     },
@@ -104114,6 +104118,10 @@
             {
                 "Date": "2024-08-06T21:01:41.695839",
                 "Price": 14850.0
+            },
+            {
+                "Date": "2024-08-08T02:23:09.866940",
+                "Price": "sold"
             }
         ]
     },
@@ -104272,6 +104280,51 @@
             {
                 "Date": "2024-08-07T21:01:31.739342",
                 "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex 18K Yg Submariner 16118 Blue Dial With Box And Papers",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16618",
+        "Serial": "K417XXX",
+        "Inventory": "/watches/ysrb",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-08T02:19:29.444454",
+                "Price": 23850.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Datejust 1600 Silver Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1600",
+        "Serial": "2547XXX",
+        "Inventory": "/watches/d6e0",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-08T02:19:29.596304",
+                "Price": 4350.0
+            }
+        ]
+    },
+    {
+        "Title": "Audemars Piguet Royal Oak 14790St Mk 3 Cosmic Blue Dial With Ap Service Papers",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Royal oak",
+        "Reference": "14790ST",
+        "Serial": "E35XXX",
+        "Inventory": "/watches/rm17",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-08T02:19:29.646771",
+                "Price": 24650.0
             }
         ]
     }
