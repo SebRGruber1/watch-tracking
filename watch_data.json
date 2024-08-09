@@ -98299,6 +98299,10 @@
             {
                 "Date": "2024-05-20T20:56:00.731220",
                 "Price": 28950.0
+            },
+            {
+                "Date": "2024-08-08T23:18:38.130610",
+                "Price": "sold"
             }
         ]
     },
@@ -104391,6 +104395,25 @@
             {
                 "Date": "2024-08-08T21:02:13.808383",
                 "Price": 14950.0
+            },
+            {
+                "Date": "2024-08-08T23:18:38.130610",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1976 Rolex Daytona 6263 Sigma Dial",
+        "Year": 1976,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "6263",
+        "Serial": "4128XXX",
+        "Inventory": "/watches/qmxm",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-08T23:15:07.480439",
+                "Price": 71550.0
             }
         ]
     }
