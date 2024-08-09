@@ -104416,5 +104416,20 @@
                 "Price": 71550.0
             }
         ]
+    },
+    {
+        "Title": "1968 Rolex Submariner 5512 Matte Dial",
+        "Year": 1968,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5512",
+        "Serial": "1839XXX",
+        "Inventory": "/watches/2a4l",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-09T11:15:19.704536",
+                "Price": 14850.0
+            }
+        ]
     }
 ]
