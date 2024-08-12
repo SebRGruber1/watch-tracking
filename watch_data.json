@@ -102103,6 +102103,10 @@
             {
                 "Date": "2024-07-04T14:16:55.619229",
                 "Price": 28550.0
+            },
+            {
+                "Date": "2024-08-12T14:22:34.996705",
+                "Price": "sold"
             }
         ]
     },
@@ -103598,6 +103602,10 @@
             {
                 "Date": "2024-07-30T20:50:45.344205",
                 "Price": 24550.0
+            },
+            {
+                "Date": "2024-08-12T14:22:34.996705",
+                "Price": 23550.0
             }
         ]
     },
@@ -103775,6 +103783,10 @@
             {
                 "Date": "2024-08-02T02:20:06.684784",
                 "Price": 25850.0
+            },
+            {
+                "Date": "2024-08-12T14:22:34.996705",
+                "Price": 24850.0
             }
         ]
     },
@@ -103847,6 +103859,10 @@
             {
                 "Date": "2024-08-05T17:14:55.864580",
                 "Price": 42350.0
+            },
+            {
+                "Date": "2024-08-12T14:22:34.996705",
+                "Price": 41350.0
             }
         ]
     },
@@ -103922,6 +103938,10 @@
             {
                 "Date": "2024-08-05T21:00:58.124093",
                 "Price": 21550.0
+            },
+            {
+                "Date": "2024-08-12T14:22:34.996705",
+                "Price": "sold"
             }
         ]
     },
@@ -104058,6 +104078,10 @@
             {
                 "Date": "2024-08-09T17:16:03.344981",
                 "Price": 9650.0
+            },
+            {
+                "Date": "2024-08-12T14:22:34.996705",
+                "Price": 9350.0
             }
         ]
     },
@@ -104171,6 +104195,10 @@
             {
                 "Date": "2024-08-06T21:01:41.776697",
                 "Price": 5250.0
+            },
+            {
+                "Date": "2024-08-12T14:22:34.996705",
+                "Price": "sold"
             }
         ]
     },
@@ -104473,6 +104501,51 @@
             {
                 "Date": "2024-08-09T11:15:19.704536",
                 "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex 18K Yg Submariner 16808 Blue Nipple Dial",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16808",
+        "Serial": "8391XXX",
+        "Inventory": "/watches/d9tj",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-12T14:18:59.308354",
+                "Price": 25850.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Oyster Perpetual 124300 Blue Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "124300",
+        "Serial": "C6884XXX",
+        "Inventory": "/watches/k6wd",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-12T14:18:59.569895",
+                "Price": 7650.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Oyster Perpetual 124300 Green Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "124300",
+        "Serial": "957S3XXX",
+        "Inventory": "/watches/c8k3",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-12T14:18:59.476486",
+                "Price": 9850.0
             }
         ]
     }
