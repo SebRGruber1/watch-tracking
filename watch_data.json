@@ -3526,6 +3526,10 @@
             {
                 "Date": "2024-07-23T02:25:02.583222",
                 "Price": 38550.0
+            },
+            {
+                "Date": "2024-08-12T23:18:53.842463",
+                "Price": 37850.0
             }
         ]
     },
@@ -104649,6 +104653,21 @@
             {
                 "Date": "2024-08-12T21:02:46.941513",
                 "Price": 10350.0
+            }
+        ]
+    },
+    {
+        "Title": "1974 Rolex Explorer Ii 1655 Mk 2 Straight Hand",
+        "Year": 1974,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "1655",
+        "Serial": "3505XXX",
+        "Inventory": "/watches/4dhr",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-12T23:15:21.817033",
+                "Price": 24850.0
             }
         ]
     }
