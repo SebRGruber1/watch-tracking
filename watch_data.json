@@ -104678,5 +104678,20 @@
                 "Price": 24850.0
             }
         ]
+    },
+    {
+        "Title": "1994 Rolex 18K Yg Day-Date 18238 Diamond Ruby Pave Dial With Box And Papers",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "S402XXX",
+        "Inventory": "/watches/jnr4",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-13T17:12:46.882913",
+                "Price": 45650.0
+            }
+        ]
     }
 ]
