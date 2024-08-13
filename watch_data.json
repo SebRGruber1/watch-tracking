@@ -93393,6 +93393,10 @@
             {
                 "Date": "2024-06-09T02:20:25.825019",
                 "Price": 12650.0
+            },
+            {
+                "Date": "2024-08-12T21:06:49.027402",
+                "Price": 12550.0
             }
         ]
     },
@@ -103058,6 +103062,10 @@
             {
                 "Date": "2024-08-08T21:05:53.467075",
                 "Price": 18950.0
+            },
+            {
+                "Date": "2024-08-12T21:06:49.027402",
+                "Price": "sold"
             }
         ]
     },
@@ -104162,6 +104170,10 @@
             {
                 "Date": "2024-08-06T21:01:41.644524",
                 "Price": 21850.0
+            },
+            {
+                "Date": "2024-08-12T21:06:49.027402",
+                "Price": "sold"
             }
         ]
     },
@@ -104577,6 +104589,66 @@
             {
                 "Date": "2024-08-12T17:13:10.466684",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1973 Rolex Gmt-Master 1675 Mk 2 Dial",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "3246XXX",
+        "Inventory": "/watches/zsb2",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-12T21:02:46.934307",
+                "Price": 14350.0
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex Datejust 16200 Black Dial",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16200",
+        "Serial": "F469XXX",
+        "Inventory": "/watches/dui3",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-12T21:02:46.945079",
+                "Price": 5250.0
+            }
+        ]
+    },
+    {
+        "Title": "2007 Rolex Submariner 16610Lv With Papers & Hang Tag",
+        "Year": 2007,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610LV",
+        "Serial": "M299XXX",
+        "Inventory": "/watches/3a4q",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-12T21:02:46.849541",
+                "Price": 14350.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Submariner 16800 Matte Dial",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16800",
+        "Serial": "8471XXX",
+        "Inventory": "/watches/410p",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-12T21:02:46.941513",
+                "Price": 10350.0
             }
         ]
     }
