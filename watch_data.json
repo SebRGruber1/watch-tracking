@@ -91810,6 +91810,10 @@
             {
                 "Date": "2024-05-20T14:19:34.154920",
                 "Price": 24850.0
+            },
+            {
+                "Date": "2024-08-13T21:08:03.386289",
+                "Price": "sold"
             }
         ]
     },
@@ -103615,6 +103619,10 @@
             {
                 "Date": "2024-07-31T21:11:13.551239",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-08-13T21:08:03.386289",
+                "Price": 18650.0
             }
         ]
     },
@@ -104473,6 +104481,10 @@
             {
                 "Date": "2024-08-08T21:05:53.467075",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-08-13T21:08:03.386289",
+                "Price": 24650.0
             }
         ]
     },
@@ -104691,6 +104703,51 @@
             {
                 "Date": "2024-08-13T17:12:46.882913",
                 "Price": 45650.0
+            }
+        ]
+    },
+    {
+        "Title": "2011 Rolex 18K Yg Daytona 116598Saco Leopard Dial With Box And Papers",
+        "Year": 2011,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116598",
+        "Serial": "V049XXX",
+        "Inventory": "/watches/q3k4",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-13T21:01:55.718266",
+                "Price": 96550.0
+            }
+        ]
+    },
+    {
+        "Title": "2006 Rolex Submariner 16610Lv With Box And Rolex Service Card",
+        "Year": 2006,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610LV",
+        "Serial": "Z086XXX",
+        "Inventory": "/watches/vxac",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-13T21:01:55.620838",
+                "Price": 13350.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Two-Tone Datejust 16013 Champagne Ghost Dial",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16013",
+        "Serial": "8273XXX",
+        "Inventory": "/watches/buvk",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-13T21:01:55.714361",
+                "Price": 5850.0
             }
         ]
     }
