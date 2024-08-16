@@ -101969,6 +101969,10 @@
             {
                 "Date": "2024-07-01T23:14:16.707111",
                 "Price": 21550.0
+            },
+            {
+                "Date": "2024-08-15T21:05:10.306211",
+                "Price": 20950.0
             }
         ]
     },
@@ -104905,6 +104909,81 @@
             {
                 "Date": "2024-08-15T14:23:27.619585",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "Patek Philippe 18K Wg Calatrava 570 Silver Dial",
+        "Year": null,
+        "Brand": "Patek philippe",
+        "Model": "Calatrava",
+        "Reference": "570",
+        "Serial": "325XXX",
+        "Inventory": "/watches/yuue",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-15T21:01:21.104483",
+                "Price": 22550.0
+            }
+        ]
+    },
+    {
+        "Title": "1972 Rolex Red Submariner 1680 Mk 5 Dial With Service Papers From Rolex",
+        "Year": 1972,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "3090XXX",
+        "Inventory": "/watches/fzyz",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-15T21:01:20.958410",
+                "Price": 23850.0
+            }
+        ]
+    },
+    {
+        "Title": "Patek Philippe 18K Yg Calatrava 570",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Calatrava",
+        "Reference": "570",
+        "Serial": "307XXX",
+        "Inventory": "/watches/u7zy",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-15T21:01:21.107193",
+                "Price": 13650.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Date 15210 Blue Tritium Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "15210",
+        "Serial": "U633XXX",
+        "Inventory": "/watches/pzqj",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-15T21:01:20.888292",
+                "Price": 3950.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Datejust 16234 White Roman Numeral Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16234",
+        "Serial": "X973XXX",
+        "Inventory": "/watches/kgkh",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-15T21:01:20.919527",
+                "Price": 5950.0
             }
         ]
     }
