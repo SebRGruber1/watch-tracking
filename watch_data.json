@@ -104496,6 +104496,10 @@
             {
                 "Date": "2024-08-07T21:01:31.621849",
                 "Price": 129850.0
+            },
+            {
+                "Date": "2024-08-19T21:06:34.013156",
+                "Price": "sold"
             }
         ]
     },
@@ -104519,6 +104523,10 @@
             {
                 "Date": "2024-08-18T21:07:47.136490",
                 "Price": 118850.0
+            },
+            {
+                "Date": "2024-08-19T21:06:34.013156",
+                "Price": "sold"
             }
         ]
     },
@@ -105056,6 +105064,10 @@
             {
                 "Date": "2024-08-15T21:01:21.104483",
                 "Price": 22550.0
+            },
+            {
+                "Date": "2024-08-19T21:06:34.013156",
+                "Price": "sold"
             }
         ]
     },
@@ -105124,6 +105136,141 @@
             {
                 "Date": "2024-08-16T14:23:31.075607",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex 18K Wg Daytona 116509 Black Diamond Dial With Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116509",
+        "Serial": "M115LXXX",
+        "Inventory": "/watches/1fqt",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-19T21:01:15.300314",
+                "Price": 36550.0
+            }
+        ]
+    },
+    {
+        "Title": "2020 Rolex Gmt-Master Ii 126710Blro With Papers",
+        "Year": 2020,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126710",
+        "Serial": "69J3XXX",
+        "Inventory": "/watches/cqzk",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-19T21:01:15.231029",
+                "Price": 19850.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Submariner 14060 With Box And Papers",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "W330XXX",
+        "Inventory": "/watches/s15z",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-19T21:01:15.248445",
+                "Price": 9650.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Explorer Ii 16570 White Porcelain Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "X451XXX",
+        "Inventory": "/watches/qd4p",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-19T21:01:15.361152",
+                "Price": 8250.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex Explorer Ii 16570 White Dial",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "D028XXX",
+        "Inventory": "/watches/drzw",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-19T21:01:15.317954",
+                "Price": 8550.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex Air-King 116900 With Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "116900",
+        "Serial": "2G663XXX",
+        "Inventory": "/watches/mb40",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-19T21:01:15.155493",
+                "Price": 7950.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex Air-King 116900 With Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "116900",
+        "Serial": "9P173XXX",
+        "Inventory": "/watches/gmh7",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-19T21:01:15.320609",
+                "Price": 7950.0
+            }
+        ]
+    },
+    {
+        "Title": "Cartier 18K Yg Argent Plaque G20M Burgandy Dial With Box",
+        "Year": null,
+        "Brand": "Cartier",
+        "Model": "Argent plaque",
+        "Reference": "G20M",
+        "Serial": "6 123XXX",
+        "Inventory": "/watches/chjy",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-19T21:01:15.271167",
+                "Price": 1950.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Omega Speedmaster Professional 31030 White Dial With Box And Papers",
+        "Year": 2024,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "31030425004001",
+        "Serial": "83861XXX",
+        "Inventory": "/watches/fsdj",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-19T21:01:15.400006",
+                "Price": 7650.0
             }
         ]
     }
