@@ -99801,6 +99801,10 @@
             {
                 "Date": "2024-07-19T23:19:51.995387",
                 "Price": 12350.0
+            },
+            {
+                "Date": "2024-08-21T17:16:35.805605",
+                "Price": "sold"
             }
         ]
     },
@@ -105453,6 +105457,36 @@
             {
                 "Date": "2024-08-20T21:01:21.493243",
                 "Price": 5650.0
+            }
+        ]
+    },
+    {
+        "Title": "2018 Omega Speedmaster Professional 31130 Black Dial With Box And Papers",
+        "Year": 2018,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "31130423001005",
+        "Serial": "78763XXX",
+        "Inventory": "/watches/oa5v",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-21T17:12:59.579314",
+                "Price": 5650.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Two-Tone Gmt-Master Ii 16713",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16713",
+        "Serial": "N202XXX",
+        "Inventory": "/watches/z4xm",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-21T17:12:59.643932",
+                "Price": 10950.0
             }
         ]
     }
