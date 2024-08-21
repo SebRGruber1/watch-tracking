@@ -103196,6 +103196,10 @@
             {
                 "Date": "2024-07-31T21:11:13.551239",
                 "Price": 129550.0
+            },
+            {
+                "Date": "2024-08-20T21:06:40.232335",
+                "Price": 127550.0
             }
         ]
     },
@@ -105391,6 +105395,36 @@
             {
                 "Date": "2024-08-20T14:17:57.331343",
                 "Price": 3650.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex 18K Wg Day-Date 118209 White Roman Numeral Dial With Papers",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "118209",
+        "Serial": "Y948XXX",
+        "Inventory": "/watches/2ze0",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-20T21:01:21.584258",
+                "Price": 18950.0
+            }
+        ]
+    },
+    {
+        "Title": "2004 Rolex Explorer 114270 With Box And Papers",
+        "Year": 2004,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "F259XXX",
+        "Inventory": "/watches/68gp",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-20T21:01:21.493243",
+                "Price": 5650.0
             }
         ]
     }
