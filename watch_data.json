@@ -105431,6 +105431,10 @@
             {
                 "Date": "2024-08-20T14:17:57.331343",
                 "Price": 3650.0
+            },
+            {
+                "Date": "2024-08-22T21:07:15.884452",
+                "Price": "sold"
             }
         ]
     },
@@ -105506,6 +105510,111 @@
             {
                 "Date": "2024-08-22T02:18:41.486942",
                 "Price": 5950.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Submariner 5514 With Comex Provenience And Service Records",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5514",
+        "Serial": "5228XXX",
+        "Inventory": "/watches/einp",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-22T21:01:47.511807",
+                "Price": 112550.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Explorer Ii 16570 White Swiss Only Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "A461XXX",
+        "Inventory": "/watches/lcdy",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-22T21:01:47.295194",
+                "Price": 7950.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex 18K Yg Daytona 16528G Black Diamond Dial With Rsc",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16528G",
+        "Serial": "W626XXX",
+        "Inventory": "/watches/wacw",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-22T21:01:47.312248",
+                "Price": 32850.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex 18K Rg Daytona 116515Ln Black Dial With Box And Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116515",
+        "Serial": "3066WXXX",
+        "Inventory": "/watches/uvji",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-22T21:01:47.271694",
+                "Price": 36850.0
+            }
+        ]
+    },
+    {
+        "Title": "1968 Tudor Oyster Prince Submariner 7016/0 Matte Rose Dial",
+        "Year": 1968,
+        "Brand": "Tudor",
+        "Model": "Oyster prince submariner",
+        "Reference": "7016/0",
+        "Serial": "623XXX",
+        "Inventory": "/watches/dh32",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-22T21:01:47.401778",
+                "Price": 10950.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Submariner 14060 With Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "K999XXX",
+        "Inventory": "/watches/tvhv",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-22T21:01:47.303085",
+                "Price": 9650.0
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex Explorer Ii 16570 Black Dial",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "S927XXX",
+        "Inventory": "/watches/te1v",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-22T21:01:57.641283",
+                "Price": "sold"
             }
         ]
     }
