@@ -101070,6 +101070,10 @@
             {
                 "Date": "2024-08-14T21:02:30.367662",
                 "Price": 14850.0
+            },
+            {
+                "Date": "2024-08-23T14:21:30.133933",
+                "Price": "sold"
             }
         ]
     },
@@ -103513,6 +103517,10 @@
             {
                 "Date": "2024-08-18T21:07:47.136490",
                 "Price": 9850.0
+            },
+            {
+                "Date": "2024-08-23T14:21:30.133933",
+                "Price": "sold"
             }
         ]
     },
@@ -104910,6 +104918,10 @@
             {
                 "Date": "2024-08-12T14:18:59.476486",
                 "Price": 9850.0
+            },
+            {
+                "Date": "2024-08-23T14:21:30.133933",
+                "Price": "sold"
             }
         ]
     },
@@ -105615,6 +105627,36 @@
             {
                 "Date": "2024-08-22T21:01:57.641283",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Red Submariner 1680 Tropical Dial With Booklet & Certificate Of Service",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "2299XXX",
+        "Inventory": "/watches/tjkx",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-23T14:17:44.804560",
+                "Price": 32850.0
+            }
+        ]
+    },
+    {
+        "Title": "1989 Rolex 18K Yg Daytona 16528 With Mark 2 4 Line Inverted 6 Black Dial",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16528",
+        "Serial": "L424XXX",
+        "Inventory": "/watches/kjlk",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-23T14:17:44.810467",
+                "Price": 47850.0
             }
         ]
     }
