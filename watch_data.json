@@ -4138,6 +4138,10 @@
             {
                 "Date": "2024-07-22T21:05:59.740443",
                 "Price": 11850.0
+            },
+            {
+                "Date": "2024-08-27T14:22:20.050896",
+                "Price": "sold"
             }
         ]
     },
@@ -96649,6 +96653,10 @@
             {
                 "Date": "2024-08-19T14:21:22.862327",
                 "Price": 12850.0
+            },
+            {
+                "Date": "2024-08-27T14:22:20.050896",
+                "Price": "sold"
             }
         ]
     },
@@ -103873,6 +103881,10 @@
             {
                 "Date": "2024-08-09T17:16:03.344981",
                 "Price": 41350.0
+            },
+            {
+                "Date": "2024-08-27T14:22:20.050896",
+                "Price": 40950.0
             }
         ]
     },
@@ -105715,6 +105727,10 @@
             {
                 "Date": "2024-08-22T21:01:57.641283",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-08-27T14:22:20.050896",
+                "Price": 6950.0
             }
         ]
     },
@@ -105779,6 +105795,81 @@
             {
                 "Date": "2024-08-26T21:03:01.722955",
                 "Price": 28550.0
+            }
+        ]
+    },
+    {
+        "Title": "1969 Rolex Paul Newman Daytona 6263 White Tropical Mk 1.75  Panda \u2018Big Eyes\u2019",
+        "Year": 1969,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "6263",
+        "Serial": "2200XXX",
+        "Inventory": "/watches/6bhe",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-27T14:18:13.326158",
+                "Price": 735550.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Iwc Ingenieur Iw328901 Black Chess Board Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Iwc",
+        "Model": "Ingenieur",
+        "Reference": "IW328901",
+        "Serial": "7455XXX",
+        "Inventory": "/watches/vrzu",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-27T14:18:14.509670",
+                "Price": 8850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Explorer Ii 16570 White Tritinova Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "U855XXX",
+        "Inventory": "/watches/tbb9",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-27T14:18:13.631825",
+                "Price": 7750.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Tudor Black Bay Chronograph 79360N Miami Cf Pink Dial With Box And Papers",
+        "Year": 2024,
+        "Brand": "Tudor",
+        "Model": "Black bay chronograph",
+        "Reference": "79360",
+        "Serial": "943KXXX",
+        "Inventory": "/watches/sr3b",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-27T14:18:13.510516",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Gmt-Master Ii 126720Vtnr With Papers & Hang Tag",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126720",
+        "Serial": "65Y41XXX",
+        "Inventory": "/watches/rmy4",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-27T14:18:13.598972",
+                "Price": 17850.0
             }
         ]
     }
