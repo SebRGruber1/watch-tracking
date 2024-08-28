@@ -105305,6 +105305,10 @@
             {
                 "Date": "2024-08-15T21:01:20.888292",
                 "Price": 3950.0
+            },
+            {
+                "Date": "2024-08-27T21:06:59.225846",
+                "Price": "sold"
             }
         ]
     },
@@ -105874,6 +105878,81 @@
             {
                 "Date": "2024-08-27T14:18:13.598972",
                 "Price": 17850.0
+            }
+        ]
+    },
+    {
+        "Title": "2006 Patek Philippe Aquanaut 5065A With Box And Papers",
+        "Year": 2006,
+        "Brand": "Patek philippe",
+        "Model": "Aquanaut",
+        "Reference": "5065",
+        "Serial": "4346XXX",
+        "Inventory": "/watches/atwg",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-27T21:03:23.648470",
+                "Price": 41550.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Grand Seiko Heritage Sbgh295G Frost Blue Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Seiko",
+        "Model": "Heritage collection",
+        "Reference": "SBGH295G",
+        "Serial": "190XXX",
+        "Inventory": "/watches/9p4j",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-27T21:03:23.691199",
+                "Price": 4950.0
+            }
+        ]
+    },
+    {
+        "Title": "Jaeger Lecoultre Reverso Classic 214.8.62 Blue Dial With Box And Papers",
+        "Year": null,
+        "Brand": "Jaeger lecoultre",
+        "Model": "Reverso",
+        "Reference": "Q3978480",
+        "Serial": "3671XXX",
+        "Inventory": "/watches/rcio",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-27T21:03:23.758316",
+                "Price": 7950.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex 18K Platinum Day-Date 18366 Silver Diamond Dial With Service Papers",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18366",
+        "Serial": "W048XXX",
+        "Inventory": "/watches/ckch",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-27T21:03:23.618906",
+                "Price": 22850.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Explorer Ii 16570 Black Dial With Papers",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "Y537XXX",
+        "Inventory": "/watches/y671",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-27T21:03:23.714675",
+                "Price": 7250.0
             }
         ]
     }
