@@ -87280,6 +87280,10 @@
             {
                 "Date": "2024-08-18T21:07:47.136490",
                 "Price": 11750.0
+            },
+            {
+                "Date": "2024-08-28T21:07:50.410220",
+                "Price": 11950.0
             }
         ]
     },
@@ -105989,6 +105993,111 @@
             {
                 "Date": "2024-08-27T21:03:23.714675",
                 "Price": 7250.0
+            }
+        ]
+    },
+    {
+        "Title": "1982 Rolex Submariner 5513 Mk 4 Maxi Dial",
+        "Year": 1982,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "7316XXX",
+        "Inventory": "/watches/zeid",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-28T21:04:02.720334",
+                "Price": 14350.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Gmt-Master 1675 Mk 6 Dial With Box And Papers",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "5515XXX",
+        "Inventory": "/watches/nceg",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-28T21:04:02.536013",
+                "Price": 16850.0
+            }
+        ]
+    },
+    {
+        "Title": "2004 Rolex Submariner 16610Lv With Papers & Hang Tag With Mark 1 Dial Sold In Stockholm",
+        "Year": 2004,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "F791XXX",
+        "Inventory": "/watches/xxgp",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-28T21:04:02.517869",
+                "Price": 14950.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Sea-Dweller 16600 Swiss Only Dial With Box And Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "16600",
+        "Serial": "A428XXX",
+        "Inventory": "/watches/vfes",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-28T21:04:02.656681",
+                "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "Cartier Tank Francaise 2384 White Pearlescent Dial With Box And Pamphlet",
+        "Year": null,
+        "Brand": "Cartier",
+        "Model": "Tank",
+        "Reference": "2384",
+        "Serial": "51935XXX",
+        "Inventory": "/watches/jier",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-28T21:04:02.638197",
+                "Price": 2950.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Datejust 126234 Wimbledon Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "126234",
+        "Serial": "WH092XXX",
+        "Inventory": "/watches/bj25",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-28T21:04:02.691995",
+                "Price": 11950.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Gmt-Master 16700 Swiss Only Dial With Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "U982XXX",
+        "Inventory": "/watches/3jga",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-28T21:04:02.628181",
+                "Price": 12750.0
             }
         ]
     }
