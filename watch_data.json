@@ -97901,6 +97901,10 @@
             {
                 "Date": "2024-06-20T21:02:04.796291",
                 "Price": 19850.0
+            },
+            {
+                "Date": "2024-08-29T14:23:39.035820",
+                "Price": "sold"
             }
         ]
     },
@@ -101921,6 +101925,10 @@
             {
                 "Date": "2024-06-27T20:58:35.836210",
                 "Price": 18650.0
+            },
+            {
+                "Date": "2024-08-29T14:23:39.035820",
+                "Price": 17850.0
             }
         ]
     },
@@ -105613,6 +105621,10 @@
             {
                 "Date": "2024-08-20T21:01:21.493243",
                 "Price": 5650.0
+            },
+            {
+                "Date": "2024-08-29T14:23:39.035820",
+                "Price": "sold"
             }
         ]
     },
@@ -106012,6 +106024,10 @@
             {
                 "Date": "2024-08-28T21:04:02.720334",
                 "Price": 14350.0
+            },
+            {
+                "Date": "2024-08-29T14:23:39.035820",
+                "Price": "sold"
             }
         ]
     },
@@ -106102,6 +106118,36 @@
             {
                 "Date": "2024-08-28T21:04:02.628181",
                 "Price": 12750.0
+            }
+        ]
+    },
+    {
+        "Title": "1979 Rolex Gmt-Master 1675 Mk 5 Dial With Box And Papers",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "6015XXX",
+        "Inventory": "/watches/pwej",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-29T14:18:13.864022",
+                "Price": 18350.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Explorer Ii 16570 White Dial With Service Card",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "W694XXX",
+        "Inventory": "/watches/pqkl",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-29T14:18:13.791211",
+                "Price": 8850.0
             }
         ]
     }
