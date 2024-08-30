@@ -95179,6 +95179,10 @@
             {
                 "Date": "2024-06-25T17:16:20.994009",
                 "Price": 59850.0
+            },
+            {
+                "Date": "2024-08-29T21:07:49.516515",
+                "Price": 59550.0
             }
         ]
     },
@@ -102181,6 +102185,10 @@
             {
                 "Date": "2024-08-15T21:05:10.306211",
                 "Price": 20950.0
+            },
+            {
+                "Date": "2024-08-29T21:07:49.516515",
+                "Price": "sold"
             }
         ]
     },
@@ -103126,6 +103134,10 @@
             {
                 "Date": "2024-08-26T14:21:45.890437",
                 "Price": 17950.0
+            },
+            {
+                "Date": "2024-08-29T21:07:49.516515",
+                "Price": "sold"
             }
         ]
     },
@@ -106148,6 +106160,81 @@
             {
                 "Date": "2024-08-29T14:18:13.791211",
                 "Price": 8850.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Submariner 5513 Mk 1 Maxi Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "5280XXX",
+        "Inventory": "/watches/pwub",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-29T21:04:14.588607",
+                "Price": 15950.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Sea-Dweller 16660 Triple Six",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "16660",
+        "Serial": "8414XXX",
+        "Inventory": "/watches/fppq",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-29T21:04:14.746366",
+                "Price": 9650.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Explorer Ii 16570 White Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "W376XXX",
+        "Inventory": "/watches/78f9",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-29T21:04:14.607488",
+                "Price": 7950.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Two-Tone Datejust 16013 With Box And Papers",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16013",
+        "Serial": "8376XXX",
+        "Inventory": "/watches/vanl",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-29T21:04:14.784508",
+                "Price": 5950.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Daytona 16520 Black Dial With Box And Papers (Last Year Of Production)",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "P270XXX",
+        "Inventory": "/watches/qodg",
+        "PriceHistory": [
+            {
+                "Date": "2024-08-29T21:04:14.776736",
+                "Price": 25950.0
             }
         ]
     }
