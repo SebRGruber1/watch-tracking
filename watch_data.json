@@ -104129,6 +104129,10 @@
             {
                 "Date": "2024-08-19T14:21:22.862327",
                 "Price": 38850.0
+            },
+            {
+                "Date": "2024-09-03T17:16:56.950890",
+                "Price": 37850.0
             }
         ]
     },
@@ -106283,6 +106287,21 @@
             {
                 "Date": "2024-09-01T21:12:18.798611",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "Rolex Explorer 214270",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "214270",
+        "Serial": "6U5Z7XXX",
+        "Inventory": "/watches/oc2w",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-03T17:13:02.819032",
+                "Price": 5850.0
             }
         ]
     }
