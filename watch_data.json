@@ -878,6 +878,10 @@
             {
                 "Date": "2024-05-11T21:04:32.198045",
                 "Price": 136550.0
+            },
+            {
+                "Date": "2024-09-04T11:18:16.528135",
+                "Price": "sold"
             }
         ]
     },
@@ -106306,6 +106310,21 @@
             {
                 "Date": "2024-09-03T17:13:02.819032",
                 "Price": 5850.0
+            }
+        ]
+    },
+    {
+        "Title": "1983 Rolex Sea-Dweller 1665",
+        "Year": 1983,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "1665",
+        "Serial": "8063XXX",
+        "Inventory": "/watches/utzg",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-04T11:14:49.232199",
+                "Price": 14850.0
             }
         ]
     }
