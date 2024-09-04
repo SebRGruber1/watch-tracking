@@ -100416,6 +100416,10 @@
             {
                 "Date": "2024-08-17T11:16:01.885523",
                 "Price": 31850.0
+            },
+            {
+                "Date": "2024-09-04T17:16:44.898375",
+                "Price": "sold"
             }
         ]
     },
@@ -106138,6 +106142,10 @@
             {
                 "Date": "2024-09-04T14:22:25.420860",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-09-04T17:16:44.898375",
+                "Price": 14950.0
             }
         ]
     },
@@ -106349,6 +106357,51 @@
             {
                 "Date": "2024-09-04T11:14:49.232199",
                 "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Zenith Daytona 16520 Black Dial With Box, Papers & Hang Tag",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "A140XXX",
+        "Inventory": "/watches/3z88",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-04T17:13:02.094476",
+                "Price": 33850.0
+            }
+        ]
+    },
+    {
+        "Title": "Nos 1998 Rolex Zenith Daytona 16520 Black Tritium Dial With Box And Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "U875XXX",
+        "Inventory": "/watches/fr0c",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-04T17:13:02.091648",
+                "Price": 35850.0
+            }
+        ]
+    },
+    {
+        "Title": "1960'S Cartier 18K Yg Tank Cintree White Paris Dial",
+        "Year": null,
+        "Brand": "Cartier",
+        "Model": "Cintree",
+        "Reference": "",
+        "Serial": "031XXX",
+        "Inventory": "/watches/ubc4",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-04T17:13:02.082619",
+                "Price": 88550.0
             }
         ]
     }
