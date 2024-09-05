@@ -85586,6 +85586,10 @@
             {
                 "Date": "2024-08-02T21:03:27.782273",
                 "Price": 26350.0
+            },
+            {
+                "Date": "2024-09-04T21:08:01.843499",
+                "Price": "sold"
             }
         ]
     },
@@ -95956,6 +95960,10 @@
             {
                 "Date": "2024-05-16T20:59:14.804061",
                 "Price": 13650.0
+            },
+            {
+                "Date": "2024-09-04T21:08:01.843499",
+                "Price": 12950.0
             }
         ]
     },
@@ -100758,6 +100766,10 @@
             {
                 "Date": "2024-08-03T17:16:11.145895",
                 "Price": 19850.0
+            },
+            {
+                "Date": "2024-09-04T21:08:01.843499",
+                "Price": "sold"
             }
         ]
     },
@@ -104157,6 +104169,10 @@
             {
                 "Date": "2024-09-03T17:16:56.950890",
                 "Price": 37850.0
+            },
+            {
+                "Date": "2024-09-04T21:08:01.843499",
+                "Price": 36850.0
             }
         ]
     },
@@ -106146,6 +106162,10 @@
             {
                 "Date": "2024-09-04T17:16:44.898375",
                 "Price": 14950.0
+            },
+            {
+                "Date": "2024-09-04T21:08:01.843499",
+                "Price": "sold"
             }
         ]
     },
@@ -106402,6 +106422,81 @@
             {
                 "Date": "2024-09-04T17:13:02.082619",
                 "Price": 88550.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Explorer Ii 226570 Black Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "226570",
+        "Serial": "3T78CXXX",
+        "Inventory": "/watches/hdld",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-04T21:04:35.370250",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "Nos 1999 Rolex Zenith Daytona 16520 Black Dial With Box And Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "A928XXX",
+        "Inventory": "/watches/un9x",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-04T21:04:35.657950",
+                "Price": 36850.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Zenith Daytona 16520 White Dial With Hang Tags",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "T952XXX",
+        "Inventory": "/watches/1xqj",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-04T21:04:35.601650",
+                "Price": 18950.0
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex Two-Tone Date 14233 Grey 3, 6, 9 Dial",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "14233",
+        "Serial": "S987XXX",
+        "Inventory": "/watches/nb6s",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-04T21:04:35.617179",
+                "Price": 5350.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Tudor Titanium Pelagos 25610Tnl With Box And Papers",
+        "Year": 2019,
+        "Brand": "Tudor",
+        "Model": "Pelagos",
+        "Reference": "25610",
+        "Serial": "I896XXX",
+        "Inventory": "/watches/8pp5",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-04T21:04:35.674482",
+                "Price": 2950.0
             }
         ]
     }
