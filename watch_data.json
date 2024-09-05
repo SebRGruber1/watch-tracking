@@ -98387,6 +98387,10 @@
             {
                 "Date": "2024-08-08T02:23:09.866940",
                 "Price": 13250.0
+            },
+            {
+                "Date": "2024-09-05T17:16:48.943489",
+                "Price": "sold"
             }
         ]
     },
@@ -106566,6 +106570,36 @@
             {
                 "Date": "2024-09-05T14:17:50.110578",
                 "Price": 16850.0
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex Gmt-Master Ii 16710 Papers & Serialized Hang Tag",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "S666XXX",
+        "Inventory": "/watches/zx5a",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-05T17:13:14.047720",
+                "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex 18K Wg Daytona 116509 Silver Dial With Box, Papers, And Hang Tag",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116509",
+        "Serial": "878GTXXX",
+        "Inventory": "/watches/xbe7",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-05T17:13:14.257340",
+                "Price": 41550.0
             }
         ]
     }
