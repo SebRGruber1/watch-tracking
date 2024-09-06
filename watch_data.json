@@ -96786,6 +96786,10 @@
             {
                 "Date": "2024-08-06T21:06:55.710783",
                 "Price": 7650.0
+            },
+            {
+                "Date": "2024-09-05T21:08:49.716309",
+                "Price": "sold"
             }
         ]
     },
@@ -102604,6 +102608,10 @@
             {
                 "Date": "2024-07-08T20:59:52.270523",
                 "Price": 8750.0
+            },
+            {
+                "Date": "2024-09-05T21:08:49.716309",
+                "Price": "sold"
             }
         ]
     },
@@ -106600,6 +106608,96 @@
             {
                 "Date": "2024-09-05T17:13:14.257340",
                 "Price": 41550.0
+            }
+        ]
+    },
+    {
+        "Title": "1985 Rolex 18K Yg Diamond Day-Date 18108 Tropical Dial With Box And Papers",
+        "Year": 1985,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18108",
+        "Serial": "8824XXX",
+        "Inventory": "/watches/hj9q",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-05T21:04:46.400259",
+                "Price": 15350.0
+            }
+        ]
+    },
+    {
+        "Title": "2004 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 2004,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "F509XXX",
+        "Inventory": "/watches/9jvh",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-05T21:04:46.289058",
+                "Price": 13950.0
+            }
+        ]
+    },
+    {
+        "Title": "2004 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 2004,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "F529XXX",
+        "Inventory": "/watches/zugt",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-05T21:04:46.356990",
+                "Price": 13650.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Gmt-Master Ii 16710",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "Y494XXX",
+        "Inventory": "/watches/ynrq",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-05T21:04:46.416554",
+                "Price": 10850.0
+            }
+        ]
+    },
+    {
+        "Title": "1968 Rolex Gmt-Master 1675 Mk 1 Tropical Dial",
+        "Year": 1968,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "1893XXX",
+        "Inventory": "/watches/eopy",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-05T21:04:46.385286",
+                "Price": 19850.0
+            }
+        ]
+    },
+    {
+        "Title": "1985 Rolex Gmt-Master Ii 16760 Fat Lady",
+        "Year": 1985,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16760",
+        "Serial": "8720XXX",
+        "Inventory": "/watches/icba",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-05T21:04:46.459467",
+                "Price": 11950.0
             }
         ]
     }
