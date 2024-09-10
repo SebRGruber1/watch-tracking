@@ -93895,6 +93895,10 @@
             {
                 "Date": "2024-08-17T11:16:01.885523",
                 "Price": 11850.0
+            },
+            {
+                "Date": "2024-09-10T17:16:55.294138",
+                "Price": "sold"
             }
         ]
     },
@@ -106497,6 +106501,10 @@
             {
                 "Date": "2024-09-04T11:14:49.232199",
                 "Price": 14850.0
+            },
+            {
+                "Date": "2024-09-10T17:16:55.294138",
+                "Price": "sold"
             }
         ]
     },
@@ -106874,6 +106882,10 @@
             {
                 "Date": "2024-09-09T21:05:15.237004",
                 "Price": 12550.0
+            },
+            {
+                "Date": "2024-09-10T17:16:55.294138",
+                "Price": "sold"
             }
         ]
     },
@@ -106938,6 +106950,51 @@
             {
                 "Date": "2024-09-09T21:05:15.287285",
                 "Price": 28950.0
+            }
+        ]
+    },
+    {
+        "Title": "2008 Rolex 18K Wg Daytona 116509 Black Diamond Arabic Dial With Papers, Service Papers & Hang Tag",
+        "Year": 2008,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116509",
+        "Serial": "Z971XXX",
+        "Inventory": "/watches/oouj",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-10T17:13:16.958943",
+                "Price": 31550.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex Submariner 5513 Wgs Dial With Papers From Guam",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "R718XXX",
+        "Inventory": "/watches/huaz",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-10T17:13:16.837976",
+                "Price": 10850.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Tudor Black Bay Chronograph 79360B Blue Dial With Box And Papers",
+        "Year": 2024,
+        "Brand": "Tudor",
+        "Model": "Black bay chronograph",
+        "Reference": "79360B",
+        "Serial": "98U4XXX",
+        "Inventory": "/watches/4nnv",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-10T17:13:17.007488",
+                "Price": 6750.0
             }
         ]
     }
