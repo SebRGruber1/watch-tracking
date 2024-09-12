@@ -106797,6 +106797,10 @@
             {
                 "Date": "2024-09-05T21:04:46.356990",
                 "Price": 13650.0
+            },
+            {
+                "Date": "2024-09-12T17:16:39.897952",
+                "Price": "sold"
             }
         ]
     },
@@ -107204,6 +107208,51 @@
             {
                 "Date": "2024-09-11T21:05:29.834066",
                 "Price": 49850.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 18K Rg Daytona 116505 Black Dial With Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116505",
+        "Serial": "42UK2XXX",
+        "Inventory": "/watches/jh96",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-12T17:13:09.556037",
+                "Price": 41350.0
+            }
+        ]
+    },
+    {
+        "Title": "1989 Rolex Tridor Day-Date 18239Bic Salmon Diamond Dial",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18239",
+        "Serial": "L607XXX",
+        "Inventory": "/watches/xozw",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-12T17:13:09.755091",
+                "Price": 17850.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Zenith Daytona 16520 Black Inverted \"6\" Dial With Box And Papers",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "N438XXX",
+        "Inventory": "/watches/ndtz",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-12T17:13:09.654033",
+                "Price": 32850.0
             }
         ]
     }
