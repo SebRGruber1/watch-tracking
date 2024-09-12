@@ -96316,6 +96316,10 @@
             {
                 "Date": "2024-08-18T21:07:47.136490",
                 "Price": 12950.0
+            },
+            {
+                "Date": "2024-09-11T21:09:30.234121",
+                "Price": "sold"
             }
         ]
     },
@@ -100464,6 +100468,10 @@
             {
                 "Date": "2024-09-05T02:22:53.391669",
                 "Price": 31850.0
+            },
+            {
+                "Date": "2024-09-11T21:09:30.234121",
+                "Price": 33850.0
             }
         ]
     },
@@ -106758,6 +106766,10 @@
             {
                 "Date": "2024-09-05T21:04:46.289058",
                 "Price": 13950.0
+            },
+            {
+                "Date": "2024-09-11T21:09:30.234121",
+                "Price": "sold"
             }
         ]
     },
@@ -107101,6 +107113,81 @@
             {
                 "Date": "2024-09-11T14:22:06.297232",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex 18K Yg Submariner 1680 Matte Black Nipple Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "5267XXX",
+        "Inventory": "/watches/zik5",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-11T21:05:29.589972",
+                "Price": 37850.0
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex Gmt-Master 16700",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "S663XXX",
+        "Inventory": "/watches/fcbg",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-11T21:05:29.680757",
+                "Price": 11850.0
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex 18K Yg Daytona 16528 Black Inverted \"6\" Dial",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16528",
+        "Serial": "S993XXX",
+        "Inventory": "/watches/tv8o",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-11T21:05:29.716414",
+                "Price": 36850.0
+            }
+        ]
+    },
+    {
+        "Title": "1971 Rolex Datejust 1601 Gilt Dial",
+        "Year": 1971,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1601",
+        "Serial": "2609XXX",
+        "Inventory": "/watches/pcws",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-11T21:05:29.661986",
+                "Price": 7350.0
+            }
+        ]
+    },
+    {
+        "Title": "1983 Rolex Daytona 6265 Black Red Daytona Dial",
+        "Year": 1983,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "6265",
+        "Serial": "7627XXX",
+        "Inventory": "/watches/i2ib",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-11T21:05:29.834066",
+                "Price": 49850.0
             }
         ]
     }
