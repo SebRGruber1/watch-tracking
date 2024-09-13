@@ -3562,6 +3562,10 @@
             {
                 "Date": "2024-08-12T23:18:53.842463",
                 "Price": 37850.0
+            },
+            {
+                "Date": "2024-09-12T20:47:25.795845",
+                "Price": 36850.0
             }
         ]
     },
@@ -105882,6 +105886,10 @@
             {
                 "Date": "2024-08-22T02:18:41.486942",
                 "Price": 5950.0
+            },
+            {
+                "Date": "2024-09-12T20:41:11.921516",
+                "Price": 5750.0
             }
         ]
     },
@@ -107065,6 +107073,10 @@
             {
                 "Date": "2024-09-10T21:05:03.839453",
                 "Price": 5350.0
+            },
+            {
+                "Date": "2024-09-12T20:41:11.921516",
+                "Price": "sold"
             }
         ]
     },
@@ -107253,6 +107265,81 @@
             {
                 "Date": "2024-09-12T17:13:09.654033",
                 "Price": 32850.0
+            }
+        ]
+    },
+    {
+        "Title": "2010 Rolex Submariner 16610Lv With Papers",
+        "Year": 2010,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "V531XXX",
+        "Inventory": "/watches/ndt2",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-12T20:36:28.272271",
+                "Price": 13650.0
+            }
+        ]
+    },
+    {
+        "Title": "2016 Rolex Submariner 114060 With Box And Papers",
+        "Year": 2016,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "114060",
+        "Serial": "90M26XXX",
+        "Inventory": "/watches/qcj3",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-12T20:36:28.322696",
+                "Price": 10650.0
+            }
+        ]
+    },
+    {
+        "Title": "Cartier 18K Yg Santos Ronde 1900-1 Off-White Roman Numeral Dial",
+        "Year": null,
+        "Brand": "Cartier",
+        "Model": "Santos ronde",
+        "Reference": "1900 1",
+        "Serial": "C53XXX",
+        "Inventory": "/watches/iuov",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-12T20:36:28.124731",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Submariner 1680 Mk 1 Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "5036XXX",
+        "Inventory": "/watches/jc0y",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-12T20:36:28.199680",
+                "Price": 16350.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Gmt-Master 16700 With Papers & Hang Tag",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "U443XXX",
+        "Inventory": "/watches/ibut",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-12T20:36:28.345285",
+                "Price": 12750.0
             }
         ]
     }
