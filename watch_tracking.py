@@ -99,30 +99,27 @@ def fetch_page_data(url):
 
 
 def save_to_json(data, json_file):
+    existing_data_dict = {}
     if os.path.exists(json_file):
         with open(json_file, 'r', encoding='utf-8') as file:
             existing_data = json.load(file)
         existing_data_dict = {watch["Inventory"]: watch for watch in existing_data}
-        current_date = dt.today().isoformat()
 
-        for watch in data:
-            inventory = watch["Inventory"]
-            if inventory in existing_data_dict:
-                existing_watch = existing_data_dict[inventory]
-                last_price = existing_watch["PriceHistory"][-1]["Price"]
-                new_price = watch["PriceHistory"][0]["Price"]
-                if last_price != new_price:
-                    print(f"Price changed for {watch['Title']} (Inventory: {inventory}). Old Price: {last_price}, New Price: {new_price}. Updating...")
-                    existing_watch["PriceHistory"].append({"Date": current_date, "Price": new_price})
-            else:
-                print(f"New watch found: {watch['Title']} (Inventory: {inventory}). Adding to the JSON.")
-                existing_data_dict[inventory] = watch
+    current_date = dt.today().isoformat()
 
-        with open(json_file, 'w', encoding='utf-8') as file:
-            json.dump(list(existing_data_dict.values()), file, indent=4)
-    else:
-        with open(json_file, 'w', encoding='utf-8') as file:
-            json.dump(data, file, indent=4)
+    for watch in data:
+        inventory = watch["Inventory"]
+        if inventory in existing_data_dict:
+            existing_watch = existing_data_dict[inventory]
+            last_price = existing_watch["PriceHistory"][-1]["Price"]
+            new_price = watch["PriceHistory"][0]["Price"]
+            if last_price != new_price:
+                existing_watch["PriceHistory"].append({"Date": current_date, "Price": new_price})
+        else:
+            existing_data_dict[inventory] = watch
+
+    with open(json_file, 'w', encoding='utf-8') as file:
+        json.dump(list(existing_data_dict.values()), file, indent=4)
 
 def main():
     page_number = 1
