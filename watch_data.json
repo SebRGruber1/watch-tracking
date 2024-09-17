@@ -97603,6 +97603,10 @@
             {
                 "Date": "2024-06-29T21:07:19.695752",
                 "Price": 7650.0
+            },
+            {
+                "Date": "2024-09-16T20:59:57.659887",
+                "Price": "sold"
             }
         ]
     },
@@ -98435,6 +98439,10 @@
             {
                 "Date": "2024-09-05T17:16:48.943489",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-09-16T20:59:57.659887",
+                "Price": 13650.0
             }
         ]
     },
@@ -99696,6 +99704,10 @@
             {
                 "Date": "2024-07-22T21:05:59.740443",
                 "Price": 7850.0
+            },
+            {
+                "Date": "2024-09-16T20:59:57.659887",
+                "Price": "sold"
             }
         ]
     },
@@ -102982,6 +102994,10 @@
             {
                 "Date": "2024-09-14T14:23:36.528914",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-09-16T20:59:57.659887",
+                "Price": 7550.0
             }
         ]
     },
@@ -107063,6 +107079,10 @@
             {
                 "Date": "2024-09-09T21:05:16.176214",
                 "Price": 42850.0
+            },
+            {
+                "Date": "2024-09-16T20:59:57.659887",
+                "Price": "sold"
             }
         ]
     },
@@ -107112,6 +107132,10 @@
             {
                 "Date": "2024-09-10T17:13:16.837976",
                 "Price": 10850.0
+            },
+            {
+                "Date": "2024-09-16T20:59:57.659887",
+                "Price": "sold"
             }
         ]
     },
@@ -107448,6 +107472,111 @@
             {
                 "Date": "2024-09-12T20:36:28.345285",
                 "Price": 12750.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex 18K Yg Day-Date 228238 Green Ombre Dial With Box And Papers",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "228238",
+        "Serial": "5T39TXXX",
+        "Inventory": "/watches/ayob",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-16T20:54:48.413478",
+                "Price": 54350.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Cartier 18K Rg Santos Dumont Quartz Wgsa0021 Silver Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Santos dumont",
+        "Reference": "WGSA0021",
+        "Serial": "424110772XXX",
+        "Inventory": "/watches/euou",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-16T20:54:48.529577",
+                "Price": 9950.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Patek Philippe 18K Yg Calatrava 3802 White Dial With Extract Papers",
+        "Year": 1995,
+        "Brand": "Patek philippe",
+        "Model": "Calatrava",
+        "Reference": "3802",
+        "Serial": "2980XXX",
+        "Inventory": "/watches/vepg",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-16T20:54:48.395237",
+                "Price": 9550.0
+            }
+        ]
+    },
+    {
+        "Title": "1986 Rolex Explorer Ii 16550 White Dial",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16550",
+        "Serial": "9308XXX",
+        "Inventory": "/watches/dqtx",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-16T20:54:48.640399",
+                "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "2006 Rolex Explorer 114270",
+        "Year": 2006,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "Z120XXX",
+        "Inventory": "/watches/izof",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-16T20:54:48.544209",
+                "Price": 5250.0
+            }
+        ]
+    },
+    {
+        "Title": "1993 Rolex Gmt-Master 16700 With Rolex Service Papers & Pouch",
+        "Year": 1993,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "S667XXX",
+        "Inventory": "/watches/lgfy",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-16T20:54:48.668439",
+                "Price": 11550.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Submariner 16800 Matte Dial",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16800",
+        "Serial": "8271XXX",
+        "Inventory": "/watches/t190",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-16T20:54:56.488384",
+                "Price": "sold"
             }
         ]
     }
