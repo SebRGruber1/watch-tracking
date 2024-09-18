@@ -107587,5 +107587,110 @@
                 "Price": "sold"
             }
         ]
+    },
+    {
+        "Title": "2021 Rolex 18K Wg Daytona 116509 Blue Dial With Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116509",
+        "Serial": "L23E2XXX",
+        "Inventory": "/watches/wnmq",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-17T21:05:13.210652",
+                "Price": 42850.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Tudor Heritage Black Bay Harrods 79230G With Box And Papers",
+        "Year": 2022,
+        "Brand": "Tudor",
+        "Model": "Black bay harrods",
+        "Reference": "79230G",
+        "Serial": "P9T8XXX",
+        "Inventory": "/watches/fx4d",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-17T21:05:13.360767",
+                "Price": 4150.0
+            }
+        ]
+    },
+    {
+        "Title": "2015 Rolex Sea Dweller 116600 With Box And Papers",
+        "Year": 2015,
+        "Brand": "Rolex",
+        "Model": "Sea dweller",
+        "Reference": "116600",
+        "Serial": "K4230XXX",
+        "Inventory": "/watches/xgcl",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-17T21:05:13.426480",
+                "Price": 12750.0
+            }
+        ]
+    },
+    {
+        "Title": "2017 Rolex Red Sea-Dweller 126600 With Box And Papers",
+        "Year": 2017,
+        "Brand": "Rolex",
+        "Model": "Sea dweller",
+        "Reference": "126600",
+        "Serial": "6E4C4XXX",
+        "Inventory": "/watches/yprx",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-17T21:05:13.248851",
+                "Price": 10950.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Gmt-Master Ii 16710 With Papers & Serialized Hang Tag",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "P386XXX",
+        "Inventory": "/watches/pasu",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-17T21:05:13.443875",
+                "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "1973 Rolex Datejust 1601 Silver Dial With Box And Papers",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1601",
+        "Serial": "3239XXX",
+        "Inventory": "/watches/kd29",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-17T21:05:13.352854",
+                "Price": 4850.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex 18K Yg Submariner 16618 Champagne Serti Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16618",
+        "Serial": "X889XXX",
+        "Inventory": "/watches/zbse",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-17T21:05:13.465037",
+                "Price": 25850.0
+            }
+        ]
     }
 ]
