@@ -103460,6 +103460,10 @@
             {
                 "Date": "2024-09-11T14:22:06.297232",
                 "Price": 18750.0
+            },
+            {
+                "Date": "2024-09-18T17:18:29.761410",
+                "Price": 18350.0
             }
         ]
     },
@@ -104592,6 +104596,10 @@
             {
                 "Date": "2024-09-14T21:16:24.273197",
                 "Price": 33850.0
+            },
+            {
+                "Date": "2024-09-18T17:18:29.761410",
+                "Price": "sold"
             }
         ]
     },
@@ -106444,6 +106452,10 @@
             {
                 "Date": "2024-08-28T21:04:02.638197",
                 "Price": 2950.0
+            },
+            {
+                "Date": "2024-09-18T17:18:29.761410",
+                "Price": 2750.0
             }
         ]
     },
@@ -107721,6 +107733,36 @@
             {
                 "Date": "2024-09-18T14:18:50.916340",
                 "Price": 13950.0
+            }
+        ]
+    },
+    {
+        "Title": "1968 Rolex Gmt-Master 1675 Mk 1 Tropical Dial With Certificate Of Service",
+        "Year": 1968,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "1832XXX",
+        "Inventory": "/watches/ojfe",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-18T17:13:15.020828",
+                "Price": 23850.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Daytona 116500Ln Black Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "3F6N5XXX",
+        "Inventory": "/watches/eg34",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-18T17:13:14.997624",
+                "Price": 24950.0
             }
         ]
     }
