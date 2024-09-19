@@ -107598,6 +107598,10 @@
             {
                 "Date": "2024-09-16T20:54:48.668439",
                 "Price": 11550.0
+            },
+            {
+                "Date": "2024-09-19T14:24:03.326380",
+                "Price": "sold"
             }
         ]
     },
@@ -107835,6 +107839,36 @@
             {
                 "Date": "2024-09-18T21:06:11.482975",
                 "Price": 31350.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Two-Tone Submariner 16613T Blue Dial With Box And Papers",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16613",
+        "Serial": "F687XXX",
+        "Inventory": "/watches/dyrn",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-19T14:18:43.965257",
+                "Price": 11350.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Gmt-Master 16700 Swiss Only With Papers & Hang Tag",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "A537XXX",
+        "Inventory": "/watches/mtek",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-19T14:18:43.947003",
+                "Price": 12850.0
             }
         ]
     }
