@@ -107871,5 +107871,65 @@
                 "Price": 12850.0
             }
         ]
+    },
+    {
+        "Title": "1968 Rolex Gmt-Master 1675 Mk 1 Dial With Box, Papers & Certificate Of Service",
+        "Year": 1968,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "1813XXX",
+        "Inventory": "/watches/damo",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-19T17:13:25.729967",
+                "Price": 20950.0
+            }
+        ]
+    },
+    {
+        "Title": "1974 Tudor Monte Carlo 7149/0 Grey Dial",
+        "Year": 1974,
+        "Brand": "Rolex",
+        "Model": "Monte carlo",
+        "Reference": "7149 / 0",
+        "Serial": "826XXX",
+        "Inventory": "/watches/xho6",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-19T17:13:26.006402",
+                "Price": 13750.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Explorer Ii 16570 White Dial",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "Y679XXX",
+        "Inventory": "/watches/rpnp",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-19T17:13:25.955309",
+                "Price": 7850.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Submariner 14060 With Papers",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "W195XXX",
+        "Inventory": "/watches/ddpf",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-19T17:13:26.045497",
+                "Price": 9350.0
+            }
+        ]
     }
 ]
