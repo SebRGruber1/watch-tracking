@@ -107160,6 +107160,10 @@
             {
                 "Date": "2024-09-16T20:59:57.659887",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-09-18T21:11:27.332698",
+                "Price": 10850.0
             }
         ]
     },
@@ -107545,6 +107549,10 @@
             {
                 "Date": "2024-09-16T20:54:48.395237",
                 "Price": 9550.0
+            },
+            {
+                "Date": "2024-09-18T21:11:27.332698",
+                "Price": "sold"
             }
         ]
     },
@@ -107763,6 +107771,66 @@
             {
                 "Date": "2024-09-18T17:13:14.997624",
                 "Price": 24950.0
+            }
+        ]
+    },
+    {
+        "Title": "2017 Rolex 18K Wg Daytona 116519Ln Silver Dial With Papers",
+        "Year": 2017,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116519",
+        "Serial": "T75D3XXX",
+        "Inventory": "/watches/wk3x",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-18T21:06:11.551048",
+                "Price": 36550.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex Daytona 116500Ln White Dial With Box And Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "6Q520XXX",
+        "Inventory": "/watches/poeq",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-18T21:06:11.502387",
+                "Price": 28550.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex 18K Yg Daytona 116598Saco Leopard Dial",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116598",
+        "Serial": "D810XXX",
+        "Inventory": "/watches/gine",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-18T21:06:11.612317",
+                "Price": 79850.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Daytona 126500Ln White Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "126500",
+        "Serial": "35928XXX",
+        "Inventory": "/watches/jb7y",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-18T21:06:11.482975",
+                "Price": 31350.0
             }
         ]
     }
