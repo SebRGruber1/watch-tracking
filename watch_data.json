@@ -4246,6 +4246,10 @@
             {
                 "Date": "2024-06-19T14:19:57.415926",
                 "Price": 9350.0
+            },
+            {
+                "Date": "2024-09-19T21:10:10.876978",
+                "Price": 9250.0
             }
         ]
     },
@@ -106437,6 +106441,10 @@
             {
                 "Date": "2024-08-28T21:04:02.656681",
                 "Price": 9350.0
+            },
+            {
+                "Date": "2024-09-19T21:10:10.876978",
+                "Price": 8950.0
             }
         ]
     },
@@ -107899,6 +107907,10 @@
             {
                 "Date": "2024-09-19T17:13:26.006402",
                 "Price": 13750.0
+            },
+            {
+                "Date": "2024-09-19T21:10:10.876978",
+                "Price": "sold"
             }
         ]
     },
@@ -107929,6 +107941,111 @@
             {
                 "Date": "2024-09-19T17:13:26.045497",
                 "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "1963 Patek Philippe Calatrava 3466 Silver Dial With Extract Papers",
+        "Year": 1963,
+        "Brand": "Patek philippe",
+        "Model": "Calatrava",
+        "Reference": "3466",
+        "Serial": "2664XXX",
+        "Inventory": "/watches/kl3d",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-19T21:06:15.596343",
+                "Price": 16850.0
+            }
+        ]
+    },
+    {
+        "Title": "1974 Rolex 18K Yg Day-Date 1803 Grey Wide Boy Dial",
+        "Year": 1974,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "3573XXX",
+        "Inventory": "/watches/vf1r",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-19T21:06:15.837958",
+                "Price": 18850.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex 18K Yg Submariner 1680 Matte Black Nipple Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "2817XXX",
+        "Inventory": "/watches/ssum",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-19T21:06:15.780724",
+                "Price": 36550.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Oysterdate 6694 Silver Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Oysterdate",
+        "Reference": "6694",
+        "Serial": "5101XXX",
+        "Inventory": "/watches/vkej",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-19T21:06:16.104654",
+                "Price": 2350.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Daytona 116500Ln White Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "1M153XXX",
+        "Inventory": "/watches/w0bg",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-19T21:06:15.690513",
+                "Price": 28350.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Submariner 5512 Serif Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5512",
+        "Serial": "3443XXX",
+        "Inventory": "/watches/phx3",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-19T21:06:15.694570",
+                "Price": 15850.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Patek Philippe Aquanaut 5065 Tritium Dial With Extract Papers",
+        "Year": 1999,
+        "Brand": "Patek philippe",
+        "Model": "Aquanaut",
+        "Reference": "5065",
+        "Serial": "4047XXX",
+        "Inventory": "/watches/mxrg",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-19T21:06:15.633148",
+                "Price": 43850.0
             }
         ]
     }
