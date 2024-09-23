@@ -94077,6 +94077,10 @@
             {
                 "Date": "2024-09-21T11:20:19.989546",
                 "Price": 28750.0
+            },
+            {
+                "Date": "2024-09-23T14:22:59.169333",
+                "Price": "sold"
             }
         ]
     },
@@ -106520,6 +106524,10 @@
             {
                 "Date": "2024-09-18T17:18:29.761410",
                 "Price": 2750.0
+            },
+            {
+                "Date": "2024-09-23T14:22:59.169333",
+                "Price": 2550.0
             }
         ]
     },
@@ -107750,6 +107758,10 @@
             {
                 "Date": "2024-09-17T21:05:13.426480",
                 "Price": 12750.0
+            },
+            {
+                "Date": "2024-09-23T14:22:59.169333",
+                "Price": "sold"
             }
         ]
     },
@@ -107878,6 +107890,10 @@
             {
                 "Date": "2024-09-18T21:06:11.551048",
                 "Price": 36550.0
+            },
+            {
+                "Date": "2024-09-23T14:22:59.169333",
+                "Price": 34950.0
             }
         ]
     },
@@ -108150,6 +108166,36 @@
             {
                 "Date": "2024-09-20T02:23:37.769283",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1975 Rolex Gmt-Master 1675 Mk 2 Dial With Certificate Of Service",
+        "Year": 1975,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "1675",
+        "Serial": "3886XXX",
+        "Inventory": "/watches/gyjn",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-23T14:19:20.080681",
+                "Price": 16350.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Daytona 116500Ln Black Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "60ME5XXX",
+        "Inventory": "/watches/jf3i",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-23T14:19:20.127921",
+                "Price": 25650.0
             }
         ]
     }
