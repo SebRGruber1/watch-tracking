@@ -2676,6 +2676,10 @@
             {
                 "Date": "2024-04-23T23:18:47.819708",
                 "Price": 22850.0
+            },
+            {
+                "Date": "2024-09-23T21:12:15.486561",
+                "Price": 38950.0
             }
         ]
     },
@@ -106839,6 +106843,10 @@
             {
                 "Date": "2024-09-04T21:04:35.601650",
                 "Price": 18950.0
+            },
+            {
+                "Date": "2024-09-23T21:12:15.486561",
+                "Price": "sold"
             }
         ]
     },
@@ -107260,6 +107268,10 @@
             {
                 "Date": "2024-09-18T21:11:27.332698",
                 "Price": 10850.0
+            },
+            {
+                "Date": "2024-09-23T21:12:15.486561",
+                "Price": "sold"
             }
         ]
     },
@@ -107741,6 +107753,10 @@
             {
                 "Date": "2024-09-23T17:17:06.066375",
                 "Price": 10950.0
+            },
+            {
+                "Date": "2024-09-23T21:12:15.486561",
+                "Price": "sold"
             }
         ]
     },
@@ -107990,6 +108006,10 @@
             {
                 "Date": "2024-09-19T14:18:43.965257",
                 "Price": 11350.0
+            },
+            {
+                "Date": "2024-09-23T21:12:15.486561",
+                "Price": "sold"
             }
         ]
     },
@@ -108168,6 +108188,10 @@
             {
                 "Date": "2024-09-23T17:17:06.066375",
                 "Price": 27850.0
+            },
+            {
+                "Date": "2024-09-23T21:12:15.486561",
+                "Price": "sold"
             }
         ]
     },
@@ -108232,6 +108256,96 @@
             {
                 "Date": "2024-09-23T14:19:20.127921",
                 "Price": 25650.0
+            }
+        ]
+    },
+    {
+        "Title": "2016 Jaeger Lecoultre Deep Sea Alarm Q2028440 With Box And Papers",
+        "Year": 2016,
+        "Brand": "Jaeger lecoultre",
+        "Model": "Deep sea alarm",
+        "Reference": "Q2028440",
+        "Serial": "2744XXX",
+        "Inventory": "/watches/vaz3",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-23T21:08:38.998493",
+                "Price": 10350.0
+            }
+        ]
+    },
+    {
+        "Title": "2015 Jaeger Lecoultre Reverso Jlq2788570 Black Dial With Box And Papers",
+        "Year": 2015,
+        "Brand": "Jaeger lecoultre",
+        "Model": "Reverso",
+        "Reference": "JLQ2788570",
+        "Serial": "2806XXX",
+        "Inventory": "/watches/j2ho",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-23T21:08:39.333452",
+                "Price": 5850.0
+            }
+        ]
+    },
+    {
+        "Title": "1968 Rolex Gmt-Master 1675 Mk 5 Dial",
+        "Year": 1968,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "2818XXX",
+        "Inventory": "/watches/y4v4",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-23T21:08:39.231436",
+                "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Sky-Dweller 326934 Blue Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Sky-dweller",
+        "Reference": "326934",
+        "Serial": "F2E23XXX",
+        "Inventory": "/watches/hx5r",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-23T21:08:39.178748",
+                "Price": 22950.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex Gmt-Master Ii 126720Vtnr With Box And Papers",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126720",
+        "Serial": "2276CXXX",
+        "Inventory": "/watches/t05j",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-23T21:08:39.186929",
+                "Price": 17650.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Zenith Chronomaster Revival A384 With Box And Papers",
+        "Year": 2023,
+        "Brand": "Zenith",
+        "Model": "Chronomaster revival",
+        "Reference": "A384 95.L384.400/50.M384",
+        "Serial": "576XXX",
+        "Inventory": "/watches/xabv",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-23T21:08:39.041972",
+                "Price": 8850.0
             }
         ]
     }
