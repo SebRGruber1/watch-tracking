@@ -103813,6 +103813,10 @@
             {
                 "Date": "2024-08-17T11:16:01.885523",
                 "Price": 89550.0
+            },
+            {
+                "Date": "2024-09-24T17:17:10.795545",
+                "Price": 86550.0
             }
         ]
     },
@@ -108374,6 +108378,51 @@
             {
                 "Date": "2024-09-23T21:08:39.041972",
                 "Price": 8850.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex 18K Yg Daytona 116518Ln Gold Dial With Papers & Serialized Hang Tag",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116518",
+        "Serial": "024Q0XXX",
+        "Inventory": "/watches/7vr6",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-24T17:13:17.826567",
+                "Price": 36850.0
+            }
+        ]
+    },
+    {
+        "Title": "1969 Omega Speedmaster 145.022",
+        "Year": 1969,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "145.022",
+        "Serial": "29112XXX",
+        "Inventory": "/watches/ie8m",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-24T17:13:17.764443",
+                "Price": 5650.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Patek Philippe 18K Rg Perpetual Calendar 5039R Silver Dial With Extract Papers",
+        "Year": 1996,
+        "Brand": "Patek philippe",
+        "Model": "Perpetual calendar",
+        "Reference": "5039R",
+        "Serial": "4000XXX",
+        "Inventory": "/watches/bol2",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-24T17:13:17.989965",
+                "Price": 38550.0
             }
         ]
     }
