@@ -3750,6 +3750,10 @@
             {
                 "Date": "2024-01-08T22:33:20.469991",
                 "Price": 43850.0
+            },
+            {
+                "Date": "2024-09-24T21:13:21.898113",
+                "Price": 31550.0
             }
         ]
     },
@@ -104205,6 +104209,10 @@
             {
                 "Date": "2024-09-14T21:16:24.273197",
                 "Price": 40350.0
+            },
+            {
+                "Date": "2024-09-24T21:13:21.898113",
+                "Price": "sold"
             }
         ]
     },
@@ -108423,6 +108431,85 @@
             {
                 "Date": "2024-09-24T17:13:17.989965",
                 "Price": 38550.0
+            },
+            {
+                "Date": "2024-09-24T21:13:21.898113",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "Rolex 18K Wg Yacht-Master 226659 With Cpo Box And Papers",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Yacht-master",
+        "Reference": "226659",
+        "Serial": "93A33XXX",
+        "Inventory": "/watches/njhp",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-24T21:09:40.982663",
+                "Price": 23850.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Gmt-Master Ii 16710 With Papers & Serialized Hang Tag",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "P643XXX",
+        "Inventory": "/watches/2wky",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-24T21:09:40.868650",
+                "Price": 12950.0
+            }
+        ]
+    },
+    {
+        "Title": "2006 Rolex Sea-Dweller 16600 With Papers",
+        "Year": 2006,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "16600",
+        "Serial": "D529XXX",
+        "Inventory": "/watches/yu16",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-24T21:09:40.932415",
+                "Price": 8950.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Date 15200 White Roman Numeral Dial With Certificate Of Service",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "15200",
+        "Serial": "N155XXX",
+        "Inventory": "/watches/yqhi",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-24T21:09:40.850714",
+                "Price": 3950.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Ladies Two-Tone Datejust 79173 Champagne Dial",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "79173",
+        "Serial": "P649XXX",
+        "Inventory": "/watches/qes9",
+        "PriceHistory": [
+            {
+                "Date": "2024-09-24T21:09:40.985393",
+                "Price": 4150.0
             }
         ]
     }
