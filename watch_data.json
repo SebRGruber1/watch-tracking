@@ -107544,6 +107544,10 @@
             {
                 "Date": "2024-09-21T14:21:38.947690",
                 "Price": 13350.0
+            },
+            {
+                "Date": "2024-10-03T21:11:50.678206",
+                "Price": "sold"
             }
         ]
     },
@@ -108793,6 +108797,21 @@
             {
                 "Date": "2024-09-25T14:19:30.999882",
                 "Price": 25850.0
+            }
+        ]
+    },
+    {
+        "Title": "2017 Rolex Sea-Dweller 116600 With Papers",
+        "Year": 2017,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "116600",
+        "Serial": "V886QXXX",
+        "Inventory": "/watches/zxao",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-03T21:08:20.934908",
+                "Price": 12850.0
             }
         ]
     }
