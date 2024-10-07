@@ -100128,6 +100128,10 @@
             {
                 "Date": "2024-09-30T14:24:44.172003",
                 "Price": 7650.0
+            },
+            {
+                "Date": "2024-10-07T14:23:22.635667",
+                "Price": "sold"
             }
         ]
     },
@@ -104570,6 +104574,10 @@
             {
                 "Date": "2024-08-01T17:14:40.746934",
                 "Price": 28550.0
+            },
+            {
+                "Date": "2024-10-07T14:23:22.635667",
+                "Price": "sold"
             }
         ]
     },
@@ -108864,6 +108872,21 @@
             {
                 "Date": "2024-10-03T21:08:20.934908",
                 "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex 18K Wg Daytona 116509 Blue Dial With Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116509",
+        "Serial": "G31C8XXX",
+        "Inventory": "/watches/yarm",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-07T14:19:49.170423",
+                "Price": 43550.0
             }
         ]
     }
