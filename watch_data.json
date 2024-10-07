@@ -108889,5 +108889,35 @@
                 "Price": 43550.0
             }
         ]
+    },
+    {
+        "Title": "1963 Rolex Datejust 6305 Tropical Dial",
+        "Year": 1963,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "6305",
+        "Serial": "995XXX",
+        "Inventory": "/watches/ay3h",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-07T17:13:59.371560",
+                "Price": 5850.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex Titanium Yacht-Master 226627 Matte Black Dial With Papers",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Yacht-master",
+        "Reference": "226627",
+        "Serial": "8384DXXX",
+        "Inventory": "/watches/x0vk",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-07T17:13:59.456646",
+                "Price": 25950.0
+            }
+        ]
     }
 ]
