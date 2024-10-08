@@ -107714,6 +107714,10 @@
             {
                 "Date": "2024-09-30T14:24:44.172003",
                 "Price": 33850.0
+            },
+            {
+                "Date": "2024-10-07T21:12:15.345098",
+                "Price": "sold"
             }
         ]
     },
@@ -108917,6 +108921,111 @@
             {
                 "Date": "2024-10-07T17:13:59.456646",
                 "Price": 25950.0
+            }
+        ]
+    },
+    {
+        "Title": "1974 Rolex Red Submariner 1680 Mk V Dial",
+        "Year": 1974,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "3688XXX",
+        "Inventory": "/watches/qhuk",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-07T21:08:16.969994",
+                "Price": 24850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Submariner 14060",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "U235XXX",
+        "Inventory": "/watches/d2w0",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-07T21:08:17.197942",
+                "Price": 8650.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex Two-Tone Submariner 16613",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16613",
+        "Serial": "D272XXX",
+        "Inventory": "/watches/zdnj",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-07T21:08:17.153500",
+                "Price": 10950.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Cartier Two-Tone Santos W2Sa0016 Silver Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Cartier",
+        "Model": "Santos",
+        "Reference": "W2SA0016",
+        "Serial": "407530786XXX",
+        "Inventory": "/watches/49u6",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-07T21:08:17.052114",
+                "Price": 5550.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex 18K Wg Daytona 126519Ln Black Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "126519",
+        "Serial": "07F52XXX",
+        "Inventory": "/watches/8yuw",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-07T21:08:17.200820",
+                "Price": 39850.0
+            }
+        ]
+    },
+    {
+        "Title": "2017 Patek Philippe 18K Wg Annual Calendar 5396G Silver Tiffany & Co. Dial With Box And Tiffany Appraisal Papers",
+        "Year": 2017,
+        "Brand": "Patek philippe",
+        "Model": "Annual calendar",
+        "Reference": "5396",
+        "Serial": "5922XXX",
+        "Inventory": "/watches/x9yy",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-07T21:08:17.190440",
+                "Price": 36850.0
+            }
+        ]
+    },
+    {
+        "Title": "Audemars Piguet 18K Rg Royal Oak Offshore 26401Ro.Oo.A002Ca.02 With Box And Papers",
+        "Year": null,
+        "Brand": "Audemars piguet",
+        "Model": "Royal oak",
+        "Reference": "26401RO.OO.A002CA.02",
+        "Serial": "K12XXX",
+        "Inventory": "/watches/chzt",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-07T21:08:17.208555",
+                "Price": 37850.0
             }
         ]
     }
