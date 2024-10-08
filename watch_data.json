@@ -103780,6 +103780,10 @@
             {
                 "Date": "2024-07-24T21:00:35.194993",
                 "Price": 18950.0
+            },
+            {
+                "Date": "2024-10-08T17:18:37.694473",
+                "Price": "sold"
             }
         ]
     },
@@ -104234,6 +104238,10 @@
             {
                 "Date": "2024-10-05T21:16:46.269428",
                 "Price": 3650.0
+            },
+            {
+                "Date": "2024-10-08T17:18:37.694473",
+                "Price": "sold"
             }
         ]
     },
@@ -109042,6 +109050,126 @@
             {
                 "Date": "2024-10-07T21:08:17.208555",
                 "Price": 37850.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Datejust 16030 Matte White Roman Numeral Dial With Service Papers",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16030",
+        "Serial": "8263XXX",
+        "Inventory": "/watches/whuz",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-08T17:14:55.320538",
+                "Price": 6550.0
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex Daytona 116520 Black Dial",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116520",
+        "Serial": "F731XXX",
+        "Inventory": "/watches/tqfx",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-08T17:14:55.274477",
+                "Price": 18850.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex 18K Wg Daytona 116509 Silver Dial With Papers & Serialized Hang Tag",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116509",
+        "Serial": "6J18FXXX",
+        "Inventory": "/watches/ddyz",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-08T17:14:55.315060",
+                "Price": 40850.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex 18K Wg Submariner 126619Lb With Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "126619",
+        "Serial": "7594CXXX",
+        "Inventory": "/watches/rmuy",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-08T17:14:55.295522",
+                "Price": 33550.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Cartier Solarbeat Tank Must Wsta0059 Silver Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Cartier",
+        "Model": "Tank must",
+        "Reference": "WSTA0059",
+        "Serial": "436671694XXX",
+        "Inventory": "/watches/wtgj",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-08T17:14:55.510250",
+                "Price": 3150.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex Ladies Two-Tone Datejust 69173 Champagne Dial",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "69173",
+        "Serial": "R807XXX",
+        "Inventory": "/watches/lrbm",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-08T17:14:55.535829",
+                "Price": 4150.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Two-Tone Datejust 16233G Champagne Diamond Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16233",
+        "Serial": "X594XXX",
+        "Inventory": "/watches/p95x",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-08T17:14:55.357150",
+                "Price": 6350.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex Titanium Yacht-Master 226627 Matte Black Dial With Papers & Serialized Hang Tag",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Yacht-master",
+        "Reference": "226627",
+        "Serial": "393U2XXX",
+        "Inventory": "/watches/lm31",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-08T17:15:00.076363",
+                "Price": "sold"
             }
         ]
     }
