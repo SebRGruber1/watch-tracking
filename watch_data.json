@@ -108967,6 +108967,10 @@
             {
                 "Date": "2024-10-07T21:08:17.197942",
                 "Price": 8650.0
+            },
+            {
+                "Date": "2024-10-08T21:11:26.171603",
+                "Price": "sold"
             }
         ]
     },
@@ -109125,6 +109129,10 @@
             {
                 "Date": "2024-10-08T17:14:55.510250",
                 "Price": 3150.0
+            },
+            {
+                "Date": "2024-10-08T21:11:26.171603",
+                "Price": "sold"
             }
         ]
     },
@@ -109170,6 +109178,51 @@
             {
                 "Date": "2024-10-08T17:15:00.076363",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1968 Rolex 18K Yg Day-Date 1803 Silver Dial",
+        "Year": 1968,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "2051XXX",
+        "Inventory": "/watches/uat0",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-08T21:07:50.705136",
+                "Price": 14950.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Explorer Ii 16570 Black Dial",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "Y193XXX",
+        "Inventory": "/watches/9k5j",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-08T21:07:50.739118",
+                "Price": 6950.0
+            }
+        ]
+    },
+    {
+        "Title": "Rolex Gmt-Master Ii 116710Ln With Rolex Service Card",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "116710",
+        "Serial": "3619EXXX",
+        "Inventory": "/watches/7qnr",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-08T21:07:50.708455",
+                "Price": 10850.0
             }
         ]
     }
