@@ -93621,6 +93621,10 @@
             {
                 "Date": "2024-09-30T14:24:44.172003",
                 "Price": 12350.0
+            },
+            {
+                "Date": "2024-10-09T21:11:26.865821",
+                "Price": "sold"
             }
         ]
     },
@@ -96654,6 +96658,10 @@
             {
                 "Date": "2024-08-21T14:21:55.230106",
                 "Price": 9250.0
+            },
+            {
+                "Date": "2024-10-09T21:11:26.865821",
+                "Price": 8950.0
             }
         ]
     },
@@ -109243,6 +109251,36 @@
             {
                 "Date": "2024-10-08T21:07:50.708455",
                 "Price": 10850.0
+            }
+        ]
+    },
+    {
+        "Title": "Urban Jurgensen 18K Rg Jules Collection 2240Rg Silver Dial With Box And Papers",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Jules collection",
+        "Reference": "2240",
+        "Serial": "16 2XXX",
+        "Inventory": "/watches/qj3u",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-09T21:07:51.036388",
+                "Price": 28750.0
+            }
+        ]
+    },
+    {
+        "Title": "2009 Rolex Daytona 116520 White Dial With Box And Papers",
+        "Year": 2009,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116520",
+        "Serial": "V038XXX",
+        "Inventory": "/watches/wen2",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-09T21:07:50.870258",
+                "Price": 19850.0
             }
         ]
     }
