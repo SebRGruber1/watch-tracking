@@ -96116,6 +96116,10 @@
             {
                 "Date": "2024-09-04T21:08:01.843499",
                 "Price": 12950.0
+            },
+            {
+                "Date": "2024-10-10T21:13:37.237241",
+                "Price": 12750.0
             }
         ]
     },
@@ -103624,6 +103628,10 @@
             {
                 "Date": "2024-09-18T17:18:29.761410",
                 "Price": 18350.0
+            },
+            {
+                "Date": "2024-10-10T21:13:37.237241",
+                "Price": 17950.0
             }
         ]
     },
@@ -109301,6 +109309,66 @@
             {
                 "Date": "2024-10-09T21:07:50.870258",
                 "Price": 19850.0
+            }
+        ]
+    },
+    {
+        "Title": "1969 Rolex Red Submariner 1680 With Mark 3 Meters First Tropical Dial With Rsc",
+        "Year": 1969,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "2355XXX",
+        "Inventory": "/watches/xjc3",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-10T21:08:08.011801",
+                "Price": 33850.0
+            }
+        ]
+    },
+    {
+        "Title": "1989 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "L452XXX",
+        "Inventory": "/watches/q8tq",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-10T21:08:08.101928",
+                "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "1976 Rolex Explorer Ii 1655 With Service Papers From Singapore",
+        "Year": 1976,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "1655",
+        "Serial": "4478XXX",
+        "Inventory": "/watches/luqz",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-10T21:08:08.001923",
+                "Price": 17850.0
+            }
+        ]
+    },
+    {
+        "Title": "1986 Rolex Two-Tone Gmt-Master 16753 With Service Papers",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16753",
+        "Serial": "9022XXX",
+        "Inventory": "/watches/dujs",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-10T21:08:15.476965",
+                "Price": "sold"
             }
         ]
     }
