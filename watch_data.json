@@ -109411,5 +109411,20 @@
                 "Price": "sold"
             }
         ]
+    },
+    {
+        "Title": "1978 Rolex Submariner 1680 Mk 1 Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "5263XXX",
+        "Inventory": "/watches/osaw",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-14T14:19:34.884013",
+                "Price": 13850.0
+            }
+        ]
     }
 ]
