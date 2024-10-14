@@ -106029,6 +106029,10 @@
             {
                 "Date": "2024-10-01T11:18:57.176550",
                 "Price": 9350.0
+            },
+            {
+                "Date": "2024-10-14T17:17:27.396641",
+                "Price": "sold"
             }
         ]
     },
@@ -107425,6 +107429,10 @@
             {
                 "Date": "2024-10-03T02:25:45.721449",
                 "Price": 13850.0
+            },
+            {
+                "Date": "2024-10-14T17:17:27.396641",
+                "Price": "sold"
             }
         ]
     },
@@ -108885,6 +108893,10 @@
             {
                 "Date": "2024-09-24T21:09:40.868650",
                 "Price": 12950.0
+            },
+            {
+                "Date": "2024-10-14T17:17:27.396641",
+                "Price": "sold"
             }
         ]
     },
@@ -109281,6 +109293,10 @@
             {
                 "Date": "2024-10-08T21:07:50.705136",
                 "Price": 14950.0
+            },
+            {
+                "Date": "2024-10-14T17:17:27.396641",
+                "Price": "sold"
             }
         ]
     },
@@ -109424,6 +109440,51 @@
             {
                 "Date": "2024-10-14T14:19:34.884013",
                 "Price": 13850.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Gmt-Master 1675 Mk 4 Dial With Service Papers",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "5498XXX",
+        "Inventory": "/watches/twr3",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-14T17:13:25.624871",
+                "Price": 17850.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Submariner 14060M With Papers & Serialized Hang Tag",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "K992XXX",
+        "Inventory": "/watches/1vtz",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-14T17:13:25.727976",
+                "Price": 8950.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex Gmt-Master Ii 16710 With Papers & Serialized Hang Tag",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "D339XXX",
+        "Inventory": "/watches/ctdh",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-14T17:13:30.867129",
+                "Price": "sold"
             }
         ]
     }
