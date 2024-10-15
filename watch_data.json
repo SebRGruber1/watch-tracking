@@ -94748,6 +94748,10 @@
             {
                 "Date": "2024-08-06T17:17:52.180297",
                 "Price": 4650.0
+            },
+            {
+                "Date": "2024-10-14T21:14:43.004697",
+                "Price": "sold"
             }
         ]
     },
@@ -109154,6 +109158,10 @@
             {
                 "Date": "2024-10-07T21:08:17.208555",
                 "Price": 37850.0
+            },
+            {
+                "Date": "2024-10-14T21:14:43.004697",
+                "Price": 36350.0
             }
         ]
     },
@@ -109312,6 +109320,10 @@
             {
                 "Date": "2024-10-08T21:07:50.739118",
                 "Price": 6950.0
+            },
+            {
+                "Date": "2024-10-14T21:14:43.004697",
+                "Price": "sold"
             }
         ]
     },
@@ -109485,6 +109497,81 @@
             {
                 "Date": "2024-10-14T17:13:30.867129",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "Patek Philippe 18K Yg Aquanaut 5065J",
+        "Year": null,
+        "Brand": "Patek philippe",
+        "Model": "Aquanaut",
+        "Reference": "5065 J",
+        "Serial": "3012XXX",
+        "Inventory": "/watches/apsw",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-14T21:09:25.016570",
+                "Price": 65350.0
+            }
+        ]
+    },
+    {
+        "Title": "1971 Rolex Red Submariner 1680 Mk 5 Dial With Certificate Of Service",
+        "Year": 1972,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "3059XXX",
+        "Inventory": "/watches/5ddt",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-14T21:09:25.244890",
+                "Price": 24850.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Omega Speedmaster 3572.50.00 Moonwatch Professional With Papers & Omega Leather Case",
+        "Year": 2005,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "3570.50",
+        "Serial": "77000XXX",
+        "Inventory": "/watches/1jys",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-14T21:09:25.043576",
+                "Price": 4250.0
+            }
+        ]
+    },
+    {
+        "Title": "Cartier 18K Yg Tank White Dial With Box",
+        "Year": null,
+        "Brand": "Cartier",
+        "Model": "Tank",
+        "Reference": "",
+        "Serial": "780865XXX",
+        "Inventory": "/watches/pwny",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-14T21:09:25.191999",
+                "Price": 8350.0
+            }
+        ]
+    },
+    {
+        "Title": "1990 Rolex Gmt-Master 16700",
+        "Year": 1990,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "E127XXX",
+        "Inventory": "/watches/sxvm",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-14T21:09:25.176377",
+                "Price": 11250.0
             }
         ]
     }
