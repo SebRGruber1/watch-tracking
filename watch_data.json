@@ -109193,6 +109193,10 @@
             {
                 "Date": "2024-10-08T17:14:55.320538",
                 "Price": 6550.0
+            },
+            {
+                "Date": "2024-10-15T21:13:20.309545",
+                "Price": "sold"
             }
         ]
     },
@@ -109442,6 +109446,10 @@
             {
                 "Date": "2024-10-11T23:23:50.472520",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-10-15T21:13:20.309545",
+                "Price": 17850.0
             }
         ]
     },
@@ -109555,6 +109563,10 @@
             {
                 "Date": "2024-10-14T21:09:25.244890",
                 "Price": 24850.0
+            },
+            {
+                "Date": "2024-10-15T21:13:20.309545",
+                "Price": "sold"
             }
         ]
     },
@@ -109585,6 +109597,10 @@
             {
                 "Date": "2024-10-14T21:09:25.191999",
                 "Price": 8350.0
+            },
+            {
+                "Date": "2024-10-15T21:13:20.309545",
+                "Price": "sold"
             }
         ]
     },
@@ -109600,6 +109616,111 @@
             {
                 "Date": "2024-10-14T21:09:25.176377",
                 "Price": 11250.0
+            }
+        ]
+    },
+    {
+        "Title": "1968 Rolex Date 1501 Silver Dial",
+        "Year": 1968,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "1501",
+        "Serial": "2097XXX",
+        "Inventory": "/watches/bhrm",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-15T21:09:21.932787",
+                "Price": 2950.0
+            }
+        ]
+    },
+    {
+        "Title": "1971 Rolex Date 1500 Silver Dial",
+        "Year": 1971,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "1500",
+        "Serial": "2732XXX",
+        "Inventory": "/watches/jdfq",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-15T21:09:21.871069",
+                "Price": 2950.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Submariner 16610 With Service Card And Serialized Hang Tag",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "Y878XXX",
+        "Inventory": "/watches/aify",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-15T21:09:21.940258",
+                "Price": 8950.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Gmt-Master Ii 16710",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "Y155XXX",
+        "Inventory": "/watches/3elj",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-15T21:09:21.895251",
+                "Price": 10850.0
+            }
+        ]
+    },
+    {
+        "Title": "1966 Rolex Submariner 5513 Meters First Tropical Dial",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "1506XXX",
+        "Inventory": "/watches/ju7i",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-15T21:09:22.062502",
+                "Price": 27550.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Omega Speedmaster Moonwatch 31032 With Box & Purchase Papers From Paris",
+        "Year": 2022,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "31032425001001",
+        "Serial": "83527XXX",
+        "Inventory": "/watches/19zq",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-15T21:09:21.978580",
+                "Price": 4950.0
+            }
+        ]
+    },
+    {
+        "Title": "1979 Rolex Two-Tone Gmt-Master 16753 Tropical Dial",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16753",
+        "Serial": "6301XXX",
+        "Inventory": "/watches/agjd",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-15T21:09:21.975218",
+                "Price": 10750.0
             }
         ]
     }
