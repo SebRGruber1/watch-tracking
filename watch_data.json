@@ -109646,6 +109646,10 @@
             {
                 "Date": "2024-10-15T21:09:21.871069",
                 "Price": 2950.0
+            },
+            {
+                "Date": "2024-10-15T23:26:09.741069",
+                "Price": "sold"
             }
         ]
     },
@@ -109721,6 +109725,36 @@
             {
                 "Date": "2024-10-15T21:09:21.975218",
                 "Price": 10750.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Submariner 5513 Serif Dial With Service Card",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "2720XXX",
+        "Inventory": "/watches/etr9",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-15T23:22:28.451592",
+                "Price": 12650.0
+            }
+        ]
+    },
+    {
+        "Title": "1969 Rolex Datejust 1603 Silver Dial",
+        "Year": 1969,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1603",
+        "Serial": "2335XXX",
+        "Inventory": "/watches/fpjp",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-15T23:22:28.638196",
+                "Price": 3950.0
             }
         ]
     }
