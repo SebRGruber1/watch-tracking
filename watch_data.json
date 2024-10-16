@@ -109582,6 +109582,10 @@
             {
                 "Date": "2024-10-14T21:09:25.043576",
                 "Price": 4250.0
+            },
+            {
+                "Date": "2024-10-16T14:23:28.903759",
+                "Price": "sold"
             }
         ]
     },
@@ -109710,6 +109714,10 @@
             {
                 "Date": "2024-10-15T21:09:21.978580",
                 "Price": 4950.0
+            },
+            {
+                "Date": "2024-10-16T14:23:28.903759",
+                "Price": "sold"
             }
         ]
     },
@@ -109755,6 +109763,21 @@
             {
                 "Date": "2024-10-15T23:22:28.638196",
                 "Price": 3950.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex 18K Rg Daytona 116515Ln Chocolate Dial With Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116515",
+        "Serial": "7831VXXX",
+        "Inventory": "/watches/xpma",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-16T14:19:49.221765",
+                "Price": 33650.0
             }
         ]
     }
