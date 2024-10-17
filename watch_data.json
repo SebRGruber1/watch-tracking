@@ -103664,6 +103664,10 @@
             {
                 "Date": "2024-10-10T21:13:37.237241",
                 "Price": 17950.0
+            },
+            {
+                "Date": "2024-10-17T17:20:29.314927",
+                "Price": "sold"
             }
         ]
     },
@@ -109890,6 +109894,10 @@
             {
                 "Date": "2024-10-16T21:08:29.726044",
                 "Price": 3850.0
+            },
+            {
+                "Date": "2024-10-17T17:20:29.314927",
+                "Price": "sold"
             }
         ]
     },
@@ -109965,6 +109973,66 @@
             {
                 "Date": "2024-10-16T21:08:29.654974",
                 "Price": 16350.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex Gmt-Master Ii 126710Blnr With Box And Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126710",
+        "Serial": "75YP1XXX",
+        "Inventory": "/watches/iveq",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-17T17:14:12.211287",
+                "Price": 14950.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Two-Tone Datejust 16233 Blue Vignette Diamond Dial With Box And Papers",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16233",
+        "Serial": "X388XXX",
+        "Inventory": "/watches/kj9p",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-17T17:14:12.250855",
+                "Price": 8850.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex 18K Yg Day-Date 18038 Black Diamond String Dial With Papers",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "R283XXX",
+        "Inventory": "/watches/c6oe",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-17T17:14:12.245864",
+                "Price": 13850.0
+            }
+        ]
+    },
+    {
+        "Title": "1987 Rolex 18K Yg Day-Date 18038 Tropical Jubilee Dial",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "9588XXX",
+        "Inventory": "/watches/ihey",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-17T17:14:12.383215",
+                "Price": 16950.0
             }
         ]
     }
