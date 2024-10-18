@@ -109645,6 +109645,10 @@
             {
                 "Date": "2024-10-17T14:22:30.986846",
                 "Price": 8350.0
+            },
+            {
+                "Date": "2024-10-17T21:12:27.933318",
+                "Price": "sold"
             }
         ]
     },
@@ -109785,6 +109789,10 @@
             {
                 "Date": "2024-10-15T21:09:21.975218",
                 "Price": 10750.0
+            },
+            {
+                "Date": "2024-10-17T21:12:27.933318",
+                "Price": "sold"
             }
         ]
     },
@@ -109943,6 +109951,10 @@
             {
                 "Date": "2024-10-16T21:08:29.674448",
                 "Price": 15350.0
+            },
+            {
+                "Date": "2024-10-17T21:12:27.933318",
+                "Price": "sold"
             }
         ]
     },
@@ -110033,6 +110045,126 @@
             {
                 "Date": "2024-10-17T17:14:12.383215",
                 "Price": 16950.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "P469XXX",
+        "Inventory": "/watches/ku9s",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-17T21:08:46.015419",
+                "Price": 12650.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Explorer 14270 Swiss Only Dial With Box And Pamphlets",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "A472XXX",
+        "Inventory": "/watches/zho1",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-17T21:08:46.201050",
+                "Price": 5950.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Submariner Meters First 5512 Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5512",
+        "Serial": "2503XXX",
+        "Inventory": "/watches/ocbg",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-17T21:08:46.279471",
+                "Price": 18950.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex 18K Yg Mk 1 Yacht-Master 16628 White Service Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Yacht-master",
+        "Reference": "16628",
+        "Serial": "W944XXX",
+        "Inventory": "/watches/gu2c",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-17T21:08:46.303626",
+                "Price": 19650.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Datejust 16234 Tropical Silver Dial With Service Papers",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16234",
+        "Serial": "X941XXX",
+        "Inventory": "/watches/9oxe",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-17T21:08:46.158785",
+                "Price": 6850.0
+            }
+        ]
+    },
+    {
+        "Title": "1979 Rolex 18K Yg Day-Date 18038 Champagne Dial",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "6042XXX",
+        "Inventory": "/watches/4rxi",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-17T21:08:46.368545",
+                "Price": 15850.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Explorer 14270 Blackout 3-6-9 Dial With Box And Pamphlets",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "X750XXX",
+        "Inventory": "/watches/nake",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-17T21:08:46.366256",
+                "Price": 15650.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Omega Speedmaster 3570.50.00 With Box And Papers",
+        "Year": 2005,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "3570.50.00",
+        "Serial": "77088XXX",
+        "Inventory": "/watches/vqy0",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-17T21:08:46.184448",
+                "Price": 4350.0
             }
         ]
     }
