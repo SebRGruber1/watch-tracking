@@ -107163,6 +107163,10 @@
             {
                 "Date": "2024-10-05T11:19:49.685709",
                 "Price": 34850.0
+            },
+            {
+                "Date": "2024-10-21T17:19:12.534086",
+                "Price": 33850.0
             }
         ]
     },
@@ -110302,6 +110306,55 @@
             {
                 "Date": "2024-10-21T14:19:55.115978",
                 "Price": 33850.0
+            },
+            {
+                "Date": "2024-10-21T17:19:12.534086",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Explorer 114270 With Box And Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "K213XXX",
+        "Inventory": "/watches/7mjq",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-21T17:13:41.533063",
+                "Price": 6350.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex Titanium Yacht-Master 226627 Matte Black Dial With Box And Papers",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Yacht-master",
+        "Reference": "226627",
+        "Serial": "9S175XXX",
+        "Inventory": "/watches/xr7b",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-21T17:13:41.882035",
+                "Price": 26350.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Submariner 16800 Matte Dial With Rsc",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16800",
+        "Serial": "8151XXX",
+        "Inventory": "/watches/j4m9",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-21T17:13:41.596413",
+                "Price": 10650.0
             }
         ]
     }
