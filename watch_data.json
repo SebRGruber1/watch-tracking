@@ -108484,6 +108484,10 @@
             {
                 "Date": "2024-09-18T21:06:11.612317",
                 "Price": 79850.0
+            },
+            {
+                "Date": "2024-10-21T14:23:31.627158",
+                "Price": "sold"
             }
         ]
     },
@@ -110072,6 +110076,10 @@
             {
                 "Date": "2024-10-17T17:14:12.211287",
                 "Price": 14950.0
+            },
+            {
+                "Date": "2024-10-21T14:23:31.627158",
+                "Price": "sold"
             }
         ]
     },
@@ -110264,6 +110272,36 @@
             {
                 "Date": "2024-10-18T21:11:36.877788",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex 18K Yg Day-Date 18048 Gold Diamond Dial With Diamond Bezel",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18048",
+        "Serial": "8353XXX",
+        "Inventory": "/watches/an3a",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-21T14:19:54.863114",
+                "Price": 26350.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex 18K Wg Daytona 116519 Meteorite Dial",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116519",
+        "Serial": "D288XXX",
+        "Inventory": "/watches/p0vq",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-21T14:19:55.115978",
+                "Price": 33850.0
             }
         ]
     }
