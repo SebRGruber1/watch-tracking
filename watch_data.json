@@ -2067,6 +2067,10 @@
             {
                 "Date": "2024-01-08T22:33:18.012889",
                 "Price": 11550.0
+            },
+            {
+                "Date": "2024-10-22T17:17:12.988888",
+                "Price": "sold"
             }
         ]
     },
@@ -104739,6 +104743,10 @@
             {
                 "Date": "2024-08-21T14:21:55.230106",
                 "Price": 23850.0
+            },
+            {
+                "Date": "2024-10-22T17:17:12.988888",
+                "Price": 22950.0
             }
         ]
     },
@@ -110179,6 +110187,10 @@
             {
                 "Date": "2024-10-17T21:08:46.201050",
                 "Price": 5950.0
+            },
+            {
+                "Date": "2024-10-22T17:17:12.988888",
+                "Price": "sold"
             }
         ]
     },
@@ -110258,6 +110270,10 @@
             {
                 "Date": "2024-10-17T21:08:46.366256",
                 "Price": 15650.0
+            },
+            {
+                "Date": "2024-10-22T17:17:12.988888",
+                "Price": 15350.0
             }
         ]
     },
@@ -110484,6 +110500,40 @@
             {
                 "Date": "2024-10-22T14:19:49.281614",
                 "Price": 19350.0
+            },
+            {
+                "Date": "2024-10-22T17:17:12.988888",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex Daytona 126500Ln Black Dial With Box And Papers",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "126500",
+        "Serial": "612G2XXX",
+        "Inventory": "/watches/w98t",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-22T17:13:30.754385",
+                "Price": 27850.0
+            }
+        ]
+    },
+    {
+        "Title": "2007 Rolex Two-Tone Submariner 16613 Blue Dial With Papers & Hang Tag",
+        "Year": 2007,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16613",
+        "Serial": "M937XXX",
+        "Inventory": "/watches/j2be",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-22T17:13:30.952420",
+                "Price": 11350.0
             }
         ]
     }
