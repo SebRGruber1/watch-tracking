@@ -107863,6 +107863,10 @@
             {
                 "Date": "2024-09-11T21:05:29.680757",
                 "Price": 11850.0
+            },
+            {
+                "Date": "2024-10-21T21:13:17.197872",
+                "Price": "sold"
             }
         ]
     },
@@ -109368,6 +109372,10 @@
             {
                 "Date": "2024-10-08T17:14:55.535829",
                 "Price": 4150.0
+            },
+            {
+                "Date": "2024-10-21T21:13:17.197872",
+                "Price": "sold"
             }
         ]
     },
@@ -110012,6 +110020,10 @@
             {
                 "Date": "2024-10-16T21:08:29.801957",
                 "Price": 10850.0
+            },
+            {
+                "Date": "2024-10-21T21:13:17.197872",
+                "Price": "sold"
             }
         ]
     },
@@ -110325,6 +110337,10 @@
             {
                 "Date": "2024-10-21T17:13:41.533063",
                 "Price": 6350.0
+            },
+            {
+                "Date": "2024-10-21T21:13:17.197872",
+                "Price": "sold"
             }
         ]
     },
@@ -110355,6 +110371,96 @@
             {
                 "Date": "2024-10-21T17:13:41.596413",
                 "Price": 10650.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Zenith Daytona 16520 White Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "N236XXX",
+        "Inventory": "/watches/ywrr",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-21T21:09:35.241291",
+                "Price": 20750.0
+            }
+        ]
+    },
+    {
+        "Title": "1971 Rolex 18K Yg Day-Date 1803 Wide Boy Champagne Dial",
+        "Year": 1971,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "2797XXX",
+        "Inventory": "/watches/p4fg",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-21T21:09:35.333337",
+                "Price": 14650.0
+            }
+        ]
+    },
+    {
+        "Title": "1990 Tudor Big Block Chronograph 79160 Matte Black Dial With Papers",
+        "Year": 1990,
+        "Brand": "Tudor",
+        "Model": "Big black chronograph",
+        "Reference": "79160",
+        "Serial": "B340XXX",
+        "Inventory": "/watches/lkc3",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-21T21:09:35.553375",
+                "Price": 5650.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Tudor Submariner 76100 Matte Black Dial",
+        "Year": 1984,
+        "Brand": "Tudor",
+        "Model": "Submariner",
+        "Reference": "76100",
+        "Serial": "70XXX",
+        "Inventory": "/watches/gyk8",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-21T21:09:35.337812",
+                "Price": 6750.0
+            }
+        ]
+    },
+    {
+        "Title": "1975 Rolex Red Submariner 1680 Mk 4 Dial With Box And Papers",
+        "Year": 1975,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "3934XXX",
+        "Inventory": "/watches/bnsh",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-21T21:09:35.377810",
+                "Price": 23850.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Gmt-Master Ii 126710Blro With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126710",
+        "Serial": "85M05XXX",
+        "Inventory": "/watches/4lhn",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-21T21:09:35.473645",
+                "Price": 18750.0
             }
         ]
     }
