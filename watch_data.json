@@ -104827,6 +104827,10 @@
             {
                 "Date": "2024-10-18T21:11:36.877788",
                 "Price": 39850.0
+            },
+            {
+                "Date": "2024-10-22T14:25:11.893163",
+                "Price": "sold"
             }
         ]
     },
@@ -110461,6 +110465,25 @@
             {
                 "Date": "2024-10-21T21:09:35.473645",
                 "Price": 18750.0
+            },
+            {
+                "Date": "2024-10-22T14:25:11.893163",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1982 Audemars Piguet Royal Oak 4100St Black Dial With Extract Papers",
+        "Year": 1982,
+        "Brand": "Audemars piguet",
+        "Model": "Royal oak",
+        "Reference": "4100",
+        "Serial": "No 2XXX",
+        "Inventory": "/watches/ec3s",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-22T14:19:49.281614",
+                "Price": 19350.0
             }
         ]
     }
