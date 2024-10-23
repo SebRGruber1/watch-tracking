@@ -110642,5 +110642,50 @@
                 "Price": 9850.0
             }
         ]
+    },
+    {
+        "Title": "1995 Rolex Zenith Daytona 16520 White Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "W941XXX",
+        "Inventory": "/watches/esw5",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-23T14:19:38.827753",
+                "Price": 20650.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Daytona 116500Ln White Dial With Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "01N50XXX",
+        "Inventory": "/watches/bqna",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-23T14:19:38.889121",
+                "Price": 28650.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Two-Tone Daytona 16523 White Dial With Box And Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16523",
+        "Serial": "A787XXX",
+        "Inventory": "/watches/nkvj",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-23T14:19:38.960987",
+                "Price": 14850.0
+            }
+        ]
     }
 ]
