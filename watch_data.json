@@ -106963,6 +106963,10 @@
             {
                 "Date": "2024-09-25T14:23:21.532314",
                 "Price": 11350.0
+            },
+            {
+                "Date": "2024-10-23T17:20:06.621460",
+                "Price": "sold"
             }
         ]
     },
@@ -110685,6 +110689,51 @@
             {
                 "Date": "2024-10-23T14:19:38.960987",
                 "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "1974 Rolex Submariner 1680 Mk 1 Dial",
+        "Year": 1974,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "3854XXX",
+        "Inventory": "/watches/qdt5",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-23T17:13:56.530378",
+                "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Gmt-Master 16700 Tritium Dial With Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "U295XXX",
+        "Inventory": "/watches/msxj",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-23T17:13:56.640248",
+                "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "Bell & Ross Vintage Br123 Beige Dial",
+        "Year": null,
+        "Brand": "Bell & ross",
+        "Model": "Vintage",
+        "Reference": "BR123",
+        "Serial": "123S06XXX",
+        "Inventory": "/watches/wkhj",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-23T17:13:56.621511",
+                "Price": 850.0
             }
         ]
     }
