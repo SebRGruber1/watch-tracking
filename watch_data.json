@@ -102285,6 +102285,10 @@
             {
                 "Date": "2024-08-29T14:23:39.035820",
                 "Price": 17850.0
+            },
+            {
+                "Date": "2024-10-22T21:12:04.148159",
+                "Price": 16850.0
             }
         ]
     },
@@ -105149,6 +105153,10 @@
             {
                 "Date": "2024-10-18T21:11:36.877788",
                 "Price": 32850.0
+            },
+            {
+                "Date": "2024-10-22T21:12:04.148159",
+                "Price": 33850.0
             }
         ]
     },
@@ -110255,6 +110263,10 @@
             {
                 "Date": "2024-10-17T21:08:46.368545",
                 "Price": 15850.0
+            },
+            {
+                "Date": "2024-10-22T21:12:04.148159",
+                "Price": 14850.0
             }
         ]
     },
@@ -110421,6 +110433,10 @@
             {
                 "Date": "2024-10-21T21:09:35.333337",
                 "Price": 14650.0
+            },
+            {
+                "Date": "2024-10-22T21:12:04.148159",
+                "Price": "sold"
             }
         ]
     },
@@ -110534,6 +110550,96 @@
             {
                 "Date": "2024-10-22T17:13:30.952420",
                 "Price": 11350.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Zenith Daytona 16520 Black Dial With Rsc",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "A569XXX",
+        "Inventory": "/watches/infc",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-22T21:08:18.843419",
+                "Price": 19850.0
+            }
+        ]
+    },
+    {
+        "Title": "1986 Rolex Submariner 16800 Wgs Tropical Dial",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16800",
+        "Serial": "8910XXX",
+        "Inventory": "/watches/yie7",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-22T21:08:18.852465",
+                "Price": 8950.0
+            }
+        ]
+    },
+    {
+        "Title": "1966 Rolex Submariner 5513 Meters First",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "1420XXX",
+        "Inventory": "/watches/dvi1",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-22T21:08:19.060842",
+                "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "1983 Rolex Daytona 6265 Silver \"Big Red\" Dial",
+        "Year": 1983,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "6265",
+        "Serial": "7426XXX",
+        "Inventory": "/watches/2hwp",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-22T21:08:18.970213",
+                "Price": 69850.0
+            }
+        ]
+    },
+    {
+        "Title": "2020 Girard-Perregaux Chronograph 81020 Blue Dial With Box And Papers",
+        "Year": 2020,
+        "Brand": "Girard-perregaux",
+        "Model": "Chronograph",
+        "Reference": "81020",
+        "Serial": "No XXX",
+        "Inventory": "/watches/qbem",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-22T21:08:18.963718",
+                "Price": 13850.0
+            }
+        ]
+    },
+    {
+        "Title": "2016 Breguet Type Xxii Flyback Chronograph 3880Sth2Sxo Matte Black Dial With Box And Papers",
+        "Year": 2016,
+        "Brand": "Breguet",
+        "Model": "Flyback chronograph",
+        "Reference": "3880STH2SXO",
+        "Serial": "97XXX",
+        "Inventory": "/watches/1hvj",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-22T21:08:18.972605",
+                "Price": 9850.0
             }
         ]
     }
