@@ -110738,6 +110738,85 @@
             {
                 "Date": "2024-10-23T17:13:56.621511",
                 "Price": 850.0
+            },
+            {
+                "Date": "2024-10-23T23:23:50.610967",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex 18K Wg Daytona 116509 Blue Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116509",
+        "Serial": "9S70XXXX",
+        "Inventory": "/watches/xdzi",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-23T23:20:06.151086",
+                "Price": 41650.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex Oysterquartz Datejust 17000 White Roman Numeral Dial",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Oysterquartz datejust",
+        "Reference": "17000",
+        "Serial": "R325XXX",
+        "Inventory": "/watches/rgac",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-23T23:20:06.205895",
+                "Price": 7350.0
+            }
+        ]
+    },
+    {
+        "Title": "2008 18K Wg Rolex Daytona 116519 Meteorite Dial With Box And Papers",
+        "Year": 2008,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116519",
+        "Serial": "M296XXX",
+        "Inventory": "/watches/l8nr",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-23T23:20:06.464529",
+                "Price": 53850.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex Daytona 116500Ln Black Dial With Box And Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "4E282XXX",
+        "Inventory": "/watches/buhl",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-23T23:20:06.240894",
+                "Price": 24850.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex 18K Yg Zenith Daytona 16528 White Inverted \"6\" Arabic Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16528",
+        "Serial": "N129XXX",
+        "Inventory": "/watches/0arf",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-23T23:20:06.221044",
+                "Price": 35850.0
             }
         ]
     }
