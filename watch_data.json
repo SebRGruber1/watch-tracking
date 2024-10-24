@@ -110831,5 +110831,65 @@
                 "Price": 35850.0
             }
         ]
+    },
+    {
+        "Title": "1982 Rolex Gmt-Master 16750",
+        "Year": 1982,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16750",
+        "Serial": "7363XXX",
+        "Inventory": "/watches/apzz",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-24T14:19:50.056489",
+                "Price": 15950.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex 18K Yg Day-Date 18038 Blue Dial With Papers From Paris",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "R414XXX",
+        "Inventory": "/watches/hhvo",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-24T14:19:50.328788",
+                "Price": 20650.0
+            }
+        ]
+    },
+    {
+        "Title": "1981 Rolex Submariner 5513 Mark Iii Lollipop Dial",
+        "Year": 1981,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "6744XXX",
+        "Inventory": "/watches/elqj",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-24T14:19:50.308612",
+                "Price": 15750.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Explorer Ii 16570 White Swiss Only Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "A461XXX",
+        "Inventory": "/watches/tazd",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-24T14:19:50.211298",
+                "Price": 7750.0
+            }
+        ]
     }
 ]
