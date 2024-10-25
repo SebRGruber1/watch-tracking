@@ -100399,6 +100399,10 @@
             {
                 "Date": "2024-10-23T21:12:22.743759",
                 "Price": 26550.0
+            },
+            {
+                "Date": "2024-10-24T21:14:57.220095",
+                "Price": "sold"
             }
         ]
     },
@@ -100696,6 +100700,10 @@
             {
                 "Date": "2024-10-18T21:11:36.877788",
                 "Price": 33650.0
+            },
+            {
+                "Date": "2024-10-24T21:14:57.220095",
+                "Price": "sold"
             }
         ]
     },
@@ -105161,6 +105169,10 @@
             {
                 "Date": "2024-10-22T21:12:04.148159",
                 "Price": 33850.0
+            },
+            {
+                "Date": "2024-10-24T21:14:57.220095",
+                "Price": "sold"
             }
         ]
     },
@@ -109682,6 +109694,10 @@
             {
                 "Date": "2024-10-16T21:12:08.516619",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-10-24T21:14:57.220095",
+                "Price": 8950.0
             }
         ]
     },
@@ -110545,6 +110561,10 @@
             {
                 "Date": "2024-10-24T17:18:22.772982",
                 "Price": 18750.0
+            },
+            {
+                "Date": "2024-10-24T21:14:57.220095",
+                "Price": "sold"
             }
         ]
     },
@@ -110699,6 +110719,10 @@
             {
                 "Date": "2024-10-23T14:19:38.827753",
                 "Price": 20650.0
+            },
+            {
+                "Date": "2024-10-24T21:14:57.220095",
+                "Price": "sold"
             }
         ]
     },
@@ -110932,6 +110956,51 @@
             {
                 "Date": "2024-10-24T17:14:16.760983",
                 "Price": 27850.0
+            }
+        ]
+    },
+    {
+        "Title": "1987 Rolex Explorer Ii 16550 Cream Rail Dial With Box And Service Papers",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16550",
+        "Serial": "9544XXX",
+        "Inventory": "/watches/yehq",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-24T21:09:23.919681",
+                "Price": 28950.0
+            }
+        ]
+    },
+    {
+        "Title": "2018 Grand Seiko Hi-Beat Sbgh267 Spiral Fractal Dial With Box And Papers",
+        "Year": 2018,
+        "Brand": "Seiko",
+        "Model": "Whirlpool",
+        "Reference": "SBGH267",
+        "Serial": "882/1XXX",
+        "Inventory": "/watches/dzii",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-24T21:09:23.646034",
+                "Price": 8850.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Grand Seiko Spring Drive Sbga419 Purple Dial With Box And Papers",
+        "Year": 2019,
+        "Brand": "Seiko",
+        "Model": "Spring drive",
+        "Reference": "SBGA419",
+        "Serial": "980XXX",
+        "Inventory": "/watches/1pvd",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-24T21:09:23.929020",
+                "Price": 4850.0
             }
         ]
     }
