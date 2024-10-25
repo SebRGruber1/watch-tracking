@@ -109698,6 +109698,10 @@
             {
                 "Date": "2024-10-24T21:14:57.220095",
                 "Price": 8950.0
+            },
+            {
+                "Date": "2024-10-24T23:25:55.915697",
+                "Price": "sold"
             }
         ]
     },
@@ -110768,6 +110772,10 @@
             {
                 "Date": "2024-10-23T17:13:56.530378",
                 "Price": 14850.0
+            },
+            {
+                "Date": "2024-10-24T23:25:55.915697",
+                "Price": "sold"
             }
         ]
     },
@@ -111001,6 +111009,51 @@
             {
                 "Date": "2024-10-24T21:09:23.929020",
                 "Price": 4850.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex 18K Yg Day-Date 18238A",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "W428XXX",
+        "Inventory": "/watches/ydme",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-24T23:22:02.979046",
+                "Price": 18550.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Iwc Pilot'S Watch Top Gun Ceratanium Iw388106 Matte Black Dial With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Pilot's watch",
+        "Reference": "IW388106",
+        "Serial": "6450XXX",
+        "Inventory": "/watches/r27w",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-24T23:22:03.097848",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "1987 Rolex 18K Yg Day-Date 18038 Gold Roman Numeral Dial",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "9446XXX",
+        "Inventory": "/watches/lqmm",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-24T23:22:03.165989",
+                "Price": 17350.0
             }
         ]
     }
