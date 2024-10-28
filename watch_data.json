@@ -111112,5 +111112,35 @@
                 "Price": 17350.0
             }
         ]
+    },
+    {
+        "Title": "2021 Rolex 18K Yg Daytona 116518Ln Gold Dial With Box And Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116518",
+        "Serial": "49834XXX",
+        "Inventory": "/watches/3gjy",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-28T14:20:12.973054",
+                "Price": 36550.0
+            }
+        ]
+    },
+    {
+        "Title": "1966 Rolex Gmt-Master 1675 Gilt Dial",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "1219XXX",
+        "Inventory": "/watches/vk6b",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-28T14:20:13.195685",
+                "Price": 26550.0
+            }
+        ]
     }
 ]
