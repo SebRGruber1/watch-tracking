@@ -88600,6 +88600,10 @@
             {
                 "Date": "2024-09-15T14:22:29.487893",
                 "Price": 14550.0
+            },
+            {
+                "Date": "2024-10-28T21:16:38.700490",
+                "Price": "sold"
             }
         ]
     },
@@ -111145,6 +111149,10 @@
             {
                 "Date": "2024-10-28T14:20:12.973054",
                 "Price": 36550.0
+            },
+            {
+                "Date": "2024-10-28T21:16:38.700490",
+                "Price": "sold"
             }
         ]
     },
@@ -111160,6 +111168,81 @@
             {
                 "Date": "2024-10-28T14:20:13.195685",
                 "Price": 26550.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Submariner 126610Lv With Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "126610",
+        "Serial": "3L6C9XXX",
+        "Inventory": "/watches/njt0",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-28T21:10:31.465267",
+                "Price": 14650.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Daytona 116500Ln White Dial With Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "T26C4XXX",
+        "Inventory": "/watches/joo0",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-28T21:10:31.501209",
+                "Price": 28350.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex 18K Yg Gmt-Master Ii 126718Grnr With Papers",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126718",
+        "Serial": "1200EXXX",
+        "Inventory": "/watches/hgot",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-28T21:10:31.552769",
+                "Price": 40850.0
+            }
+        ]
+    },
+    {
+        "Title": "1971 Rolex 18K Yg Day-Date 1803 Matte Black Dial",
+        "Year": 1971,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "2798XXX",
+        "Inventory": "/watches/dfif",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-28T21:10:31.521414",
+                "Price": 16350.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex 18K Yg Submariner 116618Ln With Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "116618",
+        "Serial": "2W592XXX",
+        "Inventory": "/watches/5cby",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-28T21:10:31.595271",
+                "Price": 29850.0
             }
         ]
     }
