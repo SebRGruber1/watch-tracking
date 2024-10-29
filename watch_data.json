@@ -109446,6 +109446,10 @@
             {
                 "Date": "2024-10-08T17:14:55.295522",
                 "Price": 33550.0
+            },
+            {
+                "Date": "2024-10-29T02:25:00.510606",
+                "Price": 31550.0
             }
         ]
     },
@@ -111168,6 +111172,10 @@
             {
                 "Date": "2024-10-28T14:20:13.195685",
                 "Price": 26550.0
+            },
+            {
+                "Date": "2024-10-29T02:25:00.510606",
+                "Price": "sold"
             }
         ]
     },
@@ -111243,6 +111251,21 @@
             {
                 "Date": "2024-10-28T21:10:31.595271",
                 "Price": 29850.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Two-Tone Submariner 126613Lb Blue Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "126613",
+        "Serial": "517F5XXX",
+        "Inventory": "/watches/wvou",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-29T02:21:18.469743",
+                "Price": 16550.0
             }
         ]
     }
