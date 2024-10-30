@@ -110610,6 +110610,10 @@
             {
                 "Date": "2024-10-21T21:09:35.377810",
                 "Price": 23850.0
+            },
+            {
+                "Date": "2024-10-29T21:13:37.692595",
+                "Price": "sold"
             }
         ]
     },
@@ -110867,6 +110871,10 @@
             {
                 "Date": "2024-10-23T17:13:56.640248",
                 "Price": 12850.0
+            },
+            {
+                "Date": "2024-10-29T21:13:37.692595",
+                "Price": "sold"
             }
         ]
     },
@@ -111278,6 +111286,156 @@
             {
                 "Date": "2024-10-29T02:21:18.469743",
                 "Price": 16550.0
+            }
+        ]
+    },
+    {
+        "Title": "1990 Rolex Two-Tone Datejust 16233 Champagne Dial With Papers",
+        "Year": 1990,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16233",
+        "Serial": "E213XXX",
+        "Inventory": "/watches/tb5m",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-29T21:09:35.822171",
+                "Price": 6950.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Datejust 16234 Grey Arabic Computer Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16234",
+        "Serial": "W459XXX",
+        "Inventory": "/watches/4boc",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-29T21:09:35.892512",
+                "Price": 6350.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex Datejust 126200 Wimbledon Dial With Papers",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "126200",
+        "Serial": "N/A",
+        "Inventory": "/watches/ozka",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-29T21:09:36.050216",
+                "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Air-King 14000 White Roman Numeral Dial With Rolex Service Card",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "14000",
+        "Serial": "W158XXX",
+        "Inventory": "/watches/oxjg",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-29T21:09:35.914883",
+                "Price": 3950.0
+            }
+        ]
+    },
+    {
+        "Title": "1966 Tudor Submariner 7928",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "7928",
+        "Serial": "506XXX",
+        "Inventory": "/watches/ry6g",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-29T21:09:35.945272",
+                "Price": 7350.0
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex 18K Yg Day-Date 18238A Champagne Diamond Dial",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "S812XXX",
+        "Inventory": "/watches/fyg4",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-29T21:09:36.047859",
+                "Price": 16850.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Ladies Two-Tone Datejust 76193 Champagne Dial",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "76193",
+        "Serial": "P737XXX",
+        "Inventory": "/watches/huil",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-29T21:09:35.987746",
+                "Price": 3850.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Datejust 16234 Silver Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16234",
+        "Serial": "X355XXX",
+        "Inventory": "/watches/mv7g",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-29T21:09:36.074845",
+                "Price": 5550.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Date 15210 Blue Arabic Dial With Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "15210",
+        "Serial": "A439XXX",
+        "Inventory": "/watches/1whv",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-29T21:09:35.979526",
+                "Price": 4750.0
+            }
+        ]
+    },
+    {
+        "Title": "2007 Rolex Two-Tone Submariner 16613 Blue Dial With Box, Papers & Rsc",
+        "Year": 2007,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16613",
+        "Serial": "M140XXX",
+        "Inventory": "/watches/0i5r",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-29T21:09:36.022400",
+                "Price": 9750.0
             }
         ]
     }
