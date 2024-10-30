@@ -102707,6 +102707,10 @@
             {
                 "Date": "2024-09-23T02:27:06.958164",
                 "Price": 34850.0
+            },
+            {
+                "Date": "2024-10-30T14:24:08.472147",
+                "Price": 32850.0
             }
         ]
     },
@@ -107224,6 +107228,10 @@
             {
                 "Date": "2024-10-27T17:18:06.493831",
                 "Price": 29850.0
+            },
+            {
+                "Date": "2024-10-30T14:24:08.472147",
+                "Price": "sold"
             }
         ]
     },
@@ -111373,6 +111381,10 @@
             {
                 "Date": "2024-10-29T21:09:35.945272",
                 "Price": 7350.0
+            },
+            {
+                "Date": "2024-10-30T14:24:08.472147",
+                "Price": 6850.0
             }
         ]
     },
@@ -111403,6 +111415,10 @@
             {
                 "Date": "2024-10-29T21:09:35.987746",
                 "Price": 3850.0
+            },
+            {
+                "Date": "2024-10-30T14:24:08.472147",
+                "Price": "sold"
             }
         ]
     },
@@ -111448,6 +111464,36 @@
             {
                 "Date": "2024-10-29T21:09:36.022400",
                 "Price": 9750.0
+            }
+        ]
+    },
+    {
+        "Title": "1987 Rolex 18K Yg Day-Date 18038 Champagne Dial With Papers",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "9621XXX",
+        "Inventory": "/watches/nqxp",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-30T14:20:26.422283",
+                "Price": 18850.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Explorer 114270",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "K850XXX",
+        "Inventory": "/watches/pmhu",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-30T14:20:31.398944",
+                "Price": "sold"
             }
         ]
     }
