@@ -105212,6 +105212,10 @@
             {
                 "Date": "2024-10-03T14:23:44.481734",
                 "Price": 32850.0
+            },
+            {
+                "Date": "2024-10-30T21:14:14.117416",
+                "Price": 29850.0
             }
         ]
     },
@@ -107000,6 +107004,10 @@
             {
                 "Date": "2024-09-23T14:22:59.169333",
                 "Price": 2550.0
+            },
+            {
+                "Date": "2024-10-30T21:14:14.117416",
+                "Price": 2250.0
             }
         ]
     },
@@ -110778,6 +110786,10 @@
             {
                 "Date": "2024-10-26T14:21:55.393274",
                 "Price": 68550.0
+            },
+            {
+                "Date": "2024-10-30T21:14:14.117416",
+                "Price": 67850.0
             }
         ]
     },
@@ -111125,6 +111137,10 @@
             {
                 "Date": "2024-10-24T21:09:23.929020",
                 "Price": 4850.0
+            },
+            {
+                "Date": "2024-10-30T21:14:14.117416",
+                "Price": 4550.0
             }
         ]
     },
@@ -111498,6 +111514,81 @@
             {
                 "Date": "2024-10-30T14:20:31.398944",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Date 15200 Silver Dial With Papers & Hang Tag",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "15200",
+        "Serial": "P670XXX",
+        "Inventory": "/watches/ktbf",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-30T21:10:10.831646",
+                "Price": 4350.0
+            }
+        ]
+    },
+    {
+        "Title": "1989 Audemar Piguet 18K Wg Royal Oak 14544Bc Lapis Diamond Dial With Archives",
+        "Year": 1989,
+        "Brand": "Audemars piguet",
+        "Model": "Royal oak",
+        "Reference": "14544 BC",
+        "Serial": "NoXXX",
+        "Inventory": "/watches/5fh4",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-30T21:10:10.776860",
+                "Price": 65550.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Ladies Two-Tone Datejust 69173 Champagne Dial With Papers",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "69173",
+        "Serial": "X951XXX",
+        "Inventory": "/watches/d688",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-30T21:10:10.965647",
+                "Price": 4250.0
+            }
+        ]
+    },
+    {
+        "Title": "1985 Rolex Two-Tone Datejust 16013 Champagne Dial",
+        "Year": 1985,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16013",
+        "Serial": "8705XXX",
+        "Inventory": "/watches/atfw",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-30T21:10:11.017007",
+                "Price": 5750.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Explorer Ii 16570 White Swiss Only Dial With Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "U918XXX",
+        "Inventory": "/watches/ae7r",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-30T21:10:10.807465",
+                "Price": 8250.0
             }
         ]
     }
