@@ -111591,5 +111591,80 @@
                 "Price": 8250.0
             }
         ]
+    },
+    {
+        "Title": "1991 Rolex Two-Tone Datejust 16233 With Papers",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16233",
+        "Serial": "X509XXX",
+        "Inventory": "/watches/5s4e",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-30T23:23:06.609200",
+                "Price": 6850.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Two-Tone Datejust 16233G Champagne Diamond Dial",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16233",
+        "Serial": "K363XXX",
+        "Inventory": "/watches/di5d",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-30T23:23:06.682051",
+                "Price": 6750.0
+            }
+        ]
+    },
+    {
+        "Title": "1986 Rolex Gmt-Master Ii 16750 Service Wgs Dial With Papers & Hang Tag",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16750",
+        "Serial": "9359XXX",
+        "Inventory": "/watches/wxg0",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-30T23:23:06.628426",
+                "Price": 10950.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Datejust 16234 Silver Dial With Rolex Service Papers",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16234",
+        "Serial": "W719XXX",
+        "Inventory": "/watches/x5sr",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-30T23:23:06.794608",
+                "Price": 5950.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Datejust 16030 Silver Dial",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16030",
+        "Serial": "8546XXX",
+        "Inventory": "/watches/uhu8",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-30T23:23:06.822422",
+                "Price": 4850.0
+            }
+        ]
     }
 ]
