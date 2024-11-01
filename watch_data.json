@@ -111775,6 +111775,10 @@
             {
                 "Date": "2024-10-31T21:14:33.089775",
                 "Price": 6950.0
+            },
+            {
+                "Date": "2024-11-01T17:17:44.015104",
+                "Price": 6850.0
             }
         ]
     },
@@ -111899,6 +111903,141 @@
             {
                 "Date": "2024-11-01T14:19:41.669411",
                 "Price": 26850.0
+            }
+        ]
+    },
+    {
+        "Title": "1971 Rolex Red Submariner 1680 Mk 4 Dial",
+        "Year": 1971,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "2631XXX",
+        "Inventory": "/watches/ifbn",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-01T17:13:38.093920",
+                "Price": 21850.0
+            }
+        ]
+    },
+    {
+        "Title": "Nos 1973 Rolex Date 1501 Blue Dial",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "1501",
+        "Serial": "3556XXX",
+        "Inventory": "/watches/qyfz",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-01T17:13:38.299711",
+                "Price": 3950.0
+            }
+        ]
+    },
+    {
+        "Title": "1974 Rolex Two-Tone Datejust 16013 Silver Sigma Dial",
+        "Year": 1974,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16013",
+        "Serial": "3859XXX",
+        "Inventory": "/watches/mxkm",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-01T17:13:38.068943",
+                "Price": 4350.0
+            }
+        ]
+    },
+    {
+        "Title": "1971 Rolex Two-Tone Datejust 16013 Champagne Dial",
+        "Year": 1971,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16013",
+        "Serial": "2758XXX",
+        "Inventory": "/watches/lcoo",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-01T17:13:38.146850",
+                "Price": 4650.0
+            }
+        ]
+    },
+    {
+        "Title": "1967 Rolex Datejust 1600 Silver Doorstep Dial",
+        "Year": 1967,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1600",
+        "Serial": "1745XXX",
+        "Inventory": "/watches/8vm4",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-01T17:13:38.174144",
+                "Price": 4250.0
+            }
+        ]
+    },
+    {
+        "Title": "1990 Rolex 18K Yg Day-Date 18238A Champagne Diamond Dial",
+        "Year": 1990,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "E622XXX",
+        "Inventory": "/watches/obto",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-01T17:13:38.275132",
+                "Price": 15850.0
+            }
+        ]
+    },
+    {
+        "Title": "1980'S Audemars Piguet Two-Tone Royal Oak 25594Sa Moonphase",
+        "Year": null,
+        "Brand": "Audemars piguet",
+        "Model": "Royal oak",
+        "Reference": "25594SA",
+        "Serial": "D-33XXX",
+        "Inventory": "/watches/k7ah",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-01T17:13:38.229961",
+                "Price": 22850.0
+            }
+        ]
+    },
+    {
+        "Title": "Nos 2006 Rolex Gmt-Master Ii 16710 With Box And Papers",
+        "Year": 2006,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "Z253XXX",
+        "Inventory": "/watches/bhr2",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-01T17:13:38.200686",
+                "Price": 15850.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Daytona 116520 Cream Dial",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116520",
+        "Serial": "K377XXX",
+        "Inventory": "/watches/j7f9",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-01T17:13:38.219492",
+                "Price": 19850.0
             }
         ]
     }
