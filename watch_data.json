@@ -108536,6 +108536,10 @@
             {
                 "Date": "2024-09-18T17:13:15.020828",
                 "Price": 23850.0
+            },
+            {
+                "Date": "2024-10-31T21:20:16.942009",
+                "Price": 22850.0
             }
         ]
     },
@@ -109630,6 +109634,10 @@
             {
                 "Date": "2024-10-09T21:07:51.036388",
                 "Price": 28750.0
+            },
+            {
+                "Date": "2024-10-31T21:20:16.942009",
+                "Price": 26850.0
             }
         ]
     },
@@ -110885,6 +110893,10 @@
             {
                 "Date": "2024-10-23T14:19:38.960987",
                 "Price": 14850.0
+            },
+            {
+                "Date": "2024-10-31T21:20:16.942009",
+                "Price": "sold"
             }
         ]
     },
@@ -111259,6 +111271,10 @@
             {
                 "Date": "2024-10-28T21:10:31.465267",
                 "Price": 14650.0
+            },
+            {
+                "Date": "2024-10-31T21:20:16.942009",
+                "Price": "sold"
             }
         ]
     },
@@ -111684,6 +111700,171 @@
             {
                 "Date": "2024-10-30T23:23:06.822422",
                 "Price": 4850.0
+            }
+        ]
+    },
+    {
+        "Title": "1973 Rolex 18K Yg Day-Date 1803 Grey Dial",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "3444XXX",
+        "Inventory": "/watches/prir",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-31T21:14:33.097935",
+                "Price": 16850.0
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex Gmt-Master Ii 16710",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "F173XXX",
+        "Inventory": "/watches/pmvp",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-31T21:14:33.046124",
+                "Price": 10950.0
+            }
+        ]
+    },
+    {
+        "Title": "1986 Rolex Two-Tone Datejust 16013G Silver Diamond Dial",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16013",
+        "Serial": "8918XXX",
+        "Inventory": "/watches/op4p",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-31T21:14:32.998716",
+                "Price": 5650.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Date 15210 Blue Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "15210",
+        "Serial": "X776XXX",
+        "Inventory": "/watches/n7um",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-31T21:14:32.888003",
+                "Price": 4250.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Explorer Ii 16570 Black Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "A258XXX",
+        "Inventory": "/watches/hqdu",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-31T21:14:33.089775",
+                "Price": 6950.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex Gmt-Master Ii 16710",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "D632XXX",
+        "Inventory": "/watches/3qkw",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-31T21:14:32.968627",
+                "Price": 11550.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "Y152XXX",
+        "Inventory": "/watches/rljb",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-31T21:14:33.030611",
+                "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "P208XXX",
+        "Inventory": "/watches/ssfq",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-31T21:14:33.056126",
+                "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Date 15210 Blue Arabic Dial",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "15210",
+        "Serial": "Y532XXX",
+        "Inventory": "/watches/um34",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-31T21:14:32.953298",
+                "Price": 4150.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "P456XXX",
+        "Inventory": "/watches/ucms",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-31T21:14:33.161175",
+                "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Patek Philippe 18K Rg Calatrava Pilot Travel Time 5524R-001 With Box And Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Calatrava",
+        "Reference": "5524R-001",
+        "Serial": "7362XXX",
+        "Inventory": "/watches/tqtt",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-31T21:14:33.274641",
+                "Price": 35850.0
             }
         ]
     }
