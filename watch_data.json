@@ -111867,5 +111867,20 @@
                 "Price": 35850.0
             }
         ]
+    },
+    {
+        "Title": "1961 Rolex Pcg Submariner 5512 Meters First Tropical Dial",
+        "Year": 1961,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5512",
+        "Serial": "576XXX",
+        "Inventory": "/watches/tgjy",
+        "PriceHistory": [
+            {
+                "Date": "2024-10-31T23:29:17.373284",
+                "Price": 78550.0
+            }
+        ]
     }
 ]
