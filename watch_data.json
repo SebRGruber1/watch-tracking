@@ -111880,6 +111880,25 @@
             {
                 "Date": "2024-10-31T23:29:17.373284",
                 "Price": 78550.0
+            },
+            {
+                "Date": "2024-11-01T14:25:14.829559",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "Vacheron Constantin Mid-Size Two-Tone \"222\" White Dial With Box",
+        "Year": null,
+        "Brand": "Vacheron constantin",
+        "Model": "Mid-size two-tone",
+        "Reference": "222",
+        "Serial": "571XXX",
+        "Inventory": "/watches/nn08",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-01T14:19:41.669411",
+                "Price": 26850.0
             }
         ]
     }
