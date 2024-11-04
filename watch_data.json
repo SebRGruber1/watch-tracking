@@ -112183,5 +112183,20 @@
                 "Price": 5250.0
             }
         ]
+    },
+    {
+        "Title": "2022 Rolex Explorer 124270 With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "124270",
+        "Serial": "6GF64XXX",
+        "Inventory": "/watches/chqv",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-04T16:13:15.809897",
+                "Price": 7650.0
+            }
+        ]
     }
 ]
