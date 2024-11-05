@@ -85502,6 +85502,10 @@
             {
                 "Date": "2024-08-20T14:23:20.177801",
                 "Price": 19850.0
+            },
+            {
+                "Date": "2024-11-04T20:11:15.234737",
+                "Price": "sold"
             }
         ]
     },
@@ -110302,6 +110306,10 @@
             {
                 "Date": "2024-10-16T21:08:29.780413",
                 "Price": 15850.0
+            },
+            {
+                "Date": "2024-11-04T20:11:15.234737",
+                "Price": 14950.0
             }
         ]
     },
@@ -111891,6 +111899,10 @@
             {
                 "Date": "2024-11-01T17:17:44.015104",
                 "Price": 6850.0
+            },
+            {
+                "Date": "2024-11-04T20:11:15.234737",
+                "Price": "sold"
             }
         ]
     },
@@ -112196,6 +112208,36 @@
             {
                 "Date": "2024-11-04T16:13:15.809897",
                 "Price": 7650.0
+            }
+        ]
+    },
+    {
+        "Title": "1986 Rolex Datejust 16030 Silver Dial",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16030",
+        "Serial": "8926XXX",
+        "Inventory": "/watches/kteo",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-04T20:07:26.964528",
+                "Price": 5650.0
+            }
+        ]
+    },
+    {
+        "Title": "Urwerk 18K Rg Ur-103 103.09 Black Dial With Box And Papers",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Ur-103",
+        "Reference": "UR-103",
+        "Serial": "XXX",
+        "Inventory": "/watches/wwhd",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-04T20:07:26.825464",
+                "Price": 33850.0
             }
         ]
     }
