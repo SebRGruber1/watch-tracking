@@ -109737,6 +109737,10 @@
             {
                 "Date": "2024-11-04T10:21:53.614200",
                 "Price": 18750.0
+            },
+            {
+                "Date": "2024-11-05T20:11:20.866231",
+                "Price": "sold"
             }
         ]
     },
@@ -111973,6 +111977,10 @@
             {
                 "Date": "2024-10-31T21:14:33.030611",
                 "Price": 12850.0
+            },
+            {
+                "Date": "2024-11-05T20:11:20.866231",
+                "Price": "sold"
             }
         ]
     },
@@ -112286,6 +112294,66 @@
             {
                 "Date": "2024-11-04T20:07:26.825464",
                 "Price": 33850.0
+            }
+        ]
+    },
+    {
+        "Title": "1998 Rolex Gmt-Master 16700 With Papers",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "U982XXX",
+        "Inventory": "/watches/yiwz",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-05T20:07:23.415795",
+                "Price": 12350.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Two-Tone Datejust 16233 Champagne Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16233",
+        "Serial": "W867XXX",
+        "Inventory": "/watches/tfbp",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-05T20:07:23.201244",
+                "Price": 6350.0
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex Explorer Ii 16570 Black Dial With Serialized Hang Tag",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "F865XXX",
+        "Inventory": "/watches/l3go",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-05T20:07:23.341569",
+                "Price": 6950.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "Y320XXX",
+        "Inventory": "/watches/hr3h",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-05T20:07:23.374647",
+                "Price": 12550.0
             }
         ]
     }
