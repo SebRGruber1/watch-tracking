@@ -100909,6 +100909,10 @@
             {
                 "Date": "2024-10-17T14:22:30.986846",
                 "Price": 23850.0
+            },
+            {
+                "Date": "2024-11-05T22:21:52.387173",
+                "Price": "sold"
             }
         ]
     },
@@ -112354,6 +112358,51 @@
             {
                 "Date": "2024-11-05T20:07:23.374647",
                 "Price": 12550.0
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Explorer 1016 With Service Papers",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "1016",
+        "Serial": "8232XXX",
+        "Inventory": "/watches/sreu",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-05T22:17:46.454523",
+                "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "1972 Rolex 18K Yg Day-Date 1803 Silver Dial",
+        "Year": 1972,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "2998XXX",
+        "Inventory": "/watches/lxh0",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-05T22:17:46.737677",
+                "Price": 15350.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Explorer Ii 16570 White Dial",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "T379XXX",
+        "Inventory": "/watches/eiwl",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-05T22:17:46.648185",
+                "Price": 7850.0
             }
         ]
     }
