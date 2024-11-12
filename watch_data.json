@@ -112707,5 +112707,110 @@
                 "Price": "sold"
             }
         ]
+    },
+    {
+        "Title": "1991 Rolex Sea-Dweller 16600",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "16600",
+        "Serial": "X868XXX",
+        "Inventory": "/watches/lrxn",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-12T01:20:05.491395",
+                "Price": 8950.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Two-Tone Daytona 16523 Black Dial With Service Papers",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16523",
+        "Serial": "W630XXX",
+        "Inventory": "/watches/qzee",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-12T01:20:05.484686",
+                "Price": 14950.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Submariner 14060",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "K810XXX",
+        "Inventory": "/watches/xclf",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-12T01:20:05.444285",
+                "Price": 8650.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Submariner 16610 With Papers & Hang Tag",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "Y955XXX",
+        "Inventory": "/watches/htlb",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-12T01:20:05.326860",
+                "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Submariner 14060 With Papers",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "Y660XXX",
+        "Inventory": "/watches/flkj",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-12T01:20:05.425874",
+                "Price": 9650.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Omega Speedmaster 310.30.42.50.04.001 White Dial With Box And Papers",
+        "Year": 2024,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "310.30.42.50.04.001",
+        "Serial": "88446XXX",
+        "Inventory": "/watches/csqy",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-12T01:20:05.529042",
+                "Price": 7550.0
+            }
+        ]
+    },
+    {
+        "Title": "2006 Rolex Green Submariner 16610",
+        "Year": 2006,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "Z175XXX",
+        "Inventory": "/watches/9gt3",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-12T01:20:05.498959",
+                "Price": 11350.0
+            }
+        ]
     }
 ]
