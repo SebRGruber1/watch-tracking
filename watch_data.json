@@ -112994,5 +112994,35 @@
                 "Price": 14550.0
             }
         ]
+    },
+    {
+        "Title": "1998 Rolex Explorer Ii 16570 Black Tritinova Dial",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "U813XXX",
+        "Inventory": "/watches/b67u",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-12T22:19:05.555720",
+                "Price": 7250.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex Milgauss 116400 With Box And Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Milgauss",
+        "Reference": "116400",
+        "Serial": "04R0KXXX",
+        "Inventory": "/watches/bg66",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-12T22:19:05.573543",
+                "Price": 10850.0
+            }
+        ]
     }
 ]
