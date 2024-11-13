@@ -109628,6 +109628,10 @@
             {
                 "Date": "2024-11-11T13:22:47.371004",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-11-12T20:12:08.167912",
+                "Price": 18850.0
             }
         ]
     },
@@ -111062,6 +111066,10 @@
             {
                 "Date": "2024-11-06T13:23:11.282216",
                 "Price": 67650.0
+            },
+            {
+                "Date": "2024-11-12T20:12:08.167912",
+                "Price": "sold"
             }
         ]
     },
@@ -112457,6 +112465,10 @@
             {
                 "Date": "2024-11-04T13:19:20.420476",
                 "Price": 5250.0
+            },
+            {
+                "Date": "2024-11-12T20:12:08.167912",
+                "Price": "sold"
             }
         ]
     },
@@ -112830,6 +112842,156 @@
             {
                 "Date": "2024-11-12T01:20:05.498959",
                 "Price": 11350.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Submariner 14060M With Papers & Serialized Hang Tag",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "P997XXX",
+        "Inventory": "/watches/mlq6",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-12T20:08:23.531421",
+                "Price": 9350.0
+            }
+        ]
+    },
+    {
+        "Title": "1957 Rolex Datejust 6605 Cream Tropical Roulette Dial",
+        "Year": 1957,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "6605",
+        "Serial": "278XXX",
+        "Inventory": "/watches/jcap",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-12T20:08:23.811299",
+                "Price": 6350.0
+            }
+        ]
+    },
+    {
+        "Title": "1969 Rolex 18K Yg Day-Date 1807 Champagne Dial",
+        "Year": 1969,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1807",
+        "Serial": "2041XXX",
+        "Inventory": "/watches/xuim",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-12T20:08:23.786737",
+                "Price": 14350.0
+            }
+        ]
+    },
+    {
+        "Title": "1959 Rolex Oyster Royal 6426 Silver Dial",
+        "Year": 1959,
+        "Brand": "Rolex",
+        "Model": "Oyster royal",
+        "Reference": "6426",
+        "Serial": "501XXX",
+        "Inventory": "/watches/0ylw",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-12T20:08:23.760257",
+                "Price": 2350.0
+            }
+        ]
+    },
+    {
+        "Title": "2005 Patek Philippe Nautilus 3710 Matte Black Dial With Papers",
+        "Year": 2005,
+        "Brand": "Patek philippe",
+        "Model": "Nautilus",
+        "Reference": "3710",
+        "Serial": "3232XXX",
+        "Inventory": "/watches/gwnl",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-12T20:08:23.638360",
+                "Price": 71550.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex 18K Yg Day-Date 1803 Champagne Wide Boy Dial With Box",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "5060XXX",
+        "Inventory": "/watches/ge9t",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-12T20:08:23.763080",
+                "Price": 14350.0
+            }
+        ]
+    },
+    {
+        "Title": "1990 Rolex Submariner 14060",
+        "Year": 1990,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "E715XXX",
+        "Inventory": "/watches/oapw",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-12T20:08:23.827965",
+                "Price": 8250.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Two-Tone Gmt-Master Ii 16713 Tiffany & Co. Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16713",
+        "Serial": "N407XXX",
+        "Inventory": "/watches/shqs",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-12T20:08:23.690395",
+                "Price": 16950.0
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex 18K Wg Day-Date 118239 Cherry Dial",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "118239",
+        "Serial": "F865XXX",
+        "Inventory": "/watches/ddzx",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-12T20:08:23.720839",
+                "Price": 24850.0
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex 18K Yg Day-Date 18238 Silver Dial With Rsc Card & Leather Pouch",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "S720XXX",
+        "Inventory": "/watches/m1qd",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-12T20:08:23.600792",
+                "Price": 14550.0
             }
         ]
     }
