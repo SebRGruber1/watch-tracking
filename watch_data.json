@@ -111511,6 +111511,10 @@
             {
                 "Date": "2024-11-03T20:14:29.509050",
                 "Price": 9650.0
+            },
+            {
+                "Date": "2024-11-13T20:12:29.860249",
+                "Price": 9350.0
             }
         ]
     },
@@ -112228,6 +112232,10 @@
             {
                 "Date": "2024-10-31T21:14:33.056126",
                 "Price": 12850.0
+            },
+            {
+                "Date": "2024-11-13T20:12:29.860249",
+                "Price": "sold"
             }
         ]
     },
@@ -112847,6 +112855,10 @@
             {
                 "Date": "2024-11-12T01:20:05.529042",
                 "Price": 7550.0
+            },
+            {
+                "Date": "2024-11-13T20:12:29.860249",
+                "Price": "sold"
             }
         ]
     },
@@ -112922,6 +112934,10 @@
             {
                 "Date": "2024-11-12T20:08:23.760257",
                 "Price": 2350.0
+            },
+            {
+                "Date": "2024-11-13T20:12:29.860249",
+                "Price": "sold"
             }
         ]
     },
@@ -112967,6 +112983,10 @@
             {
                 "Date": "2024-11-12T20:08:23.827965",
                 "Price": 8250.0
+            },
+            {
+                "Date": "2024-11-13T20:12:29.860249",
+                "Price": "sold"
             }
         ]
     },
@@ -113054,6 +113074,111 @@
             {
                 "Date": "2024-11-12T22:19:05.573543",
                 "Price": 10850.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Datejust 1603 Grey Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1603",
+        "Serial": "5296XXX",
+        "Inventory": "/watches/vgzb",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-13T20:08:25.662331",
+                "Price": 4850.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Date 1501 Blue Mosaic Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "1501",
+        "Serial": "2439XXX",
+        "Inventory": "/watches/mvkc",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-13T20:08:25.628980",
+                "Price": 4150.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Explorer Ii 16570 Black Dial With Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "P502XXX",
+        "Inventory": "/watches/evlx",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-13T20:08:25.631813",
+                "Price": 7650.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Gmt-Master Ii 16710 With Serialized Hang Tag",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "W790XXX",
+        "Inventory": "/watches/czui",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-13T20:08:25.764620",
+                "Price": 10950.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "Y592XXX",
+        "Inventory": "/watches/1pvq",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-13T20:08:25.768126",
+                "Price": 12650.0
+            }
+        ]
+    },
+    {
+        "Title": "1973 Rolex Datejust 1603 Silver Dial",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1603",
+        "Serial": "3350XXX",
+        "Inventory": "/watches/bc0x",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-13T20:08:25.838970",
+                "Price": 3850.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Gmt-Master 1675 Mk 5 Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "5551XXX",
+        "Inventory": "/watches/4gex",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-13T20:08:25.718408",
+                "Price": 15350.0
             }
         ]
     }
