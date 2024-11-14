@@ -113074,6 +113074,10 @@
             {
                 "Date": "2024-11-12T22:19:05.573543",
                 "Price": 10850.0
+            },
+            {
+                "Date": "2024-11-13T22:23:35.853652",
+                "Price": "sold"
             }
         ]
     },
@@ -113179,6 +113183,51 @@
             {
                 "Date": "2024-11-13T20:08:25.718408",
                 "Price": 15350.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex Daytona 126500Ln White Dial Papers & Serialized Hang Tag",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "126500",
+        "Serial": "Y8X93XXX",
+        "Inventory": "/watches/rztm",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-13T22:19:40.098745",
+                "Price": 32550.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex 18K Yg Daytona 116518Lb Black Dial With Box And Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116518",
+        "Serial": "0U5L9XXX",
+        "Inventory": "/watches/afkw",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-13T22:19:40.304459",
+                "Price": 35850.0
+            }
+        ]
+    },
+    {
+        "Title": "2014 Rolex Daytona 116519 Meteorite Dial With Box And Papers",
+        "Year": 2014,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116519",
+        "Serial": "Z397XXX",
+        "Inventory": "/watches/5ixg",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-13T22:19:40.402359",
+                "Price": 43550.0
             }
         ]
     }
