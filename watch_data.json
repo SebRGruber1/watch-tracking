@@ -113262,5 +113262,140 @@
                 "Price": 43550.0
             }
         ]
+    },
+    {
+        "Title": "2022 Rolex Gmt-Master Ii 126710Blro With Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126710",
+        "Serial": "RV834XXX",
+        "Inventory": "/watches/woie",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-14T22:27:28.183086",
+                "Price": 19650.0
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex 18K Yg Day-Date 18078 Black Dial With Rsc And Box",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18078",
+        "Serial": "R279XXX",
+        "Inventory": "/watches/yxhe",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-14T22:27:28.334993",
+                "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex Sky-Dweller 326934 Blue Dial With Box And Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Sky-dweller",
+        "Reference": "326934",
+        "Serial": "94R83XXX",
+        "Inventory": "/watches/s4bm",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-14T22:27:28.278617",
+                "Price": 21350.0
+            }
+        ]
+    },
+    {
+        "Title": "1976 Rolex 18K Yg Day-Date 1803 Matte Black Dial With Rsc",
+        "Year": 1976,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "4211XXX",
+        "Inventory": "/watches/ox7f",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-14T22:27:28.429677",
+                "Price": 16350.0
+            }
+        ]
+    },
+    {
+        "Title": "1973 Rolex Red Submariner 1680 Mk V Dial",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "3270XXX",
+        "Inventory": "/watches/kxvb",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-14T22:27:28.475633",
+                "Price": 19850.0
+            }
+        ]
+    },
+    {
+        "Title": "1985 Rolex Gmt-Master 16760 Fat Lady",
+        "Year": 1985,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16760",
+        "Serial": "8689XXX",
+        "Inventory": "/watches/eimo",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-14T22:27:28.420631",
+                "Price": 12650.0
+            }
+        ]
+    },
+    {
+        "Title": "1966 Rolex 9K Yg Oyster Perpetual 1002 Champagne Dial With Service Papers",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "1002",
+        "Serial": "1339XXX",
+        "Inventory": "/watches/8cr3",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-14T22:27:28.402858",
+                "Price": 4750.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex Oyster Perpetual 126000 Celebration Motif Dial With Box And Papers",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "126000",
+        "Serial": "69FW1XXX",
+        "Inventory": "/watches/ge2p",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-14T22:27:28.287164",
+                "Price": 15950.0
+            }
+        ]
+    },
+    {
+        "Title": "2006 Rolex 18K Wg Diamond Bezel Daytona 116589 Meteorite Dial",
+        "Year": 2006,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116589",
+        "Serial": "D809XXX",
+        "Inventory": "/watches/dafl",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-14T22:27:28.372601",
+                "Price": 49550.0
+            }
+        ]
     }
 ]
