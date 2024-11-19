@@ -105804,6 +105804,10 @@
             {
                 "Date": "2024-10-18T21:11:36.877788",
                 "Price": 25650.0
+            },
+            {
+                "Date": "2024-11-18T20:18:03.589058",
+                "Price": "sold"
             }
         ]
     },
@@ -110381,6 +110385,10 @@
             {
                 "Date": "2024-10-16T21:08:29.635466",
                 "Price": 10850.0
+            },
+            {
+                "Date": "2024-11-18T20:18:03.589058",
+                "Price": "sold"
             }
         ]
     },
@@ -112901,6 +112909,10 @@
             {
                 "Date": "2024-11-12T01:20:05.326860",
                 "Price": 9350.0
+            },
+            {
+                "Date": "2024-11-18T20:18:03.589058",
+                "Price": "sold"
             }
         ]
     },
@@ -113467,6 +113479,156 @@
             {
                 "Date": "2024-11-14T22:27:28.372601",
                 "Price": 49550.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex 18K Wg Daytona 126509 Black Dial With Papers",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "126509",
+        "Serial": "9865YXXX",
+        "Inventory": "/watches/famh",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-18T20:12:35.599925",
+                "Price": 45650.0
+            }
+        ]
+    },
+    {
+        "Title": "2007 Rolex Submariner 16610Lv With Rolex Service Card",
+        "Year": 2007,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "M535XXX",
+        "Inventory": "/watches/gl5l",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-18T20:12:35.573802",
+                "Price": 12650.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Air-King 14000 Blue Dial",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "14000",
+        "Serial": "K338XXX",
+        "Inventory": "/watches/3wsq",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-18T20:12:35.540704",
+                "Price": 4350.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Platinum Diamond Day-Date 18296 Blue Diamond Rope Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18296",
+        "Serial": "W030XXX",
+        "Inventory": "/watches/op2b",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-18T20:12:35.660335",
+                "Price": 33850.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Gmt-Master 1675 Mk 5 Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "5501XXX",
+        "Inventory": "/watches/ocle",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-18T20:12:35.576653",
+                "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Explorer 14270",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "P595XXX",
+        "Inventory": "/watches/isk6",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-18T20:12:35.506289",
+                "Price": 5350.0
+            }
+        ]
+    },
+    {
+        "Title": "1974 Rolex Submariner 1680 Mk 1 Dial",
+        "Year": 1974,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "3762XXX",
+        "Inventory": "/watches/hs5k",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-18T20:12:35.632606",
+                "Price": 14750.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Explorer 114270",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "K127XXX",
+        "Inventory": "/watches/9qrx",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-18T20:12:35.635123",
+                "Price": 5250.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Tudor Heritage Black Bay Harrods 79230G With Box And Papers",
+        "Year": 2022,
+        "Brand": "Tudor",
+        "Model": "Black bay",
+        "Reference": "79230G",
+        "Serial": "643JXXX",
+        "Inventory": "/watches/k7ry",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-18T20:12:35.394655",
+                "Price": 4350.0
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Daytona 116500Ln Black Dial With Box And Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500",
+        "Serial": "T9334XXX",
+        "Inventory": "/watches/zppr",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-18T20:12:35.480635",
+                "Price": 25850.0
             }
         ]
     }
