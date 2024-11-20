@@ -113806,5 +113806,80 @@
                 "Price": "sold"
             }
         ]
+    },
+    {
+        "Title": "1993 Rolex Datejust 16234 Silver Dial",
+        "Year": 1993,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16234",
+        "Serial": "S424XXX",
+        "Inventory": "/watches/z4xy",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-19T22:26:38.709935",
+                "Price": 6450.0
+            }
+        ]
+    },
+    {
+        "Title": "1979 Rolex Submariner 5512 Mark 3 Maxi \"Lollipop\" Dial With Service Papers",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5512",
+        "Serial": "5754XXX",
+        "Inventory": "/watches/vd7p",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-19T22:26:38.972060",
+                "Price": 14950.0
+            }
+        ]
+    },
+    {
+        "Title": "1973 Rolex Datejust 1601 Grey Wide Boy Dial",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1601 / 4",
+        "Serial": "3216XXX",
+        "Inventory": "/watches/r5a5",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-19T22:26:38.691457",
+                "Price": 4950.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Submariner 126610Lv With Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "126610",
+        "Serial": "41G20XXX",
+        "Inventory": "/watches/qinw",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-19T22:26:38.769867",
+                "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Red Submariner 1680 Mk 4 Dial  With Full Set Box & Papers",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "2867XXX",
+        "Inventory": "/watches/jstm",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-19T22:26:38.809262",
+                "Price": 29550.0
+            }
+        ]
     }
 ]
