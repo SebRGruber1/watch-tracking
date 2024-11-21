@@ -113961,5 +113961,125 @@
                 "Price": 39850.0
             }
         ]
+    },
+    {
+        "Title": "1987 Rolex Ladies 18K Yg Datejust 69178 Tropical Champagne Dial",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "69178",
+        "Serial": "9686XXX",
+        "Inventory": "/watches/sw41",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-20T22:26:14.898545",
+                "Price": 8350.0
+            }
+        ]
+    },
+    {
+        "Title": "2018 Patek Philippe 18K Rose Gold Annual Calendar 5146R-001 With Box And Papers",
+        "Year": 2018,
+        "Brand": "Patek philippe",
+        "Model": "Annual calendar",
+        "Reference": "5146",
+        "Serial": "7200XXX",
+        "Inventory": "/watches/8jcc",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-20T22:26:15.129234",
+                "Price": 29850.0
+            }
+        ]
+    },
+    {
+        "Title": "2017 Patek Philippe 18K Rg Calatrava 5227R-001 White Ivory Dial With Box And Papers",
+        "Year": 2017,
+        "Brand": "Patek philippe",
+        "Model": "Calatrava",
+        "Reference": "5227",
+        "Serial": "7094XXX",
+        "Inventory": "/watches/8ovk",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-20T22:26:15.090620",
+                "Price": 28950.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Submariner 14060",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "N112XXX",
+        "Inventory": "/watches/th3a",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-20T22:26:15.171486",
+                "Price": 9250.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Air-King 14000 Salmon 3, 6, 9 Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "14000",
+        "Serial": "X513XXX",
+        "Inventory": "/watches/un0u",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-20T22:26:15.120913",
+                "Price": 4350.0
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Gmt-Master 16700",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "T935XXX",
+        "Inventory": "/watches/hncb",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-20T22:26:14.939492",
+                "Price": 10750.0
+            }
+        ]
+    },
+    {
+        "Title": "1963 Rolex Pcg Gmt-Master 1675 Gilt Chapter Ring Dial",
+        "Year": 1963,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "876XXX",
+        "Inventory": "/watches/gnyo",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-20T22:26:15.071723",
+                "Price": 31850.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Gmt-Master 1675 Mk 5 Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "5484XXX",
+        "Inventory": "/watches/dega",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-20T22:26:14.957258",
+                "Price": 15650.0
+            }
+        ]
     }
 ]
