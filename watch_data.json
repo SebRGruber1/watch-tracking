@@ -113485,6 +113485,10 @@
             {
                 "Date": "2024-11-14T22:27:28.402858",
                 "Price": 4750.0
+            },
+            {
+                "Date": "2024-11-20T20:15:27.892063",
+                "Price": "sold"
             }
         ]
     },
@@ -113895,6 +113899,66 @@
             {
                 "Date": "2024-11-20T04:20:18.478827",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1966 Rolex Submariner 5512 Gilt \"Bart Simpson\" Dial",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5512",
+        "Serial": "1461XXX",
+        "Inventory": "/watches/fx5j",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-20T20:11:47.015668",
+                "Price": 31850.0
+            }
+        ]
+    },
+    {
+        "Title": "1986 Rolex Explorer Ii 16550 Cream Rail Dial",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16550",
+        "Serial": "9375XXX",
+        "Inventory": "/watches/f4sg",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-20T20:11:47.175732",
+                "Price": 27950.0
+            }
+        ]
+    },
+    {
+        "Title": "2008 Rolex Submariner 16610Lv With Serialized Hang Tag",
+        "Year": 2008,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "V271XXX",
+        "Inventory": "/watches/dcdt",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-20T20:11:47.164984",
+                "Price": 12350.0
+            }
+        ]
+    },
+    {
+        "Title": "2018 Rolex 18K Wg Daytona 116509 Blue Dial With Papers",
+        "Year": 2018,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116509",
+        "Serial": "4575TXXX",
+        "Inventory": "/watches/upcc",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-20T20:11:47.232407",
+                "Price": 39850.0
             }
         ]
     }
