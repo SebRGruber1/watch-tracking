@@ -112238,6 +112238,10 @@
             {
                 "Date": "2024-10-31T21:14:33.046124",
                 "Price": 10950.0
+            },
+            {
+                "Date": "2024-11-22T20:16:11.332850",
+                "Price": "sold"
             }
         ]
     },
@@ -112807,6 +112811,10 @@
             {
                 "Date": "2024-11-06T20:11:39.344769",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-11-22T20:16:11.332850",
+                "Price": 7850.0
             }
         ]
     },
@@ -113022,6 +113030,10 @@
             {
                 "Date": "2024-11-22T01:25:23.612892",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-11-22T20:16:11.332850",
+                "Price": 11350.0
             }
         ]
     },
@@ -113841,6 +113853,10 @@
             {
                 "Date": "2024-11-19T20:11:58.964889",
                 "Price": 6350.0
+            },
+            {
+                "Date": "2024-11-22T20:16:11.332850",
+                "Price": "sold"
             }
         ]
     },
@@ -114067,6 +114083,10 @@
             {
                 "Date": "2024-11-20T22:26:15.171486",
                 "Price": 9250.0
+            },
+            {
+                "Date": "2024-11-22T20:16:11.332850",
+                "Price": "sold"
             }
         ]
     },
@@ -114157,6 +114177,10 @@
             {
                 "Date": "2024-11-21T22:27:20.495134",
                 "Price": 9350.0
+            },
+            {
+                "Date": "2024-11-22T20:16:11.332850",
+                "Price": "sold"
             }
         ]
     },
@@ -114217,6 +114241,10 @@
             {
                 "Date": "2024-11-21T22:27:20.669556",
                 "Price": 6750.0
+            },
+            {
+                "Date": "2024-11-22T20:16:11.332850",
+                "Price": "sold"
             }
         ]
     },
@@ -114277,6 +114305,156 @@
             {
                 "Date": "2024-11-22T01:21:25.142579",
                 "Price": 2950.0
+            }
+        ]
+    },
+    {
+        "Title": "2007 Patek Philippe Nautilus 5800/1A With Box And Papers",
+        "Year": 2007,
+        "Brand": "Patek philippe",
+        "Model": "Nautilus",
+        "Reference": "5800",
+        "Serial": "3412XXX",
+        "Inventory": "/watches/tywg",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-22T20:09:53.300910",
+                "Price": 85650.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Explorer Ii 16570 White Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "A768XXX",
+        "Inventory": "/watches/zxsl",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-22T20:09:53.386494",
+                "Price": 7850.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Gmt-Master Ii 16710",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "K195XXX",
+        "Inventory": "/watches/xd2u",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-22T20:09:53.474366",
+                "Price": 10850.0
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex 18K Rg Yacht-Master 116655 Matte Black Dial With Box And Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Yacht-master",
+        "Reference": "116655",
+        "Serial": "0970FXXX",
+        "Inventory": "/watches/okzt",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-22T20:09:53.365122",
+                "Price": 25350.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Submariner 1680 Mk 3 Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "5093XXX",
+        "Inventory": "/watches/lmdr",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-22T20:09:53.497392",
+                "Price": 12850.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Submariner 14060M With Box",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060M",
+        "Serial": "K240XXX",
+        "Inventory": "/watches/kffz",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-22T20:09:53.438329",
+                "Price": 8850.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Submariner 14060M",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "P936XXX",
+        "Inventory": "/watches/igtr",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-22T20:09:53.471708",
+                "Price": 8650.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Submariner 14060",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "N315XXX",
+        "Inventory": "/watches/gafb",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-22T20:09:53.351078",
+                "Price": 8850.0
+            }
+        ]
+    },
+    {
+        "Title": "1990 Rolex Ladies Two-Tone Datejust 69173 Champagne Diamond Dial",
+        "Year": 1990,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "69173",
+        "Serial": "E327XXX",
+        "Inventory": "/watches/cbhp",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-22T20:09:53.617027",
+                "Price": 4450.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Gmt-Master 1675 With Box And Papers",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "2477XXX",
+        "Inventory": "/watches/2bun",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-22T20:09:53.650957",
+                "Price": 16350.0
             }
         ]
     }
