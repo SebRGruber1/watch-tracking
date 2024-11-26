@@ -114639,6 +114639,10 @@
             {
                 "Date": "2024-11-25T22:28:35.058926",
                 "Price": 14850.0
+            },
+            {
+                "Date": "2024-11-26T16:18:20.875422",
+                "Price": "sold"
             }
         ]
     },
@@ -114669,6 +114673,36 @@
             {
                 "Date": "2024-11-26T13:21:32.023713",
                 "Price": 12350.0
+            }
+        ]
+    },
+    {
+        "Title": "1982 Rolex Submariner 5513 Mk 4 Maxi Dial",
+        "Year": 1982,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "7332XXX",
+        "Inventory": "/watches/tepb",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-26T16:14:36.111719",
+                "Price": 15650.0
+            }
+        ]
+    },
+    {
+        "Title": "Nos 2012 Rolex Submariner 14060 4 Liner With Box And Papers",
+        "Year": 2012,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "FH104XXX",
+        "Inventory": "/watches/jlrl",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-26T16:14:35.847990",
+                "Price": 14850.0
             }
         ]
     }
