@@ -114656,5 +114656,20 @@
                 "Price": 8550.0
             }
         ]
+    },
+    {
+        "Title": "Patek Philippe 18K Yg Calatrava 570",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Calatrava",
+        "Reference": "570",
+        "Serial": "307XXX",
+        "Inventory": "/watches/mdks",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-26T13:21:32.023713",
+                "Price": 12350.0
+            }
+        ]
     }
 ]
