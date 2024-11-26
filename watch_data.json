@@ -114577,5 +114577,80 @@
                 "Price": 16350.0
             }
         ]
+    },
+    {
+        "Title": "1975 Rolex Submariner 1680 Mk 1 Dial",
+        "Year": 1975,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "3934XXX",
+        "Inventory": "/watches/oecy",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-25T22:28:34.963456",
+                "Price": 15850.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex 18K Yg Submariner 16618 Blue Dial With Box And Pamphlets",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16618",
+        "Serial": "X749XXX",
+        "Inventory": "/watches/j5ed",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-25T22:28:35.138562",
+                "Price": 23850.0
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Submariner 126610Lv With Box And Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "126610",
+        "Serial": "595Q1XXX",
+        "Inventory": "/watches/nbi4",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-25T22:28:35.048928",
+                "Price": 13950.0
+            }
+        ]
+    },
+    {
+        "Title": "1962 Rolex Submariner 5508 Gilt Chapter Ring Dial",
+        "Year": 1962,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5508",
+        "Serial": "763XXX",
+        "Inventory": "/watches/mgms",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-25T22:28:35.058926",
+                "Price": 14850.0
+            }
+        ]
+    },
+    {
+        "Title": "Iwc Ingenieur Iw328901 Black Dial With Box And Papers",
+        "Year": null,
+        "Brand": "Iwc",
+        "Model": "Ingenieur",
+        "Reference": "IW328901",
+        "Serial": "7443XXX",
+        "Inventory": "/watches/m1td",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-25T22:28:35.129621",
+                "Price": 8550.0
+            }
+        ]
     }
 ]
