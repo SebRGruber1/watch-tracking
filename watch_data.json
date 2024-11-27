@@ -114740,5 +114740,65 @@
                 "Price": 16950.0
             }
         ]
+    },
+    {
+        "Title": "1968 Rolex Gmt-Master 1675 Mk 1 Dial",
+        "Year": 1968,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "2043XXX",
+        "Inventory": "/watches/q2sc",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-26T22:30:17.062890",
+                "Price": 15850.0
+            }
+        ]
+    },
+    {
+        "Title": "1971 Rolex Date 1501 Blue Radial Dial",
+        "Year": 1971,
+        "Brand": "Rolex",
+        "Model": "Date",
+        "Reference": "1501",
+        "Serial": "2758XXX",
+        "Inventory": "/watches/z9wo",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-26T22:30:17.209379",
+                "Price": 5350.0
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Datejust 1601 Silver Linen Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1601",
+        "Serial": "2478XXX",
+        "Inventory": "/watches/ustf",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-26T22:30:17.194859",
+                "Price": 4950.0
+            }
+        ]
+    },
+    {
+        "Title": "1974 Rolex Ladies Oyster Perpetual 6719 Silver Radial Dial",
+        "Year": 1974,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "6719",
+        "Serial": "3683XXX",
+        "Inventory": "/watches/4e45",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-26T22:30:17.289383",
+                "Price": 2850.0
+            }
+        ]
     }
 ]
