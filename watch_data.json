@@ -98210,6 +98210,10 @@
             {
                 "Date": "2024-11-12T16:17:26.082362",
                 "Price": 19550.0
+            },
+            {
+                "Date": "2024-11-27T13:26:24.367683",
+                "Price": 18650.0
             }
         ]
     },
@@ -114810,6 +114814,25 @@
             {
                 "Date": "2024-11-27T01:27:50.610038",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-11-27T13:26:24.367683",
+                "Price": 2850.0
+            }
+        ]
+    },
+    {
+        "Title": "1987 Rolex Ladies Datejust \"31\" 68278 Gold Diamond Dial",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "68278 G",
+        "Serial": "9536XXX",
+        "Inventory": "/watches/whnr",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-27T13:20:53.710926",
+                "Price": 13850.0
             }
         ]
     }
