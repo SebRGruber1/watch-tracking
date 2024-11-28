@@ -114109,6 +114109,10 @@
             {
                 "Date": "2024-11-20T20:11:47.175732",
                 "Price": 27950.0
+            },
+            {
+                "Date": "2024-11-27T20:17:38.319005",
+                "Price": 27650.0
             }
         ]
     },
@@ -114200,6 +114204,10 @@
             {
                 "Date": "2024-11-20T22:26:15.090620",
                 "Price": 28950.0
+            },
+            {
+                "Date": "2024-11-27T20:17:38.319005",
+                "Price": 27950.0
             }
         ]
     },
@@ -114837,6 +114845,81 @@
             {
                 "Date": "2024-11-27T13:20:53.710926",
                 "Price": 13850.0
+            }
+        ]
+    },
+    {
+        "Title": "Audemars Piguet 18K Yg Royal Oak 5402Ba Jumbo Grey Dial",
+        "Year": null,
+        "Brand": "Audemars piguet",
+        "Model": "Royal oak",
+        "Reference": "5402",
+        "Serial": "NoXXX",
+        "Inventory": "/watches/9dqa",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-27T20:13:48.503030",
+                "Price": 89550.0
+            }
+        ]
+    },
+    {
+        "Title": "2007 Rolex 18K Wg Daytona 116509 Silver Arabic Dial With Box And Papers",
+        "Year": 2007,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116509",
+        "Serial": "Z448XXX",
+        "Inventory": "/watches/j1ba",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-27T20:13:48.622327",
+                "Price": 33850.0
+            }
+        ]
+    },
+    {
+        "Title": "1973 Rolex Submariner 5513 With Certificate Of Service",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "3231XXX",
+        "Inventory": "/watches/qcpc",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-27T20:13:48.755736",
+                "Price": 14750.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Gmt-Master 16700",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "X891XXX",
+        "Inventory": "/watches/oy8y",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-27T20:13:48.826560",
+                "Price": 11650.0
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex Gmt-Master Ii 16710",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "F966XXX",
+        "Inventory": "/watches/eabu",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-27T20:13:48.651733",
+                "Price": 11250.0
             }
         ]
     }
