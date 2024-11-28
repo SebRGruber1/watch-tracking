@@ -114922,5 +114922,20 @@
                 "Price": 11250.0
             }
         ]
+    },
+    {
+        "Title": "1998 Rolex Sea-Dweller 16600 Tritium Dial With Papers & Serialized Hang Tag",
+        "Year": 1998,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "16600",
+        "Serial": "U335XXX",
+        "Inventory": "/watches/gvd3",
+        "PriceHistory": [
+            {
+                "Date": "2024-11-27T22:30:24.157400",
+                "Price": 9350.0
+            }
+        ]
     }
 ]
