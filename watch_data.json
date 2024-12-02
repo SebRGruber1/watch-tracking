@@ -115017,6 +115017,10 @@
             {
                 "Date": "2024-11-27T20:13:48.826560",
                 "Price": 11650.0
+            },
+            {
+                "Date": "2024-12-02T16:19:59.100295",
+                "Price": "sold"
             }
         ]
     },
@@ -115051,6 +115055,70 @@
             {
                 "Date": "2024-11-27T22:30:24.157400",
                 "Price": 9350.0
+            },
+            {
+                "Date": "2024-12-02T16:19:59.100295",
+                "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Two-Tone Datejust 16233 Pearlescent Cream Jubilee Arabic Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16233",
+        "Serial": "W704XXX",
+        "Inventory": "/watches/vn8h",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-02T16:14:32.839631",
+                "Price": 5650.0
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex Explorer 114270",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "F083XXX",
+        "Inventory": "/watches/vbtd",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-02T16:14:32.968133",
+                "Price": 5350.0
+            }
+        ]
+    },
+    {
+        "Title": "1960 Rolex Datejust 1603 Tropical Silver Dial With Service Papers And With 'Bamboo' Bezel",
+        "Year": 1960,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1603",
+        "Serial": "536XXX",
+        "Inventory": "/watches/5boq",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-02T16:14:32.985380",
+                "Price": 6850.0
+            }
+        ]
+    },
+    {
+        "Title": "Audemars Piguet 18K Yg Royal Oak 14700 Grey Dial With Box",
+        "Year": null,
+        "Brand": "Audemars piguet",
+        "Model": "Royal oak",
+        "Reference": "14700",
+        "Serial": "NoXXX",
+        "Inventory": "/watches/qb8g",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-02T16:14:32.897942",
+                "Price": 44850.0
             }
         ]
     }
