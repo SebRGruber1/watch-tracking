@@ -107333,6 +107333,10 @@
             {
                 "Date": "2024-08-29T21:04:14.607488",
                 "Price": 7950.0
+            },
+            {
+                "Date": "2024-12-02T20:19:34.862474",
+                "Price": "sold"
             }
         ]
     },
@@ -114580,6 +114584,10 @@
             {
                 "Date": "2024-11-22T20:09:53.300910",
                 "Price": 85650.0
+            },
+            {
+                "Date": "2024-12-02T20:19:34.862474",
+                "Price": "sold"
             }
         ]
     },
@@ -114610,6 +114618,10 @@
             {
                 "Date": "2024-11-22T20:09:53.474366",
                 "Price": 10850.0
+            },
+            {
+                "Date": "2024-12-02T20:19:34.862474",
+                "Price": "sold"
             }
         ]
     },
@@ -115074,6 +115086,10 @@
             {
                 "Date": "2024-12-02T16:14:32.839631",
                 "Price": 5650.0
+            },
+            {
+                "Date": "2024-12-02T20:19:34.862474",
+                "Price": "sold"
             }
         ]
     },
@@ -115119,6 +115135,81 @@
             {
                 "Date": "2024-12-02T16:14:32.897942",
                 "Price": 44850.0
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex Explorer 124270 With Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "124270",
+        "Serial": "F2881XXX",
+        "Inventory": "/watches/wumb",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-02T20:15:24.922456",
+                "Price": 7550.0
+            }
+        ]
+    },
+    {
+        "Title": "1971 Rolex Submariner 5513 Serif Dial",
+        "Year": 1971,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "2708XXX",
+        "Inventory": "/watches/egps",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-02T20:15:25.037097",
+                "Price": 15750.0
+            }
+        ]
+    },
+    {
+        "Title": "2004 Rolex Submariner 16610Lv \"Flat 4\" With Box And Papers",
+        "Year": 2004,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "F477XXX",
+        "Inventory": "/watches/rogf",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-02T20:15:24.944923",
+                "Price": 19850.0
+            }
+        ]
+    },
+    {
+        "Title": "2006 Rolex Submariner 14060M With Papers & Hang Tag",
+        "Year": 2006,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "Z791XXX",
+        "Inventory": "/watches/kmho",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-02T20:15:25.132493",
+                "Price": 9850.0
+            }
+        ]
+    },
+    {
+        "Title": "1994 Rolex Two-Tone Datejust 16233 Champagne Dial",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16233",
+        "Serial": "S822XXX",
+        "Inventory": "/watches/zoc4",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-02T20:15:25.051853",
+                "Price": 5950.0
             }
         ]
     }
