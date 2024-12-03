@@ -113657,6 +113657,10 @@
             {
                 "Date": "2024-11-25T16:18:17.580226",
                 "Price": 19850.0
+            },
+            {
+                "Date": "2024-12-02T22:38:02.485935",
+                "Price": "sold"
             }
         ]
     },
@@ -115210,6 +115214,21 @@
             {
                 "Date": "2024-12-02T20:15:25.051853",
                 "Price": 5950.0
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex 18K Yg Mk 1 Yacht-Master 16628 Blue Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Yacht-master",
+        "Reference": "16628",
+        "Serial": "W413XXX",
+        "Inventory": "/watches/cqch",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-02T22:33:54.165228",
+                "Price": 20850.0
             }
         ]
     }
