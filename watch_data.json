@@ -109631,6 +109631,10 @@
             {
                 "Date": "2024-11-13T13:23:07.416128",
                 "Price": 8650.0
+            },
+            {
+                "Date": "2024-12-04T16:21:19.721897",
+                "Price": "sold"
             }
         ]
     },
@@ -111585,6 +111589,10 @@
             {
                 "Date": "2024-10-24T14:19:50.211298",
                 "Price": 7750.0
+            },
+            {
+                "Date": "2024-12-04T16:21:19.721897",
+                "Price": "sold"
             }
         ]
     },
@@ -112105,6 +112113,10 @@
             {
                 "Date": "2024-11-25T13:24:14.586115",
                 "Price": "sold"
+            },
+            {
+                "Date": "2024-12-04T16:21:19.721897",
+                "Price": 4550.0
             }
         ]
     },
@@ -114687,6 +114699,10 @@
             {
                 "Date": "2024-11-22T20:09:53.438329",
                 "Price": 8850.0
+            },
+            {
+                "Date": "2024-12-04T16:21:19.721897",
+                "Price": "sold"
             }
         ]
     },
@@ -115272,6 +115288,111 @@
             {
                 "Date": "2024-12-03T20:15:28.903699",
                 "Price": 11350.0
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Daytona 116520 Black Dial",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116520",
+        "Serial": "Y999XXX",
+        "Inventory": "/watches/xvhw",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-04T16:14:56.853602",
+                "Price": 16850.0
+            }
+        ]
+    },
+    {
+        "Title": "1966 Rolex Gmt-Master 1675 Gilt Dial",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "1533XXX",
+        "Inventory": "/watches/fkhr",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-04T16:14:56.956611",
+                "Price": 19850.0
+            }
+        ]
+    },
+    {
+        "Title": "1989 Rolex 18K Yg Day-Date 18238 Champagne Dial",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "L553XXX",
+        "Inventory": "/watches/hgfq",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-04T16:14:56.801998",
+                "Price": 17350.0
+            }
+        ]
+    },
+    {
+        "Title": "1981 Rolex 18K Yg Day-Date 18038 Champagne Dial",
+        "Year": 1981,
+        "Brand": "Rolex",
+        "Model": "Day-date'",
+        "Reference": "18038",
+        "Serial": "6539XXX",
+        "Inventory": "/watches/fubz",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-04T16:14:56.920740",
+                "Price": 15850.0
+            }
+        ]
+    },
+    {
+        "Title": "2015 Patek Philippe Grand Complication Split Second Chronograph 5370P With Box And Papers",
+        "Year": 2015,
+        "Brand": "Patek philippe",
+        "Model": "Split second chronograph",
+        "Reference": "5370P",
+        "Serial": "5251XXX",
+        "Inventory": "/watches/2i5t",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-04T16:14:56.959254",
+                "Price": 193550.0
+            }
+        ]
+    },
+    {
+        "Title": "1970'S Heuer Bundeswehr Flyback Chronograph 1550 Sg '3H'",
+        "Year": null,
+        "Brand": "Heuer",
+        "Model": "Bundeswehr flyback chronograph",
+        "Reference": "1550 SG",
+        "Serial": "320XXX",
+        "Inventory": "/watches/h13p",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-04T16:14:56.821946",
+                "Price": 4850.0
+            }
+        ]
+    },
+    {
+        "Title": "Omega Seamaster Railmaster 220.12.40.20.06.001 Silver Dial With Box And Papers",
+        "Year": null,
+        "Brand": "Omega",
+        "Model": "Seamaster railmaster",
+        "Reference": "220.12.40.20.06.001",
+        "Serial": "89747XXX",
+        "Inventory": "/watches/klrf",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-04T16:14:56.731020",
+                "Price": 2650.0
             }
         ]
     }
