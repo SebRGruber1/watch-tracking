@@ -112895,6 +112895,10 @@
             {
                 "Date": "2024-12-01T20:22:49.792032",
                 "Price": 6850.0
+            },
+            {
+                "Date": "2024-12-03T20:19:28.859265",
+                "Price": "sold"
             }
         ]
     },
@@ -115245,6 +115249,21 @@
             {
                 "Date": "2024-12-02T22:33:54.165228",
                 "Price": 20850.0
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Submariner 1680 With Japanese Service Papers",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "5096XXX",
+        "Inventory": "/watches/armi",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-03T20:15:28.903699",
+                "Price": 11350.0
             }
         ]
     }
