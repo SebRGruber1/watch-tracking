@@ -115415,5 +115415,35 @@
                 "Price": 2650.0
             }
         ]
+    },
+    {
+        "Title": "1990 Rolex 18K Yg Datejust 16238 Onyx Dial",
+        "Year": 1990,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16238",
+        "Serial": "E133XXX",
+        "Inventory": "/watches/xwng",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-05T01:22:44.636564",
+                "Price": 26550.0
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Explorer 14270",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "P487XXX",
+        "Inventory": "/watches/dizk",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-05T01:22:44.591358",
+                "Price": 5150.0
+            }
+        ]
     }
 ]
