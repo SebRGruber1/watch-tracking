@@ -114090,6 +114090,10 @@
             {
                 "Date": "2024-11-30T20:29:31.894109",
                 "Price": 11950.0
+            },
+            {
+                "Date": "2024-12-05T16:18:47.431748",
+                "Price": "sold"
             }
         ]
     },
@@ -114458,6 +114462,10 @@
             {
                 "Date": "2024-12-01T16:19:50.166849",
                 "Price": 43550.0
+            },
+            {
+                "Date": "2024-12-05T16:18:47.431748",
+                "Price": 42550.0
             }
         ]
     },
@@ -115312,6 +115320,10 @@
             {
                 "Date": "2024-12-03T20:15:28.903699",
                 "Price": 11350.0
+            },
+            {
+                "Date": "2024-12-05T16:18:47.431748",
+                "Price": 10350.0
             }
         ]
     },
@@ -115459,6 +115471,81 @@
             {
                 "Date": "2024-12-05T13:23:47.785830",
                 "Price": "sold"
+            }
+        ]
+    },
+    {
+        "Title": "1993 Audemars Piguet Royal Oak St14700 Grey Dial With Box And Papers",
+        "Year": 1993,
+        "Brand": "Audemars piguet",
+        "Model": "Royal oak",
+        "Reference": "14700",
+        "Serial": "C-96XXX",
+        "Inventory": "/watches/9s7b",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-05T16:15:00.320486",
+                "Price": 35850.0
+            }
+        ]
+    },
+    {
+        "Title": "2001 Audemars Piguet Two-Tone Royal Oak 56303Sa Grey Dial With Papers",
+        "Year": 2001,
+        "Brand": "Audemars piguet",
+        "Model": "Royal oak",
+        "Reference": "56303",
+        "Serial": "E37XXX",
+        "Inventory": "/watches/9msh",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-05T16:15:00.355022",
+                "Price": 10950.0
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Sea-Dweller 16600 Swiss Only Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "16600",
+        "Serial": "A642XXX",
+        "Inventory": "/watches/heul",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-05T16:15:00.377065",
+                "Price": 7950.0
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Gmt Master 16700 With Box And Papers",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "N317XXX",
+        "Inventory": "/watches/ids7",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-05T16:15:00.264194",
+                "Price": 12650.0
+            }
+        ]
+    },
+    {
+        "Title": "1979 Rolex 18K Wg Day-Date 18039 Blue Diamond String Dial",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18039",
+        "Serial": "5952XXX",
+        "Inventory": "/watches/t8hg",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-05T16:15:00.301430",
+                "Price": 23550.0
             }
         ]
     }
