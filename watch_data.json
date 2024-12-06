@@ -115609,5 +115609,35 @@
                 "Price": 4550.0
             }
         ]
+    },
+    {
+        "Title": "1979 Rolex Daytona 6265 Black Big Red Dial",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "6265",
+        "Serial": "6197XXX",
+        "Inventory": "/watches/odwj",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-06T01:22:34.686831",
+                "Price": 71550.0
+            }
+        ]
+    },
+    {
+        "Title": "1966 Rolex Explorer 1016 Gilt Dial With Service Papers",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "1016",
+        "Serial": "1587XXX",
+        "Inventory": "/watches/qikf",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-06T01:22:34.987160",
+                "Price": 17850.0
+            }
+        ]
     }
 ]
