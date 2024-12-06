@@ -114037,6 +114037,10 @@
             {
                 "Date": "2024-11-19T01:21:29.769231",
                 "Price": 5750.0
+            },
+            {
+                "Date": "2024-12-05T20:18:14.895420",
+                "Price": "sold"
             }
         ]
     },
@@ -115339,6 +115343,10 @@
             {
                 "Date": "2024-12-04T16:14:56.853602",
                 "Price": 16850.0
+            },
+            {
+                "Date": "2024-12-05T20:18:14.895420",
+                "Price": "sold"
             }
         ]
     },
@@ -115486,6 +115494,10 @@
             {
                 "Date": "2024-12-05T16:15:00.320486",
                 "Price": 35850.0
+            },
+            {
+                "Date": "2024-12-05T20:18:14.895420",
+                "Price": "sold"
             }
         ]
     },
@@ -115516,6 +115528,10 @@
             {
                 "Date": "2024-12-05T16:15:00.377065",
                 "Price": 7950.0
+            },
+            {
+                "Date": "2024-12-05T20:18:14.895420",
+                "Price": "sold"
             }
         ]
     },
@@ -115546,6 +115562,51 @@
             {
                 "Date": "2024-12-05T16:15:00.301430",
                 "Price": 23550.0
+            }
+        ]
+    },
+    {
+        "Title": "1989 Rolex Diamond Bezel Tridor Day-Date 18349 Salmon Jubilee Diamond Dial",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18349G",
+        "Serial": "L600XXX",
+        "Inventory": "/watches/zpmw",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-05T20:14:30.905529",
+                "Price": 20850.0
+            }
+        ]
+    },
+    {
+        "Title": "2024 Cartier 18K Rg Santos Dumont Wgsa0032 With Box And Papers",
+        "Year": 2024,
+        "Brand": "Cartier",
+        "Model": "Santos dumont",
+        "Reference": "WGSA0032",
+        "Serial": "430713217XXX",
+        "Inventory": "/watches/sk04",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-05T20:14:31.184001",
+                "Price": 11350.0
+            }
+        ]
+    },
+    {
+        "Title": "1973 Rolex Datejust 1603 Silver Dial With Box And Pamphlets",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1603",
+        "Serial": "3454XXX",
+        "Inventory": "/watches/nwr7",
+        "PriceHistory": [
+            {
+                "Date": "2024-12-05T20:14:31.239514",
+                "Price": 4550.0
             }
         ]
     }
