@@ -4104,11 +4104,11 @@
         "Total Value of Watches Added": "$0.00"
     },
     "2025-06-07": {
-        "Number of Watches For Sale": 398,
-        "Number of Watches Sold": 0,
+        "Number of Watches For Sale": 394,
+        "Number of Watches Sold": 4,
         "Number of Watches Added": 0,
-        "Total Value of Watches For Sale": "$9,623,900.00",
-        "Total Value of Watches Sold": "$0.00",
+        "Total Value of Watches For Sale": "$9,587,900.00",
+        "Total Value of Watches Sold": "$35,200.00",
         "Total Value of Watches Added": "$0.00"
     }
 }
