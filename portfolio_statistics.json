@@ -4190,5 +4190,13 @@
         "Total Value of Watches For Sale": "$9,455,450.00",
         "Total Value of Watches Sold": "$77,600.00",
         "Total Value of Watches Added": "$82,950.00"
+    },
+    "2025-06-18": {
+        "Number of Watches For Sale": 385,
+        "Number of Watches Sold": 0,
+        "Number of Watches Added": 0,
+        "Total Value of Watches For Sale": "$9,455,450.00",
+        "Total Value of Watches Sold": "$0.00",
+        "Total Value of Watches Added": "$0.00"
     }
 }
