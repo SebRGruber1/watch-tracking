@@ -301338,5 +301338,20 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "Audemars Piguet 18K Yg Royal Oak Quartz 6023Ba Tropical Gold Dial",
+        "Year": null,
+        "Brand": "Audemars piguet",
+        "Model": "Royal oak",
+        "Reference": "6023BA",
+        "Serial": "C7526-XXX",
+        "Inventory": "/watches/audemars-piguet-18k-yg-royal-oak-quartz-6023ba-tropical-gold-dial/leco",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-24T20:34:22.638099",
+                "Price": null
+            }
+        ]
     }
 ]
