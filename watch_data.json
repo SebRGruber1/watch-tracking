@@ -301353,5 +301353,65 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1986 Rolex 18K Yg Diamond Day-Date 18138 Black Diamond Dial With Service Papers",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18138",
+        "Serial": "8997XXX",
+        "Inventory": "/watches/1986-rolex-18k-yg-diamond-day-date-18138-black-diamond-dial-with-service-papers/waih",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-27T17:25:17.855580",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1981 Rolex Daytona 6263 Silver Big Red Sub Tropical Dial",
+        "Year": 1981,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "6263",
+        "Serial": "6608XXX",
+        "Inventory": "/watches/1981-rolex-daytona-6263-silver-big-red-sub-tropical-dial/oca3",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-27T17:25:18.039771",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1979 Rolex Daytona 6265 Black Big Red Dial",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "6265",
+        "Serial": "6223XXX",
+        "Inventory": "/watches/1979-rolex-daytona-6265-black-big-red-dial/5wsd",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-27T17:25:18.074027",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1975 Rolex Daytona 6265 Black Sigma Dial",
+        "Year": 1975,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "6265",
+        "Serial": "3952XXX",
+        "Inventory": "/watches/1975-rolex-daytona-6265-black-sigma-dial/lbqq",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-27T17:25:20.674890",
+                "Price": null
+            }
+        ]
     }
 ]
