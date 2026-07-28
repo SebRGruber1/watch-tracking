@@ -301413,5 +301413,95 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "Patek Philippe 18K Wg World Time 5130G Silver Dial",
+        "Year": null,
+        "Brand": "Patek philippe",
+        "Model": "World time",
+        "Reference": "5130G",
+        "Serial": "4397XXX",
+        "Inventory": "/watches/patek-philippe-18k-wg-world-time-5130g-silver-dial/qeua",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-27T20:32:07.841642",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2026 Rolex Land-Dweller 127234 With Box & Papers",
+        "Year": 2026,
+        "Brand": "Rolex",
+        "Model": "Land-dweller",
+        "Reference": "127234",
+        "Serial": "3N91JXXX",
+        "Inventory": "/watches/2026-rolex-land-dweller-127234-with-box-papers/mfg2",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-27T20:32:08.005936",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex 18K Wg Daytona 116519Ln Mop Diamond Dial With Box & Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116519LN",
+        "Serial": "7L1D8XXX",
+        "Inventory": "/watches/2019-rolex-18k-wg-daytona-116519ln-mop-diamond-dial-with-box-papers/maus",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-27T20:32:08.067889",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1981 Rolex Oysterquartz Datejust 17014 Black Dial With Service Papers",
+        "Year": 1981,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "17014",
+        "Serial": "7016XXX",
+        "Inventory": "/watches/1981-rolex-oysterquartz-datejust-17014-black-dial-with-service-papers/juee",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-27T20:32:07.985781",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "Nos 2007 Rolex Green Submariner 16610Lv With Papers",
+        "Year": 2007,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610LV",
+        "Serial": "M515XXX",
+        "Inventory": "/watches/nos-2007-rolex-green-submariner-16610lv-with-papers/0eir",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-27T20:32:08.014810",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1989 Rolex 18K Yg Day-Date 18238 Honeycomb Diamond Dial With Box & Papers",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "L410XXX",
+        "Inventory": "/watches/1989-rolex-18k-yg-day-date-18238-honeycomb-diamond-dial-with-box-papers/bcyh",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-27T20:32:07.941405",
+                "Price": null
+            }
+        ]
     }
 ]
