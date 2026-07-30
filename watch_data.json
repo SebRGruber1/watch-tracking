@@ -301848,5 +301848,65 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1986 Rolex 18K Yg Day-Date 18138 Silver Diamond Dial",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18138",
+        "Serial": "9222XXX",
+        "Inventory": "/watches/1986-rolex-18k-yg-day-date-18138-silver-diamond-dial/ogu5",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-30T17:25:10.535729",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1968 Rolex Bark Datejust 1607 Silver Dial",
+        "Year": 1968,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1607",
+        "Serial": "1826XXX",
+        "Inventory": "/watches/1968-rolex-bark-datejust-1607-silver-dial/1avr",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-30T17:25:10.129937",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex Explorer 114270",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "F193XXX",
+        "Inventory": "/watches/2003-rolex-explorer-114270/9ttl",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-30T17:25:10.348003",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1978 Patek Philippe Nautilus 3700/1A",
+        "Year": 1978,
+        "Brand": "Patek philippe",
+        "Model": "Nautilus",
+        "Reference": "3700/1A",
+        "Serial": "536XXX",
+        "Inventory": "/watches/1978-patek-philippe-nautilus-3700-1a/idbn",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-30T17:25:13.749619",
+                "Price": null
+            }
+        ]
     }
 ]
