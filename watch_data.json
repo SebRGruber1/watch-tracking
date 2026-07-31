@@ -302013,5 +302013,20 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1970 Rolex Red Submariner 1680 Mk 4 Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "2794XXX",
+        "Inventory": "/watches/1970-rolex-red-submariner-1680-mk-4-dial/vgdj",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-31T11:43:00.076193",
+                "Price": null
+            }
+        ]
     }
 ]
