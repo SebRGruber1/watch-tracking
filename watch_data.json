@@ -302028,5 +302028,65 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1969 Rolex Submariner 1680 Mk 2 Meters First Dial",
+        "Year": 1969,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "2216XXX",
+        "Inventory": "/watches/1969-rolex-submariner-1680-mk-2-meters-first-dial/x67y",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-31T17:24:10.398675",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex 18K Yg Submariner 1680 Black Nipple Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "5276XXX",
+        "Inventory": "/watches/1978-rolex-18k-yg-submariner-1680-black-nipple-dial/uiir",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-31T17:24:10.024538",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex Daytona 16520 With White Mark 1 Drop Down Cosmograph Dial",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "R992XXX",
+        "Inventory": "/watches/1988-rolex-daytona-16520-with-white-mark-1-drop-down-cosmograph-dial/mopu",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-31T17:24:10.366601",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex Zenith Daytona 16520 Black Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "A226XXX",
+        "Inventory": "/watches/1999-rolex-zenith-daytona-16520-black-dial/gffu",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-31T17:24:10.312005",
+                "Price": null
+            }
+        ]
     }
 ]
