@@ -301983,5 +301983,35 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1970 Rolex Daytona 6262 Silver Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "6262",
+        "Serial": "2548XXX",
+        "Inventory": "/watches/1970-rolex-daytona-6262-silver-dial/ynac",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-31T00:08:54.857844",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex 18K Yg Datejust 18238 Tropical Champagne Dial",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "R690XXX",
+        "Inventory": "/watches/1988-rolex-18k-yg-datejust-18238-tropical-champagne-dial/rs6d",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-31T00:08:54.874505",
+                "Price": null
+            }
+        ]
     }
 ]
