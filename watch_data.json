@@ -302088,5 +302088,80 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "2002 Rolex Explorer Ii 16570 With Papers",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "Y568XXX",
+        "Inventory": "/watches/2002-rolex-explorer-ii-16570-with-papers/zejv",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-31T20:34:00.965321",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1986 Rolex Gmt-Master Ii 16760 With Box & Papers",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16760",
+        "Serial": "9193XXX",
+        "Inventory": "/watches/1986-rolex-gmt-master-ii-16760-with-box-papers/skva",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-31T20:34:00.843277",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2013 Jaeger Lecoultre Reverso Ultra-Thin 277.8.62 3 With Box & Papers",
+        "Year": 2013,
+        "Brand": "Jaeger lecoultre",
+        "Model": "Reverso",
+        "Reference": "277.8.62",
+        "Serial": "2933XXX",
+        "Inventory": "/watches/2013-jaeger-lecoultre-reverso-ultra-thin-277-8-62-3-with-box-papers/hdkq",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-31T20:34:00.895367",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1967 Rolex Submariner 5513 Meters First Dial",
+        "Year": 1967,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "1593XXX",
+        "Inventory": "/watches/1967-rolex-submariner-5513-meters-first-dial/bj7b",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-31T20:34:00.904372",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Datejust Oysterquartz 17000 Black Dial With Service Papers",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Datejust oysterquartz",
+        "Reference": "17000",
+        "Serial": "5298XXX",
+        "Inventory": "/watches/1978-rolex-datejust-oysterquartz-17000-black-dial-with-service-papers/8v4d",
+        "PriceHistory": [
+            {
+                "Date": "2026-07-31T20:34:00.832468",
+                "Price": null
+            }
+        ]
     }
 ]
