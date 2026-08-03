@@ -302163,5 +302163,20 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "2002 Rolex Daytona 116520 Cream Dial",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116520",
+        "Serial": "Y299XXX",
+        "Inventory": "/watches/2002-rolex-daytona-116520-cream-dial/ogn9",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-03T14:35:53.831087",
+                "Price": null
+            }
+        ]
     }
 ]
