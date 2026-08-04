@@ -302178,5 +302178,50 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1972 Rolex Sea-Dweller 1665 Mk 2 Tropical Dial With Service Papers",
+        "Year": 1972,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "1665",
+        "Serial": "2930XXX",
+        "Inventory": "/watches/1972-rolex-sea-dweller-1665-mk-2-tropical-dial-with-service-papers/hwiw",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-03T20:33:55.510983",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex Explorer Ii 16570 White Dial With Papers",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "F146XXX",
+        "Inventory": "/watches/2003-rolex-explorer-ii-16570-white-dial-with-papers/chky",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-03T20:33:55.896651",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1963 Rolex Pcg Submariner 5512 Gilt Chapter-Ring Exclamation Dial",
+        "Year": 1963,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5512",
+        "Serial": "869XXX",
+        "Inventory": "/watches/1963-rolex-pcg-submariner-5512-gilt-chapter-ring-exclamation-dial/byur",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-03T20:33:55.804742",
+                "Price": null
+            }
+        ]
     }
 ]
