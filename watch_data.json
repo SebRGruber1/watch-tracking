@@ -302358,5 +302358,20 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1985 Rolex Daytona 6263 Black Dial With Box & Papers",
+        "Year": 1985,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "6263",
+        "Serial": "8731XXX",
+        "Inventory": "/watches/1985-rolex-daytona-6263-black-dial-with-box-papers/kc4y",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-04T14:32:56.938490",
+                "Price": null
+            }
+        ]
     }
 ]
