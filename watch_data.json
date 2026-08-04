@@ -302223,5 +302223,125 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1979 Rolex 18K Yg Submariner 1680 Black Nipple Dial",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "5862XXX",
+        "Inventory": "/watches/1979-rolex-18k-yg-submariner-1680-black-nipple-dial/m2fn",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-04T00:02:37.427257",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex Submariner 16610Lv With Box & Papers",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610LV",
+        "Serial": "D903XXX",
+        "Inventory": "/watches/2005-rolex-submariner-16610lv-with-box-papers/y4mg",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-04T00:02:37.558747",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1985 Rolex Gmt-Master 16750 Non-Date Print Wgs Spider Dial",
+        "Year": 1985,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16750",
+        "Serial": "8681XXX",
+        "Inventory": "/watches/1985-rolex-gmt-master-16750-non-date-print-wgs-spider-dial/xcc1",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-04T00:02:37.453285",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1997 Rolex Explorer Ii 16570 Black Dial With Papers",
+        "Year": 1997,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "U517XXX",
+        "Inventory": "/watches/1997-rolex-explorer-ii-16570-black-dial-with-papers/rgia",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-04T00:02:37.372452",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1986 Rolex Submariner 5513 Wgs Dial With Box & Papers",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "9037XXX",
+        "Inventory": "/watches/1986-rolex-submariner-5513-wgs-dial-with-box-papers/qven",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-04T00:02:37.350042",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "A. Lange & Sohne 18K Wg Langematik Sax-0-Mat 308.027 Black Dial",
+        "Year": null,
+        "Brand": "A. lange & sohne",
+        "Model": "Langematik sax-0-mat",
+        "Reference": "308.027",
+        "Serial": "126XXX",
+        "Inventory": "/watches/a-lange-sohne-18k-wg-langematik-sax-0-mat-308-027-black-dial/jby2",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-04T00:02:37.402120",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1967 Rolex Sea-Dweller 1665 Mk 2 Tropical Dial With Service Papers",
+        "Year": 1967,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "1665",
+        "Serial": "2930XXX",
+        "Inventory": "/watches/1967-rolex-sea-dweller-1665-mk-2-tropical-dial-with-service-papers/hwiw",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-04T00:02:40.793963",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1982 Rolex Gmt-Master 16750",
+        "Year": 1982,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16750",
+        "Serial": "7323XXX",
+        "Inventory": "/watches/1982-rolex-gmt-master-16750/vydc",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-04T00:02:40.819060",
+                "Price": null
+            }
+        ]
     }
 ]
