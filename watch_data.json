@@ -302343,5 +302343,20 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1966 Rolex Submariner 5513 Meters First Dial",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "1366XXX",
+        "Inventory": "/watches/1966-rolex-submariner-5513-meters-first-dial/r86w",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-04T11:48:10.745953",
+                "Price": null
+            }
+        ]
     }
 ]
