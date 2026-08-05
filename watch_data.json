@@ -302553,5 +302553,50 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "Patek Philippe 18K Rg Calatrava 570R Silver Dial",
+        "Year": null,
+        "Brand": "Patek philippe",
+        "Model": "Calatrava",
+        "Reference": "570R",
+        "Serial": "300XXX",
+        "Inventory": "/watches/patek-philippe-18k-rg-calatrava-570r-silver-dial/iqzz",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-05T18:09:43.144482",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1997 Rolex Daytona 16520 White Dial With Papers & Service Papers",
+        "Year": 1997,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "U757XXX",
+        "Inventory": "/watches/1997-rolex-daytona-16520-white-dial-with-papers-service-papers/zdd4",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-05T18:09:43.070160",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1960 Rolex Explorer 1016 Matte Tritium Service Dial",
+        "Year": 1960,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "1016",
+        "Serial": "517XXX",
+        "Inventory": "/watches/1960-rolex-explorer-1016-matte-tritium-service-dial/06xc",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-05T18:09:43.280159",
+                "Price": null
+            }
+        ]
     }
 ]
