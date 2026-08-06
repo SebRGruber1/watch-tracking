@@ -302598,5 +302598,80 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "2000 Patek Philippe Aquanaut 5066/1A With Archives",
+        "Year": 2000,
+        "Brand": "Patek philippe",
+        "Model": "Aquanaut",
+        "Reference": "5066/1A",
+        "Serial": "4106XXX",
+        "Inventory": "/watches/2000-patek-philippe-aquanaut-5066-1a-with-archives/jfgv",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-05T22:17:27.088107",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1993 Rolex Two-Tone Daytona 16523 Champagne Dial",
+        "Year": 1993,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16523",
+        "Serial": "S760XXX",
+        "Inventory": "/watches/1993-rolex-two-tone-daytona-16523-champagne-dial/wwol",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-05T22:17:27.136244",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "Patek Philippe Aquanaut 5066A",
+        "Year": null,
+        "Brand": "Patek philippe",
+        "Model": "Aquanaut",
+        "Reference": "5066A",
+        "Serial": "4061XXX",
+        "Inventory": "/watches/patek-philippe-aquanaut-5066a/el0l",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-05T22:17:27.280055",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1972 18K Yg Day-Date 1803 Silver Dial",
+        "Year": 1972,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "3046XXX",
+        "Inventory": "/watches/1972-18k-yg-day-date-1803-silver-dial/gsql",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-05T22:17:27.289225",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1986 Rolex 18K Yg Day-Date 18038 Champagne Dial",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "9132XXX",
+        "Inventory": "/watches/1986-rolex-18k-yg-day-date-18038-champagne-dial/dvb1",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-05T22:17:27.245752",
+                "Price": null
+            }
+        ]
     }
 ]
