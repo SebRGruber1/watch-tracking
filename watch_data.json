@@ -302853,5 +302853,65 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "2012 Rolex Gmt-Master Ii 116710 With Papers",
+        "Year": 2012,
+        "Brand": "Rolex",
+        "Model": "Gmt master ii",
+        "Reference": "116710",
+        "Serial": "M811XXX",
+        "Inventory": "/watches/2012-rolex-gmt-master-ii-116710-with-papers/l1em",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-07T11:52:57.278021",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Submariner 16800 Matte Dial",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16800",
+        "Serial": "8275XXX",
+        "Inventory": "/watches/1984-rolex-submariner-16800-matte-dial/brve",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-07T11:52:57.525190",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Explorer 14270",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "T520XXX",
+        "Inventory": "/watches/1996-rolex-explorer-14270/b9d8",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-07T11:52:57.607358",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Ladies Two-Tone Datejust 69173 Champagne Dial With Papers",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "69173",
+        "Serial": "W910XXX",
+        "Inventory": "/watches/1995-rolex-ladies-two-tone-datejust-69173-champagne-dial-with-papers/5wum",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-07T11:52:57.516294",
+                "Price": null
+            }
+        ]
     }
 ]
