@@ -302913,5 +302913,155 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1975 Rolex Gmt Master 6542 Tropical Dial",
+        "Year": 1975,
+        "Brand": "Rolex",
+        "Model": "Gmt master",
+        "Reference": "6542",
+        "Serial": "397XXX",
+        "Inventory": "/watches/1975-rolex-gmt-master-6542-tropical-dial/kbn5",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-10T21:23:54.249516",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1999 Rolex 18K Yg Bark Day-Date 18248 White Roman Numeral No-Lume Dial With Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18248",
+        "Serial": "A796XXX",
+        "Inventory": "/watches/1999-rolex-18k-yg-bark-day-date-18248-white-roman-numeral-no-lume-dial-with-papers/yrfs",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-10T21:23:53.951289",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Explorer 14270",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "P425XXX",
+        "Inventory": "/watches/2000-rolex-explorer-14270/rjml",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-10T21:23:54.267622",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1972 Rolex Submariner 1680 Mk 4 Dial",
+        "Year": 1972,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "3291XXX",
+        "Inventory": "/watches/1972-rolex-submariner-1680-mk-4-dial/l06h",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-10T21:23:54.367930",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1989 Rolex Gmt-Master 16700",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Gmt master",
+        "Reference": "16700",
+        "Serial": "L696XXX",
+        "Inventory": "/watches/1989-rolex-gmt-master-16700/knrf",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-10T21:23:54.259203",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Explorer 14270",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "A366XXX",
+        "Inventory": "/watches/1991-rolex-explorer-14270/kbf0",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-10T21:23:54.305595",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1987 Rolex Gmt-Master Ii 16760 Wgs Dial",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16760",
+        "Serial": "R546XXX",
+        "Inventory": "/watches/1987-rolex-gmt-master-ii-16760-wgs-dial/w8gr",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-10T21:23:54.115525",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1986 Rolex Explorer Ii 16550 White Porcelain Dial",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16550",
+        "Serial": "8957XXX",
+        "Inventory": "/watches/1986-rolex-explorer-ii-16550-white-porcelain-dial/o6xk",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-10T21:23:54.152157",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1973 Rolex Daytona Cosmograph 6263 Tropical No Daytona Dial",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "6263",
+        "Serial": "3291XXX",
+        "Inventory": "/watches/1973-rolex-daytona-cosmograph-6263-tropical-no-daytona-dial/i6zt",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-10T21:23:54.355738",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1967 Rolex Submariner 5513 Meters First Dial",
+        "Year": 1967,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "1694XXX",
+        "Inventory": "/watches/1967-rolex-submariner-5513-meters-first-dial/kljh",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-10T21:24:00.710876",
+                "Price": null
+            }
+        ]
     }
 ]
