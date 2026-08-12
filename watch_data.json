@@ -303273,5 +303273,65 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1979 Rolex 18K Yg Submariner 16808 Tropical Nipple Dial",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16808",
+        "Serial": "6515XXX",
+        "Inventory": "/watches/1979-rolex-18k-yg-submariner-16808-tropical-nipple-dial/7jpw",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-12T17:41:09.138050",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "Cartier Two-Tone Santos 2961 Automatic White Dial",
+        "Year": null,
+        "Brand": "Cartier",
+        "Model": "Santos",
+        "Reference": "2961",
+        "Serial": "81036XXX",
+        "Inventory": "/watches/cartier-two-tone-santos-2961-automatic-white-dial/pilm",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-12T17:41:09.087599",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1989 Rolex 18K Wg Day-Date 18239 Silver Index Dial With Papers",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18239",
+        "Serial": "L615XXX",
+        "Inventory": "/watches/1989-rolex-18k-wg-day-date-18239-silver-index-dial-with-papers/xqwg",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-12T17:41:09.252226",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2015 Rolex Daytona 116520 Black Dial With Papers",
+        "Year": 2015,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116520",
+        "Serial": "372UXXX",
+        "Inventory": "/watches/2015-rolex-daytona-116520-black-dial-with-papers/6pmk",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-12T17:41:09.190705",
+                "Price": null
+            }
+        ]
     }
 ]
