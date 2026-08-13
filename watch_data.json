@@ -303423,5 +303423,20 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1978 Tudor Oysterdate Automatic-Chrono Time 94200 Tropical Dial",
+        "Year": 1978,
+        "Brand": "Tudor",
+        "Model": "Oysterdate",
+        "Reference": "94200",
+        "Serial": "889XXX",
+        "Inventory": "/watches/1978-tudor-oysterdate-automatic-chrono-time-94200-tropical-dial/qlgw",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-13T03:21:22.253223",
+                "Price": null
+            }
+        ]
     }
 ]
