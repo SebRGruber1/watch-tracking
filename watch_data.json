@@ -303333,5 +303333,95 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1978 Tudor Oysterdate 94200 Automatic-Chrono Time Tropical Dial",
+        "Year": 1978,
+        "Brand": "Tudor",
+        "Model": "Oysterdate",
+        "Reference": "94200",
+        "Serial": "889XXX",
+        "Inventory": "/watches/1978-tudor-oysterdate-94200-automatic-chrono-time-tropical-dial/qlgw",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-12T21:43:33.463244",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1990 Rolex 18K Yg Submariner 16618 Midnight Blue Dial",
+        "Year": 1990,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16618",
+        "Serial": "E917XXX",
+        "Inventory": "/watches/1990-rolex-18k-yg-submariner-16618-midnight-blue-dial/jumj",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-12T21:43:33.637461",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1977 Rolex Datejust 16014 Silver Linen Dial",
+        "Year": 1977,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16014",
+        "Serial": "5516XXX",
+        "Inventory": "/watches/1977-rolex-datejust-16014-silver-linen-dial/2vsv",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-12T21:43:33.584323",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1977 Rolex Datejust 16014 Matte White Dial",
+        "Year": 1977,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16014",
+        "Serial": "5425XXX",
+        "Inventory": "/watches/1977-rolex-datejust-16014-matte-white-dial/9h2o",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-12T21:43:33.538750",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1982 Rolex Daytona 6263 Silver Big Red Sub Tropical Dial",
+        "Year": 1982,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "6263",
+        "Serial": "6608XXX",
+        "Inventory": "/watches/1982-rolex-daytona-6263-silver-big-red-sub-tropical-dial/oca3",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-12T21:43:33.595397",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710B",
+        "Serial": "T552XXX",
+        "Inventory": "/watches/1996-rolex-gmt-master-ii-16710-with-papers/sevx",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-12T21:43:33.668985",
+                "Price": null
+            }
+        ]
     }
 ]
