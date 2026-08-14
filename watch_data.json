@@ -303438,5 +303438,155 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1970 Rolex Submariner 5512 Serif Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5512",
+        "Serial": "3443XXX",
+        "Inventory": "/watches/1970-rolex-submariner-5512-serif-dial/86lr",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-13T21:41:35.263858",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1979 Rolex Submariner 5513 Mk 3 Maxi Dial With Box",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "5898XXX",
+        "Inventory": "/watches/1979-rolex-submariner-5513-mk-3-maxi-dial-with-box/q62j",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-13T21:41:35.081191",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1999 Mid-Size Rolex Oyster Perpetual 77080 Salmon 3, 6, 9 Dial",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "77080",
+        "Serial": "A467XXX",
+        "Inventory": "/watches/1999-mid-size-rolex-oyster-perpetual-77080-salmon-3-6-9-dial/tj8h",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-13T21:41:35.166711",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1971 Rolex 18K Wg Day-Date 1803 Silver No-Lume Wide Boy Dial",
+        "Year": 1971,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "2866XXX",
+        "Inventory": "/watches/1971-rolex-18k-wg-day-date-1803-silver-no-lume-wide-boy-dial/l0a4",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-13T21:41:35.174075",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "P432XXX",
+        "Inventory": "/watches/2000-rolex-gmt-master-ii-16710-with-papers/2ez8",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-13T21:41:35.122316",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1990 Rolex Datejust 16234 Cream No-Lume Roman Numeral Dial",
+        "Year": 1990,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16234",
+        "Serial": "E825XXX",
+        "Inventory": "/watches/1990-rolex-datejust-16234-cream-no-lume-roman-numeral-dial/iihf",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-13T21:41:35.180560",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Submariner 5513 Wgs Spider Dial With Box",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "8319XXX",
+        "Inventory": "/watches/1984-rolex-submariner-5513-wgs-spider-dial-with-box/blvm",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-13T21:41:35.158526",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1982 Rolex Submariner 5513 Mk 4 Maxi Dial",
+        "Year": 1982,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "7366XXX",
+        "Inventory": "/watches/1982-rolex-submariner-5513-mk-4-maxi-dial/3osn",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-13T21:41:34.913504",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1960'S Girard Perregaux Playboy 9034",
+        "Year": null,
+        "Brand": "Girard-perregaux",
+        "Model": "Playboy",
+        "Reference": "9034",
+        "Serial": "124XXX",
+        "Inventory": "/watches/1960-s-girard-perregaux-playboy-9034/h5du",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-13T21:41:38.950293",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "F.P. Journe Platinum First Generation Octa Perpetual Calendar Qp Cal 1300.3 Clover Dial",
+        "Year": null,
+        "Brand": "F.p. journe",
+        "Model": "Perpetual calendar",
+        "Reference": "QP Cal 1300.3",
+        "Serial": "N/A",
+        "Inventory": "/watches/f-p-journe-platinum-first-generation-octa-perpetual-calendar-qp-cal-1300-3-clover-dial/b0wf",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-13T21:41:38.974273",
+                "Price": null
+            }
+        ]
     }
 ]
