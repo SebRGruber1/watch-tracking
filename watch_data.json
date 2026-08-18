@@ -303648,5 +303648,20 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1973 Rolex Gmt-Master 1675 Mk 2 Dial",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "3300XXX",
+        "Inventory": "/watches/1973-rolex-gmt-master-1675-mk-2-dial/qajb",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-18T11:27:44.870884",
+                "Price": null
+            }
+        ]
     }
 ]
