@@ -303813,5 +303813,80 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1990 Rolex Gmt Master 16700",
+        "Year": 1990,
+        "Brand": "Rolex",
+        "Model": "Gmt master",
+        "Reference": "16700",
+        "Serial": "E418XXX",
+        "Inventory": "/watches/1990-rolex-gmt-master-16700/gjuc",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-19T21:02:29.752485",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "Audemars Piguet First Royal Oak 36Mm 4332",
+        "Year": null,
+        "Brand": "Audemars piguet",
+        "Model": "Royal oak",
+        "Reference": "4332",
+        "Serial": "No. XXX",
+        "Inventory": "/watches/audemars-piguet-first-royal-oak-36mm-4332/6qxo",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-19T21:02:29.520735",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2025 Rolex Submariner 126610Lv With Box & Papers",
+        "Year": 2025,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "126610LV",
+        "Serial": "F15X8XXX",
+        "Inventory": "/watches/2025-rolex-submariner-126610lv-with-box-papers/f99g",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-19T21:02:29.763725",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1975 Rolex Datejust 1601 Blue Sigma Tropical Dial With Papers",
+        "Year": 1975,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1601",
+        "Serial": "4037XXX",
+        "Inventory": "/watches/1975-rolex-datejust-1601-blue-sigma-tropical-dial-with-papers/57hz",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-19T21:02:29.830381",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Daytona 116520 Tropical Dial",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116520",
+        "Serial": "P350XXX",
+        "Inventory": "/watches/2000-rolex-daytona-116520-tropical-dial/8cyx",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-19T21:02:29.840240",
+                "Price": null
+            }
+        ]
     }
 ]
