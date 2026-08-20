@@ -303888,5 +303888,50 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1995 Rolex 18K Yg & Diamond Day-Date 18338 White Carousel Diamond Pav\u00e9 Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18338",
+        "Serial": "W008XXX",
+        "Inventory": "/watches/1995-rolex-18k-yg-diamond-day-date-18338-white-carousel-diamond-pave-dial/h8zk",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-20T14:33:53.576980",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2022 Rolex Explorer 124270 With Box & Papers",
+        "Year": 2022,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "124270",
+        "Serial": "30DR6XXX",
+        "Inventory": "/watches/2022-rolex-explorer-124270-with-box-papers/uazl",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-20T14:33:53.767046",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1971 Rolex 18K Yg Gmt-Master 1675 Brown Nipple Dial",
+        "Year": 1971,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "2869XXX",
+        "Inventory": "/watches/1971-rolex-18k-yg-gmt-master-1675-brown-nipple-dial/olz3",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-20T14:33:53.804121",
+                "Price": null
+            }
+        ]
     }
 ]
