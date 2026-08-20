@@ -303933,5 +303933,50 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1999 Rolex Gmt Master Ii 16710",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Gmt master ii",
+        "Reference": "16710",
+        "Serial": "A913XXX",
+        "Inventory": "/watches/1999-rolex-gmt-master-ii-16710/m4d9",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-20T17:23:44.823411",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Zenith Daytona 16520 Black Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "W419XXX",
+        "Inventory": "/watches/1995-rolex-zenith-daytona-16520-black-dial/jd1g",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-20T17:23:44.845098",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1993 Rolex Daytona 16520 Inverted 6 Patrizzi Dial",
+        "Year": 1993,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "S760XXX",
+        "Inventory": "/watches/1993-rolex-daytona-16520-inverted-6-patrizzi-dial/1o9x",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-20T17:23:44.614978",
+                "Price": null
+            }
+        ]
     }
 ]
