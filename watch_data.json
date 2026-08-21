@@ -303978,5 +303978,95 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1966 Rolex Submariner 5513 Meters First Dial With Service Papers",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "1484XXX",
+        "Inventory": "/watches/1966-rolex-submariner-5513-meters-first-dial-with-service-papers/bofd",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-20T21:05:51.253359",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2007 Rolex Two-Tone Rolex Submariner Blue Dial With Cpo Box & Papers",
+        "Year": 2007,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16613",
+        "Serial": "Z982XXX",
+        "Inventory": "/watches/2007-rolex-two-tone-rolex-submariner-blue-dial-with-cpo-box-papers/wo9j",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-20T21:05:51.354993",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2026 Rolex Datejust 126234 Green Vignette Dial With Box & Papers",
+        "Year": 2026,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "126234",
+        "Serial": "287FJXXX",
+        "Inventory": "/watches/2026-rolex-datejust-126234-green-vignette-dial-with-box-papers/ii84",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-20T21:05:51.236583",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1963 Tudor Pcg Submariner 7928 Meters First Gilt Rose Dial",
+        "Year": 1963,
+        "Brand": "Tudor",
+        "Model": "Submariner",
+        "Reference": "7928",
+        "Serial": "410XXX",
+        "Inventory": "/watches/1963-tudor-pcg-submariner-7928-meters-first-gilt-rose-dial/hfzg",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-20T21:05:51.325436",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1993 Rolex Explorer Ii 16570 White Dial",
+        "Year": 1993,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "S457XXX",
+        "Inventory": "/watches/1993-rolex-explorer-ii-16570-white-dial/cnit",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-20T21:05:51.333975",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Ladies Datejust 79174 Roman Numeral Mop Dial With Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "79174",
+        "Serial": "K199XXX",
+        "Inventory": "/watches/2000-rolex-ladies-datejust-79174-roman-numeral-mop-dial-with-papers/0j0x",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-20T21:05:51.221580",
+                "Price": null
+            }
+        ]
     }
 ]
