@@ -304068,5 +304068,35 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1999 Rolex Daytona 16520 With Box & Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "A952XXX",
+        "Inventory": "/watches/1999-rolex-daytona-16520-with-box-papers/q6pk",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-24T14:34:53.315612",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex 18K Yg Submariner 16618 Blue Dial With Box & Papers",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16618",
+        "Serial": "D996XXX",
+        "Inventory": "/watches/2005-rolex-18k-yg-submariner-16618-blue-dial-with-box-papers/ion9",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-24T14:34:53.399766",
+                "Price": null
+            }
+        ]
     }
 ]
