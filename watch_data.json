@@ -304098,5 +304098,35 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1976 Rolex Submariner 1680 Mk 4 Dial",
+        "Year": 1976,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "4398XXX",
+        "Inventory": "/watches/1976-rolex-submariner-1680-mk-4-dial/q6pt",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-24T17:24:44.005006",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1979 Rolex 18K Yg Gmt-Master 1675 Black Nipple Dial",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Gmt master",
+        "Reference": "1675",
+        "Serial": "5903XXX",
+        "Inventory": "/watches/1979-rolex-18k-yg-gmt-master-1675-black-nipple-dial/dozh",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-24T17:24:43.988080",
+                "Price": null
+            }
+        ]
     }
 ]
