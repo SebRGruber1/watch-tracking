@@ -304128,5 +304128,80 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1969 Rolex Gmt-Master 1675 Mk 1 Dial With Box & Double Punched Papers",
+        "Year": 1969,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "2041XXX",
+        "Inventory": "/watches/1969-rolex-gmt-master-1675-mk-1-dial-with-box-double-punched-papers/ixt7",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-24T21:04:18.522162",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1976 Rolex Submariner 1680 Mk 4 Dial With Rsc Box & Papers",
+        "Year": 1976,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "4398XXX",
+        "Inventory": "/watches/1976-rolex-submariner-1680-mk-4-dial-with-rsc-box-papers/q6pt",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-24T21:04:18.972544",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "Corum 18K Yg Twenty Dollar Coin Watch 1904",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": null,
+        "Reference": "1904",
+        "Serial": "307XXX",
+        "Inventory": "/watches/corum-18k-yg-twenty-dollar-coin-watch-1904/3hnk",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-24T21:04:18.702898",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2018 Rolex Daytona 116500Ln Black Dial With Box & Papers",
+        "Year": 2018,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500LN",
+        "Serial": "1U914XXX",
+        "Inventory": "/watches/2018-rolex-daytona-116500ln-black-dial-with-box-papers/m2bq",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-24T21:04:18.899603",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2020 Rolex Submariner 116610Ln With Box & Papers",
+        "Year": 2020,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "116610LN",
+        "Serial": "Z3476XXX",
+        "Inventory": "/watches/2020-rolex-submariner-116610ln-with-box-papers/dgg7",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-24T21:04:25.400386",
+                "Price": null
+            }
+        ]
     }
 ]
