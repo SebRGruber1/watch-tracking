@@ -304248,5 +304248,80 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "Patek Philippe 18K Rg Annual Calendar 5396R With Tiffany & Co. Dial",
+        "Year": null,
+        "Brand": "Patek philippe",
+        "Model": "Annual calendar",
+        "Reference": "5396R",
+        "Serial": "4570XXX",
+        "Inventory": "/watches/patek-philippe-18k-rg-annual-calendar-5396r-with-tiffany-co-dial/8dob",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-25T21:06:07.276506",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Gmt-Master Ii 16710 With Box & Papers",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "Y973XXX",
+        "Inventory": "/watches/2002-rolex-gmt-master-ii-16710-with-box-papers/gczt",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-25T21:06:07.320107",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex Explorer Ii 16570 With Papers",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "F793XXX",
+        "Inventory": "/watches/2005-rolex-explorer-ii-16570-with-papers/ya1l",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-25T21:06:07.365964",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1993 Rolex Explorer Ii 16570 With Papers",
+        "Year": 1993,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "S459XXX",
+        "Inventory": "/watches/1993-rolex-explorer-ii-16570-with-papers/p4gq",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-25T21:06:07.379567",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "Corum 18K Yg Twenty Dollar Coin Watch 1895",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": null,
+        "Reference": "1895",
+        "Serial": "8869XXX",
+        "Inventory": "/watches/corum-18k-yg-twenty-dollar-coin-watch-1895/ktuz",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-25T21:06:07.335003",
+                "Price": null
+            }
+        ]
     }
 ]
