@@ -304323,5 +304323,20 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1997 Rolex Gmt-Master 16700 Tritium Dial With Papers",
+        "Year": 1997,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "U605XXX",
+        "Inventory": "/watches/1997-rolex-gmt-master-16700-tritium-dial-with-papers/ajc5",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-26T12:14:57.859384",
+                "Price": null
+            }
+        ]
     }
 ]
