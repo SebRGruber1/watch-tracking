@@ -304338,5 +304338,110 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1976 Rolex 18K Yg Day-Date 1803 Matte Black Diamond Dial",
+        "Year": 1976,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "4178XXX",
+        "Inventory": "/watches/1976-rolex-18k-yg-day-date-1803-matte-black-diamond-dial/r1sk",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-26T20:25:41.933549",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex Daytona 126500Ln Black Dial With Box & Papers",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "126500LN",
+        "Serial": "559E5XXX",
+        "Inventory": "/watches/2024-rolex-daytona-126500ln-black-dial-with-box-papers/esqw",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-26T20:25:42.115252",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1963 Rolex 18K Wg Day-Date 1803 Silver Swiss Dial",
+        "Year": 1963,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "995XXX",
+        "Inventory": "/watches/1963-rolex-18k-wg-day-date-1803-silver-swiss-dial/bbbt",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-26T20:25:42.196686",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1989 Rolex 18K White Gold Day-Date 18349 Silver Diamond Dial",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18349",
+        "Serial": "L814XXX",
+        "Inventory": "/watches/1989-rolex-18k-white-gold-day-date-18349-silver-diamond-dial/h3hz",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-26T20:25:42.219219",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1990 Rolex Ladies Datejust 69174 Silver Dial",
+        "Year": 1990,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "69174",
+        "Serial": "E125XXX",
+        "Inventory": "/watches/1990-rolex-ladies-datejust-69174-silver-dial/an76",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-26T20:25:42.305000",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1982 Rolex Datejust 16030 Silver Roman Numeral Dial With Box",
+        "Year": 1982,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16030",
+        "Serial": "7296XXX",
+        "Inventory": "/watches/1982-rolex-datejust-16030-silver-roman-numeral-dial-with-box/7zwt",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-26T20:25:42.238442",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "F.P. Journe Platinum Centigraphe Souverain Ct Cal 1506",
+        "Year": null,
+        "Brand": "F.p. journe",
+        "Model": "Centigraphe souverain",
+        "Reference": "CT Cal 1506",
+        "Serial": "XXX",
+        "Inventory": "/watches/f-p-journe-platinum-centigraphe-souverain-ct-cal-1506/vj4q",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-26T20:25:46.334238",
+                "Price": null
+            }
+        ]
     }
 ]
