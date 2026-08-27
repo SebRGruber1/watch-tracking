@@ -304443,5 +304443,20 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1967 Rolex Datejust 1601 Brown Dial",
+        "Year": 1967,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1601",
+        "Serial": "1525XXX",
+        "Inventory": "/watches/1967-rolex-datejust-1601-brown-dial/nakh",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-27T09:43:55.245391",
+                "Price": null
+            }
+        ]
     }
 ]
