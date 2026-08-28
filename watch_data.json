@@ -304458,5 +304458,65 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1979 Rolex 18K Yg Day-Date 18038 Champagne Dial",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "6036XXX",
+        "Inventory": "/watches/1979-rolex-18k-yg-day-date-18038-champagne-dial/zvca",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-27T20:13:27.377781",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex Submariner 5513 Wgs Dial With Box & Papers",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "R755XXX",
+        "Inventory": "/watches/1988-rolex-submariner-5513-wgs-dial-with-box-papers/xodg",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-27T20:13:27.841407",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex Daytona 116500Ln White Dial With Box & Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500LN",
+        "Serial": "019GNXXX",
+        "Inventory": "/watches/2019-rolex-daytona-116500ln-white-dial-with-box-papers/mjha",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-27T20:13:27.737820",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "Daniel Roth 18K Wg Masters Ellipsocurvex Moon Phase 368.X.60 Silver Guilloch\u00e9 Dial With Box",
+        "Year": null,
+        "Brand": "Franck muller",
+        "Model": "Masters ellipsocurvex moon phase",
+        "Reference": "368.X.60",
+        "Serial": "15XXX",
+        "Inventory": "/watches/daniel-roth-18k-wg-masters-ellipsocurvex-moon-phase-368-x-60-silver-guilloche-dial-with-box/2vzm",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-27T20:13:27.733042",
+                "Price": null
+            }
+        ]
     }
 ]
