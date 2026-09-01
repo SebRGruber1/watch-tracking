@@ -304563,5 +304563,20 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1990 Rolex 18K Yg Submariner 16618 Purple Blue Dial",
+        "Year": 1990,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16618",
+        "Serial": "E917XXX",
+        "Inventory": "/watches/1990-rolex-18k-yg-submariner-16618-purple-blue-dial/jumj",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-01T09:54:16.618220",
+                "Price": null
+            }
+        ]
     }
 ]
