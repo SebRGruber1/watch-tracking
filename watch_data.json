@@ -304518,5 +304518,50 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1975 Rolex 14K Yg Daytona 6263 Champagne Dial With Mark 1 Bezel",
+        "Year": 1975,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "6263",
+        "Serial": "4089XXX",
+        "Inventory": "/watches/1975-rolex-14k-yg-daytona-6263-champagne-dial-with-mark-1-bezel/xjex",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-31T20:21:50.861261",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1977 Rolex Submariner 5513 Pre Comex Dial",
+        "Year": 1977,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "5094XXX",
+        "Inventory": "/watches/1977-rolex-submariner-5513-pre-comex-dial/cggr",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-31T20:21:50.812250",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1966 Rolex Oyster Perpetual 1018 Silver Dial",
+        "Year": 1966,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "1018",
+        "Serial": "1739XXX",
+        "Inventory": "/watches/1966-rolex-oyster-perpetual-1018-silver-dial/sdnz",
+        "PriceHistory": [
+            {
+                "Date": "2026-08-31T20:21:50.926893",
+                "Price": null
+            }
+        ]
     }
 ]
