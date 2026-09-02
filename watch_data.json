@@ -304728,5 +304728,35 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "2024 Rolex Daytona 126500Ln Black Dial With Box & Papers",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "126500LN",
+        "Serial": "92658XXX",
+        "Inventory": "/watches/2024-rolex-daytona-126500ln-black-dial-with-box-papers/orto",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-02T14:24:15.502145",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1972 Rolex Red Submariner 1680 Mk 4 Dial",
+        "Year": 1972,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "2955XXX",
+        "Inventory": "/watches/1972-rolex-red-submariner-1680-mk-4-dial/1pdm",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-02T14:24:15.685059",
+                "Price": null
+            }
+        ]
     }
 ]
