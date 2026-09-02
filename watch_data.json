@@ -304668,5 +304668,65 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1994 Rolex 18K Yg Day Day-Date 18238 White Tiffany & Co. Roman Numeral Dial With Service Papers",
+        "Year": 1994,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "S919XXX",
+        "Inventory": "/watches/1994-rolex-18k-yg-day-day-date-18238-white-tiffany-co-roman-numeral-dial-with-service-papers/o8pf",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-01T22:46:09.748901",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1997 Omega Speedmaster 3570.50 With Warranty Card",
+        "Year": 1997,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "3570.50",
+        "Serial": "48357XXX",
+        "Inventory": "/watches/1997-omega-speedmaster-3570-50-with-warranty-card/lql0",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-01T22:46:09.972875",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2025 Rolex Oyster Perpetual 126000 Green Dial With Papers",
+        "Year": 2025,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "126000",
+        "Serial": "71U6UXXX",
+        "Inventory": "/watches/2025-rolex-oyster-perpetual-126000-green-dial-with-papers/f4ch",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-01T22:46:09.937891",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1993 Rolex 18K Wg Day-Date 18238 Silver Dial",
+        "Year": 1993,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18239",
+        "Serial": "S491XXX",
+        "Inventory": "/watches/1993-rolex-18k-wg-day-date-18238-silver-dial/5lmi",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-01T22:46:09.895984",
+                "Price": null
+            }
+        ]
     }
 ]
