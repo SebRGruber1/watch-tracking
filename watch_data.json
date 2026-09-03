@@ -304983,5 +304983,95 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1970 Rolex Red Submariner 1680 Mk 6 Dial With Box & Papers",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "3741XXX",
+        "Inventory": "/watches/1970-rolex-red-submariner-1680-mk-6-dial-with-box-papers/x77z",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-03T18:57:46.269426",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1965 Rolex Submariner 5512 Gilt Spider Dial",
+        "Year": 1965,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5512",
+        "Serial": "1220XXX",
+        "Inventory": "/watches/1965-rolex-submariner-5512-gilt-spider-dial/qwkj",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-03T18:57:46.443189",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1974 Rolex Red Submariner 1680 Mk 6 Dial",
+        "Year": 1974,
+        "Brand": "Rolex",
+        "Model": "Red submariner",
+        "Reference": "1680",
+        "Serial": "3846XXX",
+        "Inventory": "/watches/1974-rolex-red-submariner-1680-mk-6-dial/kznk",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-03T18:57:46.405413",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2016 Audemars Piguet 18K Yg Royal Oak Perpetual Calendar 26574Ba With Box & Archives",
+        "Year": 2016,
+        "Brand": "Audemars piguet",
+        "Model": "Royal oak",
+        "Reference": "26574BA.00.1220BA.01",
+        "Serial": "I99913-958XXX",
+        "Inventory": "/watches/2016-audemars-piguet-18k-yg-royal-oak-perpetual-calendar-26574ba-with-box-archives/ua2q",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-03T18:57:46.375893",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1962 Rolex Submariner 5508 Tropical Gilt Dial",
+        "Year": 1962,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5508",
+        "Serial": "762XXX",
+        "Inventory": "/watches/1962-rolex-submariner-5508-tropical-gilt-dial/awol",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-03T18:57:46.471942",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1979 Rolex Submariner 1680 Mk 2 Dial",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "6154XXX",
+        "Inventory": "/watches/1979-rolex-submariner-1680-mk-2-dial/rwex",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-03T18:57:46.479657",
+                "Price": null
+            }
+        ]
     }
 ]
