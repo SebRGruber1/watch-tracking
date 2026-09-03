@@ -304863,5 +304863,80 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1999 Rolex 18K Yg Zenith Daytona 16528 Black Dial With Box",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16528",
+        "Serial": "A459XXX",
+        "Inventory": "/watches/1999-rolex-18k-yg-zenith-daytona-16528-black-dial-with-box/ysnw",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-02T22:50:51.274183",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex 18K Yg Day-Date 18238  Champagne Dial With Service Papers",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "W810XXX",
+        "Inventory": "/watches/1995-rolex-18k-yg-day-date-18238-champagne-dial-with-service-papers/vyca",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-02T22:50:51.167789",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1979 Rolex Sea-Dweller 1665 Mk 3 White Dial",
+        "Year": 1979,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "1665",
+        "Serial": "6196XXX",
+        "Inventory": "/watches/1979-rolex-sea-dweller-1665-mk-3-white-dial/uryz",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-02T22:50:51.253365",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Submariner 14060 With Papers",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "14060",
+        "Serial": "K998XXX",
+        "Inventory": "/watches/2001-rolex-submariner-14060-with-papers/dstu",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-02T22:50:51.289937",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1974 Rolex Explorer 1016",
+        "Year": 1974,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "1016",
+        "Serial": "3696XXX",
+        "Inventory": "/watches/1974-rolex-explorer-1016/9sey",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-02T22:50:51.406750",
+                "Price": null
+            }
+        ]
     }
 ]
