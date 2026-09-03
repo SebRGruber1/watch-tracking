@@ -304938,5 +304938,50 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1987 Omega Speedmaster 145.022",
+        "Year": 1987,
+        "Brand": "Omega",
+        "Model": "Speedmaster",
+        "Reference": "145.022",
+        "Serial": "48250XXX",
+        "Inventory": "/watches/1987-omega-speedmaster-145-022/upuy",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-03T03:45:01.012821",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1975 Rolex Datejust 1603 Grey Tiffany & Co Dial",
+        "Year": 1975,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "1603",
+        "Serial": "3982XXX",
+        "Inventory": "/watches/1975-rolex-datejust-1603-grey-tiffany-co-dial/uzhb",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-03T03:45:00.894197",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1990 Rolex 18K Yg Day-Date 18238 Champagne Arabic Dial",
+        "Year": 1990,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "E666XXX",
+        "Inventory": "/watches/1990-rolex-18k-yg-day-date-18238-champagne-arabic-dial/zswa",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-03T03:45:01.041295",
+                "Price": null
+            }
+        ]
     }
 ]
