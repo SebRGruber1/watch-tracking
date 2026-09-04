@@ -305073,5 +305073,125 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "2001 Rolex Explorer 114270 With Service Papers",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114720",
+        "Serial": "Y379XXX",
+        "Inventory": "/watches/2001-rolex-explorer-114270-with-service-papers/wmkg",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-03T22:49:35.942209",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Explorer Ii 16570 White Dial With Papers & Service Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "P731XXX",
+        "Inventory": "/watches/2000-rolex-explorer-ii-16570-white-dial-with-papers-service-papers/t5nw",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-03T22:49:36.313872",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1971 Rolex Submariner 5513 Serif Dial",
+        "Year": 1971,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "2724XXX",
+        "Inventory": "/watches/1971-rolex-submariner-5513-serif-dial/smji",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-03T22:49:36.168815",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Explorer Ii 16570 White Dial",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "P506XXX",
+        "Inventory": "/watches/2000-rolex-explorer-ii-16570-white-dial/ojzc",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-03T22:49:36.340865",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1988 Rolex 18K Yg Day-Date 18038 Champagne Dial",
+        "Year": 1988,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "R837XXX",
+        "Inventory": "/watches/1988-rolex-18k-yg-day-date-18038-champagne-dial/ichx",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-03T22:49:36.156440",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex Daytona 116520 With Papers",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116520",
+        "Serial": "D710XXX",
+        "Inventory": "/watches/2005-rolex-daytona-116520-with-papers/jwt9",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-03T22:49:36.293963",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1968 Rolex Submariner 5513 Serif Dial",
+        "Year": 1968,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "2294XXX",
+        "Inventory": "/watches/1968-rolex-submariner-5513-serif-dial/1elx",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-03T22:49:42.272635",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2001 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 2001,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "Y356XXX",
+        "Inventory": "/watches/2001-rolex-gmt-master-ii-16710-with-papers/rrpg",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-03T22:49:42.367038",
+                "Price": null
+            }
+        ]
     }
 ]
