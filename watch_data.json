@@ -305208,5 +305208,155 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "Patek Philippe 18K Rg Perpetual Calendar 5039R Silver Dial",
+        "Year": null,
+        "Brand": "Patek philippe",
+        "Model": "Perpetual calendar",
+        "Reference": "5039R",
+        "Serial": "4000XXX",
+        "Inventory": "/watches/patek-philippe-18k-rg-perpetual-calendar-5039r-silver-dial/pnyf",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-08T19:10:11.593247",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "Rolex Oyster Perpetual 126000 Blue Dial",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "126000",
+        "Serial": "Y613JXXX",
+        "Inventory": "/watches/rolex-oyster-perpetual-126000-blue-dial/zftc",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-08T19:10:11.851470",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2018 Rolex Datejust 126334 Blue Dial With Papers",
+        "Year": 2018,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "126334",
+        "Serial": "35970XXX",
+        "Inventory": "/watches/2018-rolex-datejust-126334-blue-dial-with-papers/ykfp",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-08T19:10:11.641995",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2008 Rolex18K Wg Daytona 116509 Meteorite Dial",
+        "Year": 2008,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116509",
+        "Serial": "V536XXX",
+        "Inventory": "/watches/2008-rolex18k-wg-daytona-116509-meteorite-dial/vcbu",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-08T19:10:11.738475",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex Green Submariner 16610",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "F835XXX",
+        "Inventory": "/watches/2005-rolex-green-submariner-16610/metl",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-08T19:10:11.799352",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1996 Rolex Explorer 14270 Tritium Dial",
+        "Year": 1996,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "T764XXX",
+        "Inventory": "/watches/1996-rolex-explorer-14270-tritium-dial/coac",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-08T19:10:11.599853",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2020 Rolex Datejust 126334 Blue Dial With Papers",
+        "Year": 2020,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "126334",
+        "Serial": "8L795XXX",
+        "Inventory": "/watches/2020-rolex-datejust-126334-blue-dial-with-papers/6m5y",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-08T19:10:11.749383",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "Rolex Submariner 126610Ln",
+        "Year": null,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "126610LN",
+        "Serial": "8Z808XXX",
+        "Inventory": "/watches/rolex-submariner-126610ln/01uo",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-08T19:10:11.759213",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1972 Rolex 18K Yg Day-Date 1803 Champagne Dial",
+        "Year": 1972,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "1803",
+        "Serial": "3113XXX",
+        "Inventory": "/watches/1972-rolex-18k-yg-day-date-1803-champagne-dial/p39m",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-08T19:10:11.906318",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2013 Rolex Submariner 116610Lv With Papers",
+        "Year": 2013,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "116610LV",
+        "Serial": "Q546XXX",
+        "Inventory": "/watches/2013-rolex-submariner-116610lv-with-papers/jx9u",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-08T19:10:11.886502",
+                "Price": null
+            }
+        ]
     }
 ]
