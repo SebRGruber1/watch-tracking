@@ -305358,5 +305358,35 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1977 Rolex Submariner 1680 Mk 2 Dial",
+        "Year": 1977,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "5036XXX",
+        "Inventory": "/watches/1977-rolex-submariner-1680-mk-2-dial/4qvg",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-08T22:58:38.206808",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2005 Rolex Green Submariner 16610Lv",
+        "Year": 2005,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610LV",
+        "Serial": "F835XXX",
+        "Inventory": "/watches/2005-rolex-green-submariner-16610lv/metl",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-08T22:58:38.427980",
+                "Price": null
+            }
+        ]
     }
 ]
