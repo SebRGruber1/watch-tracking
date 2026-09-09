@@ -305388,5 +305388,35 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "2003 Patek Philippe Aquanaut 5065/1 With Archives",
+        "Year": 2003,
+        "Brand": "Patek philippe",
+        "Model": "Aquanaut",
+        "Reference": "5065/1",
+        "Serial": "4139XXX",
+        "Inventory": "/watches/2003-patek-philippe-aquanaut-5065-1-with-archives/vnhc",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-09T04:00:12.271787",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2021 Patek Philippe Jumbo Aquanaut 5167A With Box & Papers",
+        "Year": 2021,
+        "Brand": "Patek philippe",
+        "Model": "Aquanaut",
+        "Reference": "5167A",
+        "Serial": "7398XXX",
+        "Inventory": "/watches/2021-patek-philippe-jumbo-aquanaut-5167a-with-box-papers/91dm",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-09T04:00:12.416887",
+                "Price": null
+            }
+        ]
     }
 ]
