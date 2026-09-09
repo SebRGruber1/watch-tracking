@@ -305418,5 +305418,65 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1987 Rolex 18K Yg Datejust 16018 Blue Roman Numeral Tropical Dial",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "16018",
+        "Serial": "R526XXX",
+        "Inventory": "/watches/1987-rolex-18k-yg-datejust-16018-blue-roman-numeral-tropical-dial/lr5r",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-09T18:53:57.312237",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex Mk 1 Green Submariner 16610 With Papers",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "F050XXX",
+        "Inventory": "/watches/2003-rolex-mk-1-green-submariner-16610-with-papers/jh38",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-09T18:53:57.261983",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Submariner 16800 Matte Dial",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16800",
+        "Serial": "8495XXX",
+        "Inventory": "/watches/1984-rolex-submariner-16800-matte-dial/8jvy",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-09T18:53:57.424507",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex Explorer 14270 With Papers",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "W861XXX",
+        "Inventory": "/watches/1995-rolex-explorer-14270-with-papers/6jxq",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-09T18:53:57.532058",
+                "Price": null
+            }
+        ]
     }
 ]
