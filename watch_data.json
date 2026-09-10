@@ -305493,5 +305493,110 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1970 Rolex Red Submariner 1680 Mk 5 Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "2867XXX",
+        "Inventory": "/watches/1970-rolex-red-submariner-1680-mk-5-dial/ggl7",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-10T18:55:22.685879",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1975 Rolex Submariner 1680 Mk 1 Dial",
+        "Year": 1975,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "3933XXX",
+        "Inventory": "/watches/1975-rolex-submariner-1680-mk-1-dial/dcjx",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-10T18:55:22.830410",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1969 Rolex 18K Yg Gmt Master 1675 Brown Nipple Dial With Papers",
+        "Year": 1969,
+        "Brand": "Rolex",
+        "Model": "Gmt master",
+        "Reference": "1675",
+        "Serial": "1906XXX",
+        "Inventory": "/watches/1969-rolex-18k-yg-gmt-master-1675-brown-nipple-dial-with-papers/b1la",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-10T18:55:22.811754",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1984 Rolex Sea-Dweller 16660 Glossy Tiffany & Co. Dial",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Sea-dweller",
+        "Reference": "16660",
+        "Serial": "8322XXX",
+        "Inventory": "/watches/1984-rolex-sea-dweller-16660-glossy-tiffany-co-dial/f6xr",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-10T18:55:22.878792",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex Mk 1 Green Submariner 16610Lv With Box, Papers & Service Papers",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610LV",
+        "Serial": "F253XXX",
+        "Inventory": "/watches/2003-rolex-mk-1-green-submariner-16610lv-with-box-papers-service-papers/s8am",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-10T18:55:22.851713",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2008 Rolex  Green Submariner 16610Lv",
+        "Year": 2008,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "V015XXX",
+        "Inventory": "/watches/2008-rolex-green-submariner-16610lv/zbvv",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-10T18:55:22.900174",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "Breguet 18K Rg Classique 5907Br Silver Guilloche Dial",
+        "Year": null,
+        "Brand": "Breguet",
+        "Model": "Classique",
+        "Reference": "5907BR",
+        "Serial": "463XXX",
+        "Inventory": "/watches/breguet-18k-rg-classique-5907br-silver-guilloche-dial/xhzq",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-10T18:55:26.922988",
+                "Price": null
+            }
+        ]
     }
 ]
