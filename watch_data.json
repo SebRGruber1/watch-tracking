@@ -305478,5 +305478,20 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1989 Rolex Submariner 5513 Wgs Dial",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "L245XXX",
+        "Inventory": "/watches/1989-rolex-submariner-5513-wgs-dial/tneq",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-09T22:59:10.423975",
+                "Price": null
+            }
+        ]
     }
 ]
