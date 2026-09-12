@@ -305598,5 +305598,20 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "2003 Rolex Mk 1 Green Submariner 16610Lv With Papers And Tag",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610LV",
+        "Serial": "F050XXX",
+        "Inventory": "/watches/2003-rolex-mk-1-green-submariner-16610lv-with-papers-and-tag/jh38",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-12T13:41:55.079075",
+                "Price": null
+            }
+        ]
     }
 ]
