@@ -305703,5 +305703,20 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1968 Rolex Gmt-Master 1675 Mk 1 Dial",
+        "Year": 1968,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "2328XXX",
+        "Inventory": "/watches/1968-rolex-gmt-master-1675-mk-1-dial/w3jv",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-16T12:04:49.202182",
+                "Price": null
+            }
+        ]
     }
 ]
