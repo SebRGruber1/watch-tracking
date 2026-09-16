@@ -305718,5 +305718,110 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1970 Rolex Submariner 1680 Mk 2 Tropical Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "2294XXX",
+        "Inventory": "/watches/1970-rolex-submariner-1680-mk-2-tropical-dial/pu1f",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-16T16:50:58.725330",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1977 Rolex Submariner 1680 Mk 2 Dial",
+        "Year": 1977,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "5294XXX",
+        "Inventory": "/watches/1977-rolex-submariner-1680-mk-2-dial/quie",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-16T16:50:59.012763",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2020 Tudor Black Bay Gmt 79830Rb With Box & Papers",
+        "Year": 2020,
+        "Brand": "Tudor",
+        "Model": "Black bay gmt",
+        "Reference": "79830RB",
+        "Serial": "Q429XXX",
+        "Inventory": "/watches/2020-tudor-black-bay-gmt-79830rb-with-box-papers/3zrx",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-16T16:50:58.785344",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1975 Rolex 18K Yg Submariner Tropical Nipple Dial",
+        "Year": 1975,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "4092XXX",
+        "Inventory": "/watches/1975-rolex-18k-yg-submariner-tropical-nipple-dial/xzxk",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-16T16:50:58.848378",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1965 Rolex Submariner 5513 Gilt Underline 3, 6, 9 Swiss & Double T < 25 Dial",
+        "Year": 1965,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "1170XXX",
+        "Inventory": "/watches/1965-rolex-submariner-5513-gilt-underline-3-6-9-swiss-double-t-25-dial/gjmi",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-16T16:50:58.900228",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2022 Grand Seiko Elegance Collection Sbgw279 \"Oruri\"",
+        "Year": 2022,
+        "Brand": "Seiko",
+        "Model": "Elegance collection",
+        "Reference": "SBGW279",
+        "Serial": "230XXX",
+        "Inventory": "/watches/2022-grand-seiko-elegance-collection-sbgw279-oruri/mf7v",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-16T16:50:58.825203",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2021 Rolex 18K Rg Diamond Datejust 116285Bbr Zebra Dial With Box & Papers",
+        "Year": 2021,
+        "Brand": "Rolex",
+        "Model": "Datejust",
+        "Reference": "116285BBR",
+        "Serial": "184N9XXX",
+        "Inventory": "/watches/2021-rolex-18k-rg-diamond-datejust-116285bbr-zebra-dial-with-box-papers/7ctm",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-16T16:50:58.855932",
+                "Price": null
+            }
+        ]
     }
 ]
