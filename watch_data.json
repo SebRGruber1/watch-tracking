@@ -305928,5 +305928,35 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1990 Rolex Gmt-Master 16700 With Box & Papers",
+        "Year": 1990,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16700",
+        "Serial": "E875XXX",
+        "Inventory": "/watches/1990-rolex-gmt-master-16700-with-box-papers/dgij",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-17T19:21:58.778901",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2023 Rolex Explorer 224270 With Box & Papers",
+        "Year": 2023,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "224270",
+        "Serial": "G6V58XXX",
+        "Inventory": "/watches/2023-rolex-explorer-224270-with-box-papers/ui6b",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-17T19:21:58.991620",
+                "Price": null
+            }
+        ]
     }
 ]
