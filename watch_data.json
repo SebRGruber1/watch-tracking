@@ -305838,5 +305838,50 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1984 Rolex Submariner 16800 Matte Dial",
+        "Year": 1984,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16800",
+        "Serial": "8269XXX",
+        "Inventory": "/watches/1984-rolex-submariner-16800-matte-dial/xb2d",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-16T23:19:37.978905",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Gmt-Master 1675",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "2448XXX",
+        "Inventory": "/watches/1970-rolex-gmt-master-1675/p0ks",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-16T23:19:38.064820",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Gmt Master 1675",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Gmt master",
+        "Reference": "1675",
+        "Serial": "5136XXX",
+        "Inventory": "/watches/1978-rolex-gmt-master-1675/brfm",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-16T23:19:38.203390",
+                "Price": null
+            }
+        ]
     }
 ]
