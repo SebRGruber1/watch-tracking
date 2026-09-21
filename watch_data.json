@@ -305988,5 +305988,50 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1999 Rolex Explorer 14270 With Papers",
+        "Year": 1999,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "A739XXX",
+        "Inventory": "/watches/1999-rolex-explorer-14270-with-papers/lgyg",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-21T17:41:50.522938",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2004 Rolex Explorer 14270",
+        "Year": 2004,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "14270",
+        "Serial": "F499XXX",
+        "Inventory": "/watches/2004-rolex-explorer-14270/8wr8",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-21T17:41:50.471600",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1977 Rolex Gmt-Master 1675 Mk 5 Dial",
+        "Year": 1977,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "5420XXX",
+        "Inventory": "/watches/1977-rolex-gmt-master-1675-mk-5-dial/2uzp",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-21T17:41:50.401744",
+                "Price": null
+            }
+        ]
     }
 ]
