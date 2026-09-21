@@ -305958,5 +305958,35 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1967 Rolex Gmt-Master 1675 Mk 5 Dial",
+        "Year": 1967,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "1720XXX",
+        "Inventory": "/watches/1967-rolex-gmt-master-1675-mk-5-dial/6nev",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-21T13:55:44.563394",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2026 Rolex Oyster Perpetual 134300 Jubilee-Motif Dial With Box & Papers",
+        "Year": 2026,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "134300",
+        "Serial": "8178EXXX",
+        "Inventory": "/watches/2026-rolex-oyster-perpetual-134300-jubilee-motif-dial-with-box-papers/ic49",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-21T13:55:44.894103",
+                "Price": null
+            }
+        ]
     }
 ]
