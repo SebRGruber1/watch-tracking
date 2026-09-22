@@ -306033,5 +306033,80 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1991 Rolex Daytona 16518 White Arabic Dial With Papers",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16518",
+        "Serial": "N406XXX",
+        "Inventory": "/watches/1991-rolex-daytona-16518-white-arabic-dial-with-papers/ccca",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-21T23:12:54.223494",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2003 Rolex Explorer 114270 With Service Papers",
+        "Year": 2003,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "F096XXX",
+        "Inventory": "/watches/2003-rolex-explorer-114270-with-service-papers/npj0",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-21T23:12:54.323233",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2002 Rolex Explorer Ii 16570 With Papers",
+        "Year": 2002,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "Y782XXX",
+        "Inventory": "/watches/2002-rolex-explorer-ii-16570-with-papers/9dpl",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-21T23:12:54.462500",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1977 Rolex 18K Yg Submariner 1680 Black Nipple Dial",
+        "Year": 1977,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "5258XXX",
+        "Inventory": "/watches/1977-rolex-18k-yg-submariner-1680-black-nipple-dial/zqe7",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-21T23:12:54.363311",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2006 Rolex Explorer 114270 With Service Papers",
+        "Year": 2006,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "D915XXX",
+        "Inventory": "/watches/2006-rolex-explorer-114270-with-service-papers/rynd",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-21T23:12:54.381363",
+                "Price": null
+            }
+        ]
     }
 ]
