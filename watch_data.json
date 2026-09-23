@@ -306153,5 +306153,20 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1987 Rolex Gmt-Master 16750 Glossy Wgs Dial",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "16750",
+        "Serial": "9435XXX",
+        "Inventory": "/watches/1987-rolex-gmt-master-16750-glossy-wgs-dial/zdff",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-22T23:12:56.881849",
+                "Price": null
+            }
+        ]
     }
 ]
