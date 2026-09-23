@@ -306168,5 +306168,20 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1993 Rolex 18K Wg Day-Date 18239 Silver Dial",
+        "Year": 1993,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18239",
+        "Serial": "S491XXX",
+        "Inventory": "/watches/1993-rolex-18k-wg-day-date-18239-silver-dial/5lmi",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-23T12:03:10.839843",
+                "Price": null
+            }
+        ]
     }
 ]
