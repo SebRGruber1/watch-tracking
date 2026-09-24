@@ -306288,5 +306288,35 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "2007 Rolex Green Submariner 16610Lv With Box & Papers",
+        "Year": 2007,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610LV",
+        "Serial": "Z987XXX",
+        "Inventory": "/watches/2007-rolex-green-submariner-16610lv-with-box-papers/m8sl",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-24T17:06:54.108231",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2004 Rolex Explorer 114270",
+        "Year": 2004,
+        "Brand": "Rolex",
+        "Model": "Explorer",
+        "Reference": "114270",
+        "Serial": "F499XXX",
+        "Inventory": "/watches/2004-rolex-explorer-114270/8wr8",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-24T17:06:55.397670",
+                "Price": null
+            }
+        ]
     }
 ]
