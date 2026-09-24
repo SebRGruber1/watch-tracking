@@ -306183,5 +306183,110 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1986 Rolex Daytona 6263 Silver Dial With Box & Papers",
+        "Year": 1986,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "6263",
+        "Serial": "9127XXX",
+        "Inventory": "/watches/1986-rolex-daytona-6263-silver-dial-with-box-papers/f3cz",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-23T23:03:19.862222",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2024 Rolex Gmt-Master Ii 126710Blro With Papers",
+        "Year": 2024,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "126710BLRO",
+        "Serial": "817J9XXX",
+        "Inventory": "/watches/2024-rolex-gmt-master-ii-126710blro-with-papers/xaur",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-23T23:03:19.557156",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "Cartier 18K Yg Santos Dumont 78097 White Dial With Cartier Service Papers",
+        "Year": null,
+        "Brand": "Cartier",
+        "Model": "Santos dumont",
+        "Reference": "78097",
+        "Serial": "780971XXX",
+        "Inventory": "/watches/cartier-18k-yg-santos-dumont-78097-white-dial-with-cartier-service-papers/tilz",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-23T23:03:19.734983",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "Cartier 18K Rg Tank Louis Larger Model With Box & Pamplets",
+        "Year": null,
+        "Brand": "Cartier",
+        "Model": "Tank",
+        "Reference": "3280",
+        "Serial": "775XXX",
+        "Inventory": "/watches/cartier-18k-rg-tank-louis-larger-model-with-box-pamplets/hoar",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-23T23:03:19.831251",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1971 Rolex Submariner 5513 Wgs Spider Dial With Service Papers",
+        "Year": 1971,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "2612XXX",
+        "Inventory": "/watches/1971-rolex-submariner-5513-wgs-spider-dial-with-service-papers/fglr",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-23T23:03:19.745076",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1989 Rolex 18K Yg Day-Date 18238 Blue Dial",
+        "Year": 1989,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "L782XXX",
+        "Inventory": "/watches/1989-rolex-18k-yg-day-date-18238-blue-dial/o4gh",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-23T23:03:19.853709",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex Daytona 6263 Black Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "6263",
+        "Serial": "N/A",
+        "Inventory": "/watches/1978-rolex-daytona-6263-black-dial/uk7z",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-23T23:03:24.272663",
+                "Price": null
+            }
+        ]
     }
 ]
