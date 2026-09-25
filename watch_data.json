@@ -306423,5 +306423,20 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1991 Rolex Gmt-Master 16700",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Gmt master",
+        "Reference": "16700",
+        "Serial": "N236XXX",
+        "Inventory": "/watches/1991-rolex-gmt-master-16700/ctxr",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-25T12:28:29.238485",
+                "Price": null
+            }
+        ]
     }
 ]
