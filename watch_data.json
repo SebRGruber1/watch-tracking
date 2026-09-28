@@ -306438,5 +306438,50 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1987 Rolex Submariner 16800 Wgs Dial",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16800",
+        "Serial": "9637XXX",
+        "Inventory": "/watches/1987-rolex-submariner-16800-wgs-dial/qkq1",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-28T17:03:05.337203",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2000 Rolex Explorer Ii 16570 With Papers & Service Papers",
+        "Year": 2000,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "P435XXX",
+        "Inventory": "/watches/2000-rolex-explorer-ii-16570-with-papers-service-papers/bb6p",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-28T17:03:05.455580",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2019 Rolex 18K Wg Daytona 116509 Blue Dial With Box & Papers",
+        "Year": 2019,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116509",
+        "Serial": "3M1K2XXX",
+        "Inventory": "/watches/2019-rolex-18k-wg-daytona-116509-blue-dial-with-box-papers/7u88",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-28T17:03:05.187742",
+                "Price": null
+            }
+        ]
     }
 ]
