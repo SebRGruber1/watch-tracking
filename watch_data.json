@@ -306483,5 +306483,125 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1965 Rolex 18K Yg Gmt-Master 1675 No Crown Guard With Tropical Dial",
+        "Year": 1965,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "1117XXX",
+        "Inventory": "/watches/1965-rolex-18k-yg-gmt-master-1675-no-crown-guard-with-tropical-dial/nxbd",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-29T00:07:15.897176",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2025 Rolex Oyster Perpetual 126000 Black Dial With Box & Papers",
+        "Year": 2025,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "126000",
+        "Serial": "P4214XXX",
+        "Inventory": "/watches/2025-rolex-oyster-perpetual-126000-black-dial-with-box-papers/vaem",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-29T00:07:15.957027",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex 18K Yg Daytona 16528 Inverted 6 Diamond Dial",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16528",
+        "Serial": "N231XXX",
+        "Inventory": "/watches/1991-rolex-18k-yg-daytona-16528-inverted-6-diamond-dial/um5i",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-29T00:07:15.994876",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1978 Rolex 18K Yg Gmt-Master 1675 Black Nipple Dial",
+        "Year": 1978,
+        "Brand": "Rolex",
+        "Model": "Gmt-master",
+        "Reference": "1675",
+        "Serial": "5635XXX",
+        "Inventory": "/watches/1978-rolex-18k-yg-gmt-master-1675-black-nipple-dial/petk",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-29T00:07:15.940684",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1956 Rolex 18K Yg Oyster Perpetual 6569 Tropical Champagne Dial",
+        "Year": 1956,
+        "Brand": "Rolex",
+        "Model": "Oyster perpetual",
+        "Reference": "6569",
+        "Serial": "N/A",
+        "Inventory": "/watches/1956-rolex-18k-yg-oyster-perpetual-6569-tropical-champagne-dial/jsap",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-29T00:07:15.975371",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1995 Rolex 18K Yg Day-Date 18238 Fossil Diamond Dial",
+        "Year": 1995,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18238",
+        "Serial": "W184XXX",
+        "Inventory": "/watches/1995-rolex-18k-yg-day-date-18238-fossil-diamond-dial/f2zz",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-29T00:07:15.907723",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1997 Rolex Zenith Daytona 16520 White Dial",
+        "Year": 1997,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "16520",
+        "Serial": "U451XXX",
+        "Inventory": "/watches/1997-rolex-zenith-daytona-16520-white-dial/wahl",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-29T00:07:16.055777",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2004 Rolex Explorer Ii 16570 With Papers",
+        "Year": 2004,
+        "Brand": "Rolex",
+        "Model": "Explorer ii",
+        "Reference": "16570",
+        "Serial": "F230XXX",
+        "Inventory": "/watches/2004-rolex-explorer-ii-16570-with-papers/uqe5",
+        "PriceHistory": [
+            {
+                "Date": "2026-09-29T00:07:16.073036",
+                "Price": null
+            }
+        ]
     }
 ]
