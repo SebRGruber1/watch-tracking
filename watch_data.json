@@ -306813,5 +306813,95 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "1987 Rolex 18K Yg Day-Date 18038 Rubellite Diamond Dial",
+        "Year": 1987,
+        "Brand": "Rolex",
+        "Model": "Day-date",
+        "Reference": "18038",
+        "Serial": "R419XXX",
+        "Inventory": "/watches/1987-rolex-18k-yg-day-date-18038-rubellite-diamond-dial/qvkg",
+        "PriceHistory": [
+            {
+                "Date": "2026-10-01T00:02:13.219065",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1973 Rolex Gmt-Master 1675 Mk 2 Dial",
+        "Year": 1973,
+        "Brand": "Rolex",
+        "Model": "Gmt master",
+        "Reference": "1675",
+        "Serial": "3423XXX",
+        "Inventory": "/watches/1973-rolex-gmt-master-1675-mk-2-dial/rnbw",
+        "PriceHistory": [
+            {
+                "Date": "2026-10-01T00:02:12.811344",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "Audemars Piguet 18K Yg Royal Oak 5402Ba Jumbo Grey Dial",
+        "Year": null,
+        "Brand": "Audemars piguet",
+        "Model": "Royal oak",
+        "Reference": "5402BA",
+        "Serial": "XXX",
+        "Inventory": "/watches/audemars-piguet-18k-yg-royal-oak-5402ba-jumbo-grey-dial/uqht",
+        "PriceHistory": [
+            {
+                "Date": "2026-10-01T00:02:13.164248",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "Franck Muller Master Square 6002Lqz Color Dreams Roman Dial",
+        "Year": null,
+        "Brand": "Franck muller",
+        "Model": "Master square",
+        "Reference": "6002LQZ",
+        "Serial": "No.XXX",
+        "Inventory": "/watches/franck-muller-master-square-6002lqz-color-dreams-roman-dial/htob",
+        "PriceHistory": [
+            {
+                "Date": "2026-10-01T00:02:13.104975",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2008 Rolex Daytona 116520 White Dial With Box & Papers",
+        "Year": 2008,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116520",
+        "Serial": "M444XXX",
+        "Inventory": "/watches/2008-rolex-daytona-116520-white-dial-with-box-papers/gz1g",
+        "PriceHistory": [
+            {
+                "Date": "2026-10-01T00:02:13.128144",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1970 Rolex Submariner 1680 Mk 6 Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "2413XXX",
+        "Inventory": "/watches/1970-rolex-submariner-1680-mk-6-dial/9xku",
+        "PriceHistory": [
+            {
+                "Date": "2026-10-01T00:02:13.020876",
+                "Price": null
+            }
+        ]
     }
 ]
