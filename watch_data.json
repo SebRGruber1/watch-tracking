@@ -306903,5 +306903,95 @@
                 "Price": null
             }
         ]
+    },
+    {
+        "Title": "Unpolished 1970 Rolex Submariner 1680 Mk 2 Tropical Dial",
+        "Year": 1970,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "1680",
+        "Serial": "2299XXX",
+        "Inventory": "/watches/unpolished-1970-rolex-submariner-1680-mk-2-tropical-dial/x9lv",
+        "PriceHistory": [
+            {
+                "Date": "2026-10-01T20:30:04.121379",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1977 Rolex Submariner 5513 Serif Dial",
+        "Year": 1977,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "5513",
+        "Serial": "5633XXX",
+        "Inventory": "/watches/1977-rolex-submariner-5513-serif-dial/hndb",
+        "PriceHistory": [
+            {
+                "Date": "2026-10-01T20:30:03.289665",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1991 Rolex Gmt-Master Ii 16710 With Papers",
+        "Year": 1991,
+        "Brand": "Rolex",
+        "Model": "Gmt-master ii",
+        "Reference": "16710",
+        "Serial": "X632XXX",
+        "Inventory": "/watches/1991-rolex-gmt-master-ii-16710-with-papers/5cdh",
+        "PriceHistory": [
+            {
+                "Date": "2026-10-01T20:30:03.440810",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2020 Rolex Daytona 116500Ln Black Dial With Box & Papers",
+        "Year": 2020,
+        "Brand": "Rolex",
+        "Model": "Daytona",
+        "Reference": "116500LN",
+        "Serial": "14756XXX",
+        "Inventory": "/watches/2020-rolex-daytona-116500ln-black-dial-with-box-papers/oa6t",
+        "PriceHistory": [
+            {
+                "Date": "2026-10-01T20:30:03.914078",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "1977 Rolex Air-King 5500 Blue Dial",
+        "Year": 1977,
+        "Brand": "Rolex",
+        "Model": "Air-king",
+        "Reference": "5500",
+        "Serial": "5018XXX",
+        "Inventory": "/watches/1977-rolex-air-king-5500-blue-dial/ob7f",
+        "PriceHistory": [
+            {
+                "Date": "2026-10-01T20:30:03.409248",
+                "Price": null
+            }
+        ]
+    },
+    {
+        "Title": "2004 Rolex Submariner 16610 With Box & Papers",
+        "Year": 2004,
+        "Brand": "Rolex",
+        "Model": "Submariner",
+        "Reference": "16610",
+        "Serial": "F359XXX",
+        "Inventory": "/watches/2004-rolex-submariner-16610-with-box-papers/pax2",
+        "PriceHistory": [
+            {
+                "Date": "2026-10-01T20:30:03.754508",
+                "Price": null
+            }
+        ]
     }
 ]
